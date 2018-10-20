@@ -48,9 +48,9 @@ elif int(sys.argv[3]) ==5:
     
 #reading hardkills/softskills txts and splitting based on new line and spaces
 hardskills = open(r"C:\Users\rober\Desktop\MY FILES\PROJECTS\CGI HACKATHON\hardskills.txt").read()
-hardskills = re.split('[ "\n]',hardskills)
+hardskills = re.split('[ "\n]', hardskills)
 softskills = open(r"C:\Users\rober\Desktop\MY FILES\PROJECTS\CGI HACKATHON\softskills.txt").read()
-softskills = re.split('[ "\n"]',softskills)
+softskills = re.split('[ "\n"]', softskills)
 
 #creating path for opening cvs
 #Path = r"C:\\Users\\rober\\Desktop\\MY FILES\\PROJECTS\\CGI HACKATHON\\cv\\"

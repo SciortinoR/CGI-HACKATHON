@@ -16,4 +16,5 @@ class CV:
         self.techscore = 0
         self.hardscore = 0
         self.totalscore = 0
+        self.scorelist = 0
         
