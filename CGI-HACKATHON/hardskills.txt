@@ -1,0 +1,195 @@
+c++
+python
+java
+javascript
+gui
+object oriented
+object-oriented
+framework
+sdk
+angularjs
+tcp
+udp
+ip
+matlab
+css
+agile
+scrum
+uml
+xml
+bootstrap
+sql
+c
+php
+ipv4
+ipv6
+golang
+erlang
+.net
+vlan
+vba
+ruby
+programming
+action script
+agilent vee
+basic
+bash
+batch
+cuda
+html
+opengl
+octave
+objective c
+perl
+python
+r
+rust
+swfit
+untiy
+visual basic
+php
+=
+microsoft office
+microsoft words
+microsoft powerpoint
+microsoft excel
+pspice
+autocad
+cad
+eclipse
+visual studio
+powershell
+windows
+linux 
+macos
+vim
+command line
+aws
+amazon web services
+git
+github 
+microsoft
+oracle
+ibm
+sap
+hp
+cygwin
+mingw
+outlook
+java sdk
+latex
+wireshark
+putty
+firefox
+chrome
+web api
+bitbucket
+sourcetree
+bitlocker
+hidisql
+virtual box
+surface mounting
+photoshop
+atom
+sublime test
+arm
+nvidia
+amd
+intel
+x86
+x64
+mc68000
+bit 
+byte
+orcale java jre
+spss
+matlab
+netbeans
+lims
+laboratory information management system
+enterprice resource planning
+laboratory execution system
+=
+artificial intelligence 
+ai
+data science 
+big data
+data processing
+sdk development
+assembly
+kernel development 
+os development 
+debugging
+data analysis
+software development 
+data entry
+test driven devlopment 
+team foundational server
+automation 
+repository developement 
+software life cycle
+risk management 
+requirements management
+change management
+continuous integration
+json files
+multithreading 
+functional test
+integration tests
+java collection framework
+hashtables
+securtiy
+functional programming
+agile
+scrum
+compliance
+documentation
+performance
+investigation
+mining
+os
+assembly
+data quality
+android
+datasets
+repairs
+quality assurance
+solidworks
+industry experience
+consulting
+circuits
+machine learning 
+real time
+cost reducation
+user experience
+sql server
+information system
+business intelligence
+vm ware
+test cases
+internal controls
+program management intranet
+technical skills
+virtual machines
+planning
+customer requirements 
+internship
+business process
+it infrastructure
+cost reduction
+cross platform
+full stack
+front end
+back end
+stack
+projects
+strategic direction
+benchmark
+budget
+relationships
+leadership development 
+information systems 
+documentation
+scripting
+strategic initaitives
+lan 

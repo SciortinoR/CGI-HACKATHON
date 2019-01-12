@@ -7,6 +7,7 @@ import os
 import re
 from applicant import CV
 import operator
+#import codecs
 import sys
 
 #Determining weights for each category of skills
@@ -82,7 +83,7 @@ for i in filelist:
 
 #looping through each CV Object and comparing words from cv with words from keyword lists
 for k, value in Dict.items():
-    with open(Path + value.address, encoding=("utf-8")) as f:
+    with open(Path + value.address, encoding = "utf-8") as f:
         for line in f:
             line = line.lower()
             myvar = re.split('[\' ;:.,*()_]',line)
