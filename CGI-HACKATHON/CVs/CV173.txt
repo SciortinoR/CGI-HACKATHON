@@ -1,0 +1,212 @@
+CURRICULUM VITÆ
+Gestionnaire de projets - Applications
+PROFIL DE CARRIÈRE
+Bilingue, il cumule plus de 20 ans d'expérience en gestion de projets applicatifs ayant un impact direct sur les processus d'affaires et des opérations d'organisations.
+Au cours des dernières années, il a travaillé pour d'importantes entreprises telles que le Groupe Pages Jaunes, la Société des Alcools du Québec (SAQ), Hydro Solution ainsi que TD Assurances. Au sein de ces équipes, il a été appelé à définir la portée des projets, établir les objectifs et critères d'acceptation, à maintenir les plans de travail, à assurer la reddition des comptes, à assurer une conformité aux standards et meilleures pratiques de gestion de projets ainsi qu'à intégrer les parties prenantes.
+Habile communicateur, il est reconnu pour son leadership, son sens de l'écoute et sa capacité à rassembler les gens vers un objectif commun.
+
+
+
+COMPÉTENCES
+Méthodologies :
+Macroscope, Merise, Microsoft SDD, RUP, PDD, iEDM
+Gestion de projet :
+MSProject, EPM 2003 & 2007, PMI, MindManager
+Gestion TI :
+ITIL, CoBit, ISO 17799
+FORMATION
+2001
+Certification Project Management Professional (PMP)
+PMI
+1975
+Diplôme d'Études Collégiales en Informatique
+Collège Lionel-Groulx
+PERFECTIONNEMENT
+2017
+Management 3.0 Jurgen Appelo
+2009
+Participation régulière aux formations en ligne du PMI et ISSIG
+2008
+Iterative and Agile Project Management, UMT, Formation en ligne
+2006
+The Standard for Program management, PMI, autodidacte
+2005
+CoBit, autodidacte
+2005
+Practice Standard for Earned Value Management, autodidacte
+2005
+BI : Démarche de la définition de l'information, ConceptPro
+2005
+Méthodologie RUP, autodidacte
+2003
+Kaisen, Bell Nordic
+2003
+Risk management, CDI Corporate Education
+AUTRES
+Depuis 2012
+Mentorat auprès du PMI Montréal pour finissants & professionnels en gestion de projet
+1990-1998
+Membre du conseil d'administration Régime de retraite des cols bleus de Laval
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+                          EXPÉRIENCE PROFESSIONNELLE
+Ivanhoé-Cambrige
+Gestionnaire de projet
+Janvier à février 2018
+Le gestionnaire de projet est responsable de veiller à la planification, l'organisation et le contrôle des déploiements dans le cadre du Programme Data Management tout en coordonnant les activités de livraison avec les équipes et les projets clients. Il s'assure de la qualité exigée et de l'échéance accordé à la réalisation de chacune des activités.
+Le programme a été annulé ce qui a mis fin au contrat.
+Projet HydroSolution
+Chef de projet
+Novembre 2016 à janvier 2018
+En tant que chef de projets gérer l'intégration d'une solution d'entreprise (ERP) et des nouveaux processus d'affaires. Projet de 2 900 j-p., 1.6M$.
+Responsabilités :
+Gérer 12 ressources assurer les liaisons avec le client ainsi que le PO au projet;
+Assurer le respect de l'échéancier de la livraison dans un contexte d'un projet forfaitaire, tout en respectant l'atteinte des critères très élevés de qualité;
+Assurer une communication et relation avec les autres partenaires d'affaires de l'entreprise (Eigen, Xe lys, Progiclix, etc.);
+Dans le cadre du projet, en collaboration avec l'équipe BI, préparer la mise en place d'un environnement BI qui permettra à l'entreprise de tirer pleinement de l'analyse de ses données. Environnement Microsoft SSRS et Power BI;
+Environnement d'intégration continue, livraison continue.
+Environnement :	MS Project, Office, JIRA, Confluence, Trello, Windows Server 2016, .Net, GIT, MS-SQL 2016, ASP Net Core, HTML5, Angular, PrimeNg. KeyCloak, Visual Studio 2017, Octopus. Eigen Payment, MS Dynamics, SSRS, Power BI, approche agile/scrum.Projet ASEQ
+Chef de projet
+Février à novembre 2016
+En tant que chef de projet, gérer la mise en place d'un processus d'affaire (BPMS) ainsi qu'un d'un portal applicatif.
+Responsabilités :
+Coordonner 6 ressources de développement et assurer les liaisons avec le client ainsi que le PO au projet;
+Assurer la coordination et les relations avec le fournisseur externe de la solution responsable de la mise en place du processus d'affaire (Bizagi);
+Assurer le respect de l'échéancier de la livraison dans un contexte d'un projet forfaitaire, tout en respectant l'atteinte des critères élevés de qualité;
+Assurer le suivi budgétaire du forfait de base afin d'en assurer la rentabilité;
+Faire le suivi et la planification des demandes de changements.
+Environnement :	MS Project, Office, JIRA, Confluence, Trello, Windows, .Net, GIT, Bizagi, MS-SQL, approche agile/scrum
+Projet | Lanla
+Chef de projet
+Avril à septembre 2016
+Dans un contexte de produit novateur pour une entreprise de gestion de l'expérience client, coordonner le développement, à partir de questionnaire de satisfaction, la présentation de résultat conseil à leur clientèle.
+Responsabilités :
+Assurer l'atteinte des objectifs d'affaires du client;
+Gérer les équipes de réception des questionnaires;
+Veiller à l'application des règles d'affaires à l'émission des conseils et actions;
+Assurer le respect de l'échéancier de la livraison dans un contexte d'un projet de recherche et développement, tout en respectant l'atteinte des critères élevés de qualité;
+Assurer le suivi budgétaire afin d'en assurer la rentabilité;
+Faire le suivi et la planification des demandes de changements.
+Environnement :	MS Project, Office, JIRA, Confluence, Windows, Progress, Java, GIT, DROOLS, Kendo UI, Eclipse, Spring JPA, Hipernate, TomCat, XCode, Android Studio, approche agile/scrum.
+Projet | La Mutuelle des municipalités du Québec
+Chef de projet 
+Avril à mai 2016
+Récupération des codes sources et rétablir la viabilité afin d'assurer la pérennité de la solution. Coordonner les analyses et évaluer les alternatives.
+Responsabilités :
+Coordonner le travail de multiples intervenants ad hoc;
+Produire un constat sur les forces et faiblesses de la solution;
+Produire une architecture actuel et cible;
+Évaluation des coûts et stratégie d'évolution.
+Environnement :	MS Project, Office, JIRA, Confluence, Windows, MS-SQL, .Net
+Ministère de la Justice
+Chef de projet
+Janvier 2015 à mars 2016
+Pour la Direction des registres et de la certification, au ministère de la justice du Québec, agir en tant que chef de projet pour la réalisation du Registre de Ventes, dans un contexte de budget forfaitaire. Développement d''un volet gestion pour les huissiers et de consultation grand public.
+Responsabilités :
+Assurer la gestion directe de 8 ressources et assurer les liaisons avec les différents collaborateurs interne au ministère;
+Projet de plus 1.2M avec haute visibilité auprès des huissiers et les acheteurs potentiels des biens et de la population;
+Assurer le respect de l'échéancier très compressé de la livraison de 22 cas d'utilisation, tout en respectant l'atteinte des critères d'acceptation d'affaires très élevés de qualité de présentation ainsi que des règles de validations réglementaires;
+Assurer que les règles d'affaires et d'accessibilité selon les normes du Conseil du Trésor soient respectées;
+Assurer le suivi budgétaire du forfait de base afin d'en assurer la rentabilité;
+Faire le suivi et la planification des demandes de changements.
+Environnement :	Office, JIRA, Windows, Oracle, dot.net, TFS, Durandal, BootStrap, JQuery, JQGrid, HTML, JavaScript
+Groupe Pages Jaunes
+Chef de projet
+Janvier à décembre 2014
+Pour la direction Système et intégration des processus, dans un contexte bilingue, intervenir dans de multiples projets d'intégration.
+Responsabilités :
+Agir en tant que chef de projet pour la mise en place de solution d'intégration
+Planifier, coordonner et réaliser avec les projets maîtres les différentes activités;
+Mettre en place un SDLC et PMLC propre au secteur et le faire connaître à l'organisation;
+Développer et mettre en place des solutions de gestion : gestion de la capacité, KPI, suivi à la haute direction;
+Organiser, planifier et gérer l'ensemble des initiatives d'intégration tant de nature projets que d'évolution. Structure matricielle de plus de 15 ressources;
+Effectuer les redditions de compte aux différentes autorités requises;
+Effectuer, tout au long du projet, le suivi budgétaire, la gestion des risques et le suivi des activités en concordance avec le plan.
+Environnement :	MS-Project, Office, Suite Tibco, BOX, JIRA, Windows, Oracle, JAVA
+TD Assurance
+Chef de projet (Contractuel)
+Août 2012 à août 2013
+Pour le service BI de TD assurance, dans un contexte bilingue, agir en tant que chef de projet pour la production d'un ensemble de rapports. Projet d'environ 5.0M$.
+Responsabilités :
+Coordonner le travail, sous une approche matricielle selon une approche hybride, l'implication d'une trentaine de ressources de plusieurs secteurs d'affaires et chef de projets;
+Analyser et établir les bases de travail avec le groupe de service partagé de TD;
+Effectuer une première livraison comme preuve de concept;
+Effectuer parallèlement la phase d'Initialisation qui consiste à :
+Élaborer les besoins d'affaires (migration de 75 rapports et intégrer les besoins du plan d'affaire TDI);
+Élaborer les plans d'architectures pour la couche de présentation (Cognons) en fonction des besoins d'affaires
+Coordonner les besoins et activités avec les secteurs d'affaires;
+Procéder aux étapes d'évaluations et de planifications afin de produire le `roadmap', itérations et livraisons;
+Effectuer les redditions de compte aux différentes autorités requises;
+Effectuer, tout au long du projet, le suivi budgétaire, la gestion des risques et le suivi des activités en concordance avec le plan.
+Environnement :	MS-Project, EPM, SDLC iEDM, Office, SharePoint, Cognos 10.2, SAS, OWB, Oracle
+Desjardins
+Chef de projet (Contractuel)
+Mai 2011 à juin 2012
+Pour une période de 2 mois, pour la Direction Solutions de financement, Technologies Services aux particuliers j'ai effectué diverses tâches de support : planification, remplacement, normes. En particulier, l'évaluation et la planification d'une nouvelle phase du projet AFH Représentant (1,700 j-p.).
+De juillet 2011 à juin 2012, dans le cadre du Programme Virtuel Mouvement (PVM), j'ai dirigé 2 projets transversaux étant au cœur de la nouvelle approche virtuelle de Desjardins :
+Détention 360 : représenter la détention complète d'un membre pour l'ensemble des composantes d'affaires (500 j-p.);
+Coordonnées : par une saisie simplifiée des coordonnées (adresse, téléphone, courriel), permettre le transfert des informations vers l'ensemble des composantes d'affaires. Effectué dans une approche itérative pour l'arrimé au projet précédent. (1,300 j-p.).
+Ces deux projets ont été réalisés selon une structure de réalisation directe et matricielle, impliquant plusieurs secteurs technologiques et filiales (+60 ressources). Plusieurs approches agiles ont été utilisées tout au long du projet.
+Également, assumer la planification globale de la phase d'intégration et de déploiement des projets du programme pour la zone transactionnelle avec la participation des autres chefs de projets.
+Environnement :	MS Project, Jira, Office, Notes, SharePoint, WebLogics, Java, UDF
+Vidéotron
+Chef de projet (Contractuel)
+Août 2009 à avril 2011
+Vidéotron possède de nombreux systèmes patrimoniaux ainsi que multiples liens avec des partenaires externes. Afin de gérer les échanges entre les différentes applications, l'entreprise utilise une architecture IAE, avec le produit WebMethods. Dans ce cadre et dans un contexte matricielle (5 à 10 secteurs), agir en tant que chef de projet (énoncé, MOP, planification, risque, suivi, etc.) pour la gestion de multiples projets d'intégrations en parallèles, dont :
+Gérer un projet d'optimisation des règles d'affaires au niveau des appels de services impliquant l'environnement Remedy - appels de services et SGA - commandes clients (250 j-p.);
+Gérer l'intégration d'un WMS avec un fournisseur externe avec l'ERP SAP en mode B2B (100 j-p.);
+Gérer l'intégration d'un << Field management system >> avec un fournisseur externe par l'utilisation de services web et BPM. Cette intégration impliquait plus de 6 applications majeures et le déploiement de nouvelles infrastructures (1,200 j-p.);
+Gérer la mise à niveau de l'approvisionnement des terminaux TV par la refonte des services web (500 j-p.);
+Gérer la mise en place de nouveaux services web afin d'établir la mesure de la consommation Internet à partir de plusieurs systèmes (250 j-p.);
+Gérer le changement aux processus d'approvisionnement des commutateurs téléphoniques afin de décomissionner des équipements désuets et d'optimiser leurs utilisations (450 j-p.);
+Gérer la mise à niveau de l'environnement WebMethods à la version 8.0 en planifiant une stratégie pour ne pas créer aucun arrêt pour la production et les projets. Environnement de plus de 60 serveurs et 300 composantes (400 j-p.);
+Initiation du projet Centre d'expertise SOA, par une planification en 4 étapes : initiation, développer un << roadmap >>, exécution et revue-mise à jour de la stratégie (450 j-p.);
+Support administratif à divers projet (Suivi des DDC, évaluation & planification initiale de projets).
+Environnement :	MS-Project, MacroScope, SAP, Office, Notes, SharePoint, WebMethods
+AUTRES RÉALISATIONS
+SAQ
+Chef de projet (contractuel)
+2007-2009
+Industrielle-Alliance (Ville de Québec)
+Directeur adjoint (contractuel)
+2007
+Banque Nationale du Canada
+Directeur de projet (contractuel)
+2007
+Banque Laurentienne
+Directeur de projet (contractuel)
+2006
+Fiducie Desjardins
+Directeur de projet (contractuel)
+2004-2006
+Belron canada (Lebeau  -  Duro  -  SAG)
+Directeur TI
+2001-2004
+Hexatek
+Directeur solutions logiciels (mandat)
+1999-2000
+Concept S2i
+Directeur développement et pratiques (mandat)
+1998-1999
+Icotech/Cognicase
+Directeur de projets
+1998
+ABL Technologies
+Président - Vente de l'entreprise) 
+Directeur de projet
+1993-1998
+Conseiller indépendant
+Directeur de projets
+1992-1993
+Laurentienne Générale
+Directeur bureautique
+1988-1992
+Industrielle-Alliance/Standard Life
+Conseiller en systèmes d'information 
+1985-1988
+Cogéna (1980) Inc.
+Analyste et Chef de projets
+1980-1985
+Banque Nationale du Canada
+Analyste
+1975-1980

@@ -1,0 +1,155 @@
+CURRICULUM VITÆ
+Prénom73 Nom73
+Développeur Java
+
+COMPÉTENCES
+Langages de programmation :
+Java J2EE, Angular 2, KSH, UML, JSP, PL/SQL, Transact-SQL, Javascript, jQuery, Velocity, JSTL, XSD, XSLT, GWT
+Technologies:
+Spring Framework: Batch/MVC/Security/Spring-Data, Struts, Hibernate, myBatis, Ant, Maven, Tomcat, Weblogic, Websphere 8.5, AJAX, Bootstrap, oLingo, Jboss 6.3
+Plates-formes :
+Windows, UNIX, AIX, Solaris, Linux
+Outils :
+Eclipse, RAD 9.1, SVN, GIT, Mantis, JIRA, Autosys, SOAPUI, HP Quality Center, RTC, SourceTree
+Bases de données :
+Oracle, DB2, MS SQL serveur, Mysql, Postgresql
+Web services :
+XML-RPC, SOAP, REST, oData
+Méthodologies :
+Agile Scrum
+FORMATION
+2005
+Université73-1
+Diplôme d'études collégiales  -  Technique en informatique
+
+
+PERFECTIONNEMENT
+2 jours
+Formation Angular Academy 
+http://www.angularacademy.ca/
+
+Code School :
+Accelerating Through Angular 2
+Real Time Web with Node.js
+Javascript Road Trip Part 1-2-3
+ES2015 : The Shape of JavaScript Come
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+                          EXPÉRIENCE PROFESSIONNELLE
+Entreprise73-1
+	11/2015 au 02/2017
+Analyste développeur Java
+Novembre 2015 à février 2017
+Projet : 
+Refonte Contrat Général (Facturation de Services)
+Refonte Prett (Temps supplémentaire, garde-rappel des techniciens)
+Projets Java, refonte et amélioration d'applications VB. De plus, une connexion vers SAP pour la complémentation.
+Travaux réalisés :
+refonte d'application à partir de zéro;
+intégrer le framework Apache oLingo pour communiquer avec SAP;
+création d'un client REST pour communiquer avec WebMethod;
+contact direct avec le client pour récolter les besoins;
+prises de décision architecturale.
+Environnement :	JDK 7, Spring, Spring-Data, Oracle, Maven, REST, GIT, Jboss 6.3, SourceTree, MyEclipse, jQuery, Bootstrap, Hibernate, JPA
+Entreprise73-2
+Analyste développeur Java
+Juillet à octobre 2015
+Projet Java, Gestion de paiement, servant à la journalisation des transactions pour le paiement des factures au guichet automatique.
+Travaux réalisés :
+monter une application serveur Webservice SOAP à partir de zéro;
+génération des WSDLs;
+couche de persistance avec myBatis;
+revu de la documentation de l'analyse fonctionnelle.
+Environnement :	JEE 6, jdk 6, Spring, Websphere 8.5, myBatis, Oracle, Maven, Serveur AIX, RAD 9.1, SOAP (SOAPUI)
+ENTREPRISE73-5
+Analyste développeur Java
+Avril 2014 à mai 2015
+Migration et refonte d'une application intranet en Java << Web based >> pour le département légal, << Legal Results Managment >>. Cette application permet de faire la gestion des cas légaux incluant la prise de décisions pourtant sur les sanctions données aux fautifs aux règles du dopages (Athlète, entraîneur et organisation) et autres suivis.
+Travaux réalisés :
+récolter les besoins du client;
+monter une application web (Choix de Frameworks) à partir de zéro;
+mise en place d'un ETL pour alimenter l'application;
+connecter un Webservice SOAP;
+présenter des démonstrations de l'avancement au client hebdomadaire;
+modélisation de la nouvelle base de données.
+Environnement :	JEE, Spring (MVC), Tomcat, JSP, JSTL, javascript, jQuery, Ajax, MS SQL server (Studio), Maven, Serveur Windows, Eclipse, SOAP (SOAPUI), Bootstrap
+Entreprise73-6
+Analyste développeur Java
+Juin 2013 à avril 2014
+Projet Java EE sur des applications Orientée Objet qui a pour but de provisionner les configurations d'équipements réseaux. Applications << Frontend >> et << Backend >> impliquant: Service à la clientèle,  technicien sur le terrain, l'équipe << Network >> et support niveau 1-2 (outils).
+Travaux réalisés :
+analyser les besoins établis;
+analyser les systèmes impactés;
+développer des nouveaux webservices (XML-RPC, SOAP);
+ajout de validations dans le << Frontend >> et << Backend >>;
+modélisation des changements base de données;
+exécuter les tests d'intégration;
+support aux tests utilisateurs (UAT).
+Environnement :	JEE, Struts, Tomcat, JSP, javascript, BD Oracle, MS SQL server (Studio), Maven, Serveur Solaris, Eclipse, HP Quality Center, SOAP, XML-RPC, GWT
+ENTREPRISE73-7
+Développeur Java
+Avril à juin 2013
+Projet Java EE sur application Orientée Objet. << Profyl >> Une application Web, permettant de soutenir les activités de gestion de crédit et de recouvrement.
+Travaux réalisés :
+développer les composantes Java selon les spécifications;
+communiquer et analyser les problèmes avec les analystes/clients;
+correction d'anomalies;
+maveniser le projet Java.
+Environnement :	JEE, javascript, jQuery, BD Oracle, EJB, Weblogic, JMS, Maven, Serveur Sun, Provenir (progiciel), Eclipse, Mantis
+ENTREPRISE73-8
+Développeur Java
+Juin 2011 à février 2013
+Projet Java EE sur application Orientée Objet. Pour la section  du site web: << Assistance >>. Le projet était constitué de deux applications le << Back Office >> avait pour but de faire la gestion du contenu du << Front Office >>. 
+Travaux réalisés :
+développer les composantes Java selon les spécifications;
+communiquer et analyser les problèmes avec les analystes;
+participation à la conception architecturale;
+correction d'anomalies.
+Environnement :	J2EE, Struts, Hibernate, Tomcat, Eclipse, SVN, Oracle, UNIX, Maven, Spring, Spring Batch,  jQuery, Ajax, SOAP, REST
+	Entreprise73-9
+Développeur Java
+Septembre 2009 à juin 2011
+Projet Java EE sur application Orientée Objet. MUST: << Monitoring Unusual Suspicious Transaction >>. Dans le cadre d'un projet de compliance visant la mise en place de divers contrôles permettant de superviser les activités de trading de la SGCIB à travers le monde. Le but de ces contrôles est de s'assurer que les traders respectent les règles éthiques et réglementaires des autorités de marché.
+Travaux réalisés :
+développer les composantes Java selon les spécifications;
+communiquer et analyser les problèmes avec les analystes;
+participation à la conception architecturale;
+correction d'anomalies.
+Environnement :	Java, Eclipse, SVN, Oracle, UNIX, XSD, Maven, Autosys
+ENTREPRISE73-10
+Développeur Java
+Avril à juin 2009
+Projet J2EE, Struts et tomcat. Application Orientée Objet qui a pour but la gestion des homologations des établissements français à l'étranger. Permettant le suivi du processus par tous les acteurs nécessaires à la validation d'un établissement.
+Travaux réalisés :
+développer les composantes Java selon les spécifications;
+implémentation d'un batch pour l'intégration de fichiers XML dans la base de données;
+correction d'anomalies;
+supporter la production et procéder à des investigations selon les demandes du client;
+construire les packages pour effectuer les mises en production.
+Environnement :	J2EE, hibernate, Struts, Tomcat, Eclipse, SVN, MySQL, Ant, Linux
+ENTREPRISE73-2
+ENTREPRISE73-3	Développeur Java
+	Juillet 2006 à mars 2008
+Calcul du capital règlementaire en vue du respect de l'Accord de Bale II.
+Travaux réalisés :
+développer les composantes Java selon les spécifications;
+trouver des solutions pour implanter les demandes de changements;
+construire les packages pour effectuer les mises en production;
+supporter la production et procéder à des investigations selon les demandes du client;
+communiquer et analyser les problèmes avec les analystes;
+développer les composantes de tests en JUnit;
+écrire les ksh pour assurer l'exécution;
+supporter le client dans l'analyse statistique des résultats;
+effectuer le support de première ligne pour le progiciel de calcul financier Algo de la firme Algorithmics;
+appliquer le processus de migration des TU (Tests Unitaires) vers les TI (Tests Intégrés) puis vers les TA (Tests d'Acceptations) jusqu'à la mise en production;
+assurer le suivi de la communication avec le client et les gestionnaires du projet.
+Environnement :	Java J2EE, Spring Framework, hibernate, Eclipse, DB2, ClearCase, KSH, AIX, Ant
+Entreprise73-4 - Courtier en transport
+Développeur Java
+Décembre 20001 à octobre 2003
+Au sein d'une équipe chargée de l'intranet corporative conçu en langage JSP.
+Compagnie de courtage dans le milieu de la logistique de transport.
+Travaux réalisés :
+création de modules et de rapports. (JSP, Java, Transact-SQL);
+participation active à la création d'une fusion de bases de données entre trois logiciels avec SQL serveur et Transact-SQL.
+Environnement :	Java, JSP, MS SQL serveur, Access, vba

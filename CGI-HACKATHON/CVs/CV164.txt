@@ -1,0 +1,320 @@
+Analyste QC
+2480, rue Benny Crescent, Apt. 407
+Montréal (Qc), H4B 2R1
+Canada
+Langues: français, anglais, espagnol
+
+Portable: (514)803-4404
+
+Expérience professionnelle
+
+Notarius Service Conseil, Montréal
+Fév. 2014 – Date
+Poste
+Analyste fonctionnel / Assurance de la qualité
+Mandat : Promouvoir la qualité à l'échelle de l'organisation et assurer que les logiciels de signature
+numérique de Notarius respectent les standards et normes de qualité ISO 9001, ISO 27001.
+Tâches et responsabilités :
+ Valider l’implémentation de l’infrastructure à clé publique (ICP) respecte les conditions
+indispensables à la production et gestion de Signatures Numériques de Notarius Inc.
+ Analyser les demandes de changement du Système de Signature Numérique et modification à
+l'architecture du produit afin d'identifier les stratégies de test qui sera mise en place tout au long
+de la phase de test.
+ Préparation de la plateforme de tests.
+ Créer et/ou maintenir à jour les scénarios d'essais en fonction des requis d’affaire et demandes de
+changements.
+ Effectuer les tests fonctionnels et de régression ; identifier les imperfections des produits logiciels
+développés, en assurer le suivi.
+ Documenter et assurer le cheminement des problèmes et les défauts logiciels dans le système de
+gestion de défaut.
+ Travailler étroitement avec l'analyste d'affaire et l'équipe de développement pendant les phases de
+conception et d'exécution des tests.
+ Maintenir et développer toutes les documentations Control de Qualité tels que les plans de tests,
+des scripts de test, rapports d'état de tests et de mesures applicables.
+Outils de tests: SoapUI, SQL Server 2008 R2,MySQL,Excel,Word,Podio,Wiki,MS Sugar CRM
+v.6.1, Windows XP, 7, 8.
+Group Conseil PRI Inc., Montréal
+Déc. 2012 – Déc.2013
+Poste
+Analyste d’Assurance de la qualité
+Client
+UAP Napa Auto Part Canada
+Mandat : Effectuer des activités de validation et vérification aux livrables du projet de ‘Centralisation
+de gestion de données des clients dans MS Dynamic CRM 2011’ ainsi que de l'application des normes
+et standards de qualité établis.
+Tâches et responsabilités :
+
+
+
+
+
+
+Définir les cas de test à effectuer à partir des documents de spécifications de demandes de
+changement et requis d’affaire.
+Préparer les données et effectuer les tests afin qu'ils rencontrent le niveau d’acceptation de
+livraison et les échéanciers établis.
+Exécuter les scénarios de tests sur les composantes s’appliquant sur des volumes de données
+importants.
+Effectuer l’analyse et déboguer les scripts afin de déterminer la cause fondamentale des
+défectuosités.
+Identifier, et enregistrer de défauts de l’application dans HP Quality Center. Faire le suivi des
+actions correctives.
+
+Curriculum vitae
+
+1/5
+
+
+
+
+
+
+
+
+Détecter les problèmes du chargement (initial et quotidien) et conversion de données, les
+consigner par écrit, les assigner un ordre de priorité et travailler en collaboration avec les TI, les
+analystes d’affaires et l’équipe de développement afin d’aider à concevoir des solutions.
+Configurer l’environnement de test de façon à mener de tests de déploiement, de performance
+et correction de défauts de production.
+Définir et exécuter de test de charge, test de concurrent, du site web CRM, en utilisant Visual
+Studio 2010 Ultimate.
+Préparer, documenter et exécuter de tests de préproduction, du chargement et de performance
+de données.
+Préparer et exécuter des tests d’intégration en collaboration avec les utilisateurs.
+Participer à réunion d'équipe sur une base hebdomadaire pour discuter des progrès et des
+défauts du projet.
+
+Outils de tests: SQL Server 2008 R2 Express, HP Quality Center, VS SourceSafe, MS Dynamic
+CRM 2011, Word, Excel, Visual Studio 2010 Ultimate.
+Ceritar Technologies, Boucherville
+Juil. 2012 – Nov. 2012
+Poste
+Spécialiste en Control de qualité
+Mandat : Travailler étroitement avec l'équipe de développement et analystes d’affaire afin de repérer
+et de résoudre les défectuosités du logiciel de transport et de logistique.
+Tâches et responsabilités :
+ Participer à la revue générale du logiciel de transport afin de répondre aux exigences d’affaire de
+ses clients.
+ Rédaction de plans de test (établir les stratégies, procédures de tests).
+ Rédaction des scénarios de tests qui font suite aux requêtes informatiques;
+ Exécuter des tests et coordonner leurs corrections avec les développeurs, et les analystes.
+ Tester le produit en appliquant des méthodes de test unitaire, fonctionnel, et d’acceptation.
+ Identifier les défauts et fournir des rapports et de recommandations à la direction en matière
+d’amélioration de l’efficacité du logiciel.
+ Accomplit au besoin toutes autres tâches connexes.
+Outils de test: SQL Server 2005, VS Source Safe, VB.net, Word, Excel PowerPoint, UML, Visio
+2008, Windows 7.
+Groupe OnePoint, Montréal
+Déc. 2010 – Avril 2011
+Poste
+Conseiller au développement
+Client
+Caisse Desjardins (CCDEPQ)
+Mandat : Agir à titre de Consultant et de personne ressource auprès des collaborateurs et
+intervenant du projet de maintenance système de paiement VisaNet /MasterCard.
+Tâches et responsabilités :
+ Comprendre les exigences fonctionnelles du projet, et les normes agréés de carte de crédit afin de
+mettre à jour les documents tel que : (DSL, DAS, plan d'essais, cas d'essais).
+ Assurer le passage aux nouvelles versions selon méthodologie DSCL (analyser, codifier, tester,
+documenter et mise à production).
+ Configurer l’environnement de test pour l’application de paiement VisaNet et MasterCard (TPV,
+pathcom et simulators: SPDH, VTS/3, MasterInq).
+ Préparer les données d'essai tel que jeux de cartes acquéreur/émetteur, débit/crédit, à piste/ à
+puce, Visa, MasterCard, Plus/Cirrus, Interac, sans Contact, Air Miles, Carte d’achat prépayes,
+etc.
+ Exécuter des tests manuels et automatisés tel que : fonctionnel, de système, régression et de
+fumée. Documenter les résultats
+
+Curriculum vitae
+
+2/5
+
+ Préparer et exécuter la soumission des sources modifiées sur l’environnement Tandem HPNS en
+utilisant les outils de RMS (Revision Managment System) et PrimeCode.
+ Mise à jour des procédures de déploiement et retour en arrière. Vérifier que tous les composants
+ont été promus avec succès à l'environnement de production.
+Outils B24: Tandem B24, Pathway, Pathcom, TAL, Enform, DDL, Peruse, FUP, Scup, Tedit, Prime
+Code, RMS
+Outils de test : VTS/3, SPDH, MasterInq, Filsim, Bugzilla.
+Transforce, Montréal
+Aout 2010 – Sep 2010
+Poste
+Analyste développeur
+Mandat : Effectuer des modifications au système TFI (Transforce Online), à partir de requêtes
+des utilisateurs.
+Tâches et responsabilités :
+ Analyser, coder, modifier les sources selon les exigences de l `utilisateur
+ Écrire la finition de la couverture de test (description de cas, étapes de test), afin d'assurer que la
+livraison correspond aux exigences des utilisateurs.
+ Mettre en production les modifications de programmation
+Exploitation System: Unix,
+Office Software: Word, Excel, Visio 2008, UML (Use et Test Cases)
+Groupe Nexio Inc, Montréal
+Juillet 2007 – Mai 2010
+Poste :
+Spécialiste en contrôle de la qualité
+Nov. 2009 – Mai 2010
+Mandat : Définir la couverture de test et à isoler les causes des défectuosités de logiciel maison
+« Nucleus » pour le projet Hydro Québec ISO 14001, dans le cadre de processus de développement
+agile.
+Tâches et responsabilités :
+ Traduire les exigences en spécifications fonctionnelles (Use Case/Use Story) afin d’assurer la
+couverture de développement et définir les critères de validation de tests (Test Case). Utilisation
+d’UML.
+ Exécution de scénarios d'essai (fonctionnels et de régression) afin de valider la qualité de logiciel,
+en utilisant la méthodologie Agile.
+ Identifier, et enregistrer de défauts du logiciel dans Jira, Agile/scrum. Faire le suivi des actions
+correctives.
+Poste
+Analyste fonctionnelle développeur
+Juillet. 07 – Oct. 2009
+Client
+Riverside County Sheriff’s Department, California, Etas Units
+Mandat: Analyse, développement et entretien du système Computer Aide Dispatcher d`incident
+(CAD), et Mobile Data Computer(MDC) environnement Tandem HP Nonstop, approche
+client/serveur.
+Tâches et responsabilités :
+
+
+
+
+
+
+
+
+Implication dans la planification initiale du projet pour comprendre comment les nouvelles requis
+devraient s’implémenter.
+Assurer le passage aux nouvelles versions de bout en bout (analyser, concevoir, coder, tester et
+déployer), découpés selon les règles du modèle Cascade.
+Effectuer des tests unitaires suivis des corrections.
+Effectuer le support post-implantation suite au déploiement d’un changement aux applications.
+Rédiger la documentation du projet telle que spécification fonctionnels, conception technique,
+diagrammes de processus, etc.). Utilisation d’UML diagrammes (use case, objet, activités,
+séquence, déploiement.
+Participer au projet historique d’Incidents. Création de Data Warehouse avec les différentes tables
+de l’application.
+
+Curriculum vitae
+
+3/5
+
+
+
+Écrire le rapport annuel de « Recherche et Développement » en signalant les lacunes et risques de
+l`application, et en donnant les contrôles opérationnels destinés à atténuer les risques.
+Systèmes d'exploitation: Guardian NonStop Tandem, Pathway, TCP/IP, VPN, VM Ware
+Langages: TAL, TACL, Cobol85, DB2, SQL, C, C++
+Outils: Word, Excel, Microsoft Visual Studio 2005, Subversion, FTP, UML, Visio 2005, Jira 4.0,
+Agile/Scrum.
+Waveroad Inc, Montréal
+Août 2006 – Avril 2007
+Poste :
+Client :
+
+Analyste programmeuse
+Caisse Desjardins (CCDEPQ)
+
+Mandat : Agir à titre de Consultant et de personne ressource auprès des collaborateurs et
+intervenant du projet de migration B24-ATM v.4.0 vers la v.6.0 (EMV-Carte à puce).
+Tâches et responsabilités :
+
+
+
+
+
+
+
+Comprendre les exigences fonctionnelles du projet, et les normes agréés de carte de crédit afin de
+mettre à jour les documents tel que : le module Setlement, conversion des fichiers Base-24-ATM,
+écran Pathway, processus d'extract, DBE essais de systèmes, etc.
+Inclure des personnalisations Desjardins sur les programmes Extract des fichiers log (TLF, ILF),
+afin de leurs transmettre au système différé plateforme IBM.
+Monter un TPV (Terminal de point de vente) pour la caisse étudiante.
+Préparer la soumission des sources modifiées sur HPNS en utilisant l'application RMS.
+Mise à jour, exécuter et documenter les jeux d’essai de régression B24-ATM.
+
+Systèmes d’exploitation : Guardian Nonstop Tandem, B24, Pathway, Pathcom
+Outils B24: Cobol, TAL, TACL, Debug, Enform, DDL, Peruse, FUP, Scup, Tedit, Prime Code, RMS
+Outils de test : VTS/3, MasterInq, Filsim, Versatest
+
+Curriculum vitae
+
+4/5
+
+Formation Académique
+Oct.20011- Juil. 2012 Perfectionnement en développement
+d’applications Web
+Jan.2011-Avr. 2012
+Certificat en Gestion des affaires électronique
+Jan-2003-Déc. 2005 Baccalauréat par cumul des certificats ès
+science multidisciplinaire
+2002
+Équivalences – DEC Sciences Pures
+
+Collège de Maisonneuve
+HEC Montréal
+Université de Montréal/HEC
+Montréal
+Ministère d'éducation du
+Québec
+
+Sommaire des Qualifications
+Ateliers:
+Gestion des services des TI
+22 h Collègue Maisonneuve, Montréal
+Mars, 2011
+avec ITIL version 3
+Méthodes Agiles, préparation à 14h Collègue Maisonneuve, Montréal
+Mars, 2014
+la certification Scrum Master
+Planification et contrôle de
+32h Collègue Maisonneuve, Montréal
+May, 2014
+projets (PCO)
+Compétences :
+ Expérience avec les méthodologies de développement logiciel (SDLC) : Cascade, Agile.
+ Expérience avec les tests manuels et automatisés.
+ Expérience avec les logiciels de test sur différents systèmes spécialisées (bancaire, transport,
+vente, etc.)
+ Expérience avec différentes méthodes d’essais : boîte noire, boite-blanc, boite-gris,
+déploiement, d'Intégration, fumé, de systèmes, de performance, régression, et tests
+d'acceptation.
+ Expérience avec Systèmes transactionnels en Temps Réel
+ Expérience avec l’architecture client/serveur (front-end page)
+ Expérience avec la modélisation objet UML
+ Expérience en modélisation de BD relationnelle et SGBD (DB2, SQL server, MySql)
+Connaissance technique:
+
+Base de données
+Internet
+Programmation Objets
+Outils bureautiques
+Systèmes d'exploitation
+
+Outils gestion des projets
+Outils gestion de test
+Méthodologie et processus
+d’analyse d’affaire
+
+Curriculum vitae
+
+DB2, SQL Server 2008 R2, MySQL, Access 2010, XML, XSLT
+HTML/DHTML,HTML5, Javascript, Wordpress, jQuery
+C, C++, C#, ASP.net, PHP
+Word, Excel, PowerPoint, Visio 2010, UML, Modelio 1.2, BPM
+Guardian, Pathway NonStop Tandem, Unix, Apache, SAP Gui 7, ERPSim,
+MS Dynamic CRM 2011, MS SugarCRM, Microsoft Visual Studio
+2010, Windows 7.
+Agile/Scrum, Jira 4.0, Subversion, ITIL version 3. Cobit 4.0
+
+HPQC (HP Quality center), Mercury QuickTest, VTS/3, SPDH,
+MasterInq, Filsim, Bugzilla.
+Lean Six Sigma (DMAIC); 6M (Ishikawa); 5S, Kanban; méthodes
+d’inspection formelle; audits selon norme IEEE1028; Normes ISO
+8583 (Messages d’échange pour les transactions financières);
+Stratégie opérationnelle E-Commerce; différents canaux de
+distribution.
+
+5/5
+
+

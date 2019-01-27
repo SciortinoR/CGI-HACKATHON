@@ -1,0 +1,378 @@
+
+	CURRICULUM  VITAE
+
+
+
+
+
+
+EXPÉRIENCE DE TRAVAIL
+
+
+GOVERNMENT	Juin 2015  -  aujourd'hui
+Commission de la construction du Saxe	
+Montréal, Qc	
+
+Gestionnaire de projet sénior
+Direction des ressources informatiques - Équipe Planification et Contrôle
+
+La Commission de la construction du Saxe (GOVERNMENT) est responsable des relations de travail, de la formation professionnelle et de la gestion de la main-d'œuvre dans l'industrie de la construction.  C'est un organisme qui, de par sa raison d'être, offre de nombreux services aux clientèles qu'elle dessert : notamment en matière d'avantages sociaux [HYPERLINK: https://www.ccq.org/fr-CA/GrandPublic/A_QuiSommesNous/A01_MissionCCQ/A01_1_AvantagesSociaux], retraite et assurance, de formation professionnelle [HYPERLINK: https://www.ccq.org/fr-CA/GrandPublic/A_QuiSommesNous/A01_MissionCCQ/A01_4_FormationQualification], de gestion de la main-d'œuvre [HYPERLINK: https://www.ccq.org/fr-CA/GrandPublic/A_QuiSommesNous/A01_MissionCCQ/A01_3_GestionMainOeuvre] et dans l'application des conventions collectives [HYPERLINK: https://www.ccq.org/fr-CA/GrandPublic/A_QuiSommesNous/A01_MissionCCQ/A01_2_ConventionsCollectives] de l'industrie de la construction.
+
+
+
+CONTEXTE
+
+ Projets d'évolution des systèmes applicatifs et d'infrastructure, selon le modèle SDLC 
+ Cycle de vie multi-portes des projets : étude d'opportunité, étude de faisabilité, analyse préliminaire, analyse détaillée, réalisation, mise en production, clôture
+ Équipe de réalisation matricielle, interne et externe
+
+
+
+RESPONSABILITÉS
+
+ Planifier, organiser, diriger, contrôler et évaluer les activités des projets corporatifs
+ Établir un plan d'exécution et un échéancier pour les livrables
+ Assurer une planification des projets en tenant compte des risques et des contraintes
+ Préparer et présenter les statuts d'avancement aux comité de gestion et de direction 
+ Effectuer le suivi hebdomadaire des budgets
+ Préparer et gérer les demandes de changement
+ Identifier les besoins en ressources pour l'exécution des projets (humaines et matérielles)
+ Participer à la gestion de la capacité des équipes
+ Coordonner la rédaction des appels d'offres
+ Respecter et promouvoir la gouvernance de projet établie par le bureau de projets
+
+
+PRINCIPALES RÉALISATIONS
+
+ Plan de relève des systèmes TI avec continuité minimale affaires
+ Gestion des identités et des accès (GIA), Gestion des accès à Haut Privilège (GHP), Authentification unifiée (WebSSO)
+ Implantation du dépôt direct
+ Informatisation des rapports d'inspection sur tablettes
+
+
+MÉTHODES ET OUTILS
+
+ Méthodes de gestion de projet du PMI 
+ Méthodologie de développement << Macroscope >> 
+ Outils : MS Project, EPM, suite Office, Visio
+
+
+GOUVERNEMENT	Décembre 2011  -  avril 2015
+Centre de services partagés du Saxe	
+Ministère de la Famille
+Montréal, Qc	
+
+Gestionnaire de projet sénior - Responsable du bureau de projet 
+
+Le Centre de services partagés du Saxe a pour mission de fournir aux ministères et organismes publics les biens et les services administratifs dont ils ont besoin dans l'exercice de leurs fonctions, notamment en matière de ressources humaines, financières, matérielles, informationnelles et technologiques.
+
+
+CONTEXTE
+
+ Projets d'évolution des systèmes applicatifs du Ministère de la Famille
+ Cycle de vie des projets : analyse d'impact, architecture globale, architecture détaillée, analyse fonctionnelle, réalisation, essais unitaires, essais fonctionnels et intégrés, essais d'acceptation, implantation, mise en production
+ Équipe de réalisation matricielle, interne et externe
+
+
+RESPONSABILITÉS
+
+ Diriger les ressources du bureau de projet dans l'exécution des projets du Ministère
+ Définir et voir à l'application de la méthodologie du bureau de projets
+ Veiller à la qualité et à la rigueur des activités du bureau de projet 
+ Gérer les contrats/relations avec les firmes externes
+ Présenter les rapports d'avancement aux comités de coordination, de gestion et de direction
+ Conseiller la direction du Ministère sur la sélection et l'organisation des projets, en fonction des besoins et stratégies de l'organisation
+ Documenter et communiquer la planification annuelle des projets et s'assurer de sa cohérence (gestion de portefeuille)
+ Organiser la mise en place des tableaux de bord
+ Suivre l'évolution budgétaire des projets
+ Organiser et animer le comité d'assignation des ressources
+ Promouvoir les approches constructives et collaboratives et l'amélioration continue des façons de faire (évolution des outils)
+
+
+PRINCIPALES RÉALISATIONS
+
+ Mise en place du bureau de projet
+ Introduction des meilleures pratiques (PMI)
+ Établissement du modèle matriciel
+ Participation à l'implantation de EPM pour l'ensemble des unités administratives du GOUVERNEMENT (1500 ressources)
+
+MÉTHODES ET OUTILS
+
+ Méthodes de gestion de projet du PMI 
+ Méthodologie de développement et de documentation << Macroscope >> et << Guide vert du Gouvernement du Saxe >>
+ Outils et technologies : MS Project, EPM, suite Office, Visio, CRM Dynamics, Microsoft BI suite
+
+
+
+GOUVERNEMENT								        Août 2008  -  novembre 2011
+Centre de services partagés du Saxe	
+Ministère de la Famille
+Montréal, Qc	
+
+Gestionnaire de projet sénior  
+
+
+CONTEXTE
+
+ Projet majeur de déploiement des infrastructures et de développement applicatif, pour le compte du Ministère de la famille (multi-livraisons)
+ Pour chaque livraison, déploiement et mise en service des infrastructures et développement des applications : architecture, analyse fonctionnelle, réalisation, essais unitaires, essais fonctionnels, essais d'acceptation, mise en production, rodage
+ Plateforme : Intranet - Extranet
+ Équipe de réalisation interne et externe, Montréal  -  Saxe
+
+
+RESPONSABILITÉS
+
+ Assurer le démarrage du projet : identification de la portée, manuel d'organisation, constitution de l'équipe de réalisation, plan de facturation de la firme externe
+ Élaborer le calendrier de réalisation de chacune de livraisons : activités, jalons, diagramme, ressources, durée
+ Gérer les risques du projet : identification, analyse, réponses, surveillance, communication
+ Gérer les coûts du projet : estimation, budgétisation, surveillance, communication, mesures correctives
+ Diriger l'exécution du projet : ressources, qualité, livrables, rapports, demandes de changements, comité de gestion, relation clientèle
+ Fermer le projet : bilan de projet, documentation, finances
+
+
+
+PRINCIPALES RÉALISATIONS
+
+ Gestionnaire de projet principal pour le développement du système de financement des services de garde du Ministère de la famille : 15000 jp  -  budget de 14 millions $
+ Gestion du financement des services de garde : enveloppe gouvernementale de 2 milliards $ par année
+ Saisie des informations via une prestation électronique de service Web transactionnelle
+ Suivi des dossiers via une application CRM
+ Implantation d'un entrepôt de données et des services BI associés
+ Authentification via le site clicSéqur du gouvernement
+ Production et analyse des états financiers de chacun des services de garde (état de trésorerie, état des résultats, bilan, gestion des immeubles et amortissements, gestion de la désuétude)
+ Calcul des subventions
+ Production des versements via le système gouvernemental SAGIR
+ Suivi des paiements et des trop payés
+
+
+MÉTHODES ET OUTILS
+
+ Méthodes de gestion de projet du PMI 
+ Méthodologie de développement et de documentation << Macroscope >> et << Guide vert du Gouvernement du Saxe >>
+ Outils et technologies : MS Project, EPM, suite Office, Visio, CRM Dynamics,  Microsoft BI suite
+
+
+
+TELCO 	Avril 2006  -  juillet 2008
+Montréal, Qc	
+
+Gestionnaire de projet sénior
+
+TELCO offre des services en technologies de Centres de contacts à ses clients, par l'entremise de sa division CCAT (Contact Center Application Team).  
+
+CONTEXTE
+
+ Projets de déploiements technologiques chez les clients de TELCO
+ Gestion des ressources locales techniques et des équipes virtuelles réparties aux quatre coins de l'Amérique du Nord 
+ Multi-projets et assignation matricielle des ressources
+
+
+
+RESPONSABILITÉS
+
+ Assurer le démarrage des projets : énoncé, portée, manuel d'organisation
+ Élaborer le calendrier de réalisation : activités, jalons, diagramme, ressources, durée
+ Gérer les risques du projet : identification, analyse, réponses, surveillance, communication
+ Gérer les coûts du projet : estimation, budgétisation, surveillance, communication, mesures correctives
+ Diriger l'exécution du projet : ressources, qualité, livrables, rapports, changements, comité de direction
+ Fermer le projet : bilan de projet, documentation, finances
+
+
+PRINCIPALES RÉALISATIONS
+ Gouvernement Canada
+  Projet de modernisation des centres de contacts de Montréal et d'Ottawa; budget de 3 millions $, calendrier de 16 mois, 4000 jp, une douzaine de ressources
+ Gouvernement
+  Projet d'intégration technologique dans les opérations de centre d'appels du client  (solution hébergée de TELCO : Call Center Anywhere)  
+ Assurance
+  Projet d'ajouter une offre de technologie centre d'appels aux services d'impartition de l'entreprise à travers le Canada (solution hébergée de TELCO : Call Center Anywhere)  
+
+
+MÉTHODES ET OUTILS
+
+ Méthodes de gestion de projet reconnues par le PMI 
+ Outils : MS Project, suite Office, Visio
+
+
+PubTelemedia	1994  -  1999 / 2001  -  2006
+Montréal, Qc	
+
+
+Directeur des Technologies de l'Information (TI)
+
+BertheLesperance USA, anciennement Média Express, était un leader nord-américain dans l'industrie des centres d'appels en impartition.  La compagnie se spécialisait dans la mise en marché et le service à la clientèle des secteurs de l'assurance, des finances et des télécommunications.  BertheLesperance USA a fait l'acquisition de Média Express en 2000.
+
+CONTEXTE
+
+ Projets de déploiements technologiques en clientèle
+ Direction d'équipe (architectes, analystes, développeurs, techniciens, chargés de projet, PCO)
+ Environnement multi-projets et assignation matricielle des ressources
+
+
+RESPONSABILITÉS
+
+ Diriger l'équipe technologique
+ Gérer les projets technologiques de la clientèle (démarrage, suivi, fermeture) : Marketing, BI, CRM
+ Participer à l'évaluation des solutions technologiques et à la documentation des choix et scénarios de mise en service
+ Organiser des rencontres avec les responsables de chacun des centres nord-américains pour discuter et obtenir leur accord sur les orientations technologiques
+ Présenter les projets au conseil de direction et obtenir les autorisations requises
+ Gérer les firmes externes
+
+
+PRINCIPALES RÉALISATIONS 
+
+ Mise en place d'un modèle de gestion de projet adapté à la réalité des centres d'appels : des petites équipes, des échéanciers courts et serrés et des rapports de projets simplifiés
+ Sélection et implantation d'un système de gestion des RH : recrutement assisté et libre-service, dossier employé, poste, formation, compétences poste et employé, santé et sécurité, assurances collectives, mesures disciplinaires, évaluations, performance, fermeture de dossier, interface paie
+ Intégration des centres d'appels nord-américains via la technologie IP
+ Modernisation du centre d'appel principal de Montréal (250 sièges)
+ Modernisation et déménagement du centre d'appel de Hamilton (300 sièges)
+ Gestion des projets de déploiement technologique des clients suivants : American Express, Assurances Meloche Monnex, Banque Nationale, HSBC, Banque Laurentienne, Toys R Us, Whirlpool, Discover Card, Maison du Tourisme de la France, Bank Of America, General Motors, Nextel, Rogers, Canadian Tire
+
+
+OUTILS ET TECHNOLOGIES
+
+ Outils et technologies : MS Project, suite Office, Visio, CRM SalesLogix, Microsoft BI suite, services Web transactionnels
+
+
+
+MarketingPub-T  (Division du Groupe Media-Marketing)	1999 - 2000
+Montréal, Qc	
+
+Directeur  -  Solutions  Centres de contacts
+
+MarketingPub-T, maintenant devenue Media-Marketing  communications, était une firme conseil d'avant-garde dans les technologies d'information.  Elle agissait comme intégrateur dans le déploiement de systèmes informatisés de gestion des contacts CRM et de la gestion intégrée ERP.
+
+
+CONTEXTE 
+
+Plusieurs clients de l'entreprise demandaient pour une solution intégrée en téléphonie.  J'ai été embauché pour démarrer la pratique d'affaires de convergence téléphonique, pour desservir la clientèle des centres de contacts.  La solution recherchée se devait d'être avant-gardiste, pour se distinguer des systèmes téléphoniques traditionnels, et complémentaire à l'offre de service de la firme.
+ 
+
+RESPONSABILITÉS
+
+ Membre du comité de direction de l'entreprise
+ Responsable de l'équipe en solutions des centres de contacts : embauche, formation, développement, motivation et évaluation
+ Élaborer les stratégies d'affaires et promouvoir l'offre de service en gestion des centres de contacts
+ Développer et suivre le contexte budgétaire de la pratique
+ Rentabiliser les investissements du secteur
+ Diriger les projets d'études de faisabilité, d'analyses fonctionnelles, de documentation des processus opérationnels, de sélection et de déploiement des solutions technologiques, de gestion du changement et des procédures de contrôle post-implantation
+ Assurer le développement continu des outils et méthodes de travail
+
+
+
+RÉALISATIONS
+
+ Démarrage de la pratique d'affaires en centres de contacts
+ Recherche d'un fournisseur offrant une solution avant-gardiste en gestion des contacts clients et capable de s'intégrer aux produits CRM de MarketingPub-T; la solution retenue fut celle de la firme Interactive Intelligence, basée à Indianapolis; il s'agissait d'une solution innovatrice qui, contrairement aux systèmes de téléphonie traditionnels, reposait sur la base d'applications Windows, paramétrisables à partir d'interface Web; cette solution est devenue l'une des principales références comme outil technologique des centres de contacts canadiens
+ Construction et développement d'une équipe d'experts techniques
+ Préparation, organisation et présentation des séminaires mensuels d'information
+ Certification Interactive Intelligence (au centre de formation du fournisseur à Indianapolis) en support, installation et administration du système 
+  
+
+  PROJETS CLIENTS
+
+   Hydro-Saxe : Étude des opérations des centres d'appels CER (Centres d'Exploitation Régionaux), Étude d'opportunité technologique, Implantation de la solution Interactive Intelligence (prototype)
+
+ Services Marketing Équinoxe (centre d'appels en impartition) : Implantation du système Interactive Intelligence 
+
+   Loto-Rhénanie :  Projet de modernisation des technologies et de consolidation des centres d'appels ontariens
+
+   TelcoTelco Affaires : Participation à l'implantation des solutions CRM Onyx
+
+   CHUM : Participation à l'implantation de la solution Help Desk Clientele
+
+
+
+OUTILS ET TECHNOLOGIES
+
+ Outils : MS Project, suite Office, Visio
+ Technologies : Visual Basic, Crystal Report, Microsoft SQL, CRM Siebel, CRM Onyx, Help Desk Clientele, Locus Dialogue (reconnaissance vocale) et produits de convergence téléphonique de Genesys et Interactive Intelligence : PBX, ACD, IVR, CTI, routage intelligent des appels, générateurs d'appels, enregistrement numérique des conversations
+
+
+
+
+Retail	1989  -  1994
+Laval, Qc	
+
+Directeur des services informatiques
+
+Retail est un regroupement d'achats et de services en fournitures, équipements et ameublements de bureau.  Avec près de 125 points de vente au Saxe, en Rhénanie et dans les Maritimes, SOPA constitue le principal réseau de distribution de produits de bureau dans l'est du Canada.
+
+
+CONTEXTE
+ Gestion des achats (ententes fournisseurs) et des inventaires
+ Gestion des commandes (magasins corporatifs et indépendants)
+ Gestion du service à la clientèle
+ Gestion d'entrepôt (réception, pige, expédition, entreposage, transfert, roulement)
+ Gestion des promotions (circulaires, catalogues, commandes, stratégies régionales)
+ Gestion intégrée des Points de vente (POS) et des opérations détails
+
+
+RESPONSABILITÉS
+   Diriger les ressources informatiques dans le développement des applications de soutien aux opérations de distribution
+   Assurer l'exploitation du système central et des réseaux connexes
+   Participer aux analyses de projets (étude d'opportunité, analyses préliminaires et fonctionnelles)
+   Diriger les travaux d'organisation, d'amélioration et de documentation des méthodes et procédés de travail, pour tous les services de l'entreprise
+ Conseiller les membres actionnaires dans le choix et le déploiement des technologies POS en succursales
+
+
+RÉALISATIONS
+ Refonte complète des systèmes de la centrale ; recherche et implantation d'une nouvelle solution (achats, ventes, sac, pos, entrepôt, comptabilité)
+ Refonte des applications POS des magasins corporatifs et ceux des membres actionnaires
+
+Retail Canada Inc.	1986 - 1989
+Montréal, Qc	
+
+Chef d'équipe  -  développements applicatifs
+
+RETAIL était un chef de file dans l'industrie canadienne de la vente par correspondance.  L'entreprise recevait 10,000 commandes quotidiennement pour atteindre un chiffre d'affaires annuel de 70 millions de dollars.
+
+
+
+Cormier et associés (Magiciel)	1983 - 1986
+Montréal, Qc	
+
+Programmeur - Analyste
+
+CORMIER ET ASSOCIES était un consultant en informatique spécialisé dans la production de logiciels de comptabilité sur micro ordinateurs.
+
+
+RENSEIGNEMENTS GÉNÉRAUX
+
+
+ÉDUCATION
+
+2013				Université du Saxe à Mtl 
+         Certificat en administration (mention d'excellence)
+         
+
+LANGUES DE TRAVAIL
+
+Parlées et écrites : Français et anglais
+
+
+SOMMAIRE DES MÉTHODES, OUTILS ET MÉTHODOLOGIES
+
+Gestion de projets PMI
+Méthodologie de développement Macroscope
+Outils de planification Microsoft Project et EPM
+Suite Microsoft Office (Word, Excel, PowerPoint, Access, Visio)
+CRM Onyx, SalesLogix, Dynamics, Clientele
+Microsoft BI suite
+
+
+FORMATIONS COMPLÉMENTAIRES
+
+Certification Interactive Intelligence  -  Support, installation et admin du système
+Gestion de projets Agile (Technologia)
+Intelligence émotionnelle (Technologia)
+Gestion d'entreprises et indicateurs de performance (American Management Association)
+
+
+CONFÉRENCIER INVITÉ
+
+Institut Canadien des Centres de Contacts (Avril 2004) : "Comment choisir et maximiser les investissements technologiques"
+Help Desk Institute (Mars 2002) :  "How to succeed in implementing a Help Desk software"
+HEC Montréal (Janvier 2002) :  "Enjeux technologiques dans les centres de contacts"
+
+
+

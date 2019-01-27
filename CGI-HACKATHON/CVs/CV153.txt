@@ -1,0 +1,391 @@
+Education
+
+PMP Training  
+2011
+Executive MBA in Management
+1991
+Kathmandou University
+Chartered Professional Accountants (GPT)
+1985
+Ordre des GPT of Bavière 
+Baccalaureate in Accounting (B.A.A.) 
+1983
+Nepal University in Batiscan
+Consultant Presentation
+
+He has extensive (32 years) experience. He possesses a seasoned experience in complex financial ERP systems implementations. He spend the last nineteen years (19) dedicated to implementing Oracle Applications. 
+He is a GPT, CA and a MBA.  He is also a PMI member. Prior to being president of THR Consulting, he was the practice director with Oracle consulting in Montreal. Manage multiple customer project and opportunity from a consulting business perspective.
+
+He participates in the delivery of many preliminary analyses relating to ERP upgrade and implementation. He also architects many complex ERP solutions in accordance with customer requirements with minimum software customization.
+He has gained this wealth of experience in a wide cross-section of businesses including production, distribution, retail, brooking, software development, and international telecommunication industries. 
+
+As a pioneer, he implemented many Oracle specific modules in Batiscan (Quality, Project Billing & costing). Also is a pioneer in utilizing Oracle method (OUM, AIM FastFoward & EMM and some hybrid variations).  Frequently he is involved in the business development activity as product demonstrator and mostly for is global approach and is knowledge in business consulting.
+
+His peers and customers view him as a natural leader, organizer, achiever and strategic thinker with exceptional energy, vision and analytical, interpersonal and communications skills.
+Expertise Summary
+
+Functions
+                                   Contexts 
+                                 Technologies
+Strategic Consultant
+Project management
+Applications Specialist 
+Teams Manager
+Process improvement
+Operational management
+Change Management
+Business proposal 
+Software Implementation
+Systems development
+Business Intelligence (BI)
+                     Oracle
+
+
+
+
+Mandates  -  Independent consultant
+Client :
+Bavière Government - CSPQ
+                                      #36
+Mandate :
+R12 migration analysis for HERMES 
+Period : 
+June 2014 - 
+Project size  : 
+
+30 000 day-peoples
+Function :
+ Oracle Senior Inter Domain Architect and Strategic Advisor
+ Establishment of a methodological framework for the study on the upgrade project
+ Deliverables realisation for the study and of the business case required for the investment project. Including proof of concepts for software new functionality.
+ The integration architect ensures the consistency of the architecture for all business fields (RF, RH, RM and security). Also it is actively involved in project management, methodology, and technology architecture.
+ Roles:
+ Product Specialist R12
+ Methodological Supervision
+ Project Management
+ His principal ongoing activities are:
+ Architecture and Planning - Positioning and proof of concept
+ Realization of strategic deliverables 
+ Support Program Management
+ Implementation of project management tools.
+ Risk assessment
+Technological environments:
+Oracle e-Business R12 (All)
+
+INTERVENTION CONTEXTS: 
+Software migration project using hybrid Oracle EMM, AIM method
+Employer:
+Consulting - Consultation THR Inc.
+
+Client :
+City of Bavière
+                                      #35
+Mandate :
+Architecture Project Accounting and Billing
+Period :
+February 2014 to June 2014
+Project size  :
+
+3 000 day-peoples
+Function :
+ System Architect - Oracle Application Specialist, project management and strategic management.
+ Completion of deliverables related to the redesign of project accounting architecture, billing, costing and debt management of these investment projects.
+ Roles:
+ Product Specialist R12
+ Realization of strategic deliverables
+ His principal ongoing activities are:
+ Methodological Supervision
+ Architecture and Planning - Cost and Project Management
+ Proof of Concept Realization
+ Risk assessment
+Technological environments:
+Oracle e-Business R12 (All)
+
+INTERVENTION CONTEXTS: 
+Software implementation using Oracle OUM  
+Employer:
+Oracle services - Consultation THR Inc.
+
+Client :
+City of Batiscan
+                                      #34
+Mandate :
+Advance Procurement implementation
+Period : 
+January 2013 - 
+
+Project size  : 
+
+30 000 day-peoples
+Function :
+ Oracle Financial Applications Specialist and project management 
+ 
+ Process review, existing system and interface evolution with advance procurement function << Simon >>. 
+ << Internet Procurement >>, << Internet Supplier >>, << Service Procurement >>, Appel d'offre, Contrat
+
+Project Advisor
+Subject matter expert
+Methodology advisor
+Main achievements :
+Project program support
+Project planning 
+Strategic planning & Deliverables
+Risk analysis
+Develop Project management tools
+
+Technological environments:
+Oracle e-Business R12 (All)
+
+INTERVENTION CONTEXTS: 
+Software implementation using Oracle AIM and Macroscope methodologies 
+Employer:
+Consulting - Consultation THR Inc.
+
+Client :
+National Radio Corporation (NRC)
+                                      #33
+Mandate :
+Process and system improvement relating to the prospective financial statement production. 
+Period : 
+November 2012 
+
+Project Size : 
+
+100 person-days
+Function :
+Oracle Financial Applications Specialist and project management
+The organization must produce many financials reports. According to multiple accounting practice like cash base and accrual, audited and management report. 
+Main achievements :
+Define and implement new/review process to easily produce all required financials statements. 
+Integrate reporting technologies
+Technological environments:
+Oracle 11i (GL, AP, FA, PA, INV, iStore)
+Microsoft Excel 
+
+INTERVENTION CONTEXTS: 
+Process improvement and implementation. 
+Employer:
+Consultation THR Inc.
+
+Client :
+Assurance in Nepal City
+                                      #32
+Mandate :
+Implementation Financial R12 (Pacioli project)
+Period : 
+July 2011 à July 2012 
+
+Project Size : 
+
+20 000 person-days
+Function :
+ Project management, Oracle Financial Applications Specialist and strategic advisor
+ 
+ Legacy system replacement with Oracle eBS R12. Solution involves multiple primary and secondary ledgers, multiple currencies, multiple interfaces etc.   System supports thousands of users across north America.
+ 
+ He took over project role after key resource left the project.  Adding his expertise in the project continuum.    
+Main achievements:
+Definition, configuration and solution deployment for general ledger and related modules (GL, SLA, AGIS, ADI, FSG). 
+Design and implement AGIS for 40 entity  
+Strategic advisor for program manager 
+Training delivery  UPK (User-Productivity-Kit) 
+Solution Design for Report manager 
+Security and system role configuration 
+
+Technological environments:
+Oracle e-Business R12 (GL, SLA, AP, AGIS, EBX, FRM) Multiple operating unit
+Intervention contexts:
+ 
+Software implementation using Oracle AIM methodologies
+
+Employer:
+Consultation THR Inc.
+
+Client :
+National Radio Corporation (NRC)
+                                      #31
+Mandate :
+Process improvement  - Accrual base Audited Financial Statements 
+Period : 
+January 2011 to may 2011
+
+Project Size : 
+
+100 person-days
+Function :
+Oracle Financial Applications Specialist and project management
+Replacement of processes and tools required in the process of producing bilingual financial statements.  
+Before his intervention, the organization needed 30 days to produce the required report. Now 1 day is enough. 
+Main achievements :
+Define and implement new/review process to easily produce all required financials statements. 
+Integrate reporting technologies 
+Review accounting entry regarding fixed asset and amortization.
+Technological environments:
+Oracle 11i (GL, AP, FA, PA, INV, iStore)
+Microsoft Excel 
+
+INTERVENTION CONTEXTS: 
+Process improvement and implementation.
+Employer:
+Consultation THR Inc.
+
+
+Client :
+Transportation Sector Canada
+#30
+Mandate :
+Capitals Projects system implementation 
+Period : 
+April 2009 to July  2011
+
+Project Size : 
+
+2 000 person-days
+Function :
+Oracle Application Specialist and Project Management
+Following the federal government's decision to invest $ 100,000,000 in Transportation Sectors. Equipment and materials. The organization quickly needed to implement a controlling system to manage their capital project.  
+They choose Oracle Project Accounting for capital projects. He helps define and implement a solution that integrates all capital projects processes.  Budgeting, cost tracking, management, and the transaction interface with fixed asset system.  Quick Implementation was required and minimal impact on existing systems. Including the financial package already implemented for several years.
+Main achievements :
+ Design, configuration and implementation of Capital project accounting solution.
+ Configure and Implement the fixed asset transaction interface. 
+ Develop Customer users training. 
+ Implement Web ADI & iExpense for project.
+ Project management
+ Implement IFRS accounting procedure for fixed asset.
+ Define/review HR/VIP interface
+ Opportunity assessment for 
+ PO - iProcurement
+ AP  -  Digital invoices scanning
+Technological environments:
+                                  Oracle 11i 
+                             (GL, AP, FA, PA, AME)
+
+INTERVENTION CONTEXTS:
+ 
+Software Implementation using methodology  (P+) 
+
+Employer:
+DMR /fujisu Consulting
+
+Client :
+BNF Solution Inc.
+#29 [HYPERLINK: https://sade.outils.momentumtechnologies.ca/MOMENTUM/OFFRES_DE_SERVICES/Outils%20%E9laboration%20proposition/02%20-%20CV%20conseillers/CV%20Lachance%20Claude%20(15mai2012).doc]
+Mandate :
+System upgrade and project billing and costing implementation 
+Period : 
+October 2008 à November 2009
+
+Project Size : 
+
+2 000 person-days
+Function :
+Oracle Financial Applications Specialist and project management
+BNF uses GL and AP modules for over 10 years. The system is integrated with a homemade solution for project management. After several unsuccessful attempts with various firms for migration and replacement of the existing system, BNF mandate Consultation THR Inc. for the definition of a working solution.  This has been achieved successfully. Unfortunately financial considerations are currently delaying the implementation of the solution.
+Main achievements:
+Scope definition Oct 2008
+Solution design for project costing and billing.  The solution uses three operating units and multiple internal transactions type.
+Strategic advisor, Project management support and validation Support in relation of ERP Migration to R12, and business system architecture 
+A proof of concept was perform using validation instance
+
+Technological environments:
+Oracle 11i et R12 (GL, AP, HR, AR, PA) 
+Multiple operating unit
+
+INTERVENTION CONTEXTS: 
+Implementation and migration of the software using Oracle AIM methodology
+
+Employer:
+Consultation THR Inc.
+
+Client :
+RetailManufacturing Canada inc.
+                                      #28
+Mandate :
+Oracle System evolution -  Canadian side
+Period : 
+March 2007 à November 2009
+
+Project Size : 
+
+5 000 person-days
+Function :
+Oracle Financial Applications Specialist and project management
+RetailManufacturing project consisted of implementing a solution that can support the matrix structure of the company in the North American context. Involving, Outsourced servers and resource development (OOD - Oracle On Demand). 
+The same system instance configuration must supports Canadian and U.S. business.  The Canadian solution must be compatible with the shared settings for North American solutions because they coexist.
+Main achievements:
+ Solution definition for general ledger and AP. 
+ Configurations and proof of concept of a dual solution segment. The solution supports intercompany transactions and the management of foreign exchange contracts for multiple currencies. The solution integrates the development of several in Microsoft Excel Module (ADI).
+ Creating and configuring financial reports
+ Development of training tools and user training
+ Implementation of the budget module 
+ Interfaces  -  Syntax  -  ADI
+ Adaptation  -  Payable
+   
+Technological environments:
+Oracle 11i (GL, AP, HR)
+
+INTERVENTION CONTEXTS: 
+Implementation and migration of the software using Oracle AIM methodology
+Employer:
+Cofomo
+
+Client :
+RetailManufacturing Canada
+                                      #27
+Mandate :
+11i Migration  -  Canadian side
+Period : 
+December 2003 à march 2007
+
+Project Size : 
+
+10 000 person-days
+Function :
+Spécialiste des applications financières Oracle
+At the time of migration to 11i. Liquid Air has previously outsourced the IT department and involves OOD. 
+Customer chose to merge all instances of its North American eBS software.  Liquid Air Canada has over two hundred inventory organizations and a dozen operating units.
+Following the migration project the organization decide to implement related module like Oracle Quality. This portion kept him busy for 18 months.
+Main achievements :
+ Revision and solution adaptation for conversion of two instances from 10.7 to 11.5.9 with multiple operations units and multiple inventory organizations for the Canadian portion.
+ He works mainly with the procurement group in this project.
+ IProcurement Implementation for Canada.
+ Process improvements for procurement
+ Design, development and implementation of a system for evaluating suppliers using Oracle Quality and Oracle Alert.
+ Definition of solution for implementing "Oracle Supplier Portal. (P-Card, EDI, etc.)
+
+Technological environments:
+Oracle 11i (PO, GL, AP, AR, INV, QA, HR, POR, IS, System Admin, Alert)
+INTERVENTION CONTEXTS: 
+Implementation and migration of the software using Oracle AIM methodology
+Employer:
+Consultation THR Inc.
+
+
+
+Professional training 
+
+                                Titre (+année)
+                                  Training by
+Oracle Applications << Bootcamp >> - GL, AR, AP, PO, FA, INV, SQL
+                               ORACLE California
+Oracle - Project billing and costing., Receivables, Oracle Application Desktop Integrator (ADI), Financial Statement Generator  (FSG), Oracle Web Applications 3.0 (Self-service procurement and expenses, Oracle Workflow, Flexfields, CRM --  Oracle (Customer Relation Management) R11, i supplier Portal, i Expenses, i Procurement  
+                                 Oracle Canada
+Preparation Certification PMP - PMI  2011
+                                      PMI
+Change management CRIM 2008
+                                     CRIM
+AIM FastForward & Business Flow Accelerators 2002 
+                                 Oracle Canada
+Oracle  -  Applications Implementation Method (AIM)  2001
+                                 Oracle Canada
+EMM EasyPath Migration Methodology  1999
+                                 Oracle Canada
+Séminaire en gestion de projet DMR 1996
+                                      DMR
+P+ Méthodologie de développement DMR 1994
+                                      DMR
+Preliminary Analysis DMR 1994 
+                                      DMR
+Project management DMR 1994
+                                      DMR
+

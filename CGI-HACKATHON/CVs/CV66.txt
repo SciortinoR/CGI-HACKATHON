@@ -1,0 +1,263 @@
+                                                                               
+                                       
+                                Prénom66 Nom66
+                    Gestionnaire de projets - infrastructur
+
+
+Profil
+ 
+
+Je détiens plus de 25 années en TIC. J'ai dirigé et géré des ressources d'expertises variées. Mes différents mandats m'ont permis de développer une solide expertise TI, qui est axée sur les résultats. Mes différents mandats m'ont permis de développer une solide capacité en analyse d'affaires, en implantation de solutions d'affaires et en élaboration d'énoncés de projet.  Ma capacité de planification et ma compréhension de la législation des processus d'affaires transversaux, liés au traitement de l'information et des télécommunications, me permettent d'adresser de façon réaliste et efficace la gestion de projets tant au niveau des infrastructures qu'en développement. Mon sens de l'analyse me permet de participer à la prise de décisions et d'assurer que les livrables répondent aux exigences et aux priorités politiques de l'entreprise.
+
+Je suis également reconnue pour mon efficacité de gestion des risques et d'une application stricte des règles de gestion du changement.  
+
+
+Formation académique
+
+Maîtrise en finance	 2007
+Université66-1		
+
+Baccalauréat en informatique de gestion 	1988
+(Option : Développement de logiciel)	
+Université66-1
+
+DEP en programmation 	1981
+Université66-2
+
+Formation professionnelle
+
+
+Certification PMP	2005	
+Project Management Institute
+
+Certification TIVOLI (Surveillance et Gestion des Identités) 	1998
+IBM
+
+Certification ORACLE		1988
+Computer Time
+
+Expériences professionnelles
+
+
+Entreprise66-1							Octobre 2013  à Décembre 2016
+Gestion de projets Infrastructure TIC
+
+
+ Définir la portée des projets;
+ Définir les grandes orientations du projet;
+ Effectuer la reddition de comptes;
+ Élaborer les plans de livraison et de réalisation;
+ Développement Outils de Gestion HPSM  
+ Architecture et implantation d'un Centre de surveillance CIC
+ Implantation d'outil de gestion et de surveillance SOEM pour radio micro-ondes
+ Migration SharePoint et évolution OpenText
+ Pérennisation des infrastructures TI
+ Gestion de contrats avec fournisseurs externes.
+ Recommandations budgétaires et planification de projet.
+ Gestion d'équipes de 10 à 20 spécialistes  (Architectes : Sécurité, réseau et systèmes- Analystes fonctionnel  -  développeurs )
+
+
+Entreprise66-2							avril 2012 à  juin 2013
+Gestion de projets Infrastructure TI
+
+
+ Migration et upgrade des serveurs et 6 applications vers  SharePoint 2010 
+ Migration et upgrade des serveurs et 49applications vers Websphere 8 et Java 1.6
+ Gestion de contrats avec fournisseurs externes.
+ Planification et gestion de projets de 3M$  (3 chargés de projets, 2 PCO, 8 analystes d'affaires) 
+
+
+
+Entreprise66-3								Juin 2010 à décembre 2011
+Directrice de projet, Service aux clients et exploitation
+
+
+ Direction des activités de migration des télécommunications et de la téléphonie de la Ville de Montréal
+ Migration de la téléphonie IP et Centrex de Bell à Entreprise66-3. 
+ Migration du réseau de données.
+ Restructuration des systèmes de sécurité de la Ville.
+ Développement et implantation du logiciel de facturation national.
+ Planification et gestion des budgets de tous les projets de 20M$  (6 chargés de projets, 3 PCO, 4 analystes d'affaires).
+ Négociation des propositions de services et gestion des contrats.
+ Coordination des ressources humaines internes et externes.
+ Modification des processus de la Ville de Montréal et de Entreprise66-3 selon la norme ITIL.
+
+
+Entreprise66-4	Juin 2009 à Février 2010
+Gestionnaire de projet
+
+Projet de construction du Centre de Cancérologie de Laval. Ce projet incluait l'informatisation des processus d'affaires et des locaux du Centre.
+
+ Planifier et coordonner les activités de démarrage et de réalisation
+ Planification des budgets de 1.5M$.
+ Négociation des propositions de services et des contrats.
+ Coordination des ressources humaines internes et externes.
+ Restructuration des processus de gestion.
+
+
+Entreprise66-5	Septembre 2008 à Décembre 2008
+Gestionnaire de projet
+
+ Planification et gestion de projet  << Vente de Portfolio MasterCard/Paiement électronique>>
+     Coordination des efforts et des ressources nécessaires  à la réalisation de Due Diligence,
+ Développement des rapports financiers (Oracle)
+     Conformité TI.
+ Analyse d'affaires et développement de `Road Maps' de projets de stratégie de paiement `Paypass' et de commerce électronique.
+Environnement (P+, Oracle/UNIX, Crystal Report)
+
+
+
+Entreprise66-6	Janvier 2008  -  Mai 2008
+Chef de projets "Gestion des Identités'
+
+Suite aux activités suivantes, la  mise en œuvre du projet a été faite par un chargé de projet du département de la sécurité et des télécommunications TI que j'avais formé lors de mon mandat.
+
+ Planification de projet;
+ Mettre en place un cadre de référence afin de définir les environnements technologiques;
+ Établir les règles et les standards pour optimaliser l'infrastructure haute disponibilité et de ses applications ;
+ Diriger 15 ressources spécialisées  en développement, en architecture et en sécurité TI;
+ Coordonner l'optimalisation de la sécurité des serveurs et des logiciels d'application;
+ Mettre en place un plan de formation;
+ Coordonner la migration d'applications sur des environnements haute disponibilités; 
+ Analyse du processus opérationnel et de l'arbre organisationnel;
+
+Environnement (P+, Oracle, DB2, J2EE, Websphere, Scripts, Entrust/SecurID, Tivoli, Crystal Report, LDAP, Windows)
+
+
+Entreprise66-7 	Mars à décembre 2007
+Directrice de programmes TI 
+
+ Présentation de l'évolution de projets et des demandes de changements pour approbation au comité directeur.
+ Analyse préliminaire et stratégique de portefeuilles de projets infrastructure et télécommunication.
+ Élaboration de l'énoncé des projets. 
+ Coordination des activités de contrôle de qualité.
+ Gérer un budget totalisant environ 6 000 000$ et +20 personnes;
+ Développement de plan d'affaires
+ Migration des applications BI et de leurs environnements Oracle.
+ Migration des serveurs Oracle/Solaris avec développement des procédures d'acceptation (Gestion du changement) et de `Roll Back'.
+ Modification des applications existantes pour compatibilité avec la nouvelle structure d'Oracle.
+ Adaptation des applications bancaires BI en conformité avec les nouvelles règles d'affaires de l'Accord de Bale ;
+ Mise en œuvre d'une haute performance Oracle client-serveur pour une récupération rapide des profils utilisateur à partir de vastes ensembles de données.
+   
+ Prendre la charge la relation avec les fournisseurs et les impartiteurs tels que (CGI, Bell, IBM etc...)
+ S'assurer d'impliquer les différents partenaires (impartiteurs, fournisseurs, unités d'affaire etc..) dans  tous les phases des projets;
+ Planifier et coordonner les activités de démarrage, réalisation et fermeture des projets
+     
+  Environnement (P+/Agile, Oracle/Solaris, Windows server, Cisco, Active Directory. GPO, LDAP, IIS, ISA Serveur, Secure ID,  DB2, SAS, Cognos, Crystal Report, réseau, Solaris, HPUX, AS400).
+
+
+Entreprise66-8 	Août à décembre 2006
+Directrice de projets, 
+
+ Modification des processus des mécanismes de résolution d'incidents TI en partenariats avec les CGI, Bell et BNC en se basant sur la méthodologie ITIL; 
+     Développement  des applicatifs du Centre d'appel.
+ Développement des applications pour l'exploitation TI en collaboration avec les différents partenaires (CGI, Bell, BNC, IBM etc..);
+      S'assurer d'impliquer les différents partenaires (Clients, fournisseurs, unités d'affaire etc..) dans  tous les phases des projets;
+      Négocier et gérer les contrats d'impartition et les ententes de services (SLA) tout au long des projets;
+     Coordination d'équipes multidisciplinaires en infrastructure et télécommunications.
+     Suivi des échéanciers et des budgets.
+     Négociation et coordination des fournisseurs de services internes et externes.
+     Ajustement des processus d'affaire et standardisation.
+ Gestion de projets d'infrastructure, de télécommunication et de sécurité.
+(incluant planification stratégique et études d'opportunités);
+      Diriger des projets de redressement de l'infrastructure de la sécurité du réseau des systèmes transactionnels;
+      Gérer 6 projets simultanément;
+      Gérer un budget d'approximativement 6 000 000$;
+      Superviser 3 chef de projets;
+
+
+Retour au Québec 	Novembre 2004						        
+Congé sabbatique suivi de la Certification PMP et début d'un MBA en Services financiers.	        
+
+Entreprise66-9	Mars 2000 à Octobre 2004
+Chef de service / Spécialiste Tivoli
+
+
+ Chef de Service - "Delivery Prime"  du département de Surveillance Tivoli, l'environnement de plus de  500 serveurs répartis dans le Sud-est des États-Unis. 
+ Avec la méthodologie P+/Agile dans un environnement Oracle, gérer une équipe de développement composée de 12 ressources  ; 
+ S'assurer d'impliquer les différents partenaires (Clients, fournisseurs, unités d'affaire etc..) dans   tous les phases des projets de développement selon des spécifications complexes.
+ Prendre en charge le respect des ententes de services (SLA) tout en gérant les différents intervenants afin que les projets soient livrés dans les délais et les coûts prévus;
+ Spécialiste de redressement de systèmes haute disponibilité et de Gestion des Identités des systèmes bancaires transactionnels; 
+ Mise en œuvre de l'infrastructure de désastre des systèmes de surveillance entre Dallas (Cold Site) et New York [budget de US$2.5M]; 
+ Mettre en place des plans de relève de désastre et des mécanismes de résolution d'incidents TI en   partenariats avec les clients, les fournisseurs et les unités d'affaires en se basant sur la méthodologie ITIL; 
+ Meilleur rapport d'audit de tous les groupes de Chase Manhattan aux Etats-Unis basé sur la Gestion des Identités: 
+ Direction de l'amélioration du processus de production des différents indicateurs de performance (Datawarehouse et environnement de gestion de surveillance). 
+
+
+Entreprise66-10	Novembre 1998 à Décembre 1999
+Consultante
+
+ Rehaussement des applications boursières et des applications systèmes; 
+ Architecture du système de surveillance Tivoli;
+ Rehaussement technologique des environnements de sécurité TI;
+
+
+Entreprise66-11	Août 1996 à Novembre 1998
+Chef de projets 
+
+ Implantation des applicatifs et des services Internet et de sécurité internationale (IP/ATM).
+ 
+     Évaluation des technologies en émergence.
+     Présentation des orientations technologiques des télécommunications et des prévisions budgétaires à la haute direction.
+     Appels d'offres et achat 
+     Définition et implantation des règles de sécurité d'accès des systèmes d'information et du réseau.
+     Gestion de l'information - WBS, Runbooks 
+     Suivi des échéanciers et des budgets.
+     Encadrement de l'équipe (6 employés à temps plein +  ressources d'appoint). 
+     Support aux ventes et présentations techniques aux clients. 
+
+
+Entreprise66-12 	Mars 1995 à Août 1996
+Chef d'équipe de l'installation, et de la mise en œuvre des services de sécurité pour les serveurs WEB et de contrôle d'accès du réseau. 
+
+Équipe de 3 employés et ressources externes des fournisseurs de service
+
+ Architecture du réseau sécuritaire pour le commerce électronique
+ Développement de l'outil Web de surveillance BIGBrother qui est connu internationalement.
+ Définition des règles de sécurité et installation de Firewalls
+ Veille technologique
+ Appels d'offres et achats TI
+ Suivi des échéanciers et des budgets 
+ Développement des procédures de désastre des systèmes
+ Approche proactive de résolution de problèmes
+
+
+Entreprise66-13 	Octobre 1993 à Janvier 1995
+Consultante
+
+Chef d'équipe du groupe de production lors de la réingénierie du processus de mise en page du Journal de Montréal. Se rapportait directement au vice-président des hautes technologies de Québécor, M. Jean Lamontagne.
+
+Gagnant de l'OCTAS de l'ORGANISATION.
+
+"Réalisation ayant permis à un organisme ou une entreprise de revoir de façon considérable ses processus  de travail et ainsi améliorer sa performance sur le plan des retombées économiques et humaines, par le   biais de l'utilisation des technologies de l'information."
+
+Entreprise66-14	Janvier 1992 à Octobre 1993
+Étude des technologies Unix en émergence (Veille technologique)
+
+ Prise en charge de la dernière étape du développement du logiciel "Harness Wiring" pour les CL-415 (5 développeurs / 1 DBA)
+ Développement des programmes d'entretien de l'environnement UNIX plus de 120 serveurs.
+ Encadrement des  11 administrateurs de système UNIX dans un environnement 24/7 (2e et 3e niveau de support)
+
+
+Entreprise66-15	Mai 1988 à Novembre 1991
+Analyste développeur
+
+ Analyse et développement de progiciel de gestion pour le milieu municipal.
+
+
+Entreprise66-16  	Janvier 1985 à Août 1988 
+Service de l'informatique 
+
+ Responsable des laboratoires d'infographie
+ Assistante de recherche
+
+Entreprise66-17	Septembre 1984 à janvier 1985
+Programmeur Analyste	
+		
+Analyse et programmation de systèmes comptables.
+
+
+Entreprise66-18	Février 1982 à Septembre 1984 
+Programmeur d'applications comptables pour les compagnies d'assurances.
+
+

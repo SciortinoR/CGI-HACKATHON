@@ -1,0 +1,85 @@
+CURRICULUM VITÆ
+Prénom64 Nom64
+Développeur Full-Stack WEB (Node JS)
+COMPÉTENCES
+Compétences :
+PHP5, Symfony, NodeJS, JavaScript, jQuery, Drupal, HTML, CSS, Web Services (REST), AJAX, XML, JSON, Twig, MySQL, SQL Server, MongoDB, doctrine ORM, CV, SVN, Mercurial, UML, modèles de conception
+Compétences non techniques :
+ Autonomie, aisance relationnelle, polyvalence, curiosité
+FORMATION
+2005
+Master spécialité MIAGE (équivalent MICC : maîtrise en sciences informatiques)
+Informatique de gestion
+Alternance travail étude
+Université64, Grenoble, France
+2003
+Licence spécialité MIAGE (équivalent MICC : baccalauréat spécialisé de trois ans)
+Informatique de gestion
+Université64, Grenoble, France
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+
+
+                          EXPÉRIENCE PROFESSIONNELLE
+Entreprise64-1
+Développeur Web
+Depuis juillet 2016
+À ce titre, M. Nom64 assume les tâches suivantes :
+réaliser les développements frontaux (<< front-end >>) d'une solution photovoltaïque innovante;
+réaliser les développements dorsaux (<< back-end >>) en collaboration avec les décideurs et les prestataires de services (concepteurs Web, agence de communication);
+étudier, proposer et mettre en œuvre des solutions innovantes pour optimiser les processus de développement et la qualité du produit.
+Environnement :	NodeJS, JavaScript (jQuery, Sockets IO), Redis, HTML5, CSS3 (<< responsive >>), PHP5, MongoDB, Mercurial, NightwatchJS (Selenium), Jenkins, Grunt, Docker.
+Entreprise64-2
+Développeur Web 
+2016
+Comme développeur Web, il s'est vu confier les tâches suivantes :
+assurer l'évolution et l'innovation du site Web << chalet-montagne.com >> (10 000 visiteurs par jour) selon le principe << Keep It Simple and Smart; KISS >> (simplicité et intelligence);
+optimiser le référencement naturel (SEO) dans un contexte fortement concurrentiel (AirBnB, Homelidays, Abritel, etc.). Résultats : plus de 38 % du classement mondial du site, 1[re] position des mots clés stratégiques pendant quatre semaines et baisse de 80 % des erreurs d'exploration;
+concevoir et programmer les fonctionnalités proposées par les plateformes ImoPro et SitesPerso.
+Environnement :	PHP5, Symfony 2 (Doctrine, Twig), JavaScript (jQuery, AJAX), HTML 5, CSS 3 (Bootstrap), JSON / XML, SVN, MySQL, SEO, API, Linux (Debian, Ubuntu), Agile (Scrum)
+Entreprise64-3
+Développeur Web
+2014 à 2015
+Lors de ce mandat, il a accompli les tâches suivantes :
+concevoir, programmer et déployer des sites Web (10 sites Web : dont trois sites adaptés, un blogue et deux sites avec des modules de paiement et de facturation en ligne);
+travailler en équipe dans un environnement Agile pour réaliser une plateforme de covoiturage en ligne pour la ville de Strasbourg (plus de 30 000 utilisateurs);
+assurer la migration des sites Web de la société sur une plateforme LAMP sécurisée (en Drupal et WordPress).
+Environnement :	PHP5 (Drupal 7, Symfony 2), JavaScript (JQuery, AJAX), Adobe Flex, HTML, CSS 3 (Less, Bootstrap), JSON, XML, SVN, MySQL, SEO, API (réseaux sociaux, GoogleMaps et OpenStreetMap), Linux (Debian, Ubuntu), Agile (Scrum)
+Entreprise64-4
+Développeur Web
+2009 à 2013
+Comme développeur Web, M. Nom64 avait les responsabilités suivantes:
+réaliser les développements en équipe pour les projets Web interentreprises;
+assurer une veille technologique et organiser le partage des connaissances à l'interne (formations, Tech'Days, etc.);
+participer à la conception et à la programmation d'un cadre MVC (librairies réutilisables) développé en Drupal et PHP5 (orienté objet) et utilisé par des sites Web de la société;
+assurer la maintenance évolutive et corrective de divers sites Web;
+offrir le soutien technique de niveaux 2 et 3 aux utilisateurs.
+Environnement :	PHP5 (Drupal6, CodeIgniter), JavaScript (jQuery, prototype, AJAX), ASP, HTML, CSS, SVN, MySQL, SQL Server, Java, C#, architecture MVC
+Entreprise64-5
+Conseiller  -  déveloopement Web
+2008
+À ce titre, il assumait les fonctions suivantes :
+intégrer un système d'analyse sémantique dans le moteur de recherche de Yahoo;
+mener des tests unitaires et de performance;
+rédiger la documentation technique en anglais et former les équipes chargées du soutien technique.
+Environnement :	C++, Perl, Shell, GDB, Emacs, Linux, Agile (Scrum)
+Entreprise64-6
+Ingénieur, études et développements
+2006 à 2008
+Lors de ce mandat, il avait les responsabilités suivantes :
+analyser, concevoir et programmer une solution informatique pour le passage du processus de 
+R et D en production;
+réaliser des projets d'aide à la décision au moyen de rapports sur l'activité de l'usine de production;
+faire le soutien technique et corriger les anomalies;
+assurer le lien avec les prestataires et les services internes en étant l'interlocuteur technique du projet;
+développer un site Web d'indicateurs sur les incidents de la production;
+intervenir dans une usine logicielle internationale (130 personnes, 13 nationalités) pour assurer le soutien de niveaux 2 et 3 aux solutions informatiques.
+Environnement :	Perl, Korn Shell, Oracle PL/SQL, Linux, Java, XML, Visual Basic (VB), C++, PHP5, MySQL, ExtJS (JavaScript, AJAX, JSON), Joomla CMS, Zend Framework, architecture MVC
+Entreprise64-7
+Ingénieur, études et développements
+2005 à 2006
+À ce titre, M. Nom64 s'est vu confier les tâches suivantes :
+développer un site Web destiné des personnes à mobilité réduite selon les normes d'accessibilité W3C;
+mener des tests unitaires et d'intégration des développements effectués;
+concevoir et développer l'interface Web permettant la gestion de la production ainsi qu'un module chargé de l'archivage des données.
+Environnement :	C#, ASP.NET, XML, Visual Studio.NET 2005, W3C AAA, XHTML, CSS2, PostgreSQL, Oracle PL/SQL, PVCS, VSS

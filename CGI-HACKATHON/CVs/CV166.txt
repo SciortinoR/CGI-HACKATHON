@@ -1,0 +1,217 @@
+1938 Ave de la Gare
+Mascouche, QC J7K 0N9
+Cell: (514)554-9450
+CERTIFICATION:
+Certified Information Systems Security Professional (CISSP) from (ISC)2
+
+License number : 433937
+
+Systems Security Certified Practitioner (SSCP) from (ISC)2
+
+License number : 433937
+
+Computer Hacking Forensic Investigator v8 (CHFI v8) from EC-Council
+
+Certification number: ECC44535747620
+
+Certified Ethical Hacker v8 (CEH v8) from EC-Council
+
+Certification number: ECC89670509293
+
+EDUCATION:
+University of Québec – École de Technologie Supérieure
+Master of Engineering program – IT Concentration (May 2017 - expected)
+Saint Peter's College, Jersey City, NJ
+Bachelor of Science Degree in Computer Science (MIS option), May 2002
+Graduated with distinction (Summa cum Laude)
+Overall GPA: 3.85/4.0
+Associate of Science Degree in Information Systems, May 2001
+Graduated with distinction (Cum Laude)
+Overall GPA: 3.88/4.0
+SKILLS:
+Language: Bilingual: French and English (written and spoken)
+Information Security: Access Controls, Information Security Governance and Risk Management, Intrusion and malicious
+code prevention and detection, Incident response and management, Penetration Testing, Digital Forensics, Business
+Continuity and Disaster recovery planning, Monitoring and Analysis, Controls and countermeasures, Auditing, Security
+operations and Administration, Telecommunications and Network Security, Legal issues and regulations, including ISO
+27000 series, PCI-DSS, SOX, COBIT to name a few, Cryptography, and Physical Security.
+Software: HP Arcsight, MacAfee Antivirus and DLP products, AngryIP, SSH, ACE RSA SecurID, IBM Tivoli Storage
+Manager, Juniper, PC Anywhere, DameWare, NetMeeting, Point of Sales Applications, Lotus Notes, Symantec Norton
+Ghost, Adobe, Norton antivirus, Macromedia Dreamweaver 8.0, Basic IOS on Cisco Catalyst switches, MacAfee antivirus,
+Active Directory, Microsoft Office, SourceFire, Visio, Basic Linux, Basic Unix, Registry Repair, VMWare, Citrix, Windows
+suite through 10, Windows 8 and Advanced Server 2003 and 2008, Wireshark, Nessus, Nmap, Kismet, NetSurveyor, FTK,
+EnCase.
+Hardware: PC and compatibles, Upgrades of Hard Drive, NIC, RAM, RIB, SCSI, CD, ZIP, DVD and Floppy drives,
+Processors, Servers, Routers and switches installation and configuration. Laser and inkjet printers troubleshooting and
+repair. Pocket PC and wireless-enabled hand-held devices configuration and support, Portable Data Terminals, Point of
+Sales equipment installation and support.
+Networking: LAN and WAN design, setup and management using TCP/IP, Frame Relay, VTP, VPN, VLAN, RIP, Ethernet,
+Access Lists, and dial in access services configuration.
+EXPERIENCE:
+
+Loto-Québec
+IT Security Analyst
+February 2016 to Present
+ Monitor security events with HP Arcsight (SIEM) based on defined process by the service
+ Create tickets, and initiate a security incident if needed
+ Plan and process vulnerability assessments on IT infrastructure
+ Collaborate on special projects with other infrastructure teams, including the network management team
+ Provide expert guidance and support on information security matters
+ Participate in IT Security Architecture reviews involving new solutions proposals from Vendors
+Laurentian Bank of Canada Montréal, QC
+Technical Analyst / IT Security Support June 2014 to February 2016
+ Dealt with IT security issues, including virus infections, email, file attachment and spam issues
+ Added certain group memberships when necessary in Active Directory
+ Assisted users connecting remotely to VPN with RSA tokens
+ Supported Information Security standards and processes
+ Key processes supported involve exposure to log management in VMWare VDI/Windows 7 and XP environments
+ Supported Internet Policy Enforcement, Data Loss prevention (DLP) policy, procedures and Mail filtering
+ Restored files and folders on request from users
+ Compliance with various regulations for financial institutions
+ Dealt with IT security incidents, and interface with various teams for escalations and resolution
+ Troubleshot anti-virus application issues, including manually updating virus definitions on hosts when necessary
+ Provided IT support to all users for all applications and systems in Windows and VMWare environment
+Independent Consultant via Corpus Conseil at BNP Paribas Montréal, QC
+IT Security - Account Services Administrator July 2013 to April 2014
+ Created, modified, and deleted network and application accounts.
+ Applied permissions for server share access.
+ Reset network and application account passwords.
+ Created APG groups and arranged for worldwide permissions.
+ Provided 24/7 support for account related issues.
+ Disabled accounts as part of the Compliance Ten Days Out policy.
+ Analyzed and resolved problems with accounts.
+ Liaised with IT Security groups and support worldwide.
+ Dealt with IT security incidents affecting user accounts.
+ Distributed software to image users via SDG Manager and SMS.
+ Provided on-site support for application migrations.
+ Maintained Software Licensing Vault.
+ Adherence to ISO processes and active involvement in process enhancement and development.
+ Updated and maintained documentation and user lists.
+ Compliance with various regulations for financial institutions, including PCI-DSS
+Integrity Canada
+Technical Support Analyst/ IT Security Support at BMO, Montreal, QC January 2012 to March 2013
+ Authenticated users for access rights to applications and systems
+ Added certain group memberships when necessary in Active Directory
+ Assisted users connecting remotely to VPN with RSA tokens
+ Reset passwords and Security tokens
+ Provided Security Administrators with support for Security applications such as ITIM and SSH
+
+
+
+
+
+
+
+
+
+
+
+
+Dealt with malware issues affecting single hosts
+Installed and configured antivirus software
+Configured Windows firewall on hosts
+Raised and escalated requests for firewall rules changes
+Supported Information Security standards and processes
+Key processes supported involve exposure to log management in Windows XP and 7 environments
+Supported Internet Policy Enforcement, Data Loss prevention (DLP) policy and procedures and Mail filtering
+Compliance with various regulations for financial institutions, including PCI-DSS
+Provided IT support for all users for all applications and systems
+Troubleshot remotely software and hardware problems
+
+QUANTUM Montreal, QC
+Support Analyst / IT Security Support at the NSC for Loblaws April 2010 to October 2011
+ Handled, investigated, and escalated IT Security incidents
+ Tested Network Connections, and escalated issues to diverse Resolution Groups
+ Authenticated users and reset passwords in Active Directory and AS/400
+ Provided overnight Support on a rotational Basis to Store clerks, Vendor Technicians and Contractors on Loblaws'
+sites for Server, router and switches upgrades, moves, adds and changes
+ Provided first point of contact support for Linux-based POS Systems to Loblaws Stores across Canada
+ Supported WMS (Manhattan and JDA) and TMS for Loblaws' Distribution Centers across Canada, and escalated
+critical incidents to specialized resolution groups
+ Assisted Office and Store Users with computer-related issues
+Kelly Services Montreal, QC
+Technical Support Analyst/ IT Security procedures Support for IBM Canada April 2009 to February 2010
+ Provided first point of contact technical and operational Support to Canada Post Clerks
+ Supported the Retail Point of Service Application for Canada Post, Systems, and Devices, including label, receipt,
+and report printers (Laser Printer), Verifone (Debit/Credit machine), Portable Data terminals, Cellular and Dialup
+Modems
+ Supported Windows XP based PCs through Remote Desktop Server. Checked network settings, corrected DNS IP
+addresses, and restored connection to networks on client systems.
+ Re-installed and configured devices remotely, and applied software updates
+ Dispatched vendor tickets after providing 2nd level support whenever necessary
+ Answered questions on Canada Post procedures and policies for postal transactions.
+ Assisted Users in resolving Cash management issues in the Point of Sales System
+Surrex Solutions Corporation St Louis, MO
+IT Consultant/ IT Security Support May 2008 to October 2008
+ Authenticated users and reset VPN passwords
+ Installed and configured antivirus software
+ Configured firewalls on hosts
+ Provided technical support to a variety of Users of a Multinational Corporation such as Nestlé.
+ Provided first point of contact support for handheld devices, including Pocket PCs, Blackberry, and scanners.
+ Acted as a Global Help Desk in troubleshooting various computer and Network problems,
+ Remotely troubleshot network printers, and dispatched technicians.
+ Assisted in the cross training of other associates in Brazil on Nestle Canada’s procedures for Technical Support.
+ Translated English procedures in French
+Foxconn Electronics Indianapolis, IN
+Computer Repair Technician September 2006 to May 2008
+ Repaired PCs and workstations in a computer manufacturing facility.
+
+
+
+Cooperated with Quality Engineering to reduce scrap.
+
+Accomplishments:
+Repaired over 5000 Workstations and PCs at a FOXCONN facility.
+Assisted with new systems tests.
+Collaborated with Quality Engineering to reduce scrap, and minimize production costs.
+Provided failure analysis and root cause reports to Management that helped minimize production costs related to scrap by
+up to US $200,000 for the client.
+Adecco Technical and Engineering Services Indianapolis, IN
+IT Contractor/Hardware Tests Engineering and Repair Specialist May 2006 to September 2006
+ Troubleshot and repaired computer systems at a computer manufacturing facility of FOXCONN and Hewlett
+Packard.
+ Gained exposure to Unix and Linux operating systems
+ Involved in hardware engineering tasks at all levels of production.
+ Repaired over 2000 PCs and Workstations.
+BELL INDUSTRIES, Indianapolis, IN
+Repair Associate January 2006 to May 2006
+Maintained and repaired all kinds of high quality inkjet printers, including Stylus photo all-in-one printers. Replaced defective
+hardware, including Print heads, and performed ECN on returned printers. Repaired over 500 printers.
+Freelance IT Support and Security Consultant Indianapolis, IN October 2002 to May 2006
+ Performed customization to computers as directed.
+ Provided several individuals and systems owners with computer-related services.
+ Implemented security measures, including firewalls and advanced BIOS configurations.
+ Dealt with several security breaches, including Trojan horses, worms and spam.
+ Monitored network performance in small home office LANs. Designed, and setup Small wireless networks.
+ Operating Systems supported were Windows 95, 98, NT, 2K, XP and Linux
+ Resolved issues involving TCP/IP, VPN, and DHCP connectivity on client systems
+TAC Worldwide Companies, Indianapolis, IN
+Systems Configuration Technician at Hewlett Packard July 2002 to October 2002
+ Used SFC and Lotus notes on IBM AS/400 systems to track production, and loaded images on systems.
+ Installed hardware components on servers, including SCSI Hard Drives, NIC, RAM, RIB, SCSI, CD, ZIP, DVD
+drives, Heat Sinks and Processors.
+ Built over 1000 systems, including workstations and servers.
+ Trained new Technicians.
+IT: User Support Services, Saint Peter’s College, Jersey City, NJ
+Computer and Network Technician / IT Security Support July 2001 to May 2002
+ Installed and configured antivirus software
+ Handled IT Security incidents to resolution
+ Participated in IT Security Audits
+ Participated in the design of new computer labs
+ Participated in the implementation of Security solutions
+ Managed Lab and Data Center access
+ Maintained and troubleshot school’s computers, and performed diverse operations in a network of over 500 nodes
+ Upgraded software on workstations in all of the college’s computer labs using Norton Ghost Multicast server, and
+replaced failed hardware components on computers
+ Deployed new systems, including PCs, Workstations and Desktop computers
+ Installed and setup network printers. Assisted with systems components inventory for the college
+
+
+
+
+
+Run and terminated network cable to a wireless access point on campus
+Setup a new Computer labs, and performed fiber optic installations on network backbones
+Participated in IT Security Architecture reviews involving new solutions proposals from Vendors
+
+

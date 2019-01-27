@@ -1,0 +1,375 @@
+CURRICULUM VITÆ
+Chargé de projet et programme
+PROFIL DE CARRIÈRE
+Il a 15 ans d’expérience en informatique, notamment en consultation et implantation de projets.
+Il a mené la livraison de nombreux projets à prix fixe et « en temps et matériel » dans des
+secteurs variés : télécommunications, ressources humaines, éducation, bancaire, pétrole et gaz
+ainsi que gouvernemental. Il maîtrise la planification et la livraison selon les méthodologies PMI,
+Agile (Scrum) et ASAP.
+Il a établi sa carrière en tant que gestionnaire de projets en préconisant une attitude de
+partenariat avec ses clients et un souci de les aider à atteindre leurs objectifs d’affaires. Il est
+reconnu pour sa fiabilité, ses compétences en leadership, en communication, en établissement
+des priorités et sa capacité à bien travailler dans des conditions stressantes. Il a reçu différentes
+nominations pour le titre de « chef de projet de l’année ».
+Son expérience couvre le cycle complet des projets : négociation et rédaction des contrats,
+définition de la portée, planification des horaires et des ressources, contrôle de l’avancement et
+production de rapports, contrôle financier, gestion des changements au cours du projet, gestion
+des risques et problèmes, assurance qualité et gérance de test, formation, documentation et
+transfert aux opérations.
+
+-1-
+
+Error! No text of specified style in document.
+Chargé de projet et programme
+
+TYPES D’INTERVENTIONS
+Méthodologies :
+
+Agile, Waterfall
+
+FORMATION
+Licence d’ingénierie en informatique et
+télécommunication
+
+NDU (Université Notre Dame)
+
+PERFECTIONNEMENT
+Microsoft Dynamics Nav
+SAP S&D
+Microsoft Dynamics CRM – Customer Care Accelerator & Integrated Contact Center
+Project Management Professional (PMP)
+Microsoft Project –gestion d’horaire avancée
+SAFE Agile Scrum Master (SSM)
+
+CONNAISSANCES LINGUISTIQUES
+Français, anglais et arabe
+
+cgi.com
+
+-2-
+
+Error! No text of specified style in document.
+Chargé de projet et programme
+
+EXPÉRIENCE PROFESSIONNELLE
+CONSEILLERS EN GESTION ET INFORMATIQUE (CGI)
+Gestionnaire de projets
+Décembre 2016 à présent
+Ses tâches ont été les suivantes:
+
+
+Définir la portée des travaux et mener la planification des projets dès la phase d’avant-vente jusqu’à
+la fin de la livraison. Traduire les besoins d’affaires des clients en exigences fonctionnelles et
+techniques, mobiliser l’équipe et livrer des projets complexes;
+
+
+
+Préparer des appels d'offres au nom des clients de CGI ainsi que répondre aux appels d'offres des
+clients en préparant des propositions de la part de CGI.
+
+
+
+Contribuer et gérer des projets d’implantation et de transformation tel que, le développement d’un
+nouveau système, l’intégration de différent systèmes, l’amélioration et la mise à jour des systèmes
+existants
+
+
+
+Coordonner entre les parties prenantes internes et externes de plusieurs entreprises, unités et
+programmes pour parvenir à un accord commun.
+
+
+
+Mettre en place les méthodologies, procédures et politiques de livraison des projets TI
+
+Occupation du nouveau centre de traitement – Hydro Québec – Énergie
+Hydro Québec a construit un nouveau centre de traitement tier 3 pour anticiper la croissance des
+besoins de capacité de traitement des systèmes informatiques. Le programme consiste à déménager la
+fondation technique suivie par les services d'affaires des multiples centres de traitements existants de tier
+1 et 2 vers le nouveau centre en tenant compte des exigences de disponibilité, de redondance, de
+pérennité et de mise en déroute de chaque système et service. L'immense entreprise a été divisée en
+plusieurs phases, projets et sous-programmes.
+Rôle: intégrateur et assurance de qualité.
+Gestion des actifs – Ville de Montréal – Gouvernemental
+Gestion des actifs du Service de l'eau de la Ville de Montréal. Les tâches consistent à intégrer Maximo,
+Maximo spatial et SIMON ainsi que le développement de différentes API et le déploiement du produit final
+à travers les différents environnements (DEV, TEST, ACC, INT, Pre-PROD, PROD). La portée comprend
+le développement de nouveau modèles de données pour le chargement de chaque type d’actif dans
+Maximo, l’optimisation des modèles de données spatiales, ainsi que l’introduction d’un identifiant
+universel (UUID) pour faciliter la communication entre les différentes bases de données.
+Rôle: chargé de projet – 20M$, 30 000 jours/personne, environ 30 ressources.
+Modernisation de la plateforme géomatique – Ville de Montreal – Gouvernemental
+
+cgi.com
+
+-3-
+
+Error! No text of specified style in document.
+Chargé de projet et programme
+Le déploiement d'une nouvelle plateforme géomatique qui compromet un système interne qui offre des
+services analytiques, transactionnels et cartographiques ainsi qu'un service Web externe qui expose ces
+services aux différents clients de la Ville de Montréal. La portée comprend l’amélioration des procédures
+d’affaires, la construction d’une base de données centrale, la communication en lecture et écriture entre
+la base de données centrale et ceux des différents clients de la plateforme (accès transactionnel), ainsi
+que l’optimisation des modèles de données spatiales. Le but de cette plateforme est d'aider à établir
+Montréal comme une ville intelligente avec des technologies qui soutiennent les applications mobiles,
+crowdsourcing et l'utilisation d'IdO.
+Rôle: chargé de projet – 4.7M$, 3 750 jours/personne, environ 10 ressources.
+
+cgi.com
+
+-4-
+
+Error! No text of specified style in document.
+Chargé de projet et programme
+
+HEWLETT PACKARD ENTERPRISE (HPE)
+Chargé de projet et de programme
+Mars 2008 à juin 2016
+Ses tâches ont été les suivantes:
+
+
+définir la portée des travaux et mener la planification des projets dès la phase d’avant-vente jusqu’à
+la fin de la livraison. Traduire les besoins d’affaires des clients en exigences fonctionnelles et
+techniques, mobiliser l’équipe et livrer des projets complexes;
+
+
+
+gérer de grandes équipes multiculturelles et des projets de millions de dollars pour des grandes
+entreprises et organisations dans la région EMEA. Livrer différents types de projets (applications,
+SAP, ERP, Cloud, Big Data, infrastructure informatique, etc.).
+
+Responsabilités principales :
+
+
+déterminer la méthodologie;
+
+
+
+prévoir les coûts et les revenus;
+
+
+
+créer les plans de communication;
+
+
+
+créer les plans de livraison;
+
+
+
+définir la portée des travaux;
+
+
+
+contrôler et rapport de progrès;
+
+
+
+mettre en place des procédures de contrôle des changements;
+
+
+
+préparer et animer des formations;
+
+
+
+gérer les données financières du projet;
+
+
+
+documenter les leçons apprises;
+
+
+
+mettre en place la gouvernance;
+
+
+
+identifier et atténuer les risques;
+
+
+
+identifier les compétences requises;
+
+
+
+préparer les propositions techniques et commerciales;
+
+
+
+développer le plan de ressources;
+
+
+
+mener les réunions de projet;
+
+
+
+gérer les problèmes et les conflits;
+
+
+
+développer des plans de test;
+
+
+
+mener les négociations des contrats;
+
+
+
+clôturer le projet.
+
+cgi.com
+
+-5-
+
+Error! No text of specified style in document.
+Chargé de projet et programme
+
+Smart City Cloud and Big Data Platform – Dubaï Ville intelligente – Gouvernemental
+Ce projet visait à transformer Dubaï pour qu’elle devienne l’une des principales villes intelligentes au
+monde. Le programme consistait à ingérer les données provenant de 400 sources de données, y compris
+l’IdO, les entités gouvernementales, les médias sociaux et les entreprises de télécommunications. Les
+données ingérées devaient ensuite être structurées et interrogées par des outils d’analyse de
+mégadonnées pour être présentées aux utilisateurs à l’aide de tableaux de bord personnalisés. Ce projet
+a nécessité le déploiement d’une nouvelle infrastructure pour un site principal et un site de reprise après
+sinistre, avec une plateforme infonuagique développée pour fournir une solution IaaS et PaaS à travers
+une plateforme de « Fenêtre à Dubaï » pouvant être utilisée par le public pour héberger des applications.
+En outre, les plateformes ont dû être sécurisées et surveillées, et les procédures de gestion des services
+ont dû être développées afin de les remettre aux opérations dans le cadre d’un accord de services gérés.
+Rôle: chargé de programme – 120M$ (matériel, logiciel et RH), 60 000 jours/personne, environ 120
+ressources.
+Infrastructure en nuage convergé – Université de New York à Abu Dhabi – Éducation
+Ce projet portait sur la conception et l’implantation, dans un nuage public convergé, d’une infrastructure
+service (IaaS) couvrant le tissu informatique, la sauvegarde, la reprise après sinistre, la gestion du cycle
+de vie des informations et l’archivage. Il a nécessité la définition du catalogue de services et des cas
+d’utilisation pour la fourniture de machines physiques et virtuelles ayant plusieurs spécifications
+informatiques, systèmes d’opérations et tailles de stockage. Il fallait effectuer la migration des bases de
+données, la documentation des procédures de fonctionnement standard de tous les systèmes, le soutien
+post opération et la prestation de la formation.
+Rôle: chargé de programme – 9M$ (matériel, logiciel et RH), 4 000 jours/personne, environ 25
+ressources.
+
+Infrastructure de centre de commande – Université de New York à Abu Dhabi – Éducation
+Conception et implantation de LANDesk Management Suite (LDMS) pour fournir une solution de centre
+de commande afin de gérer l’environnement de l’utilisateur final. Activités : installation et configuration du
+matériel, construction de machines virtuelles, documentation et formation.
+Rôle: chargé de programme – 3M$ (matériel, logiciel et RH), 1 500 jours/personne, environ 10
+ressources.
+
+Services professionnels – Université de New York à Abu Dhabi – Éducation
+Entente en temps et matériel pour soutenir l’organisation en engageant des ressources clés à des postes
+clés et autonomiser l’équipe de la clientèle dans la transition vers le nouveau style de l’informatique.
+Rôle: chargé de programme – 5M$, 4 000 jours/personne, 8 ressources.
+
+Cloud privé et Enterprise Management Suite – First Gulf Bank – Services bancaires
+Conception et implantation d’un logiciel service (SaaS) en nuage. Automatisation, gestion de la
+configuration, gestion des services informatiques, gestion des services d’affaires, gestion du stockage,
+gestion d’actifs, gestion des transactions financières, rapports consolidés et solutions de contrôle. Mise à
+jour du catalogue de services TI et la définition des processus ITIL.
+
+cgi.com
+
+-6-
+
+Error! No text of specified style in document.
+Chargé de projet et programme
+Rôle: chargé de projet – 4.5M$ (logiciel et RH), 2 880 jours/personne, 18 ressources.
+
+Découverte d’infrastructure et planification de migration – Aéroport de Dubaï – Gouvernemental
+Ce projet visait à découvrir l’ensemble de l’infrastructure (serveurs, stockage, bases de données et
+applications) dans tous les centres de données de l’aéroport de Dubaï en utilisant le logiciel automatisé
+Universal Discovery (UD), ainsi que la découverte physique. Le résultat de la découverte a ensuite été
+utilisé pour effectuer la cartographie des services pour l’infrastructure découverte et à fournir un plan de
+consolidation et de migration vers un nouveau centre de données basé sur la virtualisation et
+l’optimisation de l’infrastructure. De plus, un plan de reprise après sinistre basé sur le plan de migration
+proposé a été fourni.
+Rôle: chargé de projet – 3.6M$, 2 400 jours/personne, environ 12 ressources.
+
+Implantation et migration de centre de données – Département de Tourisme de Dubaï –
+Gouvernemental
+Ce projet visait à concevoir et à construire une nouvelle infrastructure de centre de données couvrant
+l’informatique, le stockage, la sauvegarde, la virtualisation, le réseau et la sécurité de réseaux. Dans ce
+contexte, il a fallu effectuer la migration de stockage et d’applications vers la nouvelle infrastructure.
+Rôle: chargé de projet – 1.8M$, 1 200 jours/personne, environ 10 ressources.
+
+Migration de centre de données – Banque QNB – Services bancaires
+Ce projet visait à découvrir l’ensemble de l’infrastructure (serveurs, stockage, bases de données et
+applications) dans le centre de données de la banque QNB en utilisant le logiciel automatisé Universal
+Discovery (UD), ainsi que la découverte physique. L’équipe a effectué la cartographie des services pour
+l’infrastructure découverte et elle a fourni un plan de migration vers le nouveau centre de données
+(nombre de phases à compléter et systèmes spécifiques déplacés pendant chaque phase).
+Rôle: chargé de projet – 2.3M$, 1 500 jours/personne, environ 15 ressources.
+
+Centre de données DR – Propriétés Majid Al Futtaim – Secteur immobilier
+Ce projet portait sur la conception et l’implantation d’une architecture extensible de reprise après sinistre
+répondant aux exigences de RPO et RTO et d’un plan de reprise après sinistre à exécuter en cas de
+catastrophe informatique. Il fallait gérer les fournisseurs au cours de la migration des applications vers la
+nouvelle infrastructure.
+Rôle: chargé de projet – 2.7M$, 1 800 jours/personne, environ 15 ressources.
+
+Applications DR – Département de Tourisme de Dubaï – Gouvernemental
+Construction de l’infrastructure de reprise après sinistre pour les applications de billetterie électronique
+hébergeant les applications dans l’environnement DR et permettant la duplication avec le site principal.
+Activités : développement des procédures d’orchestration de reprise après sinistre, remise à l’équipe des
+opérations et exécution des manœuvres de reprise après sinistre tous les six mois.
+
+cgi.com
+
+-7-
+
+Error! No text of specified style in document.
+Chargé de projet et programme
+Rôle: chargé de projet – 2M$ (matériel, logiciel et RH), 960 jours/personne, 8 ressources.
+
+Implantation du nuage privé – Police de Dubaï – Gouvernemental
+Implantation d’une plateforme service (PaaS) en nuage privé en utilisant un logiciel Cloud HP pour
+l’approvisionnement des machines Windows ou Linux virtuelles et physiques ainsi que des bases de
+données Oracle ou SQL au-dessus d’un hyperviseur VMware ou Hyper-V.
+Rôle: Directeur de projet – 2.3M$ (matériel, logiciel et RH), 1 000 jours/personne, 8 ressources.
+
+Internet Gateway – Forces armées des Émirats arabes unis – Militaire
+Conception et implantation des différentes zones (périmètre, DMZ, intergiciels, base) régissant la sécurité
+entre l’Internet et l’intranet. Configuration des commutateurs de réseau, du pare-feu, des équilibreurs de
+charge et des appareils de prévention des intrusions.
+Rôle: chargé de projet – 2.4M$ (matériel et RH), 900 jours/personne, 8 ressources.
+
+Soutien des solutions Lawson et SAP HRIS – Schlumberger – Pétrole et gaz
+Entente de soutien en temps et matériel : soutien de niveau 3 pour les applications Lawson et SAP HRIS
+tout en respectant les ententes sur les niveaux de service mensuelles et en fournissant des rapports de
+suivi.
+Rôle: chargé de projet – 3M$, 3 000 jours/personne, 6 ressources.
+
+Implantation de SAP FI et MM – Compagnie Suez Oil – Pétrole et gaz
+Implantation du projet ERP qui couvrait les domaines de la finance, des matériaux et des contrats, et
+l’intégration avec les applications de maintenance d’usine. Fonctionnalités fournies : un module général
+de finance pouvant servir jusqu’à 99 unités d’affaires indépendantes et 80 000 entrées par mois, un
+module de comptabilité, de contrôle de budget et des coûts, de trésorerie, d’achats, de dédouanement,
+d’entreposage, de contrôle des matières, de maintenance d’usine, et un module de contrats.
+Rôle: chargé de projet – 3.5M$, 2 000 jours/personne, 12 ressources.
+
+Solution Airwide SMS Center – Etisalat – Télécommunications
+Implantation d’une solution de centre de SMS via deux passerelles AirGate Short Message Peer-to-Peer
+(SMPP) afin de permettre 3 000 connexions simultanées. Gestion des passerelles depuis le module de
+configuration Air Manager et une interface utilisateur d’administration.
+Rôle: chargé de projet – 2.2M$ (matériel et RH), 900 jours/personne, 8 ressources.
+
+cgi.com
+
+-8-
+
+Error! No text of specified style in document.
+Chargé de projet et programme
+
+Modernisation de SAP PI – WIND – Télécommunications
+Planification et implantation de l’installation et de la configuration de l’infrastructure et du système
+d’intégration de processus SAP (PI 7,31). Migration des services Web et des interfaces IP de l’ancien
+environnement SAP PI 7.0 pour avoir l’entreprise en cours d’opération sur le nouvel environnement.
+Rôle: chargé de projet – 1.5M$ (matériel et RH), 800 jours/personne, 8 ressources.
+
+cgi.com
+
+-9-
+
+

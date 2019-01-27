@@ -1,0 +1,535 @@
+CURRICULUM VITÆ
+Gestionnaire de projets
+PROFIL DE CARRIÈRE
+Gestionnaire de projets applicatifs  -  ERP, CRM & BI/EPM;
+Plus de 25 ans d'expérience dans le domaine des technologies de l'information;
+5 années en gestion de services professionnels TI;
+15 années dédiées à la gestion de projet pour des applications ERP, CRM & BI/EPM;
+Domaines : Ventes au détail/Distribution, Pharma, Assurances/Banque, Manufacturier, Aérospatial (Moteur), notamment les clients suivants :
+   o Couche-Tard;
+   o JE Mondoux;
+   o Familiprix;
+   o Ultramar (Distribution);
+   o Price Costco;
+   o RONA (Relation client-fournisseur chez Keyrus).
+Reconnu pour ses qualités de décideur et de stratège; 
+Leader collaboratif.
+
+
+COMPÉTENCES TECHNIQUES
+Logiciels Productivité :
+Microsoft Office suite, MS Projet 2010, MS Dynamics CRM, Replicon Timesheets
+Logiciels collaboratifs :
+JIRA, OnTime, TFS
+Méthodologies :
+MS Dynamics SureStep, PMBOK
+Langages/outils programmation :
+VB/VB Script, Visual Foxpro, Progress, Cobol, HTML, .NET, PL/SQL, SQL Plus
+Base de Données :
+Oracle, SQL Server, MS Access
+Outils de modélisation :
+MSVisio, TOAD Modeler
+FORMATION
+1991
+Cours de programmation (Modula, Assembleur, Clipper 5.2, DBase III Plus)
+Université du Québec à Montréal
+1984
+Bac. Administration
+Université d'Ottawa
+CERTIFICATIONS
+2015
+Microsoft  -  Managing Microsoft Dynamics (MB5-705)
+2007
+Project Management Professional (PMP)
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+                          EXPÉRIENCE PROFESSIONNELLE
+KEYRUS CANADA INC (Services Conseils en BI / EPM / CRM)
+	Directeur bureau de projets 
+	Novembre 2012 à juillet 2015
+Gérer la livraison de services professionnels en Intelligence d'Affaires (IA) et Customer Relationship Management (CRM) de 40 à 70 professionnels;
+Livraison de 60,000 à 90,000 heures/hommes par année en services professionnels IA/CRM;
+Définir et mettre en place les meilleures pratiques en gestion de projet pour Keyrus Canada;
+Définir et maintenir le porte-folio de projets de Keyrus Canada; 
+Gérer les relations clients-fournisseurs, notamment avec RONA;
+Définir les mesures de performances des projets Révision de la performance des projets; 
+Révision des livrables des projets; 
+Formation des chargés de projets et accompagnement en prestation sur des projets; 
+Définition de l'offre Gestion de Projet et Bureau de Projet; 
+Membre du Comité de Direction de Keyrus Canada.
+Gestionnaire de projet
+Octobre 2006 à juillet 2015
+Tâches principales :
+Équipe de 2 à 8 ressources (selon les projets, peut inclure des ressources des clients);
+Définition de l'énoncé de projet et du plan de projet;
+Définition des échéanciers et livrables;
+Rencontres de suivi, agendas et minutes;
+Rapports : Statut de projet, statut budgétaire, avancement des travaux;
+Suivi des points de litiges et des opérations;
+Fermeture (rencontre 360 et post-mortem, rentabilité et fermeture).
+--------------------------------------------------------------------------------
+Barreau du Québec	
+	Mai à juillet 2015
+Projet Implantation CRM 2012
+Coacher et supporter le gestionnaire de projet dans ses activités et ses actions dans le cadre d'un projet en mode forfaitaire visant à implanter une solution CRM 2012 faites sur mesure pour les 12 différents départements du Barreau du Québec.
+Environnement :	CRM 2012, MS Office, MS Project, Visio
+--------------------------------------------------------------------------------
+Groupe Deschênes Inc.	
+	Janvier à juillet 2015
+Projet Entrepôt Données Inventaire (1000 heures/personne)
+Gérer une équipe de 4 ressources (1 analyste-développeur et 2 développeur Keyrus et 1 analyste Groupe Deschenes) pour faire le développement d'une application d'intelligence d'affaires comportant des data marts et cubes utilisant les outils d'intelligence d'affaires de Microsoft (SQL Server 2012, SSIS, SSAS) ciblant les informations des inventaires des 8 centres d'affaires de Groupe Deschenes.
+Environnement :	Suite Microsoft BI  -  SSIS/SSAS/SSRS, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Pratt & Whitney Canada
+	Novembre 2012 à décembre 2014
+Projet Support Hebdomadaire - Plateforme CRM (5000 heures/personne)
+Gérer la mise en place et le suivi de la phase de support post-implantation du projet CRM MS Dynamic  -  Phase 1. L'équipe consiste de 1 à 2 analyste- développeurs de Keyrus et 1 à 2 analystes de Pratt & Whitney selon les périodes. Les ressources Keyrus apportent les modifications et les ressources Pratt Whitney font le pont avec les usagers, font le tri des besoins et se chargent de faire les tests d'acceptation.
+Projet CRM  -  Migration a CRM 2013 et Re-Design du formulaire du Case (2,000 heures/personnes)
+Migrer la plateforme Microsoft CRM Dynamics 2011 à Microsoft CRM Dynamics 2013. Par la même occasion gérer une équipe de 5 personnes afin de refaire toute la section Case de l'application CRM Dynamics de Pratt & Whitney. La section Case sert à créer et faire le suivi des évènements et incidents liés aux moteurs de Pratt & Whitney et, après utilisation, les commentaires sont que la section est peu conviviale et lourde à utiliser. Le projet a pour but d'alléger la saisie des informations et de séquencer la saisie des informations selon les besoins des utilisateurs.
+Projet CRM  -  Intégration CRM Dynamics et Spotlight (500 heures/personnes)
+Gérer une équipe de 3 personnes afin de créer une passerelle entre CRM Dynamics et une application satellite appelée Spotlight du fournisseur Casebank. L'application Spotlight est utilisée pour faire le suivi des diagnostics des moteurs en utilisation par les clients.
+Projet CRM  -  Implantation Nouveau Service Ticket (700 heures/personnes)
+Gérer une équipe de 5 personnes afin de refaire toute la section Service Ticket de l'application CRM Dynamics de Pratt & Whitney. La section Service Ticket sert à créer et faire le suivi des évènements liés aux moteurs de Pratt & Whitney et, après une année d'utilisation, les commentaires sont que la section est peu conviviale et lourde à utiliser. Le projet a pour but d'alléger la saisie des informations et de séquencer la saisie des informations selon les besoins des utilisateurs.
+Projet CRM Phase 2  -  CFirst & Frontline (1,200 heures/personnes)
+Gérer une équipe de 5 personnes afin d'ajouter de nouvelles fonctionnalités et apporter des correctifs demandés par le bureau de support (nommé CFirst & Frontline). Ces ajouts et correctifs visent principalement à améliorer la passerelle entre CRM Dynamics et une application satellite appelée TRAC. Lors de la Phase 1, par soucis d'efficacité, cette passerelle a été livrée avec un minimum de fonctionnalités. L'application TRAC gère les incidents liés aux moteurs.
+Environnement :	CRM 2008, 2012, TFS, OnTime, MS Office
+--------------------------------------------------------------------------------
+Croix Bleue du Québec
+	Octobre 2008 à décembre 2010
+Data Mart Segmentation (9,000 heures/personnes)
+Gérer 5 personnes (soit 1 architecte, 2 développeurs de Keyrus et, 2 développeurs de CBQ) afin de mettre en place un entrepôt de données et un comptoir de données pour permettre à CBQ de faire des analyses et rapports sur la segmentation de ses produits et de ses lignes d'affaires Assurance Vie, Assurance Santé et Assurance Voyage. Les outils utilisés sont les outils d'intelligence d'affaires de Cognos 8 (Framework manager, Report Studio, Analysis Studio, Report Builder).
+Migration de rapports vers IBM Cognos 8 (10,000 heures/personnes)
+Gérer 6 personnes (soit 1 architecte, 2 développeurs de Keyrus et, ultimement, 3 développeurs de CBQ) afin de mettre en place un environnement de 200 rapports qui remplacent les rapports utilisés sur leurs anciens systèmes << mainframe >> et en utilisant les outils d'intelligence d'affaires de Cognos 8 (Framework manager, Report Studio, Analysis Studio, Report Builder).
+Environnement :	IBM Cognos 8.2, JIRA, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Sanofi Aventis
+	Octobre 2008 à avril 2009
+Projet WEB - PMO EU ITC
+Gérer une équipe de 2 personnes afin de créer une application WEB de gestion de projets utilisant les outils de développement de Microsoft (VB NET) pour les gestionnaires de projets de Sanofi-Aventis.
+Environnement :	IBM Cognos 8, VB et .NET, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Sopar International
+	Juin à août 2008
+Projet Implantation CRM 4.0
+Gérer une équipe de 6 personnes pour l'intégration de l'outil de gestion de la clientèle ainsi que le développement de fonctionnalités spécifiques utilisant les outils de gestion de la clientèle de Microsoft (CRM 4.0). Cet outil de gestion de la clientèle permet à la vingtaine de commerciaux de Sopar de faire un suivi des appels et rencontres de leurs clients et prospects. Il permet aussi à la direction de Sopar de mieux cibler sa clientèle et d'analyser la profitabilité de son processus de ventes.
+Environnement :	Microsoft Dynamics CRM 4, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Couche Tard
+	Juin 2008 à mai 2011
+Support, Maintenance & Ajouts a l'environnement BI
+Gérer une équipe de 1 à 3 personnes selon les urgences de support et les demandes d'ajouts de fonctionnalités faites par Couche Tard. L'équipe fait le support et le développement continu de l'entrepôt de données qui comprend des cubes et rapports d'intelligence d'affaires utilisant les outils d'intelligence d'affaires de Cognos 8 (Report Studio, Analysis Studio, Report Builder, DecisionStream, Data Manager) pour Couche Tard et ses bannières (Irving, CircleK, Macs). En plus du support quotidien qui requérait un effort de 3 jours par semaine, Couche-Tard avait des besoins d'évolution de son environnement d'intelligence d'affaires qui ajoutaient des projets ponctuels à la charge du support. Ces demandes de changements pouvaient être plus ou moins longue (10 jours pour un nouveau rapport, 8 mois pour migration a Cognos 10) et en général nous avions environ 20 de ces demandes de changements par année.
+Environnement :	IBM Cognos 8, MS SSIS, Visio, MS Office
+--------------------------------------------------------------------------------
+Sanofi Aventis 
+	Mars à juin 2008
+Projet WEB - DEC Initiative
+Gérer une équipe de 5 personnes pour faire le développement d'une application WEB de saisie d'informations et d'un entrepôt de données comportant des cubes et rapports utilisant les outils d'intelligence d'affaires de Cognos 8 (Report Studio, Analysis Studio, Report Builder) et les outils de développement de Microsoft (.NET) pour les représentants de Sanofi-Aventis. L'application DEC permet aux commerciaux de Sanofi de faire le suivi des rencontres, appels et échantillons laissés aux médecins. L'application permet de faire un recoupage des ventes par praticiens en regard du cout (rencontres, appels, échantillons, etc.).
+Environnement :	IBM Cognos 8, VB et .NET, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Boomerang Tracking 
+Implantation d'une plateforme Intelligence d'Affaires	Juin 2007 à décembre 2008
+Projet Cube Contrats (300 heures/personnes - Novembre 2008 à Décembre 2008)
+Gérer une équipe de 2 personnes pour la rédaction de l'analyse d'une application d'intelligence d'affaires comportant des cubes, tableaux de bord et rapports utilisant les outils d'intelligence d'affaires de Microsoft (SQL Server 2005, SSIS) et Cognos 8 (Report Studio, Analysis Studio, Report Builder) ciblant les informations liées aux contrats de retraçage de véhicules de Boomerang Tracking.
+Projet Cube Ventes et Contacts (1100 heures/personnes - Juin 2007 à Décembre 2008)
+Gérer une équipe de 3 ressources (1 analyste-développeur et 1 développeur Keyrus et 1 analyste Boomerang) pour faire le développement d'une application d'intelligence d'affaires comportant des cubes, tableaux de bord et rapports utilisant les outils d'intelligence d'affaires de Microsoft (SQL Server 2005, SSIS) et Cognos 8 (Report Studio, Analysis Studio, Report Builder) ciblant les informations de ventes de l'entreprise de retraçage de véhicules Boomerang Tracking.
+Environnement :	IBM Cognos 8, MS SSIS, MS SSAS, MS SSRS, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Labbott Laboratories 	
+	Mai à juillet 2007
+Projet Humira Brogan datamart
+Gérer une équipe de 2 personnes (1 analyste-développeur de Keyrus et 1 analyste de Abbott) pour le développement d'une application d'intelligence d'affaires comportant des cubes et rapports utilisant les outils d'intelligence d'affaires de Cognos 8 (Transformer, Report Studio, Analysis Studio, Report Builder) qui permet l'analyse de produits de la ligne Humira des Laboratoires Abbott.
+Environnement :	IBM Cognos 8, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+J.E. Mondou
+	Avril à juillet 2007
+Projet Cube d'Achats et Inventaire
+Gérer une équipe de 2 personne pour faire le développement d'une application d'intelligence d'affaires comportant des cubes et rapports utilisant les outils d'intelligence d'affaires de Microsoft (SQL Server 2005, SSIS, SSRS) ciblant les informations d'achats et de l'inventaire de l'entreprise de distribution de nourriture pour animaux J.E. Mondou.
+Environnement :	Suite Microsoft BI  -  SSIS/SSAS/SSRS, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Actelion Pharmaceuticals
+	Mars à mai 2007
+Projet POC Cognos
+Gérer une équipe de 1 personne (analyste-développeur) pour le développement d'une preuve de concept (POC) d'intelligence d'affaires comportant des cubes, tableaux de bord et rapports utilisant les outils d'intelligence d'affaires de Cognos 8 (Transformer, Report Studio, Analysis Studio, Report Builder) afin de permettre l'analyse du produit vedette d'Actelion.
+Environnement :	IBM Cognos 8, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Sanofi Aventis
+	Octobre 2006 à octobre 2007
+Projet Sales Dashboard
+Gérer une équipe de 2 personnes pour le développement d'un entrepôt de données comportant des cubes, tableaux de bord, carte de pointage et rapports utilisant les outils d'intelligence d'affaires de Cognos 8 (Report Studio, Analysis Studio, Report Builder et Metrics Studio) et qui permet à Sanofi de rapidement avoir l'information de ses ventes par lignes de produits dans une série de tableaux de bord.
+Environnement :	IBM Cognos 8, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Familiprix
+	Octobre 2006 à février 2008
+Projet Datamart Ventes & Achats
+Gérer une équipe de 5 ressources (2 analystes-développeurs de Keyrus, 2 analystes et 1 ressource technique Familiprix) pour le développement d'un entrepôt de données comportant des cubes et rapports utilisant les outils d'intelligence d'affaires de Microsoft (SQL Server, SSIS, SSRS). Ce premier entrepôt de données permet à Familiprix de suivre les achats et ventes de leurs produits (ventes directes) ainsi que des produits vendus par l'entremise de McKesson (ventes indirectes). Ils peuvent ainsi faire rapidement une réconciliation des ventes et des achats au siège social et dans les pharmacies.
+Environnement :	Suite Microsoft BI  -  SSIS/SSAS/SSRS, MS Project, Visio, MS Office
+--------------------------------------------------------------------------------
+Ultramar Canada
+Évolution de la plateforme BI Microsoft	Octobre 2006 à octobre 2008
+Projet Réconciliation des paiements (600 heures/personnes  -  Août à octobre 2008)
+Gérer une équipe de 3 personnes pour le développement d'un entrepôt de données comportant des cubes et rapports d'intelligence d'affaires utilisant les outils d'intelligence d'affaires de Microsoft (SQL Server, SSIS, SSRS) afin de permettre la réconciliation des paiements suite aux livraisons faites par les centres de distribution d'Ultramar.
+Projet Rapports Contrôle Inventaire (500 heures/personnes  -  Juin 2007 à février 2008)
+Gérer une équipe de 4 personnes pour faire le développement d'une série de rapports d'intelligence d'affaires utilisant les outils d'intelligence d'affaires de Microsoft (SQL Server, SSRS) et permettant à Ultramar d'analyser et vérifier les inventaires et les mouvements d'inventaire de ses produits pétroliers.
+Projet PIC - Rapports SSRS (400 heures/personnes  -  Octobre 2006 à décembre 2006)
+Gérer une équipe de 2 personnes pour compléter le développement d'une série de rapports d'intelligence d'affaires utilisant les outils d'intelligence d'affaires de Microsoft (SQL Server, SSRS).
+Environnement :	Suite Microsoft BI  -  SSIS/SSAS/SSRS, MS Project, Visio, MS Office
+
+LOGI.DESIGN (Firme de Services Conseil)
+Charge de projet & analyste/programmeur 
+Août 1993 à septembre 2006 (contractuel)
+Gestion, analyse, design et développement d'applications de gestion.
+Environnement :	VISUAL BASIC, ORACLE, SQL Server, VISUAL FOXPRO, PROGRESS et RM COBOL85
+--------------------------------------------------------------------------------
+PC Plus Logiciels
+	Mars 2005 à septembre 2006
+Projet Saisie et production de la paie
+Charge de projet et Analyste-programmeur : 
+Développer une application de paie, pour une compagnie de théâtre, spécifique à l'industrie des arts et du théâtre et communiquant avec le logiciel Fortune 1000.
+Tâches principales : 
+Charge de projet (1 personne);
+Modélisation de données;
+Modélisation des processus;
+Programmation;
+Mise en place de scénarios de tests.
+Projet Soumission de systèmes de réfrigération
+Charge de projet et Analyste-programmeur : 
+Développer une application de soumission s'intégrant à un logiciel de gestion déjà existant pour une entreprise d'installation de système de réfrigération.
+Tâches principales : 
+Charge de projet (2 personnes);
+Modélisation de données;
+Modélisation des processus;
+Programmation;
+Mise en place de scénarios de tests.
+Environnement :	Visual Foxpro 8, VBA, Excel
+--------------------------------------------------------------------------------
+Hydro-Québec
+	Octobre 2004 à septembre 2006
+Projet Plan Affaires
+Analyste-programmeur : 
+Compléter une application de mise en rapport (reporting) du plan d'affaire annuel de la division Production d'Hydro-Québec.
+Tâches principales : 
+Modélisation de données;
+Modélisation des processus;
+Programmation.
+Environnement :	VB6, SQL Server, VBA, Excel
+--------------------------------------------------------------------------------
+Banque Laurentienne
+	Septembre 2002 à septembre 2004
+Projet Rentabilité des Prêts Marchands
+Charge de projet et analyste-programmeur : 
+Compléter l'analyse et développer un entrepôt de données.
+Tâches principales : 
+Charge de projet (1 personne);
+Modélisation de données;
+Modélisation des processus;
+Programmation;
+Relations avec les clients et fournisseurs.
+Projet Amortissements des commissions
+Charge de projet et analyste-programmeur : 
+Développer et implanter une solution de calcul automatisé des amortissements de commissions attribuées aux conseillers.
+Tâches principales : 
+Charge de projet (2 personnes);
+Modélisation de données; 
+Modélisation des processus;
+Programmation.
+Projet Gestion des Plaintes
+Charge de projet et analyste-programmeur : 
+Améliorer une application existante de gestion des plaintes faites à la Banque Laurentienne.
+Tâches principales : 
+Charge de projet (3 personnes);
+Modélisation de données;
+Modélisation des processus;
+Programmation;
+Mise en place de scénarios de tests.
+Projet Gestion des Structures
+Charge de projet et analyste-programmeur : 
+Re-design d'une application existante afin de permettre la distribution de cette application à différents usagers de la Banque Laurentienne.
+Tâches principales : 
+Charge de projet (3 personnes).
+Modélisation de données;
+Modélisation des processus;
+Programmation;
+Mise en place de scénarios de tests.
+Environnement :	VB6, MS Access, Oracle 8.0, Excel
+--------------------------------------------------------------------------------
+Urgences Santé
+	Octobre 2000 à juillet 2002
+Projet Suivi des Relations avec la Communauté
+Charge de projet et analyste-programmeur : 
+Développer et implanter une application de gestion et de suivi des rencontres communautaires faites par Urgences Santé.
+Tâches principales : 
+Charge de projet (2 personnes);
+Relations avec les clients;
+Modélisation de données;
+Modélisation des processus;
+Programmation;
+Mise en place de scénarios de tests.
+Projet Suivi d'Inventaire Véhiculaire
+Charge de projet et analyste-programmeur : 
+Développer et implanter une application de gestion des inventaires à bord des véhicules ambulanciers.
+Tâches principales : 
+Charge de projet (3 à 7 personnes);
+Analyse préliminaire;
+Relations avec les fournisseurs;
+Modélisation de données;
+Modélisation des processus;
+Programmation;
+Rédaction et mise en place de scénarios de tests.
+Projet Gestion de Politique d'Assiduité au Travail
+Charge de projet et analyste : 
+Produire une analyse pour une application de gestion des assiduités (présence/absence) des employés.
+Tâches principales : 
+Charge de projet (3 personnes);
+Relations avec les clients;
+Modélisation de données;
+Modélisation des processus;
+Rédaction et mise en place de scénarios de tests.
+Environnement :	VB6, SQL Server, MS Access, Crystal Report, technologie sans fil 802.11b, UML, MS Project
+--------------------------------------------------------------------------------
+Recycan
+	Septembre 2001 à décembre 2004
+Projet Bon de Commande et Facturation
+Charge de projet et analyste-programmeur : 
+Supporter et améliorer une application de gestion de facturation.
+Tâches principales :
+Charge de projet (2 personnes);
+Relations avec clients;
+Modélisation des processus;
+Programmation.
+Environnement :	VISUAL FOXPRO 6, Terminal Server, Windows XP
+--------------------------------------------------------------------------------
+Laboratoires Biron
+	Juin 2000 à décembre 2004
+Supporter et améliorer un système de Gestion d'Impression de Factures et Rapports (Access);
+Supporter et améliorer un système de Gestion de Transfert de Données (VB6/Oracle/Cobol).
+Tâches principales :
+Relations avec clients;
+Modélisation de données;
+Programmation.
+Environnement :	VISUAL BASIC 6, ORACLE, Fichiers Cobol, Access 2000, NT 4
+--------------------------------------------------------------------------------
+Bombardier Aerospace
+	Août 1999 à septembre 2000
+Projet NFTC - NATO Flying Training in Canada
+Charge de projet et analyste-programmeur : 
+Analyser et développer des rapports de gestion a intégrer au logiciel TMS (Training Management System).
+Tâches principales : 
+Charge de projet (3 personnes);
+Analyse préliminaire;
+Analyse fonctionnelle;
+Relations avec fournisseurs et clients;
+Modélisation des processus;
+Programmation.
+Environnement :	CRYSTAL REPORTS et ses outils pour le web, ORACLE 8, Lotus Notes 5.0, IIS, ASP, VBScript
+--------------------------------------------------------------------------------
+VIVA Soft Inc
+	Mai à juillet 1999
+--------------------------------------------------------------------------------
+Projet Transfert EDI  -  Douanes Canada
+Charge de projet et analyste : 
+Analyser une application de transfert de documents de dédouanement, par EDI, vers Douanes Canada (pour les clients de Vivasoft).
+Tâches principales : 
+Charge de projet (1 personne);
+Analyse fonctionnelle;
+Relations avec fournisseurs et fournisseurs;
+Modélisation des processus;
+Rédaction et mise en place de scénarios de tests.
+Projet Gestion de tarification de dédouanement
+Analyste-programmeur : 
+Support et développement de nouvelles fonctionnalités pour une application de gestion de dédouanement. 
+Tâches principales : 
+Charge de projet (2 personne);
+Relations avec clients;
+Modélisation des processus;
+Programmation.
+Environnement :	VISUAL FOXPRO 6.0, VISUAL BASIC 5, VISUAL BASIC 6, Windows NT 4.0, EDI
+--------------------------------------------------------------------------------
+Urgence-Santé
+	Septembre 1998 à novembre 1999
+Projet Facturation et recouvrement (transports ambulanciers)
+Analyste-programmeur : 
+Analyser et développer la portion recouvrement de cette application.
+Tâches principales : 
+Relations avec clients;
+Analyse fonctionnelle;
+Modélisation des données;
+Programmation;
+Rédaction et mise en place de scénarios de tests.
+Environnement :	PROGRESS 8.2c avec SmartObjects, Windows NT, intégration avec MS-WORD par OLE
+--------------------------------------------------------------------------------
+Banque Laurentienne
+	Janvier à septembre 1998
+Projet Système Image Client (SIM)
+Analyste-programmeur : 
+Développer une application d'identification de profils de clientèle de la Banque Laurentienne. 
+Tâches principales : 
+Analyse organique;
+Programmation;
+Rédaction et mise en place de scénarios de tests.
+Environnement :	VISUAL BASIC 5, ORACLE v8.0., PL-SQL {génération des procédures stockées}, SQL-PLUS {pour génération des vues}
+--------------------------------------------------------------------------------
+Price Costco
+	Octobre à décembre 1997
+Projet Saisies des commandes commerciales
+Analyste-programmeur : 
+Optimiser un système de saisie de commandes par utilisation de procédures stockées et du système transactionnel. Améliorations des techniques de manipulation de bases de données.
+Tâches principales : 
+Modélisation de données;
+Programmation.
+Environnement :	VISUAL BASIC 4, SQL Server sur NT 3.51, Win95 et Win 3.1
+--------------------------------------------------------------------------------
+ISM Inc.
+	Juin à octobre 1997
+Projet TPV (gestion des Terminaux de Points de Vente de la banque Nationale)
+Charge de projet et analyste-programmeur : 
+Supporter et améliorer un système client/serveur servant a maintenir des Terminaux Points de Ventes de la Banque Nationale.
+Tâches principales : 
+Charge de projet (4 personnes);
+Modélisation de données;
+Modélisation de processus;
+Programmation.
+Environnement :	VISUAL BASIC 4 en communication avec IBM 3270, AS-400, Tandem Base 24
+--------------------------------------------------------------------------------
+Banque Nationale
+	Juin 1997
+Analyser et écrire une interface entre le logiciel de paie de la Banque Nationale (Paie Evolutive) et les fonctions de saisie des heures de temps des caisses enregistreuses Gamma.
+Tâches principales : 
+Modélisation de données;
+Programmation.
+Environnement :	FOXPRO 2.6
+--------------------------------------------------------------------------------
+La Brasserie Molson
+	Avril à mai 1997
+Projet Gestion d'Assignation et Répartition du Personnel
+Analyste-programmeur : 
+Développer une application de gestion des affectations du personnel.
+Tâches principales : 
+Modélisation de données;
+Programmation.
+Environnement :	VISUAL BASIC 4.0, MS Access
+--------------------------------------------------------------------------------
+Bell Sygma
+Filiale informatique de Bell Canada	Mars 1996 à mars 1997
+Projet Saisies de Profil de la Clientèle
+Charge de projet et analyste-programmeur : 
+Analyser et développer une application de transfert de données permettant la facturation, par le système de Bell Canada, des appels téléphoniques des compagnies associées à Bell Canada.
+Tâches principales :
+Charge de projet (7 personnes);
+Analyse Préliminaire;
+Analyse Fonctionnelle;
+Modélisation de données;
+Programmation;
+Rédaction et mise en place de scénarios de tests.
+Environnement :	VISUAL BASIC 4.0, MS Access, ISPF-TSO
+--------------------------------------------------------------------------------
+Integra Consultants inc.	Analyse, développement et support 
+	d'applications de gestion
+	Juillet 1995 à février 1997
+Principalement, j'étais à la disponibilité de 2 firmes informatiques pour aider dans le développement et l'analyse de logiciels de gestion destinés à leurs propres clients.
+Les clients d'Integra pour lesquels j'ai travaillé :
+Association des golfeurs professionnels du Quebec 
+Support et amélioration d'un système de Gestion des Tournois de Golf.
+Tâches principales : 
+Analyse Fonctionnelle;
+Modélisation de données.
+Environnement :	VISUAL FOXPRO 3.0
+Recycan inc. (Récupération de cannettes. Filiale des Brasseries Labbat et Molson)
+Supporter et améliorer un système de Bon de Commande et Facturation.
+Environnement :	VISUAL FOXPRO 6
+Cap finance inc. (Institution financière)
+Gérer, analyser et écrire un système de Gestion de Financement d'Appareils Électroniques.
+Environnement :	FOXPRO 2.5, WINDOWS NT
+Tactician Canada (Distributeur, développeur/ intégrateur d'outils de géomatique)
+Analyste et concepteur d'applications géomatiques utilisant le logiciel TACTICIAN qui permet de créer des outils de visualisation des données et des performances corporatives.
+Tâches principales : 
+Modélisation de données.
+Environnement :	FOXPRO 2.5 pour réplication des données, VISUAL BASIC 3.0 pour interface graphique
+--------------------------------------------------------------------------------
+MSAS Cargo INT'L
+Transitaires en fret aérien et maritime	Janvier à juin 1995
+Gérer, analyser et écrire un système de Gestion des Opérations de Fret.
+Tâches principales : 
+Analyse Fonctionnelle;
+Modélisation de données.
+Environnement :	FOXPRO 2.6, UNIX
+--------------------------------------------------------------------------------
+Montreal Trust 
+Compagnie Fiduciaire	Septembre à décembre 1994
+Développement/maintenance - Gestion des Certificats (Revenus, Taux ascendant).
+Tâches principales : 
+Analyse Fonctionnelle.
+Environnement :	FOXPRO 2.5, NOVELL 3.11
+--------------------------------------------------------------------------------
+Association des golfeurs professionnels du Québec 
+	Janvier à avril 1994
+Support et amélioration d'un système de Gestion des Tournois de Golf.
+Environnement :	FOXPRO 2.0
+--------------------------------------------------------------------------------
+Integra consultants inc.	Analyse, développement et support 
+Consultants / Développeurs logiciels	d'applications de gestion 
+de gestion avec langage Foxpro, Progress et Cobol	Août 1990 à août 1993
+Principalement, j'étais à la disponibilité de 2 firmes informatiques pour aider dans le développement et l'analyse de logiciels de gestion pour leurs propres clients (soirs et weekends).
+Les clients d'Integra pour lesquels j'ai travaillé :
+T.T.A. INC. (Transitaires en fret aérien et maritime)
+Gérer, analyser et écrire un système de Distribution de Colis et Marchandises.
+Tâches principales : 
+Analyse Fonctionnelle;
+Modélisation de données.
+Environnement :	RM-COBOL85, UNIX
+Association des golfeurs professionnels du Québec 
+Gérer, analyser et écrire un système de Facturation et Encaissements;
+Supporter et améliorer un système de Gestion des Tournois de Golf.
+Tâches principales : 
+Analyse Fonctionnelle;
+Modélisation de données.
+Environnement :	FOXPRO 2.0
+Yanner transport (Compagnie de transport par camion)
+Restructuration comptable/informatique (conciliation recevables, payables, banque, etc.);
+Analyse et procédurier des opérations, recommandations à la direction.
+MCDS Informatique Inc. (Développeur d'un logiciel de transport avec langage Foxpro)
+Le client de MCDS Informatique pour lequel j'ai travaillé :
+Recycan inc. (Transporteur de matières à recycler)
+Supporter et améliorer un système de Bons de Commande et Facturation.
+Environnement :	FOXPRO 2.5, Lantastic
+FUTUR BYTE INFORMATIQUE INC. 
+(Consultants et intégrateurs en logiciels de gestion/ERP)
+Responsable du support et de la formation
+Août 1990 à août 1993
+Analyse, formation/intégration/support téléphonique des logiciels RealWorld et Luc Bouchard Ass. (Inventaire, point de vente, facturation, commande d'achats, comptabilité);
+Formation aux usagers sur réseau Novell 2.2 et 3.11;
+Supervision des membres de l'équipe de support et de formation (4 équipiers).
+Tâches principales : 
+Analyse Fonctionnelle
+Environnement :	FOXPRO 2.0, CLIPPER, DOS 5.x, Novell 2.2 ET 3.11, SCO UNIX SYSTEM V, WINDOWS, WORD 2.0, WordPerfect, LOTUS, Realworld Acctg, LUC BOUCHARD ET ASS., Fortune 1000, Avantage, Accpacc, Bedford
+Equipements :	IBM COMPATIBLES
+Evolution, groupe informatique inc. (Coassocié)	Responsable du service et 
+	support à la clientèle
+	Juin 1988 à juillet 1990
+Développement d'un logiciel qui simule un point de vente, gère inventaire et ventes et facilite la promotion/marketing auprès des clients;
+Analyse du logiciel, implantation, formation et support des usagers;
+Supervision d'une équipe volante de 2 formateurs;
+Commercialisation du logiciel.
+Tâches principales : 
+Analyse Fonctionnelle;
+Modélisation de données.
+Environnement :	RM COBOL85, DOS, SCO UNIX SYSTEM V, WORD, WordPerfect, LOTUS, PAGEMAKER, HARVARD GRAPHICS
+Equipements :	IBM COMPATIBLES
+APPROSOFT INC. 
+(Consultants et développeurs en logiciels de gestion/ERP)
+Responsable de la formation et du support à la clientèle
+Mars 1986 à mai 1988
+Analyse/Formation/Intégration/Support sur logiciel pour Hôtellerie / Restauration;
+Assistance aux ventes - démonstration, séminaire, création du matériel marketing;
+Supervision d'une équipe de 2 formateurs.
+Tâches principales : 
+Analyse Fonctionnelle.
+Environnement :	DOS, UNIX, WordPerfect, LOTUS, EXCEL, UNIPLEX, SUPERCALC, PAGEMAKER
+Equipements :	IBM COMPATIBLES
+CHALUT LTÉE (Fournisseurs de produits de beauté professionnels)
+	Représentant des ventes
+Territoires : Montréal Centre; Montréal Est et Nord	Juillet 1984 à février 1986
+

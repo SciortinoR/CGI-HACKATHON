@@ -1,0 +1,103 @@
+
+							
+Nom63 Prénom63
+E-mail: prenom63.nom63@gmail.com [HYPERLINK: mailto:prenom63.nom63@gmail.com]                                                     Mobile No. : +téléphone63
+
+Contribute to organization success with my knowledge and skills acquired by being an integral part of the team. Provide world class service and support to our clientele by learning latest technologies in the market and act in the best interest of our organization.
+Academics:
+Qualification
+Awarding body
+Academic period
+Result (%)
+Bachelor of Technology -  Electronics & Communications
+Université63, Hyderabad
+2006 - 2010 
+65.97%
+Intermediate
+Board of Intermediate Education
+2004 - 2006
+74.9%
+Secondary School Certificate
+Board of Secondary Education
+2003 - 2004
+87.5%
+
+Professional Summary:
+ Currently working as Senior Support Engineer in Entreprise63-1, Bangalore with 6 years of experience. I have been with Entreprise63-1 since May 2013.
+ Strong Inclination towards Banking & Banking Products.
+ Having expertise in Business & technical skills for the development, implementation and handling various types of IT applications within Banking Domain.
+ Having communication skills, client interaction skills.
+ Ability to interact with Managers and Technical Personnel.
+ Having good knowledge on estimations, project planning, project tracking and controlling, quality, working with multiple IT projects.
+ Participated in Client meetings to resolve the sustaining production issues and newly added features.
+ Having good management and technical knowledge with hands on development experience in UNIX shell scripting and Oracle.
+
+Good interpretation skills, commitment, result oriented, hardworking with eager to learn new technologies and undertake challenging tasks and work as part of a team and provide 24x7 support when required.
+Technical skills:
+ Operating System				: Linux
+ Languages					: SQL, PL/SQL, UNIX shell scripting.
+ Database					: Oracle, SQL Server
+ Tools						: TOAD, Control-M,SQL Developer, Service Now
+ Proficient Microsoft Skills			: Excel,Word,Powerpoint
+
+
+Management Skills:
+ Development of plans and schedules.
+ Project status and health reporting-customer as well as senior management
+ Team building and Relationship.
+
+Work Experience:
+Assignment 1:
+Worked for the project Smart stream/Transaction Lifecycle Management Reconciliation in Entreprise63-2, Bangalore as Software Engineer from September 2010 to May 2013 in Service Operations Group under BFSI Domain.
+
+Role: Software Engineer
+Client: Entreprise63-3
+Description: 
+Entreprise63-3 Reconciliation involved in reconciliation processes of Entreprise63-3 which gets various Ledger Feeds from Various Entreprise63-3 Applications and Statement feeds from other banks for the Reconciliation into SSR or TLM application.
+It performs automatic reconciliation of accounts relating to Cash and/or Securities transactions that have occurred between the Financial Institution and its correspondents. Internal Ledgers (the Institution's own records) and external Statements (equivalent records provided by its correspondents), or even two Statements or two Ledgers, can be matched automatically. Reconciliations identifies and analyses the various types of differences that arise as a result of the match tolerances that have been used, enabling you to achieve full reconciliation of account balances. Reconciliations can produce reports from a pre-defined collection.
+TLM provides an integrated solution for the reconciliation of cash and securities positions and transactions. It is fully automated and provides straight-through processing from input to validation, matching, automatic creation and resolution of investigations cases and transmission of correspondence. TLM/SSR is supported 24 x 5 having Installation across all the geographies.
+Assignment 2:
+Working for Accounting and Finance applications in Entreprise63-2 
+Center, Bangalore as Senior Support Engineer from May 2013 to till date 
+
+Role: Production Leader
+Description: 
+Primary Applications that are supported as part of accounting applications are RDJ, PSGL (People Soft General Ledger), Granite, Quartz and BCT. Most of the applications are Entreprise63-2 In-House developed applications.
+Valuation engines builds a snapshot of all the deals booked and this information is being used by all the other source systems for their respective product and generates the accounting data. Each of the source system sends the accounting data o accounting systems for the integration.
+
+As part of Accounting and Finance applications, we support/manage different types of reconciliation, reporting and certification for the Finance and Operations teams. 
+Post the data load into ledger system, Transactions/balances are sent to the multiple reconciliation systems to perform the reconciliation. Local regulatory reporting is an important activity that finance team carries out using the accounting applications.
+Multiple business processes like End of Month, Daily Regulatory Reporting, Group reporting,   P&L Reporting are being carried out by Finance and Operations teams using the data from theAccounting applications. 
+Roles & Responsibilities:
+ Request/Incident Management
+ Escalation Management
+ Monitoring the Support Activities
+ Reporting Daily status
+ Understanding and Troubleshooting the complex issues and responsible for identifying any bugs in the application and fixing them as well within the agreed timelines
+ Providing Quick resolution to the Clients and escalating to the respective team responsible for the components affected
+ Streamlining the processes within the Support lines
+ Analysis of UNIX scripts and Oracle Backend Packages in case of any failure
+ Planning & Execution of Improvement of processes within the team
+ Quality process Implementation
+ Handling Service Level Agreements (SLA's) as well as Operational Level Agreements (OLA's)
+ Designed automation scripts to run at regular intervals
+ Created transition document for applications
+ Cross trained fresher's on the project applications
+ Performed Disaster Recovery Test for the servers and other Database and server related upgrades on a quarterly basis coordinating with various teams
+ Preparation of Performance review statistics for the applications supported from my team.
+
+
+Achievements:
+ Received several appreciations from Clients as well as from within the Organization for the various day to day tasks.
+ Won Live Wire award in Entreprise63-3 for the quarter JMF-2012.
+ Received Business Process Champion award for two quarters in 2016.
+ 
+Personal Profile:
+	Father's Name	            	: Nom63-2 Prénom63-2
+Date of Birth	            		: 11-Sep-1988
+Gender		           	: Male
+Marital Status	            	: Single
+Languages Known			: Telugu, Hindi & English
+Nationality				: Indian
+Hobbies				: Listening to music, Singing, playing Badminton.
+

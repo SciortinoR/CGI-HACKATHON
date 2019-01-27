@@ -1,0 +1,114 @@
+                              Mathieu Beausoleil
+                                 514-654-8494
+                       mathieu.beausoleil@cubicmedia.ca
+
+Carreer Profile
+
+Consultant with over 13 years of expertise in development (Web Site, CRM and applications). Dedicated in each position he filled as if it was it's own company. Uses on a regular basis the knowledge gained in each professional experiences (developer, technical lead, architect, team lead, project manager, sales, administration).
+
+Professional Experience
+
+Business Analysis
+ Business Process Modeling (sales, accounting, fulfillment)
+ Identification of the failing processes and bottlenecks and propose potential solutions
+
+Architect
+ Complex Database Design built on current and future needs
+ Identification and selection of technologies based on the cost, human and material resources
+ Defining the standard and good practices related to performance, security, cost and quality
+ Writing of integration plans
+
+Management and supervision
+ Team Lead: listen and empower team members while making sure to convey the corporate message, ensure the achievement of objectives
+ ScrumMaster: assist and facilitate the work of the team
+ Product Management: assess needs and manage priorities
+ Project Management: assign resources, set milestones and ensure the goal achievement
+
+Integration and Development
+ Production of professional and reusable material following the business analysis
+ Integration built to provide more consistent user experience respecting limits and budget setted by the company
+ Documentation of the workaround to make sure any future actors understand the technical reasons behind
+ Deployment management: code review, merges, package management and writing of plans
+
+
+Key Achievements
+ Salesforce.com: Preparation of an implementation plan between CRM and ERP (NetSuite), while considenring corporate needs
+ Salesforce.com: Implementation of the complete sales lifecycle (lead->opportunity->contract->purchase order->renewal opportunity)
+ Salesforce.com: Architecture and implementation of ERP functionnalities (invoicing, payment cycle, online payment, fulfillement)
+ Development of a "code-based portal" Salesforce.com (Site.com) including: credit card management, user management, single sign-on, support cases, forums, etc.
+ Development of multiple connectors between Salesforce.com and external systems
+ Development of a mass mailing system built on a Salesforce and Marketing Cloud (Exact Target)
+ Development of a multiple PCI Compliant Payment Solutions including the connector (Salesforce.com / Braintree,Paypal,etc.), User Interface, Auto-(un)masking of VOIP audio recording, etc.
+ Architecture and development of multiple RESTful API based on strict development standards and best practices in different languages
+ Architecture and development of two of the top 100 biggest Website based on Alexa(TM), requiring AI, performance micro-optimisation, etc.
+
+Training
+
+Salesforce.com
+ Advanced Developer (DEV-501)							   2013
+ Sales Cloud Administration (ADM-251)						   2015
+ScrumMaster											   2009
+
+Previous Jobs
+
+CM Consulting Services								    2016 - 
+	Senior Developer & Architect
+
+Understanding business requirements and translating these into technical solutions based on the chosen platform.
+Designing and creating the underlying data structure and data flows to support the application build.
+Designing and building web & mobile interfaces on the platform using several tools.
+Providing appropriate development specifications and supporting the developers in delivering solutions.
+
+
+Lightspeed POS									    2013 - 2016
+   Architect, project/team management and PHP and Salesforce Development
+   
+   
+   
+Techboom
+	Architect, project/team management and development			    2009 - 2012
+
+
+
+iWeb Technologies									    2008 - 2009
+
+Cyber Génération									    2006 - 2007
+	
+Business Cofounder and freelancer					     	     	    1999 - 2006
+Technical Knowledge / Datasheet
+
+Salesforce.com Experience
+   Objects
+   Lead, Account, Contact, Opportunity and Quote, Order, Contract, Asset, Case, Price Book and Products, Custom Object/Fields and more
+   
+   APIs
+   REST, Bulk, Streaming, Metadata
+   
+   Integration/Development
+   Class (trigger, controller, rest, email services, batch and scheduled), Pages (Visualforce and Components), Apex Limits
+   
+   Other
+   Portals: Site.com, Customer Portal and Communities
+   User: Profile, Roles, Permissions
+   Other: Sharing, Validation, Approval, Territories, Forecasting
+   
+   Apps
+   Skuid, Avalara, Marketo, InContact
+
+Programming/Scripting Languages and Databases
+   Apex, PHP, Bash, xHtml, Javascript, CSS, XUL (Firefox Plugins)
+
+Standards, Concepts, Patterns and Development Methods
+   W3C (xHtml 1.1 Strict, CSS (2/3), WCAG), Section 508, JSON, Apigee, E_Strict, ZF Coding Standards, PHP Coding Standards, MVC, CSS Zen Garden, SEO, SEM, UX/UI, High Traffic Performance Optimization, RESTful, oAuth (1/2) 
+
+Frameworks & Template Engine
+   Visualforce, Zend Framework, jQuery, NodeJS, Grunt, Smarty, Skuid, Moustache, Mosaico
+
+Operating Systems
+   Mac OS X, Linux (mainly Debian), Microsoft Windows
+
+Software and Databases
+   Zend Studio, Salesforce IDE, Sublime, Apache, Zend Server, Nginx, Git, Bitbucket, Subversion, Sphinx, Photoshop, Asterisk PBX, Redis, Memcache, MySQL, PostgreSQL, Jira, Bugzilla
+   
+Other (most common only)
+   Amazon CloudWatch, Amazon Lambda, Google Analytics, Google Adsense, Google Adwords, Google Visualization, Braintree, Paypal, Marketing Cloud (Exact Target)

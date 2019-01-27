@@ -1,0 +1,220 @@
+CURRICULUM VITÆ
+Gestionnaire de projets CRM / BI / Marketing
+
+Bilingue, il est certifié PMP et cumule plus de 30 années d'expérience en gestion, dont près de 20 ans en gestion de projets CRM et BI.
+Au fil des ans, il a travaillé pour d'importantes organisations telles que Cossette Marketing, Telus, le Gouvernement du Québec et Protocol USA (leader américain dans la mise en marché et le service à la clientèle des secteurs de l'assurance, des finances et des télécommunications). Au sein de ces organisations, il a été appelé à implanter plusieurs solutions complémentaires CRM et BI pour d'importants clients canadiens et américain. Il a entre autres été appelé à définir l'objectif et la portée des projets, à recevoir et arrimer les solutions CRM / BI avec les besoins Marketing de ses clients ainsi qu'à effectuer la reddition de comptes. 
+Il est important de mentionner qu'il maîtrise Salesforce, Microsoft Dynamics et Microsoft BI. 
+Habile communicateur, il est reconnu pour son leadership et sa capacité à mobiliser des équipes multidisciplinaires. Rigoureux, il sait comprendre rapidement la réalité d'affaires de ses clients et proposer des solutions novatrices. 
+COMPÉTENCES
+Sommaire des méthodes, outils et méthodologies :
+Gestion de projets PMI, Méthodologie de développement Macroscope, Outils de planification Microsoft Project et EPM, Suite Microsoft Office (Word, Excel, PowerPoint, Access, Visio), CRM Onyx, SalesLogix, Dynamics, Clientele, Microsoft BI suite
+FORMATION
+2013
+Certificat en administration (mention d'excellence)
+Université du Québec à Mtl (TELUQ)
+1983
+Diplôme d'études collégiales en informatique (DEC)
+Cégep de Saint-Laurent
+2006
+Certification PMP - Gestion de projets
+Membre du PMI Montréal
+PERFECTIONNEMENT
+Certification Interactive Intelligence  -  Support, installation et admin du système
+
+Gestion de projets Agile
+Technologia
+Intelligence émotionnelle
+Technologia
+Gestion d'entreprises et indicateurs de performance
+American Management Association
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+
+
+BÉNÉVOLAT
+Bénévole  -  Chef d'équipe tournois - Association de Hockey Mineur de Terrebonne
+Bénévole  -  Centre de bénévolat de Laval  -  Distribution des paniers de Noël
+CONFÉRENCIER INVITÉ
+Institut Canadien des Centres de Contacts (Avril 2004) : "Comment choisir et maximiser les investissements technologiques"
+Help Desk Institute (Mars 2002) :  "How to succeed in implementing a Help Desk software"
+HEC Montréal (Janvier 2002) :  "Enjeux technologiques dans les centres de contacts"
+                          EXPÉRIENCE PROFESSIONNELLE
+Commission de la construction du Québec (CCQ), Montréal, Qc
+Direction des ressources informatiques -	Gestionnaire de projet sénior
+Équipe Planification et Contrôle	Depuis juin 2015
+La Commission de la construction du Québec (CCQ) est responsable des relations de travail, de la formation professionnelle et de la gestion de la main-d'œuvre dans l'industrie de la construction.  C'est un organisme qui, de par sa raison d'être, offre de nombreux services aux clientèles qu'elle dessert : notamment en matière d'avantages sociaux, retraite et assurance, de formation professionnelle, de gestion de la main-d'œuvre et dans l'application des conventions collectives de l'industrie de la construction.
+Contexte :
+Projets d'évolution des systèmes applicatifs et d'infrastructure, selon le modèle SDLC;
+Cycle de vie multi-portes des projets : étude d'opportunité, étude de faisabilité, analyse préliminaire, analyse détaillée, réalisation, mise en production, clôture;
+Équipe de réalisation matricielle, interne et externe.
+Responsabilités :
+planifier, organiser, diriger, contrôler et évaluer les activités des projets corporatifs;
+établir un plan d'exécution et un échéancier pour les livrables;
+assurer une planification des projets en tenant compte des risques et des contraintes;
+préparer et présenter les statuts d'avancement aux comités de gestion et de direction;
+effectuer le suivi hebdomadaire des budgets;
+préparer et gérer les demandes de changement;
+identifier les besoins en ressources pour l'exécution des projets (humaines et matérielles);
+participer à la gestion de la capacité des équipes;
+coordonner la rédaction des appels d'offres;
+respecter et promouvoir la gouvernance de projet établie par le bureau de projets.
+Principales réalisations :
+plan de relève des systèmes TI avec continuité minimale affaires;
+gestion des identités et des accès (GIA), Gestion des accès à Haut Privilège (GHP), Authentification unifiée (WebSSO);
+implantation du dépôt direct;
+informatisation des rapports d'inspection sur tablettes.
+Environnement:	Méthodes de gestion de projet du PMI, Méthodologie de développement << Macroscope >>, Outils : MS Project, EPM, suite Office, Visio
+Centre de services partagés du Québec (CSPQ), Ministère de la Famille, Montréal, Qc
+Gestionnaire de projet  - CRM et BI
+Décembre 2011 à avril 2015
+Le Centre de services partagés du Québec a pour mission de fournir aux ministères et organismes publics les biens et les services administratifs dont ils ont besoin dans l'exercice de leurs fonctions, notamment en matière de ressources humaines, financières, matérielles, informationnelles et technologiques.
+Contexte :
+Projets d'évolution des systèmes applicatifs du Ministère de la Famille;
+Cycle de vie des projets : analyse d'impact, architecture globale, architecture détaillée, analyse fonctionnelle, réalisation, essais unitaires, essais fonctionnels et intégrés, essais d'acceptation, implantation, mise en production;
+Équipe de réalisation matricielle, interne et externe.
+Responsabilités :
+diriger les ressources du bureau de projet dans l'exécution des projets du Ministère;
+définir et voir à l'application de la méthodologie du bureau de projets;
+diriger différents projets et initiatives BI pour la création d'entrepôts de données, de cubes OLAP et de tableaux de bord avec la Suite Microsoft BI;
+veiller à la qualité et à la rigueur des activités du bureau de projet;
+gérer les contrats/relations avec les firmes externes;
+présenter les rapports d'avancement aux comités de coordination, de gestion et de direction;
+conseiller la direction du Ministère sur la sélection et l'organisation des projets, en fonction des besoins et stratégies de l'organisation;
+documenter et communiquer la planification annuelle des projets et s'assurer de sa cohérence (gestion de portefeuille);
+organiser la mise en place des tableaux de bord;
+suivre l'évolution budgétaire des projets;
+organiser et animer le comité d'assignation des ressources;
+promouvoir les approches constructives et collaboratives et l'amélioration continue des façons de faire (évolution des outils).
+Principales réalisations :
+mise en place du bureau de projet;
+introduction des meilleures pratiques (PMI);
+établissement du modèle matriciel;
+participation à l'implantation de EPM pour l'ensemble des unités administratives du CSPQ (1500 ressources).
+Environnement :	Méthodes de gestion de projet du PMI, Méthodologie de développement et de documentation << Macroscope >> et << Guide vert du Gouvernement du Québec >>, Outils et technologies : MS Project, EPM, suite Office, Visio, CRM Dynamics, Microsoft BI suite
+Gestionnaire de projet sénior  -  CRM et BI
+Août 2008 à novembre 2011
+Contexte :
+Projet majeur de déploiement des infrastructures et de développement applicatif, pour le compte du Ministère de la famille (multi-livraisons);
+Pour chaque livraison, déploiement et mise en service des infrastructures et développement des applications : architecture, analyse fonctionnelle, réalisation, essais unitaires, essais fonctionnels, essais d'acceptation, mise en production, rodage;
+Plateforme : Intranet - Extranet;
+Équipe de réalisation interne et externe, Montréal  -  Québec.
+Responsabilités :
+assurer le démarrage du projet : identification de la portée, manuel d'organisation, constitution de l'équipe de réalisation, plan de facturation de la firme externe;
+élaborer le calendrier de réalisation de chacune de livraisons : activités, jalons, diagramme, ressources, durée;
+gérer les risques du projet : identification, analyse, réponses, surveillance, communication;
+gérer les coûts du projet : estimation, budgétisation, surveillance, communication, mesures correctives;
+diriger l'exécution du projet : ressources, qualité, livrables, rapports, demandes de changements, comité de gestion, relation clientèle;
+fermer le projet : bilan de projet, documentation, finances.
+Principales réalisations :
+gestionnaire de projet principal pour le développement du système de financement des services de garde du Ministère de la famille : 15000 jp  -  budget de 14 millions $;
+gestion du financement des services de garde : enveloppe gouvernementale de 2 milliards $ par année;
+saisie des informations via une prestation électronique de service Web transactionnelle;
+suivi des dossiers via une application CRM;
+implantation d'un entrepôt de données et des services BI associés;
+authentification via le site clicSéqur du gouvernement;
+production et analyse des états financiers de chacun des services de garde (état de trésorerie, état des résultats, bilan, gestion des immeubles et amortissements, gestion de la désuétude);
+calcul des subventions;
+production des versements via le système gouvernemental SAGIR;
+suivi des paiements et des trop payés.
+Environnement :	Méthodes de gestion de projet du PMI, Méthodologie de développement et de documentation << Macroscope >> et << Guide vert du Gouvernement du Québec >>, Outils et technologies : MS Project, EPM, suite Office, Visio, CRM Dynamics,  Microsoft BI suite
+TELUS, Montréal, Qc
+Gestionnaire de projet sénior
+Avril 2006 à juillet 2008
+TELUS offre des services en technologies de Centres de contacts à ses clients, par l'entremise de sa division CCAT (Contact Center Application Team). 
+Contexte :
+Projets de déploiements technologiques chez les clients de TELUS;
+Gestion des ressources locales techniques et des équipes virtuelles réparties aux quatre coins de l'Amérique du Nord;
+Multi-projets et assignation matricielle des ressources
+Responsabilités :
+assurer le démarrage des projets : énoncé, portée, manuel d'organisation;
+élaborer le calendrier de réalisation : activités, jalons, diagramme, ressources, durée;
+gérer les risques du projet : identification, analyse, réponses, surveillance, communication;
+gérer les coûts du projet : estimation, budgétisation, surveillance, communication, mesures correctives;
+diriger l'exécution du projet : ressources, qualité, livrables, rapports, changements, comité de direction;
+fermer le projet : bilan de projet, documentation, finances.
+Principales réalisations :
+Citoyenneté et Immigration Canada
+   Projet de modernisation des centres de contacts de Montréal et d'Ottawa; budget de 3 millions $, calendrier de 16 mois, 4000 jp, une douzaine de ressources.
+Ministère de l'Emploi et de la Solidarité Sociale (MESS)
+   Projet d'intégration technologique dans les opérations de centre d'appels du client  (solution hébergée de TELUS : Call Center Anywhere).
+ING Canada
+   Projet d'ajouter une offre de technologie centre d'appels aux services d'impartition de l'entreprise à travers le Canada (solution hébergée de TELUS : Call Center Anywhere).
+Environnement :	Méthodes de gestion de projet reconnues par le PMI, Outils : MS Project, suite Office, Visio
+Média Express / Protocol USA, Montréal, Qc
+Directeur de projet  -  CRM et BI 
+1994-1999 et 2001-2006
+Protocol USA, anciennement Média Express, était un leader nord-américain dans l'industrie des centres d'appels en impartition.  La compagnie se spécialisait dans la mise en marché et le service à la clientèle des secteurs de l'assurance, des finances et des télécommunications.  Protocol USA a fait l'acquisition de Média Express en 2000.
+Contexte :
+Projets de déploiements technologiques en clientèle
+Direction d'équipe (architectes, analystes, développeurs, techniciens, chargés de projet, PCO)
+Environnement multi-projets et assignation matricielle des ressources
+Responsabilités :
+diriger l'équipe technologique;
+gérer les projets technologiques de la clientèle (démarrage, suivi, fermeture) : Marketing, BI, CRM;
+participer à l'évaluation des solutions technologiques et à la documentation des choix et scénarios de mise en service;
+organiser des rencontres avec les responsables de chacun des centres nord-américains pour discuter et obtenir leur accord sur les orientations technologiques;
+présenter les projets au conseil de direction et obtenir les autorisations requises;
+gérer les firmes externes.
+Principales réalisations :
+mise en place d'un modèle de gestion de projet adapté à la réalité des centres d'appels : des petites équipes, des échéanciers courts et serrés et des rapports de projets simplifiés;
+sélection et implantation d'un système de gestion des RH : recrutement assisté et libre-service, dossier employé, poste, formation, compétences poste et employé, santé et sécurité, assurances collectives, mesures disciplinaires, évaluations, performance, fermeture de dossier, interface paie;
+intégration des centres d'appels nord-américains via la technologie IP;
+modernisation du centre d'appel principal de Montréal (250 sièges);
+modernisation et déménagement du centre d'appel de Hamilton (300 sièges);
+gestion des projets de déploiement technologique des clients suivants : American Express, Assurances Meloche Monnex, Banque Nationale, HSBC, Banque Laurentienne, Toys R Us, Whirlpool, Discover Card, Maison du Tourisme de la France, Bank Of America, General Motors, Nextel, Rogers, Canadian Tire.
+Environnement :	MS Project, suite Office, Visio, CRM SalesLogix, Microsoft BI suite, services Web transactionnels
+Proximi-T  (Division du Groupe Cossette), Montréal, Qc
+Directeur  -  Solutions  Centres de contacts
+1999-2000
+Proximi-T, maintenant devenue Cossette  communications, était une firme conseil d'avant-garde dans les technologies d'information.  Elle agissait comme intégrateur dans le déploiement de systèmes informatisés de gestion des contacts CRM et de la gestion intégrée ERP.
+Contexte :
+Plusieurs clients de l'entreprise demandaient pour une solution intégrée en téléphonie.  J'ai été embauché pour démarrer la pratique d'affaires de convergence téléphonique, pour desservir la clientèle des centres de contacts.  La solution recherchée se devait d'être avant-gardiste, pour se distinguer des systèmes téléphoniques traditionnels, et complémentaire à l'offre de service de la firme.
+Responsabilités:
+membre du comité de direction de l'entreprise;
+responsable de l'équipe en solutions des centres de contacts : embauche, formation, développement, motivation et évaluation;
+élaborer les stratégies d'affaires et promouvoir l'offre de service en gestion des centres de contacts;
+développer et suivre le contexte budgétaire de la pratique;
+rentabiliser les investissements du secteur;
+diriger les projets d'études de faisabilité, d'analyses fonctionnelles, de documentation des processus opérationnels, de sélection et de déploiement des solutions technologiques, de gestion du changement et des procédures de contrôle post-implantation;
+assurer le développement continu des outils et méthodes de travail.
+Réalisations :
+démarrage de la pratique d'affaires en centres de contacts
+recherche d'un fournisseur offrant une solution avant-gardiste en gestion des contacts clients et capable de s'intégrer aux produits CRM de Proximi-T; la solution retenue fut celle de la firme Interactive Intelligence, basée à Indianapolis; il s'agissait d'une solution innovatrice qui, contrairement aux systèmes de téléphonie traditionnels, reposait sur la base d'applications Windows, paramétrisables à partir d'interface Web; cette solution est devenue l'une des principales références comme outil technologique des centres de contacts canadiens;
+construction et développement d'une équipe d'experts techniques;
+préparation, organisation et présentation des séminaires mensuels d'information;
+certification Interactive Intelligence (au centre de formation du fournisseur à Indianapolis) en support, installation et administration du système.
+Projets clients :
+Hydro-Québec : Étude des opérations des centres d'appels CER (Centres d'Exploitation Régionaux), Étude d'opportunité technologique, Implantation de la solution Interactive Intelligence (prototype).
+Services Marketing Équinoxe (centre d'appels en impartition) : Implantation du système Interactive Intelligence.
+Loto-Ontario :  Projet de modernisation des technologies et de consolidation des centres d'appels ontariens.
+Vidéotron Affaires : Participation à l'implantation des solutions CRM Onyx.
+CHUM : Participation à l'implantation de la solution Help Desk Clientele.
+Environnement :	MS Project, suite Office, Visio, Visual Basic, Crystal Report, Microsoft SQL, CRM Siebel, CRM Onyx, Help Desk Clientele, Locus Dialogue (reconnaissance vocale) et produits de convergence téléphonique de Genesys et Interactive Intelligence : PBX, ACD, IVR, CTI, routage intelligent des appels, générateurs d'appels, enregistrement numérique des conversations
+SOPA (Buroplus), Laval, Qc
+Directeur des services informatiques
+1989-1994
+SOPA (Buroplus) est un regroupement d'achats et de services en fournitures, équipements et ameublements de bureau.  Avec près de 125 points de vente au Québec, en Ontario et dans les Maritimes, SOPA constitue le principal réseau de distribution de produits de bureau dans l'est du Canada.
+Contexte:
+gestion des achats (ententes fournisseurs) et des inventaires;
+gestion des commandes (magasins corporatifs et indépendants);
+gestion du service à la clientèle;
+gestion d'entrepôt (réception, pige, expédition, entreposage, transfert, roulement);
+gestion des promotions (circulaires, catalogues, commandes, stratégies régionales);
+gestion intégrée des Points de vente (POS) et des opérations détails.
+Responsabilités :
+diriger les ressources informatiques dans le développement des applications de soutien aux opérations de distribution;
+assurer l'exploitation du système central et des réseaux connexes;
+participer aux analyses de projets (étude d'opportunité, analyses préliminaires et fonctionnelles);
+diriger les travaux d'organisation, d'amélioration et de documentation des méthodes et procédés de travail, pour tous les services de l'entreprise;
+conseiller les membres actionnaires dans le choix et le déploiement des technologies POS en succursales.
+Réalisations :
+refonte complète des systèmes de la centrale ; recherche et implantation d'une nouvelle solution (achats, ventes, sac, pos, entrepôt, comptabilité);
+refonte des applications POS des magasins corporatifs et ceux des membres actionnaires.
+Jay Norris Canada Inc., Montréal, Qc
+Chef d'équipe  -  développements applicatifs
+1986-1989
+JAY NORRIS était un chef de file dans l'industrie canadienne de la vente par correspondance.  L'entreprise recevait 10,000 commandes quotidiennement pour atteindre un chiffre d'affaires annuel de 70 millions de dollars.
+Cormier et associés (Magiciel), Montréal, Qc
+Programmeur-analyste
+1983-1986
+CORMIER ET ASSOCIES était un consultant en informatique spécialisé dans la production de logiciels de comptabilité sur micro ordinateurs

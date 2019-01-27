@@ -1,0 +1,304 @@
+PROFILE
+ Team oriented Software QA Test Engineer/Developer with excellent organizational, interpersonal, strong analysis and problem
+solving skills
+ Result oriented Software QA personal with Automation and testing with in-depth experience in Application software, Real
+Time Embedded and Device Driver, Web application, client server application software, languages C, C++,Java, Python,
+Perl, Shell scripting and testing.
+ I have worked in Software Development in the areas like POS, Cable communication, Mobile communication, rail signaling,
+Aerospace, Web application, device driver application, and middleware , web services, data services and SOA application.
+ Knowledge of design patterns, strong object-oriented design and development skills, expert knowledge of C, C++, VC++and C#
+languages, Windows APIs, MFC, multi-threaded programming on Visual Studio 2013 and TFS.
+ Knowledge of debugging tools Neumega Softice, Windbg ,gdb, experience in working with or administrating source control
+SVN, TFS, Bug Tracking system JIRA, bugzilla,Test Manager, Zyphyr, HPQC, Prepare document software design, create
+specifications, system requirements, configuration and maintenance , prepare Test procedure, Test plan , execute Test.
+ Designed Implemented web, desktop automation frame work for Selenium Web Driver for executing all regression testing
+ Developed Script for web automation testing for selenium using scripting language Python, C#, Java for Selenium RC, Selenium
+Web Driver, and JUNIT.
+ Excellent experience with Software testing and SDLC experience with development test scripts and testing Tools development.
+Technology Skills:
+ Programming Languages: C, C++, VC++, C# .NET languages, Windows API, SDK,DDK,WinCE and Windows Mobile SDK
+ Scripting Languages: VBScript, Java Script, Python, Perl
+ Operating Systems: Windows, UNIX, Mac, Linux
+ Databases: DB2,Postgresql,MySQL
+ Automation Tools: Selenium RC, WebDriver, QTP, Smart Inspect
+ IDE : Visual studio, TFS, Eclipse, Green Hills, Microchip, Freescale
+ Other Tools: Quality Center, Jenkins, Mantis, JIRA, Bugzilla, DOORS, SharePoint, On Real Time RTOS, Canalyzer , Advanced
+Query Tool (AQT,IBM Data base query Tool, FileZilla , RFM Analyzer, PuTTY -Telnet and SSH for Windows and Unix.
+ Documentation: MS-WORD, Excel, Visio
+PROFESSIONAL EXPERIENCE
+Thales Rail signaling Software Test engineer - Aug 2015 – Present
+
+
+
+
+
+
+Test, Verify and Validate VOBC, VCC and SMC for Jubilee line 4LM, London project IS on Seltrac standard.
+Develop Test tools using Visual studio and Script Development for Rail signaling solution both software and Hardware testing.
+Develop software for simulated test environment tools and scripting.
+Develop script using python, Perl and VB.
+Testing at real environment and desktop simulator environment for integrated rail signaling subsystem.
+
+Rogers Cable, Toronto, ON. Software QA- CPE, Embedded system platform SpecialistJan 2015 to Aug 2015.
+Responsibilities:
+ CPE, Platform Validation for Cable TV STB Operations, Publishing System components Publishing configuration work station,
+install GUI based STB configuration software .
+ Install, publish, deploy service or a component STB Apps and software packages, firmware, weather Services, other application
+files and data shall allocate on DNCS/EC server on TCP/IP based protocol network BFS carousals.
+ Installing STB configuration packages, Checking STB configuration, configuring Application server and Test and verify
+Firmware and STB Apps on Service Impact, Network Impact, Customer Impact and Change Complexity.
+ Installing Configuring Data Loader, GAP- Group Associated Package and channel map on the EC, Define the Group Rule
+Definition for GAP.
+ Trouble shoot GAP- Deployment issues on ECs, The GAP includes application for GAP future with Firmware, Application
+Framework, Caller- ID, Mosaic, Remote TV manage, weather, Search, Content Recording.
+ Run and verify system health, ensure no other unwanted work being staged or upgraded on EC.
+
+40 Inniswood drive Toronto, ON M1R 1E5, 647-328-1045/416-532-3973
+
+
+
+Verify Data Replication is enabled, No JSON/VART updates pending, no new STB added to the GAP, verify file ownership,
+verify file permission, and confirm package appears in the package list.
+ Testing Cable network on DOCSIS (Data Over Cable interface specification)–IP DIRECT, DAVIC- two-way mode, STB, Mobile
+devices on IPTV in Eclipse environment on CISCO, Juniper network.
+ Debug the C,C++, C#, Java code staged using gdb, Visual studio,Eclipse, prepare shell script.
+Tools Used: Quality Center, Jenkins, Zephyr, Test manager, Mantis, JIRA, Bugzilla, DOORS, SharePoint, TFS, Visual Studio IDE,
+Splunk, FileZilla, PuTTY -Telnet and SSH for Windows and Unix.
+Comcast Cable Philadelphia, PA US, Software QA Developer
+Jan 2014 to Dec 2014
+Responsibilities:
+ Prepare automated testing web services and data services on cloud based application and back Cassandra, Data stack, Amazon
+data services system for STB cable staging and broadcasting application using automation script using Python, C#, Java.
+ Prepare both manual and automated test cases and frame work for testing STB Apps, social network Apps on STB.
+ Testing STB Set of Top Box Firmware, and APS and application XRE (Receiver), XREGuide, XRERedirector, GSLB(load
+balancer) of host and testing APS on STB , like parental control, preferences, On Demand ,Pay per view, social APS , Face
+back ,Twitter, Pandora STB boxes are from manufactures , Samsung, Motorola.
+ Test XRE(receiver ) server network application an Long Poll network application ,XRe Stack,XRE guide host VM ( virtual
+machine), VIPS ( virtual IPs) of the TCP/IP based network servers and nodes, load test using Jmeter and Splunk query.
+ Testing XRE (receiver) on STB Admin UI mapping XRE redirector device parameter, device caps both manually and automation.
+ Test different versions of firmware download STB and verify the STB working and firmware testing manually and using
+automation tools.
+ Test XREAPP which uses the firmware on the STB XREAPP is developed sing C,C++ and interact with APPS developed in Java.
+ Test other APS Xconf which is used to download Firmware from Data services and data which is updated on the data services and
+Web services with back end Cassandra data base
+ Execute API test for other web services (WS) and Data services (DS), Preferences, Personalization customer done through STB
+set of box Updated on the data services and Web services with back end Cassandra data base.
+ Testing Web portal, Data services, Web services, and DVR broadcasting device STB.
+ Tested AuthWallet Data service verifying authorization credentials updated on back database using curl or Browser app.
+ Prepare test cases both automation and manual for testing data services and web services on Service oriented Architecture.
+Tools Used: Zephyr, Test manager,Jenkins, Mantis, JIRA, DOORS, SharePoint, Confluence, Jmeter, FileZilla,Splunk,PuTTY -Telnet
+and SSH for Windows and Unix, Mac Terminal .
+Weather Network Toronto - April 2013 to Dec 2013
+Responsibilities: Software QA
+ Designed a framework with Selenium Webdriver, Java, and Jenkins.
+ Develop test plan ,test script, execute test, both manual and automated regression test
+ Develop automation script and implemented FireFox, IE, Chrome Browser using Selenium WebDriver , JUNIT
+ Prepare test script for testing web application and back content management system for weather data, weather web application
+and web data using automation script using Python, C#, Java.
+ Developed automated test script using Selenium WebDriver, JUNIT, Solo and Instrument for mobile devices IOS, android,
+windows smart phone, and apple Mac book, IPod, blackberry apps.
+ Execute Manual and automated web functional regression testing using Eclipse.
+ Tested web application of based HTTP, SOAP, REST,JAX-WS,LAMP stack
+
+Prepare estimation, planning and release Test Readiness Report and deliver final product at every week scrum release.
+ Verified Back end Data base DB2 and content management system (TRIDION) data updated via PHP
+ Developed automated script connect Back data base through Selenium through Database driver
+ Developed automation tool Software for testing DAQ (data acquisition software) for weather Data collection from different
+weather system using method of message queue using C, C++, and C # on Visual Studio 2008.
+ Develop Object Oriented Software testing automation for windows mobile devices android, windows smart phone using
+windows mobile SDK, Windows CE using C, C++ windows API.
+ Develop Software testing automation Web server application for transferring weather data from different content management
+system to web and mobile server.
+
+40 Inniswood drive Toronto, ON M1R 1E5, 647-328-1045/416-532-3973
+
+
+
+Develop Software testing automation C,C++,C# on IDE Visual Studio 2008 for GAS (gate analysis system) get data from DAQ
+and process data or prepare the Data for Data base system to send to weather network.
+ Develop test plan, execute test, both manual and automated regression test.
+Tools Used: TFS, Mantis, SharePoint, versions control system in SVN,TFS, Jenkins, JIRA Bugzilla.
+Honeywell Aerospace software QA Developer Toronto ON (contract) Sept 2012- April 2013
+Project Description:
+ Qualification program for BertCan (Bus Emulation real time system of Can Bus).
+ Verify the Air Systems Control Unit of the A350 XWB Air Conditioning System Operational Software,
+ CAN Bus Communication, Ethernet Communication, ASCU Hardware signal Diagnostic Tests for CAN Data Communication,
+CAN Bus Data Transmit and Receive Requirements.
+ This CSCI is structured to detect, isolate, and validate failures of the system for the Message bits transmitted to and via a CAN
+bus also message bit transmitted the date via and AFDX virtual link.
+Responsibility: Embedded software Test Engineer.
+ Test and verify and validate CAN Data Message Elements, CAN Data Conversion and Compression
+ Test CAN Data Transmit, CAN Data Receive, CAN Signals Selection, CAN Bus Receive and send Signal Range Checking,
+CAN Communication for Data Loading, Ethernet Data Communication ,Modbus
+ Test Serial Link Data Communication, CSCI (Computer Software Configuration Item) External Interface
+ Verify bus messages as per the CSCI Internal Interface Requirements and CSCI Internal Data Fixing Verification and Validation
+of Software using C, C++,C#, for BertCan – Airbus Simulation system developing testing Tool for CAN bus
+ Execute, Debug code for software verification and security verification on code developed with C,C++,C# MFC on Visual studio.
+ Debug the code and verify CAN protocol using Vector CAN analyzer and NI CAN analyzer.
+ Fixed software and for Bus Emulator Real Time CANBUS (BERT-CAN) Simulator of the Crystal Bird System using C,C++ On
+Real Time RTOS, SDK,Visual Studio 8,2008.
+ Prepared automation script using C++, Java and Perl,Python for Automated testing for Real Time Workshop for the Crystal Bird
+System , Execute test using automated testing tool, integrate and configure different module.
+ Develop boot and power up Bert to the state specified in power Upstate for BertCAN.
+ Tested and verified Bertcan, Bertx, Bert429 Airbus Emulated system integrate with Back End Testing with Sqlite database for
+Message Vector of Can BUS
+ Verify and validate controller bus messages of ICD data and verify all CAN messages through Vector CAN analyzer, NI CAN
+analyzer and Wire shark.
+ Used Configuration management tools TFS, Mantis, SharePoint, versions control system in SVN for code and documentation
+ Prepare test result, verify logs, build the code and test on simulator with host and board, verify coverage and performance.
+ Integrate Cygwin to Eclipse, Eclipse to compile GCC programs correctly Execute or debug a C,C++ project under Eclipse
+Using Source control SVN, Checkout a working copy from the repository, Checkout, lock, commit Send the changes made in the
+working copy to the repository.
+ Report Document Error, Software Error, Ambiguous, Inaccurate, Inconsistent, not testable, Test Script - functional effect,
+Updating a Correction Report.
+ Execute Mass Compile/Programming, Source Code Compile, Informal Test, Unit/Module Test, HW/SW Integration Test, CSCI
+System Test, Engine Test, Airframe Bench Test, Flight Test,, In-Service, Analysis Review, Software Delivery
+Tools Used: SVN, Mantis, JIRA, DOORS, SharePoint, Confluence, Jmeter, FileZilla,Splunk,PuTTY -Telnet and SSH for Windows
+and Unix, Mac Terminal .
+Data TraX - Toronto Test Engineer (Contract)
+Jan 2012 – Sept 2012.
+Project Description:
+Software product for Point of sale application meets need for customer Wireless card payment Solution.
+With DTI on board intelligence dumb credit/debit terminals into fully customized banking immediate real time payment and invoicing
+for product sales travel ticketing application land line wired, LAN, WAN transaction processing equipment providing same solutions
+on hand held devices.
+Responsibility: Software QA- Analyst
+ Software testing and automation scripting program with Python, C, C++, C# .NET, JAVA language.
+ Execute Test for the system modules transaction queue engine, Biz Logic and Web portal.
+ Programmed C language PIDION POS terminal, customize terminal UI and Test POS terminal.
+
+40 Inniswood drive Toronto, ON M1R 1E5, 647-328-1045/416-532-3973
+
+
+
+
+
+Developed software Tool for testing windows mobile SDK application using Visual studio 2013
+Programmed and configured to integrate with back end Data SQL of different module.
+Tested software for Web portal, FORMS, Payment Gate way messaging, Reports, Business logic, Ecom Server, Pos server and
+transaction queue engine on Service oriented architecture ( SOA).
+ Design Developed Automation frame work and automation script for testing web portal application using Selenium RC Web
+Driver, JUNIT, using script by Java and python language
+ Tested web portal application of technologies HTTP, SOAP, REST, JAX-WS, and LAMP STACK and SOA.
+ Analysis and Test the Database Tables DB2, SQL back end application, verify the invoice report with data base tables of different
+system.
+ Tested Payment gateway application Acceptance or Decline - Record Not Found ,Referral Message key processing for Credit Visa
+processing , CVV1 ,CVV2 for fraud verification
+ Testing software application Used by the POS Device to aid in diagnosing the batch capture status and/or problems and must be
+displayed and/or printed Credit Card MasterCard Payment Transaction by debugging the code white box testing and block box
+testing of Python developed Software application
+ Tested and verified Transaction Code - Credit Card DCC Refusal / Re-Authorization, Credit Card Visa Account Funding, DCC
+Rate Request, Key Exchange (CAD), Key Exchange (EMV) by debugging the C,C++,C# .NET based code in visual studio 2013.
+ Tested Advanced business intelligence application developed with Python generating business report.
+ Testing and verifying Status of retailer details, device information, device status, network status by white box testing of C,C++
+based code on Visual studio IDE.
+ Provide technical solutions to product management and/or users for validation, provide estimates/status updates to the Project
+Management team for Object Oriented software solutions
+Tools Used: SVN, VMware, Bugzila,Visual studio ,TFS, PuTTY -Telnet and SSH for Windows and Unix, Mac Terminal .
+Spielo Gaming Solutions Software Test Engineer – Moncton Canada Jan 2011- Dec 2011
+Project Description:
+ Development Automation Software Tool Development business development system called Central System (GUI).
+ Development of Automation Test for POS application Gaming and lottery corporations which connect Retailer terminals (iLink)
+and video lottery terminal for online transaction processing.
+ Developed automated testing environment for Web Portal application Video Lottery Terminal (VLT ) activation and retailer
+terminal activation.
+Responsibility: Software QA Automation Developer Test engineer
+ Developed automated testing Desktop tool for Testing functionality of intelligent GUI software contact center Application
+connected by Es - connect (network) ,OLTP (online transaction processing) Unix Host and DGM (Gaming devices Unix Host)
+connected G2S ,TCP and UDP protocol developed using .
+ Verify the complete system installation, configuration and integrate.
+ Debug the C# software application on Visual studio and TFS development environment
+ Execute white box testing of C# software visual studio IDE test the software application for security fraud violation in the
+gaming and central system.
+ Debug , code verification and white box block box testing of software application developed in C# at all level start from player
+to retailer level at lottery terminal and video lottery terminal
+ Prepare and run automation test scripts and scripts and execute test and QTP frame work automation tool VB scripting for Load
+test of Game load to VLT from DGM (digital gaming machine) Game server.
+ Testing functionality, regression testing of Web Portal application
+
+Designed Developed automation Frame work for testing Web Portal application form and Back end Data base web transaction
+automation script for web portal application using selenium web driver RC, JUNIT, Webdriver using JAVA, Python and C#.
+ Developed automation for Testing Web portal application through Selenium web driver scripting for automation frame work using
+Python, C, and C++, C #on Visual studio version 2012, working on HTML, JavaScript.
+ Test verify and Analysis the Data base Tables DB2, SQL back end of Application, Data integration, Data migration, Master data
+management and CMS
+ Verify the invoice report by compare with data base tables of different sub system.
+ Testing ETL Based application loaded data to Data Warehouse XML, SOAP, and REST application on Service oriented
+architecture(SOA).
+
+40 Inniswood drive Toronto, ON M1R 1E5, 647-328-1045/416-532-3973
+
+
+
+Undertook main responsibilities will include software reliability, delivery and support analyze Requirements for development of
+new or improvement of existing software solutions, Performed smoke test of hardware and subsystem
+ Design technical solutions and perform feasibility studies that may include prototypes
+ Testing and verifying Status of retailer details, device information, device status, network status.
+Tools Used: SVN, VMware, JIRA,HP QC ALM , Test manager, Visual studio ,TFS, PuTTY -Telnet and SSH for Windows and Unix,
+Mac Terminal .
+Thales Rail Signaling, Toronto (Contract) Software Test Engineer
+Aug 2007 - Jan2011
+Project Description:
+ Developed and Tested automation testing tool simulation tool using programming language C,C++ for Rail signaling solution
+for Underground subway system (VOBC) Vehicle On Board Control embedded software application developed on Linux and
+windows Visual studio environment for Seltrac Standard MS system Beijing Line 7 , Shanghai Line 7- 9.
+ Developed and tested simulated automation testing tool for MAU (moving authority unit) on the Railway track a embedded
+device software application developed with C,C++ on Linux environment and windows Visual studio integrated development
+environment .
+Responsibility: Embedded Software Test Engineer
+ Executed automation Test software using C for testing VOBC (Vehicle On Board Control) system (VOBC is the system on board
+of a train which communicates with MAU (Movement Authority Unit) and receives commands from ATS (Automatic Train Line
+Supervision System)), testing and code fixing development using C,C++,C# on Visual studio 2010
+
+Executed automation tool to Test the transport streams and communication protocols UDP/IP-RPC protocols
+ Execute Module test, Unit Test, , functionality test ,Code Check-Clear Case and fix the code as per the coding standard
+ Performed System Integration test using environment simulator application both automated script and manual
+ Execute User acceptance test and performance test of integrated system
+ Prepare test plan Executing test Plan
+ Executed automation VB script for QTP to test Load analysis for connected different system like VOBC to Mau and central
+system (ATS).
+ Verify test Logs, and verify test result from expected log values and record the log values.
+ Prepare Data base for messages send to different sub system using MySql , DB2 and integrate , analysis and Data base Data
+logger of application loaded data to Data Analysis
+ Automated testing tool QTP scripting with VBscript, UNIX shell script using C, automated web testing using Selenium, QTP for
+with and Desktop application used C#, Python, Java.
+Tools Used: JIRA, Test manager, Zyphyr,Visual studio ,TFS, PuTTY -Telnet and SSH for Windows and Unix.
+Vionix Software, India
+Software Test Engineer
+2005 – 2007
+ Project Description:
+Development software testing tool for embedded software application for Medical mobile devices
+Responsibility: Embedded Software Test Engineer
+ Tested Application software application on C++, VC++, MFC on Visual Studio 2010
+Connected through data logger MFC application with Windows Forms and MS-SQL Server
+ Tested CAN controller operation, CAN for medical equipment that provides, sends and receives messages, error signaling and
+automatic retransmission at user level
+ Test and analyzed CAN chip equivalent or CAN protocol using C, C++, VC++, SDK, C# and mobile applications on Visual
+studio 2010 and 2013
+ Automation scripting for tools Smart inspect, QTP scripting with VBScript with languages, C, C++, C#, Python scripting.
+Speech and Software Technology, India Senior System Software Test Engineer
+2003 – 2005
+Project Description:
+ Developed software for Hand held device.
+Responsibility: Software Test Engineer
+ Developed and Tested Driver for T1 Card with PCI interface for IVR application with PCI interface for IVR, VOIP application
+ Developed and Tested Driver software for Audio Codec IIS interface and analyze the message
+ Debug and verify the complete performance of PDA Browser application for mobile devices using MFC, COM. That
+application was connected to PDA Server, which connected the mobile device to outside world. The PDA Browser and PDA
+Server connected via RDP protocol
+
+40 Inniswood drive Toronto, ON M1R 1E5, 647-328-1045/416-532-3973
+
+ Object Oriented application software development using programming languages C++,C#,Java
+ Developed automation for testing windows mobile application using C++,VC++ in Visual studio 2008
+EDUCATION and PROFESSIONAL DEVELOPMENT
+Bachelor of Computer Engineering, National Institute of Technology, India
+Professional Level Certificate C, C++, VC++ Igeneis software , India
+UNIX Administration Certificate
+Seneca College, Toronto
+C# .NET Programming Certificate
+Seneca College, Toronto
+
+40 Inniswood drive Toronto, ON M1R 1E5, 647-328-1045/416-532-3973
+
+

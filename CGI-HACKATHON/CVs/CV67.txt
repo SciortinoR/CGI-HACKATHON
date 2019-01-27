@@ -1,0 +1,231 @@
+CURRICULUM VITÆ
+Prénom67 Nom67
+Gestionnaire de projets  -  BI / Marketing / CRM
+PROFIL DE CARRIÈRE
+Bilingue, monsieur Prénom67 Nom67 est titulaire d'un baccalauréat en informatique de l'École Université67-1 (Maroc, équivalence baccalauréat). Certifié PMP, il cumule plus de 26 années d'expérience en technologies de l'information, notamment près de 
+
+
+COMPÉTENCES
+Langages de programmation :
+C, C++, Assembly, VHDL, Perl, Fortran, Pascal, .Net, Java, JavaScript, Cobol, RPG400, CL400, SQL
+Systèmes d'exploitation :
+Windows, OS400, Unix et Linux
+Platforms :
+AS400, IBM 36/38, R6000, HP-X000, Symmetrix and Clariion
+Logiciel de gestion des données : 
+Navisphere Management Suite, PowerPath, SnapView, SAN Copy, MirrorView, Access Logix, Clones, Documentum
+Outils de gestion :
+MS Project, Visio, MS Office, Power Steering and Sharepoint
+CRM/ERP/CMS : 
+SAP, NetSuite, Microsoft Dynamics, Siebel, SalesForce, SiteCore Experience Platform et Magnolia
+Méthodes & procédés :
+Six Sigma, Agile, SDLC (Software Development Life Cycle), SOX, UML (Unified Modeling Language)
+Systèmes Aéroportuaires :
+iMuse, CUTE, DCS, MDS, BTAS, BRS, BHS & Standards IATA
+FORMATION
+1999
+Bac en Génie Électrique (option Technologie de l'information) 
+Université67-2
+1990
+Bac en Génie Informatique
+Université67-1
+CERTIFICATIONS
+Gestionnaire de Project Professionnel (PMP)
+Six Sigma Black Belt
+CONNAISSANCES LINGUISTIQUES
+Français, anglais et arabe
+ASSOCIATIONS
+Membre de l'Ordre Des Ingénieurs du Québec
+Membre du << Project Management Institute (PMI) >>, Section de Montréal
+PRIX OBTENUS
+EMC : The Caught in the Act Award, Who done it? Award and The proof Positive Award
+Entreprise67-1: Le projet G3, un des plus grands projets de l'histoire de Entreprise67-1, est gagnant du Prix de l'excellence catégorie "Projet Porteur" : Janvier 2014
+                          EXPÉRIENCE PROFESSIONNELLE
+Entreprise67-1
+Directeur de programme sénior
+Novembre 2012 à juin 2017
+Directeur de project sénior
+Décembre 2009 à novembre 2012
+Organisation gérant les machines de loterie vidéo dans les bars à travers le Québec.
+Gérer la phase 2 du Programme G3  -  Novembre 2012 à mai 2017
+G3 est le plus important programme de l'histoire de Entreprise67-1 avec un budget de $ 420 Millions. Ce programme consiste à implémenter une Solution clé-en-main pour remplacer la Centrale désuète, le réseau de Télécom et 12000 machines de loterie vidéo à travers le Québec. La nouvelle solution doit s'intégrer avec les autres systèmes déjà en place.
+Responsabilités :
+gérer la phase 2 du programme G3 qui était divisé en 5 projets majeurs :
+projet d'Infrastructure incluant un déménagement du Centre de Traitement (CGI vers LQ);
+projet de développement de la Centrale BL 4, 2;
+projet d'intégration avec le CRM et les applications du patrimoine;
+projet de Mise à Jour des jeux et des OS sur 12000 machines de Loterie Vidéo;
+projet de Migration;
+diviser le programme en plusieurs projets et phases alignés avec les priorités d'Affaire;
+préparer un plan stratégique de livraison qui couvre la gestion du risque, les dépendances entre les projets, les ententes avec les Fournisseurs externes, la capacité de LQ au niveau ressources et adaptation aux changements;
+gérer plusieurs équipes multidisciplinaires formées des fournisseurs, partenaires & intégrateurs externes, des ressources internes de LQ et des consultants;
+faire le suivi avec les Chargés de Projet et fournir de la formation et de l'assistance au besoin;
+coordonner les tests et les audits de sécurité (vulnérabilité) et de performance; 
+gérer les équipes de support internes et externes pour stabiliser la nouvelle solution;
+mettre en place une stratégie de gestion du changement adaptée à chaque Direction;
+gérer la relation et les enjeux entre les différentes Directions impliquées dans le programme.
+Gérer les projets G3-Solution (Système Centrale, Nouvelle Infrastructure, Machines de Loterie Vidéo & CRM)  -  Décembre 2009 à novembre 2012
+Responsabilités :
+planifier et livrer les projets G3-Solution;
+superviser la documentation des processus d'affaire;
+rencontrer les Unités d'Affaire pour définir les priorités;
+coordonner avec les différentes organisations les appels d'offre, l'évaluation des soumissions et le choix des fournisseurs;
+gérer les contrats, la relation et les livraisons avec les fournisseurs externes;
+diviser les livraisons en phases alignées avec les priorités d'Affaire;
+gérer les équipes d'exploitation durant la période de stabilisation de la solution;
+superviser la documentation des nouvelles procédures d'opération;
+gérer la certification de la nouvelle solution suivant les lois en cours.
+Réalisations :
+livrer le Programme G3-Phase 2 en respectant les budgets et les cédules approuvés;
+migrer la solution G3 (Infrastructure, Solution SW et les 12000 machines) vers une nouvelle plateforme/technologie sans aucun incident majeur ou perte de revenus;
+déménager le Centre de Traitement hébergé chez CGI vers celui de Entreprise67-1 et remplacer l'infrastructure désuète;
+livrer les projets G3-Solution-Phase 1 (Système Centrale, Machines de Loterie Vidéo et CRM);
+intégrer la nouvelle solution avec les systèmes du patrimoine;
+prendre en charge la transition du << Mode Projet >> en << Mode Exploitation >> de toute la solution G3;
+mettre en place un plan de continuité & relève pour les systèmes critiques;
+créer et gérer une équipe de support globale qui a stabilisé la solution en production;
+implémenter un système de << Portfolio >> des projets adapté au plan stratégique de la SEJQ;
+servir comme << Conseiller Stratégique >> au Directeur TI de la SEJQ;
+mettre en place un processus d'évaluation des appels d'offre qui est devenu une référence pour d'autres projets chez Entreprise67-1;
+travailler avec les différentes Directions, impactés par le programme, à ajuster leurs processus d'opération, former leurs ressources et adopter la nouvelle technologie.
+Entreprise67-2  -  DTI, Dorval, QC, Canada
+Directeur de programme sénior
+Juin 2008 à décembre 2009
+Organisation gérant les aéroports internationaux Montréal-Trudeau et Mirabel.
+Responsabilités :
+gérer le programme SDT (Secteur des Départs Transfrontaliers) qui se compose de plusieurs projets :
+implémenter un nouveau système de distribution des messages de bagage (MDS);
+remplacer l'infrastructure désuète par une nouvelle basée sur plus de virtualisation;
+migrer l'infrastructure de plusieurs systèmes vers des plateformes partagées;
+implémenter un nouveau système de réconciliation de passagers et de bagages (BRS);
+coordonner l'architecture du système de gestion de la nouvelle salle à bagage (BHS);
+analyser les informations (BSMs) transmises par les serveurs des compagnies aériennes (DCS) à l'aéroport pour s'assurer de leur conformité avec les nouveaux systèmes et procédés;
+gérer plusieurs équipes multidisciplinaires formées des fournisseurs de systèmes et Architectes externes, des compagnies aériennes, de la Douane Américaine, de l'Administration Canadienne de la Sureté du Transport Aérien en plus des équipes de l'aéroport : Développement des applications, Infrastructure et Réseau, Sécurité, Opérations, Santé & Sécurité, Développement des Affaires, etc.;
+faire les estimations du temps, effort et coûts pour chaque phase et préparer les budgets;
+préparer les appels d'offre et des grilles de sélection;
+réviser et valider les architectures proposées par les fournisseurs de systèmes;
+gérer les conflits entre les différents fournisseurs et les intégrateurs;
+coordonner avec l'équipe d'exploitation pour le développement des plans de contingence;
+coordonner les tests avec les compagnies aériennes et les opérateurs de la nouvelle salle à bagage.
+Réalisations :
+définir avec l'équipe des opérations les nouveaux procédés passagers et bagages;
+livrer un nouveau système de distribution des messages des bagages (MDS) modifié du standard pour répondre aux besoins spécifiques de l'Aéroport Montréal-Trudeau;
+livrer un nouveau système de réconciliation de passagers et de bagages (BRS) pour les secteurs de départ domestiques, transfrontaliers et internationaux;
+mettre en place une nouvelle Infrastructure consolidée et partagée par plusieurs systèmes TI;
+préparer et tester les plans de contingence avec l'équipe des Opérations;
+assister la Douane Américaine et les compagnies aériennes pendant deux mois pour les aider à se familiariser et utiliser les nouveaux systèmes et procédés;
+analyser les problèmes techniques et trouver des solutions avec les fournisseurs des systèmes;
+faire des présentations techniques pour les compagnies aériennes;
+produire une documentation détaillée << Bible >> des systèmes et procédés d'opération dans le nouveau secteur des départs transfrontaliers (SDT);
+implémenter un plan de continuité & relève pour les systèmes critiques.
+Entreprise67-3, Montréal, QC, Canada
+Directeur de projet sénior & directeur 
+de relation d'affaire  -  TI 
+Juin 2007 à juin 2008
+Fournisseur Mondial des services de Télécommunication.
+Responsabilités :
+améliorer la relation entre la division TI et les Unités d'Affaire localisées en Amérique du Nord, Europe, Asie et Afrique;
+implémenter une gestion de portefeuille pour les besoins TI des unités d'Affaire et initier les projets nécessaires suivant les priorités et les budgets disponibles;
+implémenter un CRM en mode nuage qui était un projet hautement stratégique pour le groupe Entreprise67-3;
+gérer un projet de consolidation de l'infrastructure de 3 Unités d'Affaire;
+effectuer la planification des projets en respectant les priorités d'affaire, la vision corporative, les budgets et les cédules préétablies;
+s'assurer que les projets suivent les procédés et les standards du bureau de projets Corporatif TI;
+aider à implémenter les procédés du TI au niveau global (SOX, SDLC, etc.). 
+Réalisations :
+créé un service de << Relation IT - Affaires >> responsable d'aider les Unités d'Affaire à gérer leurs besoins et leurs priorités en TI;
+consolider les infrastructures réparties de 3 Unités d'Affaire dans un Centre de Données commun; 
+gérer des équipes en Amérique du Nord, Europe, Asie et Afrique du sud;
+livrer plusieurs projets Infrastructure et de Développement;
+implémenter un CRM en mode nuage (SalesForce.com) :
+gérer la compagnie recrutée pour la personnalisation et la configuration du CRM (Toqsoft Technologies, Bangalore-Inde); 
+animer les sessions stratégiques de collecte et d'arrimage des requis d'affaire;
+aider les Unités d'affaire à raffiner et finaliser leurs besoins en utilisant des séances de découverte des fonctionnalités de base d'un CRM basées sur le prototypage;
+découper les livraisons suivant les priorités et la capacité d'adoption et de changement;
+assister les Unités d'affaire durant le déploiement;
+coordonner un audit de sécurité pour les Centres de Données de SalesForce.com;
+adapter les processus d'opération et de support TI à un mode d'opération << nuage >>.
+Entreprise67-4, Montréal, QC, Canada
+Directeur de projet sénior  -  IT 
+(Bureau de Gestion des Projets)
+Juillet 2006 à juin 2007 
+Un des plus importants imprimeurs commerciaux du monde.
+Responsabilités :
+aider Entreprise67-4 World à mettre en place un bureau de projet (PMO) au sein de l'organisation TI;
+implémenter un système de gestion de projets et de ressources (PPM);
+gérer des projets stratégiques d'Infrastructure et de Développement d'Applications pour les différentes Unités d'Affaire;
+aider Entreprise67-4 à implémenter la méthodologie Six Sigma dans l'organisation TI.
+Réalisations :
+produire les "modèles" des documents et procédés de travail pour le bureau de Gestion de Projets (PMO);
+gérer Le projet "Citrix" : Le but de ce projet est de remplacer 8000 ordinateurs de bureau, qui sont localisés partout au monde, par des "Thin Client" ou terminaux qui sont connectés à une plateforme << Citrix >> installée dans le << Data Center >>;
+gérer l'implémentation du système financier "Hyperion".
+Entreprise67-5, Southboro, MA, USA
+Directeur de projet sénior
+Mai 2000 à juin 2006
+Division des Solutions d'Affaire  -  PMO  -  Mars 2004 à juin 2006
+Division TI  -  Avril 2003 à mars 2004
+Division Midrange  -  Ingénierie Logiciel  -  Mai 2000 à avril 2003
+Chef de file mondiale des systèmes de stockage de données
+Responsabilités :
+livrer les projets de << Solutions d'Affaire >> pour les Clients et Partenaires d'EMC;
+identifier les opportunités d'affaire;
+gérer le développement des nouvelles générations des ordinateurs de stockage de données;
+assister et former les nouveaux Chefs de Projets;
+gérer une équipe multifonctionnelle de Gestionnaires de Projets pour coordonner les livrables du programme << Clariion >>;
+développer le plan du projet, organiser et contrôler les différentes phases, et s'assurer que le projet atteindra les objectives, le budget et l'échéancier définis;
+définir les parties du projet qui peuvent être sous contractées et coordonner les travaux avec les sous contractants;
+travailler avec les Architectes et les Directeurs Fonctionnels pour finaliser les livrables et planifier les ressources requises;
+surveiller le budget du projet, faire le suivi des problèmes et obstacles rencontrés, et fournir régulièrement une mise à jour à la direction et aux clients (internes et externes);
+s'assurer que les projets sont livrés selon les standards du bureau de projet;
+identifier et gérer les risques et les conflits internes et externes;
+identifier les opportunités d'affaire chez les clients et coordonner avec les équipes de Vente;
+implémenter les méthodes d'amélioration des procédés en utilisant la méthodologie Six Sigma.
+Réalisations :
+livrer trois générations des produits Clariion au marché;
+gérer plusieurs projets complexes d'Infrastructure pour des clients comme : Bank Of America, Fleet Bank, Morgan Stanley, FBI, Verizon, Taco Bell, Walmart, etc.;
+coordonner l'intégration des Systèmes TI après l'acquisition de Fleet Bank par Bank Of America;
+gérer la mise à jour et la consolidation de plusieurs centres de données de Bank Of America;
+implémenter deux << ERPs", une en Amérique du Nord et une en Europe/Asie;
+aider la Division d'Ingénierie d'ouvrir ses installations de sous-traitance en Inde et en Chine;
+gérer quatre projets effectués en totalité en Inde et en Chine;
+implémenter un CRM pour soutenir le marketing et les ventes sur les 5 continents.Initier et réaliser un projet Six Sigma qui a permis de réduire la durée et le nombre des tests de qualité de 40% sans compromettre la qualité du produit. Ce projet a permis à la compagnie de faire des grandes économies des ressources et de délivrer les nouveaux produits sur le marché rapidement.
+Entreprise67-6, Montréal, QC, Canada
+Ingénieur logiciel sénior
+Janvier 1999 à mai 2000
+Chef de file mondiale dans la fabrication des simulateurs de vol.
+Responsabilités :
+analyser les besoins des clients pour les systèmes de communication des avions;
+rencontrer et discuter avec les clients les détails des projets et les solutions suggérées;
+développer les programmes nécessaires pour simuler les systèmes de communication pour les avions Airbus, Boeing et Bombardier (temps réel/Embarqués, utilisant C et C++ sur Unix AIX);
+écrire la documentation technique suivant les normes ISO 9001;
+assurer l'intégration des programmes, le suivi et la maintenance des simulateurs à travers le monde;
+former et assister les ingénieurs juniors.
+Réalisations :
+concevoir et développer un nouveau logiciel de communication basé sur un matériel audio générique qui a été intégré sur les simulateurs de vol pour la première fois. Le logiciel a permis aussi de résoudre les problèmes causés par les limitations techniques du nouveau matériel en utilisant des nouveaux algorithmes pour répartir la transmission de la voix sur tous les canaux libres et éviter ainsi de surcharger les canaux dédiés;
+concevoir un nouveau logiciel de simulation de GPWS (Ground Proximity Warning System) pour les nouvelles générations des Boeing 737;
+développer et intégrer les logiciels de communication sur plusieurs simulateurs de vols.
+Entreprise67-7, Laval, QC, Canada
+Instructeur informatique
+Octobre 1996 à décembre 1998
+Établissement d'enseignement Informatique.
+Responsabilités :
+préparer les nouveaux cours enseignés par le collège;
+enseigner les cours de Programmation, d'Analyse et de Conception de Bases De Données;
+encadrer les étudiants durant leurs stages en Entreprises.
+Réalisations :
+préparer et enseigner les cours suivants : C, C++, Visual Basic, Java, RPG 400, CL400, Analyse d'Affaire, Analyse Système et Bases de Données;
+visiter les stagiaires dans les entreprises et s'assurer que le mandat du stage est respecté.
+Entreprise67-8, Paris, France & Casablanca, Maroc
+Architecte et gestionnaire de projet 
+Mars 1994 à juillet 1996
+Ingénieur logiciel
+Octobre 1990 à mars 1994
+Compagnie de consultation en TI en France et au Maroc. 
+Responsabilités :
+rencontrer les clients et analyser leurs besoins;
+proposer les solutions adéquates logiciels/matériel suivants les budgets des clients;
+planifier, organiser et contrôler l'intégration de composantes logicielles et matérielles en partenariat avec les départements appropriés et les partenaires;
+gérer la livraison, installation, configuration des solutions et la formation des clients.
+Réalisations :
+concevoir et livrer une solution complète pour un Hôpital. La solution a permis d'organiser les services des urgences et les services de Chirurgie. Elle a aidé les responsables de ces services d'optimiser le temps des chirurgiens, des médecins et des infirmier(e)s; et la planification des chirurgies. La solution a été adoptée par d'autres hôpitaux;
+concevoir et livrer une solution clé-en-main pour le département << Crédit Personnel >> d'une banque. La solution a permis de réduire le temps du traitement des dossiers de crédit de plus de 40 %. Elle a été adoptée par d'autres banques;
+aider le département commercial à gagner plusieurs contrats importants comme France Telecom, Crédit Lyonnais, Carrefour, Assurance Wataniya, etc. 

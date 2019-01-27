@@ -1,0 +1,110 @@
+CURRICULUM VITÆ
+PROFIL DE CARRIÈRE
+Plus de 8 années d'expérience professionnelles dont trois en Salesforce
+Développement Salesforce 
+Analyse et Modélisation des besoins du client 
+Programmation Back-end : Apex Classes/Triggers, Batches, Queues, Scheduled Job 
+Intégration de systèmes: Service Web REST/SOAP, Canvas
+Programmation Front-end : Visualforce, Remote Call, Lightning Component
+Salesforce1
+Processus automatisés: Workflow, Approval Process, 
+AppExchange: Conga, DupeCatcher
+Tâches d'administration
+Dévéloppement Web 
+Méthodologie: Model-View-Controller (MVC) Zend, CodeIgniter, Synfony, STRUT
+Programmation Back-end: PHP, .NET(C#), JAVA
+Programmation Front-end: AngularJS, jQuery, CSS, NodeJS, Flash/Flex, HTML5, JSP
+Serveurs: Apache, IIS 
+Bases de données: MySQL, SQL Server, Oracle, noSQL, Postgres SQL
+Ateliers de génie logiciel : PowerAMC, VisualStudio, Eclipse, WinDev, MySQL Workbench 
+Méthodologie : AGILE(JIRA)
+Gestion des sources et versions : SVN, Bitbucket, GitHub
+Outils de test : SoapUI
+
+FORMATION
+Certification Administrateur Salesforce
+Mai 2015  -  Salesforce.com
+
+Certification Développeur Salesforce 
+Octobre 2013  -  Salesforce.com 
+
+Maîtrise en commerce électronique 
+Mai 2007  -  Université de Montréal - HEC, Montréal, Québec, Canada
+
+Diplôme d'Études Supérieur Spécialisés en Informatique (DESS) / Programme d'échange
+Mai 2005  -  Université de Montréal, Montréal, Québec, Canada
+
+Méthode Informatique Appliquée à la Gestion des Entreprises (MIAGE) 
+Juin 2003  -  Université de Ouagadougou, Ouagadougou, Burkina Faso 
+
+Diplôme d'Étude Universitaire Général (DEUG) Mathématique et Physique
+Juin 2001  -  Université de Ouagadougou, Ouagadougou, Burkina Faso
+DISTINCTIONS ET PRIX 
+Bourse d'excellence Emergis de la maitrise en Commerce Électronique 
+2006  -  Montréal, Canada
+
+Bourse d'excellence de l'Agence Universitaire de la Francophonie (AUF) 
+2004  -  Ouagadougou Burkina Faso
+
+Olympiades Nationales de Mathématiques
+1998  -  Ouagadougou Burkina Faso
+LANGUES 
+Français  -  Avancée 
+Anglais  -  Fonctionnel 
+--------------------------------------------------------------------------------
+EXPÉRIENCES DE TRAVAIL
+CGI : Montréal, Québec
+Consultant Salesforce 
+Depuis juin 2015
+Intellio In-cloud. : Montréal, Québec
+Spécialiste de solutions cloud 
+Juillet 2014 à juin 2015
+Application iPad de prise de commande
+Programmation Back-end : APEX Triggers/Classes
+Programmation Front-end : Visualforce, Salesforce1, AngularJs, Ionic 
+Taches d'administration salesforce
+Développement AGILE: JIRA
+Intégration de systèmes : Web services REST/SOAP
+Chargement de données : DataLoader, Batch Job, Ant
+Gestion des sources : Github, Bitbucket, Ant
+Test unitaire, Test Web Service avec SoapUI
+Nubik Inc. : Montréal, Québec
+Développeur Salesforce 
+Mars 2013 à juillet 2014
+Programmation Back-end : APEX Triggers/Classes
+Programmation Front-end : Visualforce, Customer Portal
+Taches d'administration salesforce
+Google Analytics
+Intégration de systèmes : Web services REST/SOAP
+Sobeys Québec : Montréal, Québec
+Analyste Programmeur 
+Mai 2009 à mars 2013
+Gestion de l'intranet des marchands
+Site de commande de buffets en ligne
+Analyse, conception et optimisation de bases de données : SQL Server
+Programmation Back-end : PHP, .NET, IIS
+Programmation Front-end : jQuery, ExtJS, Flash/Flex, CSS
+Orange Tango Studio Web : Montréal, Québec
+Analyste Programmeur 
+Octobre 2007 à mai 2009
+Site Web de e-commerce
+Analyse, conception et optimisation de bases de données : MySQL
+Programmation Web Back-end : PHP, Apache
+Programmation Web Front-end : Javascript Ajax, Flash/Flex, CSS
+Consultant indépendant : Montréal, Québec 
+Fédération de football amateur du Québec 
+	Depuis juillet 2006 
+Intranet d'enregistrement de membres 
+Administrateur du Site Web de la fédération
+Regroupement Loisir Québec, Montréal / Québec 
+	Février août 2007
+Développement de sites Web avec les technologies ASP / MS ACCESS, PHP/MYSQL
+Programmation Access et Visual Basic
+Accès-Cible Jeunesse Rosemont 
+	Février 2007 à décembre 2009
+Formateur en bureautique et création de site Web 
+Pour des particuliers 
+	Depuis juin 2005
+Création de site Web : CMS, E-Commerce 
+Hébergement de site Web : configuration DNS, gestion des logs, Configurations emails
+Marketing électronique : Google analytics, Google adSense

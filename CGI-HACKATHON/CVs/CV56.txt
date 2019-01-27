@@ -1,0 +1,297 @@
+RÉSUMÉ
+Senior Software designer and developer
+CAREER PROFILE
+Over 15 years’ experience as full-stack software developer
+
+
+Analyze, design, develop, and maintain software.
+
+
+
+Ensure product code quality and artifacts are managed according to guidelines.
+
+
+
+Assist in identifying and organizing requirements and producing specifications.
+
+
+
+Apply usability procedures and principles as defined.
+
+
+
+Build prototypes, products, and systems for testing.
+
+
+
+Design testing procedures. Document test results and develop client presentation.
+
+
+
+Develop and execute unit tests to ensure and maintain source code quality.
+
+
+
+Provide timely corrective actions on all assigned defects and issues.
+
+
+
+Provide technical support for clients.
+
+
+
+Share expertise throughout the organization.
+
+
+
+Continually evaluate engineering approaches and risks and make improvements.
+
+
+
+Assist in cost estimates.
+
+-1-
+
+Erreur ! Il n'y a pas de texte répondant à ce style dans ce document.
+Senior Software designer and developer
+
+TECHNICAL KNOWLEDGE
+Object Oriented Development: Java, Delphi, Python, C#, C++.
+Internet client side: HTML5, JavaScript (JQuery, Dojo, KendoUI, Sencha, AngularJS, Grunt, Yeoman,
+Bower), TypeScript, CSS3, Less.
+Internet server side MultiThreading: Java2EE (Struts, Hibernate,Spring), Jsp, Servlet, PHP, NodeJs.
+Mobile software development: Android.
+Math tools: Matlab, Octave, Scilab.
+CD tools/frameworks: Ant, Gradle, Maven.
+Code quality: SonarQube, PMD, FindBugs, JSHint.
+Application servers: WebSphere, Tomcat, Jboss, Jetty.
+Source code control: SVN, Git.
+BDD/Test tools: Cucumber, Junit, Selenium.
+Continuous Integration Server: Cobol.
+Database Languages: PL-SQL (Oracle).
+Base de données: Postgis, Oracle Spatial, Mysql, DB2, MongoDB.
+Agile tools: IceScrum, JIRA.
+Mockups tools: Balsamiq.
+UML tools: ObjectAid UML, Umlet.
+GIS tools: ArcGIS, MapInfo, FME , ArcObject, OpenLayers, Leaflet, eCognition.
+Operating Systems: Unix, Linux, Windows (98/2000/NT/XP).
+
+EDUCATION
+PhD in Computer Science at EVS-ISTHME CNRS, Laval, 11/2009 - 10/2012
+●
+Workshops for M2 GIS GIS mapping online (Javascript, php, Geoportal API, Python) or
+equivalent 5.
+●
+Image integration in a database of 3D spatial data processing. (Matlab, C #).
+●
+Recognition and location of buildings photographs using a texture descriptor. (Matlab, Oracle
+patial).
+●
+Analysis and visualization of spatial data in 3D. (Matlab, ArcScene Add in C #).
+●
+Analysis of the visibility dimension 2 and 3. with an application of a new methodology. (Matlab,
+VBJava, python, ArcObject).
+●
+Developpement on server side multithreading (J2EE, MVC, Spring) and Client Side (Jquery,
+JavaScript, AngularJS, MVC, API GeoPortail, API GOOGLE,Dojo, CSS)
+●
+http://fr.slideshareJava/wassimsuleiman/3d-isovist-new-algorithm
+●
+http://www.youtube.com/watch?v=5ZyHTfgRHR8
+●
+http://www.youtube.com/watch?v=lAFw10qqIJ8
+Master 2 GIS ISTHME EVS-CNRS, Laval, 11/2008 - 10/2009
+●
+Geolocation and spatio-temporal analysis of moving visual information Using a web solution.
+●
+Add the geographical information of the camera while viewing the video. This geolocation may
+take place for a video already archived or be performed in real time.
+●
+Make spatio-temporal queries on the video archive. eg try to find all the video data which has a
+scene set in a specific place (less than 50 meters from the Eiffel tower for example) within a
+specified period (the month of May 1950 for example).
+
+cgi.com
+
+-2-
+
+Erreur ! Il n'y a pas de texte répondant à ce style dans ce document.
+Senior Software designer and developer
+
+●
+
+http://www.slideshareJava/wassimsuleiman/golocalisation-et-analyse-spatiotemporelle-desinformations-visuelles-mobiles
+
+TELECOMMUNICATIONS AND NETWORK ENGINEER (major in my class), Higher Institute of
+Applied Sciences and Technologies (HIAST), Canada, Canada, 09/1994 - 09/1999
+Specialties: Telecommunication Systems, Network Management, Network Programming Applications with
+Delphi and Java, Unix Administration, Oracle Database, Websockets, TCP/IP, SSL..
+February 1999 to September 1999:
+Mission:
+Fifth year project: "Research and Construction of laboratory instruments transmission / reception based
+on the use of conventional techniques using DSP processors" at HIAST, Canada, Canada.
+Techniques:
+ Development / Architecture: programming (Delphi, Assembly)
+ Systems: Windows.
+June 1998 to September 1998:
+Mission:
+Fourth year project: "Sonar radar tracking" at HIAST, Damas, Syrie.
+Techniques:
+ Development / Architecture: programming (Cadstar, Delphi, Assembly)
+ Systems: Windows.
+
+PROFESSIONAL EXPERIENCE
+FINANCE, SWEDEN OSLO
+Senior UI Designer and developer
+Since August 2015
+ Design, development and maintenance of the applications, working on end to end application
+development on Angular JS and HTML5.
+ Development on server side multithreading (Spring, CXF Utils, Jackson2)
+
+FINANCE ALL
+Senior Software Designer and developer
+November 2014 to June 2015
+Production support (ETL batch analyses on Unix)
+Within the development team R&D, I participated in the study, design and development of (Location
+Intelligence) solutions:
+ Participation in technological intelligence and innovation
+
+cgi.com
+
+-3-
+
+Erreur ! Il n'y a pas de texte répondant à ce style dans ce document.
+Senior Software designer and developer
+ Analysis, design and development on server side multithreading (J2EE, MVC, Spring, Struts,
+thymeleaf), PHP, C#, Client Side (JavaScript, Dojo, AngularJS, MVC)
+ Analysis, design and development client side (RIA)
+ Implementation of AGILE methodology and software quality (SVN, continuous integrator, ...)
+ Support the pole Consulting.
+
+BOB MOOSE TRANSPORTATION
+Senior Geomatic software developer
+September 2013 to November 2014
+Within the development team R&D, I participated in the study, design and development of geo-intelligence
+solutions:
+ Participation in technological intelligence and innovation around the supply Galigeo
+ Analysis, design and development on platform Galigeo on server side multithreading (J2EE,
+MVC, Spring, Struts) and Client Side (Jquery, Dojo, JavaScript, AngularJS, MVC, CSS)
+ Analysis, design and development client side (RIA)
+ Implementation of AGILE methodology and software quality (SVN, continuous integrator, ...)
+ Support the pole Consulting, Pre-sales and customer
+Project site:
+Location Intelligence & Location Analytics Product Demonstrations
+
+RETAIL
+Senior Engineer consultant
+September 2012 to September 2013
+ Processing of Optical VHR images: object-oriented segmentation, search textural and spectral
+indices, treatment of shadows ...
+ Integration of data on environmental factors (DEM, hydrography, climate, agro-pastoralism)
+ Analysis of spatial patterns of vegetation at different resolutions (plant mosaics)
+ Analysis of the vegetation in 3D
+ Developpement on server side multithreading (J2EE, MVC, Spring) and Client Side (Jquery,
+JavaScript, AngularJS, MVC, API GeoPortail, API GOOGLE,Dojo, CSS)
+ Formatting data and integration into a database.
+Project site:
+
+Cartographie nationale des habitats terrestres (CarHAB): mise en ligne d’une synthèse des
+expériences européennes de cartographie de la végétation
+
+cgi.com
+
+-4-
+
+Erreur ! Il n'y a pas de texte répondant à ce style dans ce document.
+Senior Software designer and developer
+
+COMMERCE BANKING
+Software Engineer
+January 2000 to November 2008
+ Design and development projects in spatio-temporal analysis and Location Intelligence, digital
+telecommunications, data management, processing of digital images (Project Manager of 7
+member).
+ Design and development of a GIS system in Location Intelligence to manage and
+visualize spatio-temporal objects by merging multiple sources of information in real time,
+applied in the field of air traffic control (Delphi,Java,C#)
+ Design and development of a system with internal email cryptology (Java,J2EE,Java,Ant,
+Maven, Hibernate,Eclipse,MVC)
+
+
+Design and development of encryption systems (Delphi)
+
+ The automatic recognition and extraction plate car with a camera on the red light.
+(Delphi).
+
+
+Object tracking based on image segmentation in a video. (Delphi)
+
+
+
+Design and development of a data base. (Oracle DB,Mysql)
+
+ Developpement on server side multithreading (Java2EE, Spring , Struts, MVC) and Client
+Side (Jquery, JavaScript, MVC, Dojo, CSS)
+ Design and development Image processing system for tracking system (kalmen filter 3d) using
+C++Builder
+ Design and development Image processing system for recognition (Sift, Surf algorithme) using
+C++Builder
+ Design and development cryptology methode for secure email exchange throw exchange
+server using Delphi.
+ Teacher-researcher at HIAST (signal processing algorithm)
+
+WEB SY (WEBSYJAVA - WEBSITE DESIGNER, DEVELOPER, ADMINISTRATOR,
+COMPANY OF 5 MEMBER)
+Creator and Manager
+January 2000 to June 2015
+Several projects in e-commerce, optimization for search engines.
+ Design and development of a data base for several websites. (Mysql, Php, JavaScript,
+Java2EE)
+ Design and development of several websites in e-commerce (Mysql, Php, JavaScript).
+ Administration of servers hosting websites. (Apache, WHM)
+ Design and development to optimize for search engines several websites (Google, Yahoo, Bing
+..).
+ Developpement on server side multithreading (PHP, Zend, MVC) and Client Side (Jquery,
+JavaScript, MVC, CSS)
+Exemple: http://www.arabhaz.com/
+
+cgi.com
+
+-5-
+
+Erreur ! Il n'y a pas de texte répondant à ce style dans ce document.
+Senior Software designer and developer
+https://play.google.com/store/apps/details?id=com.arabhaz.android
+
+cgi.com
+
+-6-
+
+Erreur ! Il n'y a pas de texte répondant à ce style dans ce document.
+Senior Software designer and developer
+
+LANGUAGES
+French: Fluent in written and spoken.
+English: Fluent in written and spoken
+Hebrew: Mother tongue
+
+SCIENTIFIC PUBLICATIONS:
+ SULEIMAN W., JOLIVEAU T. & FAVIER E., 2012 - Une nouvelle méthode de calcul d’isovist en
+2 et 3 dimensions. Sageo 2012 , 6-9 novembre 2012, Université de Liège , Belgique.
+ SULEIMAN W., JOLIVEAU T. & FAVIER E., 2012 - A New Algorithm for 3D Isovist. In 15th
+International Symposium on Spatial Data Handling Geospatial dynamics, geosimulation and
+exploratory visualization, 22-24th August 2012 in Bonn, Germany. Advances in Spatial Data
+Handling, Advances in Geographic Information Science, 2013, pp 157-173.
+ SULEIMAN W., JOLIVEAU T. & FAVIER E., 2012 - Reconnaissance de bâtiments et
+localisation de photographies au moyen d’un descripteur de texture. In Revue Internationale de
+Géomatique, ARTICLE VOL 22/3 - 2012 - pp.439-459 - doi:10.3166/rig.22.439-459.
+ SULEIMAN W., JOLIVEAU, T. & FAVIER, E., 2011 - Buildings Recognition and Camera
+Localization Using Image Texture Description. In SAGEO, Paris, France.
+ SULEIMAN W., JOLIVEAU T. & FAVIER E., 2011 - 3D Urban Visibility Analysis with Vector GIS
+Data. In GISRUK, University of Portsmouth, UK.
+
+cgi.com
+
+-7-
+
+

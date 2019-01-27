@@ -1,0 +1,73 @@
+             3816, De Verdun, Verdun, Montréal, Québec, H4G 1K6
+                                 514-572-8805
+                            http://www.amirzak.com
+Langues: français, anglais.
+OBJECTIF PROFESSIONNEL
+Obtenir un poste relié à l'informatique dans une entreprise de développement de logiciels.
+ COMPÉTENCES INFORMATIQUES
+Systèmes d'exploitation:	Windows, Linux/Unix, Windows Server. 
+Logiciels et Outils:	Visual Studio, NetBeans(Maven), Eclipse, BlueJ, CodeBlocks, WampServer,  PhpMyAdmin, LDAP, Active Directory, FileZilla, Visual Paradigm, GIT, Adobe Photoshop, Gimp, Dreamweaver, Adobe Illustrator, Microsoft Office, Notepad++.
+Bases de données:	MySQL, Oracle, SQL Server, Access.
+Programmation:	PHP, Java(Junit), JavaScript (JQuery, Ajax, AngluarJS), C, C++, C#,.net, Coffee Script, JSON, XML, Visual Basic, ASP, JSP, Ruby, HTML, CSS.
+Frameworks et CMS:	Zend framework 2, Spring, Node.js, Liferay, 	WordPress.
+Réseaux et protocoles:	TCP/IP, UDP.
+Serveurs d'application:	Tomcat.
+Méthode de conception:	Agile, UML, Merise.
+Web Services:	Apache, SOAP, REST.
+FORMATION
+
+Baccalauréat en Informatique et Génie Logiciel 	2010-2013
+Université du Québec à Montréal
+Diplôme d'études collégiales en techniques d'informatiques 	2007-2009
+Collège Lasalle, Montréal
+EXPERIENCE PROFESSIONNELLE
+
+Programmeur 	Octobre 2015-Avril 2016
+Accueil aux Immigrants de l'Est de Montréal, Montréal
+  > Configurer le serveur (Windows Server, Linux, WampServer).
+  > Gérer les utilisateurs (Active Directory).
+  > Programmer une application de gestion d'imprimantes.
+  > Développer le site web de l'entreprise (PHP, JavaScript (JQuery, Ajax), CSS, HTML5, WordPress).
+  > Tester les fonctionnalités (Test unitaires).
+  > Configurer les bases de données (MySQL, PHPMyAdmin).
+  > Support aux employés.
+Autres technologies: UML, Filezilla, Apache, Windows, VMware, Notepad++. 
+Développeur Web (Back-End / Front-End)	Mars 2014-Juillet 2015
+Peak Positioning Corporation, Montréal	
+  > Interagir et Communiquer avec les clients.
+  > Analyser les projets (Méthodologie agile, UML).
+  > Rechercher les matériels.
+  > Configurer le serveur (Linux, WampServer).
+  > Gérer les bases de données (MySQL, LDAP, OpenLDAP, PHPMyAdmin).
+  > Programmer les applications (PHP, Java, CSS, HTML5, JavaScript (JQuery, Ajax), Eclipse, WordPress, Notepad++, NetBeans, Maven).
+  > Développer des portlets.
+  > Gérer les Web Services (SOAP, REST)
+  > Tester les fonctionnalités (Junit).
+  > Effectuer des analyses fonctionnelle et organique (SEO).
+  > Livrer les projets.
+  > Créer les documentions.
+Autres technologies: Node.JS, GIT, UML, FileZilla, Apache, Tomcat, Windows, VMware, cPanel, Photoshop.
+Développeur Web (Back-End / Front-End)	Décembre 2015-Avril 2016
+Travailleur autonome	
+  > Communiquer avec les clients.
+  > Analyser les projets (Méthodologie agile, UML).
+  > Bâtir le serveur (Linux, WampServer).
+  > Administrer les bases de données (MySQL, PHPMyAdmin).
+  > Développer les applications (PHP, CSS, HTML5, JavaScript (JQuery, Ajax), WordPress, Notepad++, Zend framework 2).
+  > Effectuer les tests.
+  > Effectuer des analyses fonctionnelle et organique (SEO).
+  > Livrer les applications.
+Autres technologies: FileZilla, Apache, Windows, VMware, cPanel, Photoshop.
+
+Analyste programmeur-stagiaire 	2005 
+Groupe Office Chérifien des phosphates, MAROC
+  > Création d'une application pour la gestion du stock de matériaux.
+  > Collecter les informations nécessaires auprès des employés.
+  > Analyser le système existant.
+  > Concevoir les modèles de l'application.
+  > Développer l'application.
+  > Rédiger la documentation pour les utilisateurs.
+Technologies: VBA, Access, SQL, Merise.
+LOISIRS ET INTÉRÊTS 
+
+  >  Éducateur de soccer U7  -  U8.

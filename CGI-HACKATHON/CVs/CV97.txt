@@ -1,0 +1,104 @@
+EMPLOYMENT
+Electrical Engineer, Intern
+Manufacturing Industries
+June 2015 - August 2015
+
+PCB and schematic design for audio board to interface with AM437x microprocessor
+
+Electrical component research
+
+Meeting with vendors to discuss DAC IC options
+
+Electrical troubleshooting, circuit analysis and documentation
+
+PCB revision process and modifications
+Electrical Engineer, Intern
+Makarov Industries
+June 2014 - August 2014
+
+Bluetooth module development in the Linux Kernel
+
+PCB and schematic design using Altium Design software for SPI connector board
+
+Electrical troubleshooting, circuit analysis and documentation
+
+Electronics prototyping using the Arduino platform
+Contract Prototype Developer
+Manufacturing
+August 2013 - Present
+
+Modeling with Solidworks and Google Sketchup
+
+Maintenance and use of 3D printers
+
+Management and shipment of bulk international orders
+
+Website maintenance and marketing
+Technical Design Assistant
+Manufacturing
+May 2013 – September 2013
+
+3D printer assembly and repair
+
+Marketing
+
+Company representation at national trade shows
+
+3D printer prototyping and electronics soldering
+
+EDUCATION
+Montreal, QC
+
+B. Eng in Computer Engineering
+Montreal, QC
+
+DEC in Pure and Applied Science
+Montreal, QC
+
+High School Diploma
+
+University
+College
+College
+
+Fall 2011 – Fall 2015
+Fall 2009 - Winter 2011
+Fall 2003 - Winter 2009
+
+TECHNICAL EXPERIENCE
+Projects
+
+
+
+
+
+
+Wirelessly Controlled Gimbal: Have two STM32F4 boards wirelessly communicate in order for one
+board to control the orientation of the other using the MEMS accelerometer. Programmed in embedded C
+and ARM.
+Autonomous Robot: Programmed and designed a Lego Mindstorms robot capable of competing
+against other robots in a game of “basketball”. Functionality was coded using Java along with the Eclipse IDE.
+Music Box: Created a functional music player using VHDL programming on an Altera DE1 circuit board.
+
+LANGUAGES AND TECHNOLOGIES
+
+
+
+
+
+
+
+
+
+
+HTML; CSS; Java; C; VHDL; ARM Assembly; MIPS; TeX
+Perfectly bilingual in English and French
+Altium Design Software, Adobe Photoshop, Eclipse, Google Sketchup, Github, Keil, Latex, Office Suite,
+Quartus
+ARM Microprocessor programming – embedded C and Assembly
+Comfortable with Windows, Mac OS and Linux
+Electronics soldering down to 0603 SMD size
+3D printer and complex mechanical system assembly
+Comfortable with Arduino open-source prototyping platform
+
+

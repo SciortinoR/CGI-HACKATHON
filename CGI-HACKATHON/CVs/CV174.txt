@@ -1,0 +1,246 @@
+CURRICULUM VITÆ
+Gestionnaire de projets TI (PMP  -  Prince2)
+PROFIL DE CARRIÈRE
+15 années en informatique dont 8 années en gestion de projets.
+Expérience en projets de type : ERP - Infrastructure
+Excellentes connaissances techniques : ancien administrateur Windows et Unix.
+Clients : Ministère de la Famille du Québec, Desjardins, CMA, Canoë, Bell, Ubisoft, Lallemand inc, EDF, Caisse d'Épargne.
+Domaines : Bancaire, Médical, Web, Municipal, Jeux vidéos, Agroalimentaire, Électricité.
+Gestion de programmes : au cours de sa carrière il a été amené à participer comme acteur clef sur des programmes de projets totalisant plus de 100 millions de dollars.
+Livraison de projet : il est particulièrement reconnu pour sa capacité à prendre en charge et livrer les projets complexes et sensibles (maj de logiciel de paie, déploiement et maintenance de systèmes financiers, refonte d'infrastructure web...).
+Grâce à son expérience et ses connaissances techniques, il est particulièrement apprécié par les diverses parties prenantes, des techniciens aux promoteurs, pour l'évaluation, la planification et la coordination des tâches à réaliser pour les projets.
+Suivi de projets : il effectue le suivi de projets depuis maintenant plus de huit ans (Bell Solutions d'Affaires). Autant à haut niveau en tant que directeur de projets chez PCP, que plus impliqué avec les ressources techniques comme intégrateur de services chez Desjardins. 
+Faciliter les communications avec les parties prenantes : il est très à l'aise dans la a gestion des dossiers multi-partie. Il a par exemple été une ressource clef lors de l'arrimage entre IBM et Desjardins pour la partie dite "mode opérationnel". De plus lors de son mandat chez Lallemand Inc., il a agi en tant que facilitateur entre le département TI et le VP finance.
+Gestion des ressources : il est reconnu pour ces habiletés dans la gestion des ressources : favoriser l'esprit d'équipe, définir les rôles (RACI), développer les compétences. Il sait être un agent du changement auprès des clients : sensibiliser, communiquer, former, impliquer gérer les parties prenantes. 
+
+
+Excellente communication verbale et écrite, bilingue anglais et français : Il s'exprime clairement et avec aisance. Au cours de sa carrière, il a eu à rédiger et à diffuser de nombreuses communications en français et en anglais, que ce soit verbalement, par écrit ou lors de formations.
+Soutien au client : Que ce soit dans des mandats techniques ou de charge de projets, il est particulièrement apprécié pour le soutien et le suivi fourni.
+MS Project : Parfaitement à l'aise avec les logiciels de bureautique, il a par exemple été amené à fournir du soutien à ses collègues sur l'utilisation de MS Project.
+Mise à jour de tableaux de bord : Pendant son mandat chez Canoë, il a été responsable de la mise en place et de la tenue de tableaux de bord et de rapports pour les incidents, les déploiements puis chez C.M.A. pour le suivi de projets avec la haute direction.
+Expérience en suivi financier avec Excel (macros, pivot tables) : Enfin, il possède une formation en finance et en contrôle de gestion. Il a développé une application nationale sous Excel et VBA en utilisant des tableaux croisés dynamiques, pour consolider des données financières (Béton de France).
+
+COMPÉTENCES
+Environnements :
+Unix (SUN  -  AIX), Linux (Suse, Red Hat, Ubuntu), D.O.S, Windows 3.x, 9x, NT, 2000, 2003, XP, Vista  -  I.I.S. Exchange  -  Lotus, Domino  -  Citrix  -  Oracle  -  MySQL  -  PostgreSQL  -  Apache  -  I.I.S  -  Great Plains
+Logiciels :
+MS Project, Visio, SharePoint, Office : Word, Excel, Access, PowerPoint
+Langages :
+C  -  VBA  -  Lotus Domino, HTML  -  Java Script, Perl  -  BASH  -  KSH
+FORMATION
+2006
+Programme court en gestion de projets (15 crédits)
+Université de Québec à Montréal
+2003
+A.E.C d'administration Unix
+Cégep de Rosemont, Montréal
+1996
+Maîtrise en économie internationale, monnaie et finance, (niveau Bac) Macroéconomie et finance
+Université Toulouse I, France
+1995
+Licence en économie industrielle Micro-économie, marketing, droit, finance, gestion, comptabilité
+Université Toulouse I, France
+CERTIFICATIONS
+2015
+Prince2 Practicien
+2015
+I.T.I.L. v3 Fondation
+2009
+PMP
+2009
+Scrum Master CSM
+2009
+ISO 20000 Fondation
+2007
+I.T.I.L. v2 Fondation
+2002
+Microsoft MCSA
+2002
+Citrix Metaframe XP
+1999
+Administration et support sous Windows NT
+1998
+Développement de sites internet
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+                          EXPÉRIENCE PROFESSIONNELLE
+Ministère de la Famille du Québec 
+Chargé de projets
+Depuis juin 2015
+Responsabilités :
+gestion de projets en développement logiciel applicatif avec les technologies Oracle et .Net;
+supervision d'équipes d'analystes, d'architectes et de développeurs;
+participation au comité de gestion de projet et à la table d'assignation des ressources.
+Réalisations :
+redressement  du projet de Prestation Électronique de Services pour l'enregistrement des actionnaires et des administrateurs pour les garderies, CPE et les bureaux coordonnateurs (800 j-p.);
+registre des pénalités administratives (225 j-p.);
+démarrage du projet de traitement des plaintes et des empêchements.
+Environnement :	Windows, Sharepoint, .Net, Oracle
+Persistence Capital Partners (PCP) 
+Directeur de projets
+Septembre 2014 à janvier 2015
+Responsabilités :
+supervision de l'intégration de 100 employés de Moreneau Shepell dans une nouvelle entité suite au rachat de cette branche par Persitence Capital Partners;
+définir la stratégie de migration des actifs informatiques situés sur 3 provinces ainsi que la coupure avec l'entité mère.
+Réalisations :
+rédaction des appels d'offres, présélection des soumissionnaires, choix des partenaires;
+inventaire matériel, logiciel. Identification des processus opérationnels clef;
+planification et migration en phases.
+Environnement :	Windows, Sharepoint, VistaMed, Office 365 (informatique dite dans le nuage)
+Desjardins 
+Gestionnaire de projets TI
+Avril 2011 à août 2014
+Responsabilités :
+gestion et planification de projets d'affaires et d'infrastructure technologique;
+coordination des activités entre BELL - IBM  -  Desjardins;
+planification et suivi de la mise en place de serveurs, progiciels;
+gestion de commandes logicielles et matérielles;
+intermédiaire entre les clients et le département des offres de services;
+coordination et support pour les mises en production de l'équipe des intégrateurs de services (HPSM).
+Réalisations :
+mise à jour du logiciel de paie VIP-RH de DLGL pour 22.000 employés, 550 j/h budget 850 K$ :
+redressement du projet et livraison à la date requise par le client;
+livraison de l'environnement "Gold Copy" de l'ERP Oracle Système Financier, budget > 30 M$[(1)][ :]
+livraison des premiers environnements notamment grâce au suivi serré auprès d'Oracle et des ressources techniques;
+finalisation du volet infrastructure pour le traitement des chèques et de l'encaisse monétaire des guichets automatiques bancaires, 2300 j/h budget 1.7 M$ [(2][)][ :]
+finalisation de la partie serveurs qui avait été commencé il y a deux ans et opérationnalisation;
+livraison de la V1 du site internet Portail Virtuel Mouvement (PVM) Desjardins, budget > 100 M$[(3)][ :]
+planification et implantation de toute la partie infrastructure, arrimage avec le développement, opérationnalisation, gestion des escalades auprès de la gestion des changements;
+implantation du service de Halte au Blanchiment d'Argent :
+livraison des premiers environnements de dev, certif, prod.
+  (1)	FA : Fusion Applications (OHS, Weblogic, Webcenter, OIM, OIF, OAM, SOA, EssBase), BIFS, Hyperion, EBS , Oracle RAC DB, Sun T4/4
+  (2)	NCR ImageMark Transaction Manager, Citrix, MSQL
+  (3)	OHS (Oracle HTTP Server), Weblogic, UCM (Universal Content Management), OAM (Oracle Access manager), OIF (Oracle Identitiy Federation), OVD (Oracel Virtual Directory), ODSEE (Oracle Directory Server Enterprise Edition), Oracle RAC DB (Real Application Cluster), Sun T4/4
+Environnement :	Oracle, SQL, Webshpere, Weblogic, Solaris, Aix, Citrix, Excel, Ms Project 2010, HPSM, Méthodologie ITIL, PMI
+MD Physician Services Inc. 
+(CMA : a Canadian Medical Association company)
+Chargé de projets
+Juin 2010 à mars 2011
+Responsabilités :
+gestion d'un portefeuille de projets de développement Internet (Java  -  Web 2.0);
+suivi des (30+) requêtes hors projets (budget individuel < 50 K$);
+révisions et mise à jour des tableaux de bord des projets et communication au comité directeur;
+coordination des affectations de six développeurs, trois intégrateurs et un analyste.
+Réalisations :
+livraison d'un site Internet de support et de communication pour les clients, 100j/h budget 220 K$; 
+intégration du système de transfert d'accréditation RCPSC pour les médecins (Royal College of Physicians and Surgeons of Canada);
+implémentation du système d'accréditation de pratique aux médecins avec Dynamed;
+mise en place de tableaux de bord pour la planification du développement et du Q.A.
+Environnement :	Java, Jira, Excel, Ms Project 2003, Windows 2003, Méthodologie ITIL, PMI
+Autres réalisations en tant que consultant:
+conseil en gestion des opérations informatiques;
+formation Web 2.0 : créer et donner une formation quant à l'utilisation d'Internet pour réseauter. clients : recruteurs, conseillers en transition de carrière et chercheurs d'emploi;
+formation méthodologie agile/SCRUM. 
+Ubisoft 
+Travailleur autonome
+Mai 2009 à avril 2010
+Montage d'une proposition de développement dans le domaine des jeux vidéo :
+étude de faisabilité; 
+étude de marché;
+création d'un plan de développement.
+Développement d'un accessoire domestique 
+Recherchiste
+Octobre 2008 à mars 2009
+recherche et développement;
+étude de faisabilité;
+recherche de brevet.
+Canoë inc.
+Chargé de projets
+Juin 2006 à septembre 2008
+Responsabilités :
+coordination d'une équipe de deux analystes trois développeurs et 10 techniciens;
+gérer et livrer le programme de projets d'infrastructure;
+assurer le bon fonctionnement de la production de Canoë (300 sites Web, ERPs, courriels, bureautique);
+implanter, maintenir et réviser les processus ITIL;
+planifier la maintenance de l'ERP développé à l'interne et son remplacement par Microsoft Dynamics;
+agir à titre de conseiller et coordinateur entre le PMO et le département des TI : accompagner les clients internes, arrimer les projets au département des TI, vulgariser les dossiers techniques, requalifier la partie infrastructure des projets, aider à la définition de leur envergure (scope);
+agir comme point de contact avec les fournisseurs externes;
+coordonner les activités de 12 techniciens répartis sur 3 sites (Montréal, Chicoutimi, Toronto).
+Réalisations :
+projets d'infrastructure : migration globale d'Active Directory, consolidation d'Exchange, déploiement de SharePoint, sécurisation des environnements, virtualisation des serveurs, mise à jour de la topologie réseau, maintenance du système téléphonique;
+projets de développement : implantation de Microsoft C.R.M., mise en place de contrôle de source. Implantation d'Espace Canoë, du site pour les élections provinciales et fédérales, de la vidéo sur les sites de TVA;
+mise en place du département des opérations informatiques selon la méthodologie I.T.I.L.; 
+définition, implantation et gestion du changement pour les processus : gestion des incidents, gestion des mises en production; 
+création de tableaux de bord et de rapports pour les incidents, les déploiements;
+définition de niveaux de service avec les clients internes et externes : Yahoo, TVA, Jobboom, etc.;
+négociation et maintenance de calendriers de mise en production;
+négociation et arrimage des processus avec les diverses parties prenantes : PMO, développement, design.
+Environnement :	Excel, MS Project 2003, CRM, Windows 2003, SUN, Redhat, Ubuntu, Méthodologie ITIL, SharePoint, Perl PHP
+Bell Solutions d'affaires 
+Administrateur réseau / 
+Coordonnateur technique implantation d'ERP
+Juin 2004 à juin 2006
+Responsabilités :
+sous l'autorité du chargé de projets sénior, coordonner et planifier les implantations et les migrations d'ERP pour une équipe de 7 techniciens;
+établir le calendrier des ressources techniques et affecter les priorités;
+en tant que support niveau 3, intervenir dans les projets pour déceler et remédier aux incidents, affecter les conseillers aux divers incidents selon leurs compétences; 
+rédiger et qualifier la partie technique des propositions de vente clients.
+Réalisations :
+50 projets déployés en 2 ans;
+améliorer, normaliser, et simplifier les procédures d'installation des ERP;
+architecturer et implanter des solutions municipales sur Windows, Unix AIX et Citrix. 
+Environnement :	MS Project 2003, Windows serveur 2003, Unix (AIX  -  SUN  -  SCO), Citrix, ERP (Dyna+, Stratego, Gerflo, GRH), Heat
+Systemalux
+Administrateur réseau
+Février 2003 à juin 2004
+Réalisations, tâches ou titre du mandat :
+administrer le parc informatique d'une PME;
+investiguer et prendre des mesures lors d'une brèche de sécurité.
+Microïds Canada Inc / Ubisoft 
+Coordinateur contrôle qualité
+Août à septembre 2002
+Réalisations :
+finaliser les tests et livrer les jeux Post Mortem et Tennis Master Series en version Gold Master; 
+agir comme point de contact entre les chargés de projets, les chefs designers et les développeurs;
+coordonner une équipe de quatre testeurs. 
+Lallemand Inc. 
+Technicien informatique
+Novembre 2001 à juillet 2002
+Réalisations, tâches ou titre du mandat :
+assurer un soutien aux utilisateurs en français et en anglais;
+agir en tant que lien entre le département TI et le VP finance.
+Électricité de France
+Administrateur système
+Février à mars 2001
+Réalisations, tâches ou titre du mandat :
+soutenir techniquement pendant la migration et l'implantation de nouveaux postes;
+sécuriser les accès aux serveurs.
+Caisse d'Épargne Midi Pyrénées et du Limousin 
+Administrateur réseau 
+Juin 1999 à juin 2001
+Réalisations, tâches ou titre du mandat :
+administrer le parc de 400 serveurs bancaires et 2200 stations IBM Netfinity sous Windows NT 4.0;
+suivre et résoudre des problèmes techniques à titre de soutien niveau 2 et 3;
+apporter un soutien aux agences en ce qui a trait aux guichets automatiques bancaires;
+rédiger des procédures de résolutions d'incidents;
+créer des outils de soutien technique;
+coordonner les actions de 10 techniciens informatiques sur le terrain;
+auditer le centre de soutien technique;
+former des techniciens à Windows NT;
+intégrer I.I.S. 4 et le nouveau site Internet bancaire corporatif en ligne;
+surveiller le réseau privé ATM et Frame Relay.
+Environnement :	Windows NT 4.0, DB2, Oracle, Unix, SNA
+Agent des ventes techniques 
+Geffray Photogravure
+1998-1999
+Réalisations, tâches ou titre du mandat :
+vendre aux professionnels tous les produits de la chaîne graphique ainsi que des sites Internet; 
+prospecter le marché, créer une clientèle. 
+Béton de France 
+Développeur
+1999
+Réalisations, tâches ou titre du mandat :
+développer une application de gestion des bons de commande nationaux sous Excel en VBA à l'aide de tableaux croisés dynamiques; 
+travailler directement pour le chef comptable.
+Armée de Terre Officier recruteur 
+Officier recruteur
+Février à novembre 1997
+Réalisations, tâches ou titre du mandat :
+faire passer jusqu'à 15 entrevues par jour;
+encadrer une équipe de 15 personnes;
+habilité confidentielle défense.
+N.A.S.H. Toulouse
+Technicien informatique
+Août à novembre 1996
+Réalisations, tâches ou titre du mandat :
+assembler, réparer et vendre des d'ordinateurs de type PC.

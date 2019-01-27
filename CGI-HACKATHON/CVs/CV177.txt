@@ -1,0 +1,38 @@
+RÉSUMÉ
+CAREER PROFILE
+I wish to use my skills as a programmer so that I can be challenged and be able to make a positive impact not only in my workplace but also in my community.
+EDUCATION
+Bachelors in Computer Science	2012-2016
+Concordia University, Montreal, Canada
+Professional Degree in Computing Support	2002-2004
+Riverside Technology Center, Lassalle, Canada
+TECHNICAL APTITUDES
+Programming Languages:	Java, C++, Android, SQL 
+Web Development:	HTML, CSS, PHP, Javascript, AJAX, Bootstrap, Wordpress, Google Analytics, Jquery
+IDE:	Eclipse, Netbeans, Visual	Studio,	Notepad++
+Software:	Microsoft Office, Mallwarebytes, SpyBot Search and Destroy, Norton AntiVirus,
+                                       
+                                       
+WORK EXPERIENCE
+Microsigns
+Javascript Developper
+Since 2015
+Refactor existing AngularJS code and write new code in order to add functionality. Work with Grunt, Nodejs, NPM.
+EV Technologies
+Web Development Intern
+2014
+Helped build front-end using AngularJS, Twitter Bootstrap and CSS. My Contribution to this project aided in the user interface design which will help generate much satisfaction for the client once the web site is launched in the near future.
+Panaxion
+Android developer and lead web developer
+2014
+Assisted in created of Android app using Eclipse for Android.
+Created two web pages using HTML, CSS, PHP, Jquery, Javascript.
+PROJECTS
+Embedo
+I created the site and the concept of www.embedo.net  [HYPERLINK: http://www.embedo.net/]in order to give people an easy way to create playlists of videos from youtube, dailymotion, vimeo and/or funnyordie. I used Javascript, php, Google analytics, HTML and CSS to create this.
+FactsRus
+Software written in JAVA that scrapes data from Google Play store, analyzes the data and displays it in graphs or charts.
+LANGUAGES
+English: Written and spoken French: Written and spoken Farsi: Written and spoken
+MISCELLANEOUS
+I have a sound engineering degree from Musitechnic in Montreal and have been playing the guitar for 7 years.

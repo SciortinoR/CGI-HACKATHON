@@ -1,0 +1,91 @@
+RÉSUMÉ
+Prénom79 Nom79
+Analyste programmeur 
+CAREER PROFILE
+Analyste programmeur avec 10 années d'expérience en Java, PHP.
+
+
+SKILLS
+Développement web :
+Outils de développement de la plateforme Java EE, JSF, Java Framework propriétaire << ConceptWave Velocity >> d'Ericsson, Outils de développement web PHP avec le framework (Symfony, CodeIgniter), Outils Front-End Javascript (AngularJS, jQuery, node.JS), AJAX, CSS3, HTML5, Object Relational Mapping (Hibernate, Doctrine), IDE : Eclipse, NetBeans, Serveur web et Contrôleur de version : GlassFish, Apache Tomcat, SVN, Git
+Programmation systèmes temps réel embarqués :
+Langage C, Atmel Studio (environnement de développement)
+Système de gestion de base de données :
+Oracle, Microsoft SQL Server, PostgreSQL, MySQL, MongoDB
+Modélisation, Conception et Gestion de projet :
+Modélisation avec UML, MERISE, AADL pour la modélisation des systèmes temps réel embarqués
+Autres :
+Audit, mise en place de systèmes d'informations & Urbanisation des SI selon les normes COBIT et ITIL
+EDUCATION
+(Non terminé)
+Maîtrise en Génie Logiciel 
+Université79-1
+2011
+Diplôme d'ingénieur en informatique, Option : Systèmes, Réseaux et Sécurité Informatique
+Université79-2
+2007
+DUT (Diplôme Universitaire de Technologie en Informatique) en Analyse et Programmation
+Université79-3
+PROFESSIONAL TRAINING
+2016
+Formation Microsoft SQL SERVER
+Université79-4
+2013
+Formation Audit Informatique, Audit des Systèmes d'Informations
+Cabinet XceL   
+2010
+Formation Symfony et Doctrine (PHP framework)
+SENSIO LABS, Mali
+LANGUAGES
+English and French
+                                WORK EXPERIENCE
+Entreprise79-1
+Création d'un système informatisé de suivi-évaluation de projet 
+Août à novembre 2016
+Responsabilités :
+Développer une application web pour le suivi - évaluation de projet et une version mobile pour la collecte de données.  
+Environnement :	Symfony 2 / MySQL, services Web (REST), Eclipse, SVN, XML, CSS3 / HTML5, Cordova / Ionic, SQLite, Node.js
+Entreprise79-2
+Analyse d'affaires, Développement de systèmes  
+Août 2015 à juillet 2016
+Responsabilités :
+Développer des applications Java / JavaScript ;  
+Effectuer la conception et le développement de solutions complexes au niveau des applications (back end) ;  
+Assister l'équipe d'Assurance Qualité au moment des essais et maintenir à jour la documentation
+Environnement :	Java / Oracle, services Web (MQ, SOAP), Eclipse, SVN, XML, CSS, ConceptWave Framework (CWF), Agile, Scrum, Pair Programming
+Entreprise79-3
+Analyse d'affaires et développement de systèmes 
+Décembre 2008 à juillet 2015
+Environnement :	Agile, Scrum, Pair Programming
+Conception et développement de l'application MIS - MINAGRI (Gestion du Système d'Information du Ministère de l'Agriculture du Rwanda), avril à juillet 2015
+Développer l'application avec le framework PHP CodeIgniter 2.0, CSS3 / HTML5, AngularJS, JQuery.
+Conception et développement de l'application PACEPEP (Suivi évaluation des appuis apportés aux entreprises du secteur privé du Mali : Projet financé par l'ambassade de Danemark au Mali), janvier à avril 2015
+Développer l'application avec le framework  Java JSF, CSS3 / HTML5, JQuery. 
+Conception et développement de l'application ASPRO (Suivi du programme stratégique de travail d'AFRISTAT), mai 2014 à mai 2015
+Développer l'application avec le framework  PHP CodeIgniter 2.0, CSS3 / HTML5, JQuery.
+Conception et développement de l'application de gestion des résultats des élections de 2013 pour la cour constitutionnelle du MALI, juin à juillet 2013
+Concevoir la base de données avec PostgreSQL 
+Développer de l'application avec le framework  PHP Symfony 2, CSS / HTML, JQuery.  
+Conception et développement de l'application de gestion des indicateurs pour la production du CSCRP (Cadre Stratégique pour la Croissance et la Réduction de la Pauvreté), mars à mai 2013  
+Faire l'analyse fonctionnelle et rédiger le cahier de charges. 
+Développer l'application avec le framework  Symfony 2, CSS / HTML, JQuery.
+Conception et développement de l'application de production de l'indice harmonisé des prix à la consommation dans les pays de l'UEMOA (PHOENIX), mai 2010 à novembre 2011   
+Concevoir la base de données (MSSQL 2008).
+Développer l'application avec le framework  Symfony 1.4 et JSF (Java EE) avec CSS / HTML et JQuery.   
+Conception et développement d'un progiciel de suivi et de gestion budgétaire pour les projets FED, février 2009 à mai 2010
+Développer l'application avec (PHP, framework propriétaire) avec CSS / HTML et JQuery;
+Concevoir la base de données (MySQL).
+Entreprise79-4 
+Développement d'un logiciel de gestion des comptes 
+épargnes, de crédit et de la comptabilité 
+Décembre 2007 à juillet 2008
+Analyser, et développer l'application (PgSQL+ Java + Eclipse).
+ENTREPRISE79-5
+Développement d'un logiciel de gestion du 
+système de documentation et d'archivage
+Mai à août 2007
+Analyser et développer l'application (MySQL + PHP4 + Eclipse). 
+Entreprise79-6
+Développement d'une application de gestion du personnel
+Août à septembre 2006
+Analyser et développer l'application (ORACLE + Java + Eclipse).

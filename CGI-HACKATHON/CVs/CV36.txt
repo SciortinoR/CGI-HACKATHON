@@ -1,0 +1,662 @@
+CURRICULUM VITÆ
+Directeur-conseil
+PROFIL DE CARRIÈRE
+Titulaire d'un baccalauréat en génie électrique et informatique industrielle, il est un expert des technologies informatiques qui compte plus de trente années d'expérience, dont plus de 15 ans en tant qu'architecte de solution et chef d'équipe de développement.
+Ses différentes interventions liées à des applications critiques ont démontré sa capacité à s'impliquer à toutes les étapes du développement logiciel : gestion des risques, analyse des besoins, gestion des équipes, inventaire et analyse des besoins, définition des architectures techniques, formation des développeurs, audits, gestion de la qualité, définition des normes, conception, développement, test, livraison, déploiement, intégration et soutien. Ses années d'expérience en tant que responsable de la qualité et de la formation ont enrichi ses aptitudes en communication et il est à l'aise auprès de différents interlocuteurs.
+Il est un expert reconnu dans les technologies Microsoft .NET et la plateforme Windows, mais aussi dans les technologies Internet (HTML5, CSS, AJAX, jQuery, MVC), Cloud, CRM, ERP SAP, SuccessFactors. Il a une très bonne maîtrise des technologies de bases de données : SQL Server, Oracle, Entity Framework, NHibernate, SharePoint, WSS.
+Ses nombreux mandats de mise en place d'applications mobiles (pour téléphones intelligents, tablettes, etc.) lui ont permis de parfaire ses connaissances en la matière.
+Il a participé à maintes reprises à toutes les phases du cycle de vie logiciel, dans un environnement de haute maturité. De plus, il a assuré la direction technique d'équipes comptant jusqu'à 30 ingénieurs et développeurs. Ses tâches comprenaient le recrutement, la supervision, la répartition des tâches, le suivi des échéanciers, l'encadrement de l'équipe et les relations avec le client. Il a également réalisé une architecture intégrant des fonctionnalités de mobilité des applications (connectées et déconnectées).
+La qualité de son travail a toujours été appréciée et reconnue. De plus, son dynamisme, son autonomie, sa polyvalence, sa productivité et sa créativité lui ont toujours permis de contribuer à la dynamique et aux résultats de ses mandats.
+
+
+
+TYPES D'INTERVENTIONS
+Compétences spécialisées:
+Développement d'applications, développement international, commerce électronique, expérience en sécurité de IIS 5.0 et 6.0, intégration d'applications, sans fil, mobile, cellulaire, test d'applications
+Types d'interventions:
+Architecture multiniveau, amélioration de processus logiciel, analyse de projets, analyse et conception orientées objet, analyse et optimisation de processus, architecture applicative, analyse technique, architecture client-serveur, architecture de données, architecture internet-intranet, architecture technique, commerce électronique, communications client, conception d'interfaces, conception de composantes réutilisables, conseiller technique principal, contrôle de la qualité, développement d'applications Web, développement d'interfaces graphiques, développement de compilateurs/interpréteurs, développement de formation donnée par formateur, développement de formation Web, développement de langages de programmation, développement du leadership, développement rapide d'application, direction d'équipes, direction de produit, direction de projets d'informatisation, direction de projets d'organisation, écriture de scripts, élaboration de méthodologies et services-conseils méthodologiques, essais de charge, estimation de logiciel, formation, formation et développement, formation technologique, gestion de la qualité, gestion de projet - cycle de vie, gestion des changements technologiques, gestion des configurations, interface de logiciels, internet, intranet, leadership d'équipe, leadership de la gestion du changement, mise au point de serveurs web, modélisation objet, réalisation de formation, rédaction technique, sécurité Web, service-oriented architecture, technologie de la programmation, analyse de bases de données, analyse de la performance et de la capacité, analyse de processus, analyse des besoins et des objectifs, analyste-programmeur, appel d'offres, applications sans fil, aptitude oratoire, architecture de contenu et scénarisation web, architecture de gestion des identités, architecture et systèmes objet, architecture technologique, audit de système, audits de sécurité, cahier des charges, conception et développement d'instructions, conception et spécification de logiciels, conception internet-intranet, coordination, coordination de projets, design et architecture de reseau, 
+TYPES D'INTERVENTIONS (SUITE)
+Types d'interventions (suite) :
+développement /personnalisation de cadre opérationnel, développement client-serveur, développement de formation assistée par ordinateur, environnement client-serveur, environnement distribué, ergonomie logicielle, essais de régression, estimation, conception de sites web, conception de systèmes, contrôle de projets, contrôle des changements, création de contenus Web, cycle de développement, documentation technique, Environnements de test, Essais guidé par les données, Essais tests d'acceptation, Formateur en langages de programmation, Gestion d'équipe, Gestion de déploiement, Gestion de la formation, Gestion de projets, Gestion de services de TI, Gestion de systèmes distribués, Gestion des ressources humaines, Gestion et analyse du risque, Gestion technique, Intégrateur de solution, Integration progiciels, Métrologie logicielle, Microsoft Solution for Enterprise Project Management, Microsoft Solution for Internet Business, Microsoft Solution for Intranets, Microsoft Solution for Team Collaboration, Microsoft Solution for Windows Web Hosting, Microsoft Solutions Framework (MSF), Migration et intégration de systèmes, Mise à niveau d'applications, Modèle de validation de logiciel (proof of concept), Modélisation de jeux d'essais, Outils de gestion des anomalies, Outils de test, Performance Testing, Programmation, Programmation orientée objet, Project Management Tools, Prototypage, Solution Architecture, Soutien aux utilisateurs, Soutien technique, Technologies d'apprentissage en ligne, Transfert des conaissances
+Méthodologies :
+.NET Design Patterns, Agile, architecture axée sur les services (SOA), architecture guidée par modèle, Merise, Mind Mapping, MVC (Model View Controller), PowerDesigner 9.0, Scrum, UML, World Wide Web Consortium (W3C), DMR Macroscope
+Compétences non techniques :
+À l'aise dans les situations floues, à l'aise dans un environnement multiculturel, animateur-formateur, apprentissage rapide, aptitude à l'écoute, aptitude oratoire, aptitudes à la présentation, attitude constructive, autonome, capacité d'abstraction, capacité de bien travailler sous pression, esprit de synthèse, excellent communicateur, gestion de crises, gestion des conflits, grandes aptitudes en rédaction, leadership, mentorat, motivateur, motivé, négociation, polyvalence, résolution de problèmes, souci d'efficacité, souci d'exactitude, souci du détail, vision d'ensemble
+COMPÉTENCES
+Outils de développement :
+Apache IBatis, architecture d'entreprise (UML modeler), Aspose PDF, Aspose Word, Borland Delphi, Crystal Reports, Developer Express .NET, IBM Rational Rose XDE Developer, Macromedia Dreamweaver, Macromedia Dreamweaver 3, Macromedia Dreamweaver 8, Microsoft FrontPage, Microsoft SQL Server Management Studio, Microsoft Team Foundation Server (TFS), Microsoft Visual C++ (Visual Studio), Microsoft Visual SourceSafe, Microsoft Visual Studio, Microsoft Visual Studio .NET, Microsoft Visual Studio 2005 Team Edition (DBPRO), Microsoft Visual Studio 2005 Team System, Microsoft Visual Studio 2010 Ultimate, Microsoft Visual Studio 5, Microsoft Visual Studio 6, Microsoft Visual Studio Team Suite, MS Access, MS Visio Architect, MSBuild, MVC, Oracle, PL/SQL Developer, PVCS Version Manager, SQL Server Enterprise Manager, Team Foundation Server 2008, Team Foundation Server 2010, Visual Studio .NET 2005 (.NET Framework 2.0), Visual Studio 2005 Team Foundation Server, Visual Studio 2008, Visual Studio 2010, Visual Studio Team System 2008 Development Edition, XML Spy IDE
+Langages de programmation :
+Delphi, ASP .NET, ASP .NET 4, ASP .Net MVC, Assembleur, Borland, Borland C++, C, C#, C++/CLI, Compact Framework, connaissances générales en programmation .NET, CSS, dBase III, DTS (SQL Server), Java, Microsoft .NET Framework, Microsoft .NET Framework 2.0, Microsoft .NET Framework 3.5, Microsoft .NET Framework 4.0, Turbo Pascal, VB.NET, VBA, VBScript, Visual C#, Windows API 32, XHTML, XML, XML Schema, XPath, XSL, XSL-FO, XSLT, DTD, HTML, HTML5, JSON - JavaScript Object Notation, Microsoft Windows Communication Foundation, Microsoft Windows Presentation Foundation, Microsoft Windows Workflow Foundation, Objets DCOM, Oracle Express, Oracle PL/SQL, PL/SQL, Powershell, Silverlight, SOAP, SQL, UML, Visual Basic .NET, Windows/DOS Scripting, Web Services Description Language (WSDL)
+Outils :
+Adobe Photoshop, IIS, Microsoft BizTalk Server, Microsoft Commerce Server, Microsoft Enterprise Library 1.0, Microsoft Enterprise Library 2.0, Microsoft Enterprise Library 3.1, Microsoft Enterprise Library 4.1, Microsoft Excel, Microsoft Exchange, Microsoft Expression Blend, Microsoft 
+COMPÉTENCES (SUITE)
+Outils (suite) :
+Expression Design, Microsoft Expression Web, Microsoft Help Workshop, Microsoft Outlook Express, Microsoft PowerPoint, Microsoft Project, Microsoft Project 2007, Microsoft Project Server, Microsoft Virtual PC, Microsoft Virtual Server 2005, Microsoft Visio, Microsoft Visual Studio 2005 Tools for Office 2003, Microsoft Word, MS Internet Information Services, MS Project 2003, MS SharePoint, MS Windows Sharepoint Service, MSMQ, MTS, NAnt, NUnit, Office 2003, Outlook, Power AMC, Rational XDE Modeler, Samba, Sandcastle, SourceSafe, Tortoise SVN, UltraEdit, Visual SourceSafe, VMware Server, VMware Workstation, Web
+Systèmes d'exploitation :
+Active Directory, DOS, Mac OS X, Microsoft Windows 2000, NT, Microsoft Windows 3.x, WFW, 95, 98, ME, Microsoft Windows Mobile, Microsoft Windows Server, Windows (toutes versions), Windows 2000, Windows 2003, Windows 2008 Server, Windows 7, Windows 95, Windows 98, Windows Azure, Windows CE, Windows Mobile 5, Windows Mobile 6, Windows NT, Windows Phone 7
+Bases de données :
+Microsoft Access, Microsoft SQL Server, Oracle, Oracle 8i, MySQL, PostgreSQL, Progress, SQL Reporting Services, SQL Server 2005, SQL Server 2008, SQL Server 2008 Integration Services (SSIS), SQL Server 2005 Integration Services (SSIS), SQL Server Replication
+Logiciels :
+Adobe Dreamweaver CS 3, Adobe Photoshop 7, Hibernate, Microsoft Office 2000, Microsoft Office 2003, Microsoft Office 2007, Microsoft Office 2010, Microsoft Office Sharepoint Server 2007, Microsoft Office Sharepoint Server 2010, Microsoft SharePoint Portal Server 2001, Microsoft SharePoint Portal Server 2003, Microsoft Windows Sharepoint Services, PhoneGap, Windows SharePoint Services 3.0
+Technologies :
+.NET, .NET CLR, .Net Compact Framework, .NET Web Services, .NET Winforms, AD Group Policy Objects, ADO, ADO.NET, AJAX, architecture à trois niveaux, architecture client-serveur, architecture de sécurité, architecture logicielle, architecture sans fil, Citrix, client intelligent, client léger, gestion électronique de documents, intégration d'applications d'entreprise (EAI), interface ODBC, Microsoft Active Directory, Microsoft ActiveX, Microsoft COM / COM+, 
+COMPÉTENCES (SUITE)
+Technologies (suite) :
+Microsoft Office, Microsoft Silverlight, Microsoft Windows Forms, ODBC .NET, Portail, programmation distribuée, serveurs d'applications, SOA, UDDI, Unity (injection de dépendances), Virtual Server 2005, Web Service, WinHelp, WPF Windows Presentation Foundation .NET, WSDL, XML SOAP, Protocol SMNP, protocole de transfert de courrier simple, protocole SMTP
+Environnement intégré de développement :
+HTML, JavaScript, Macromedia DreamWeaver, Microsoft Visual Studio, Team Foundation Server, Visual Studio 2010
+Systèmes :
+WEB
+FORMATION
+1984
+Baccalauréat technique F3 électronique
+Lycée technique de Baimbridge, Abymes, Guadeloupe, France
+1987
+DUT génie électrique et informatique industrielle
+IUT Le Creusot, Le Creusot, Bourgogne, France
+PERFECTIONNEMENT
+1990
+Formation sur la modélisation Merise
+MCX Concepteur
+1990
+Formation approfondie sur le langage C
+BORLAND
+1984
+Formation sur le langage de programmation Basic
+Scolaire (Lycee)
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+CERTIFICATIONS
+70-315 Developing & Implementing Web Applications with Visual C#
+70-316 Developing and Implementing Windows-based Applications with Microsoft Visual C# .NET
+70-320 Developing XML Web Services with .NET Framework
+MCT Microsoft Certified Trainer
+
+                          EXPÉRIENCE PROFESSIONNELLE
+CGI
+Projets personnels
+ASP.NET Identity, Azure
+Angular-Formly, NoSQL
+Architecte de solutions et developpeur
+Depuis Decembre 2015
+Ce projet vise non seulement à définir les orientations des applications avec les architectures actuelles et émergentes, mais aussi à répondre un a un besoin recurrent des TI, qui est la mise en place rapide d'un outil pour la saisie des informations. Il part du constat suivant que l'informatique doit aujourd'hui, aller plus loin que la machine de Von NEUMAN, elle doit dissocier la saisie et l'aspect gestion des données et transactionnel.
+*    Définir et mettre en place le cadre architectural de la solution .NET ;
+*    Utiliser un mécanisme de sécurité multi-facteurs ;
+*    Utiliser un modele souple, afin de stocker les données en grappe, comme on peut le faire avec les bases de données NoSQL
+*    Permettre à des outils tierces ou workflow, d'etre alerté ou notifié des données qui ont changé, à travers des WebHooks
+*    Avoir un mécanisme de formulaire souple et adaptatif (Formly)
+*    Faire le bon choix de design << Responsive >> ou << Adaptive >> en fonction des périphériques.
+*    Supporter les devices mobiles à travers un developpement natif
+*    Concevoir, documenter et développer des solutions technologiques conviviales et évolutives dans l'environnement Microsoft Dynamics CRM Microsoft SharePoint et principalement .NET selon l'architecture d'affaires et le cadre de développement du MIDI (ministère le l'Immigration, de la Diversité et de l'inclusion);
+*    
+   Environnement:	.NET, Azure, NoSQL, SQL SERVER, REST, ODATA, Visual Studio, WebAPI, Angular, Angular-Formly, Visual studio 2015, NPM, Grunt, Bower, ASP.NET Identity, RavenDB, HTML5, CSS Media Queries
+MIDI
+DI-Déclaration d'Interêts
+Architecte de solutions
+Depuis octobre 2015
+Un des objectifs de la nouvelle loi est de faire en sorte que cette popularité, dont jouit le Québec sur la scène internationale, soit un atout pour choisir les personnes immigrantes. L'instrument de cet atout est la mise en place de la déclaration d'intérêt, un système qui a déjà fait ses preuves, notamment en Australie et en Nouvelle-Zélande. M. Garavin est chargé de définir l'architecture pour cette solution et d'étudier les impacts sur les solutions existantes. Dans ce contexte, M. Garavin s'est vu confier les tâches suivantes :
+*    définir et mettre en place le cadre architectural de la solution .NET ;
+*    documenter, ajuster et maintenir ce cadre en fonction des besoins de l'architecture globale ;
+*    concevoir, documenter et développer des solutions technologiques conviviales et évolutives dans l'environnement Microsoft Dynamics CRM Microsoft SharePoint et principalement .NET selon l'architecture d'affaires et le cadre de développement du MIDI (ministère le l'Immigration, de la Diversité et de l'inclusion);
+*    agir à titre de spécialiste des outils de développement ;
+*    orienter et soutenir l'équipe de développement ;
+*    assurer l'intégration parfaite de la solution en travaillant au sein de l'équipe d'architecture (traitements, données et technologique);
+*    arrimer l'architecture de solutions à l'architecture d'entreprise ministérielle ;
+*    collaborer activement avec les chargés de projet, les équipes projet et les responsables techniques à l'estimation des efforts de développement ;
+*    travailler étroitement avec les autres conseillers en architecture et s'assurer de la cohérence et de la conformité des solutions proposées ;
+*    participer à la préparation des stratégies des tests ;
+*    recommander des améliorations afin d'assurer l'évolution du système d'information en fonction des besoins du MIDI ;
+*    rédiger les spécifications non fonctionnelles et techniques ;
+*    s'assurer et être imputable d'obtenir des résultats de qualité ;
+*    veiller à ce que les normes et les meilleures pratiques soient documentées et appliquées par les équipes de réalisation ;
+*    effectuer le transfert de connaissances vers les ressources permanentes désignées d'une façon adéquate et sérieuse et dans le respect des principes et exigences du plan de transfert de connaissances du MIDI;
+*    évaluer les fonctionnalités à mettre en place un moteur de règles ;
+*    évaluer la capacité pour héberger la solution dans le Cloud;
+*    faire des propositions dans les réunions d'affaires pour faire approuver la solution ;
+*    mettre en place un standard de document pour les dossiers d'architecture d'opportunités, de faisabilité et détaillée ;
+*    répondre aux besoins pour l'architecture d'information en termes de sécurité, de confidentialité et de données.
+Environnement:	.NET, Private Cloud, CRM, SQL SERVER, CT-Paiement, REST, ODATA, Visual Studio, WebAPI, SharePoint 2010, Microsoft Dynamics CRM, Visual studio 2013, JavaScript, TFS, WCF, Web Services, SOAP, WIF
+Cirque du Soleil
+SuccessFactors
+Architecte de solutions
+Septembre 2014 à décembre 2015 - 15 mois
+Il a travaillé pour Le Cirque du Soleil, une entreprise québécoise de divertissement artistique spécialisée en cirque contemporain. Dans le cadre de son évolution, elle doit procéder à une évolution majeure pour une partie de sa gestion des ressources humaines. Elle envisage d'utiliser le module RH de SAP Cloud (SuccessFactors) au lieu de SAP onPremise, incapable de soutenir l'évolution des processus du Cirque et des diverses autres évolutions souhaitées. Cette migration s'accompagne aussi de la refonte et modernisation de toutes les interfaces au module SAP RH, en les migrant vers le Cloud. Dans ce contexte, il s'est vu confier les tâches suivantes:
+mener les activités d'études préliminaires et détaillées dans les délais entendus, tout en se conformant à la méthodologie de gestion de projet existante au Cirque et produire une série de livrables conformément au cycle de vie des projets ;
+concevoir des solutions applicatives et d'intégration utilisant la plateforme Cloud Azure du Cirque du Soleil ;
+agir comme architecte principal lors d'un projet nécessitant la participation d'autres architectes internes Cirque ayant des expertises spécifiques ;
+préciser l'analyse d'écart entre les besoins exprimés et les fonctionnalités souhaitées;
+assurer le leadership technologique auprès de l'équipe (applicatif et infrastructure);
+planifier et coordonner les travaux de collaborateurs occasionnels pour arriver à vos fins (architecte intégrateur, architecte d'entreprise, architecte d'affaires, architecte développement, architecte d'infrastructure, architecte de données, représentant technique de fournisseur, etc.);
+élaborer des architectures préliminaires et/ou détaillées selon l'avancement du projet, en mode cascade ou Agile;
+contribuer au besoin à l'évolution de la plateforme Cloud selon les exigences des projets;
+assurer les suivis et respecter les orientations tout au long de la livraison des dossiers;
+collaborer étroitement tout au long du mandat avec les intervenants des équipes de projet ainsi que les partenaires et fournisseurs impliqués.
+Environnement :	SAP, Microsoft Azure, BizTalk, BizTalk MicroServices, .NET, SQL Server 2012 et 2014, Services REST, Services SOAP, OData, Salesforce, SSIS, SCRUM, méthodologie Agile, SSO, ADFS, AD
+Cirque du Soleil
+Modernisation de l'écosystème applicatif Costumes
+Architecte généraliste
+Juillet à octobre 2015 - 3 mois
+Un projet d'envergure, mettant en place une structure organisationnelle visant à soutenir une nouvelle vision guidée par les objectifs et les principes directeurs suivants :
+présenter les grandes lignes des changements proposées au niveau des processus cibles et des besoins fonctionnels;
+améliorer les services aux clients (création et exploitation des spectacles);
+diminuer le coût de production et de reproduction des costumes;
+augmenter la mobilisation des employés;
+garantir le facteur Wow des costumes;
+maximiser l'utilisation de SAP tout en regroupant certaines fonctionnalités dans une nouvelle application développée avec la plateforme Cloud Cirque (COSA);
+remplacer toutes les applications actuelles par SAP, à l'exception peut-être de Make-Up qui pourrait soit être remplacée par une application commerciale appropriée, soit par une application COSA.
+En collaboration avec un architecte SAP :
+mener l'étude préliminaire de la solution, en tenant compte des autres systèmes interdépendants qui font l'objet d'améliorations;
+estimer les coûts du projet;
+faire l'intégration avec les autres systèmes (SAP, HANA, Microsoft Azure) (Microsoft .NET, Biztalk Micro Services, services REST);
+définir la feuille de route du projet en fonction des aspects financiers, des contraintes et interdépendances avec les autres projets en phase de modernisation (SAP).
+Environnement :	Microsoft Azure, logistique, gestion des commandes, livraison, SAP, BizTalk MicroServices, SQL Server, Hana, Services REST, Services SOAP, SSIS
+Cirque du Soleil
+CRM
+Architecte de solutions
+Avril à juin 2015 - 3 mois
+Dans le cadre de ses activités, et afin de rehausser ses ventes, le cirque doit se munir d'un outil CRM d'analyse des données clients et clients potentiels. Dans ce contexte, ses tâches sont les suivantes :
+préciser l'analyse d'écart entre les besoins exprimés et les fonctionnalités souhaitées;
+assurer le leadership technologique auprès de l'équipe (applicatif et infrastructure);
+planifier et coordonner les travaux de collaborateurs occasionnels (architecte intégrateur, architecte d'entreprise, architecte d'affaires, architecte développement, architecte d'infrastructure, architecte de données, représentant technique de fournisseur, etc.);
+élaborer des architectures préliminaires et/ou détaillées selon l'avancement du projet, en mode cascade ou Agile;
+    Pparticiper à l'évolution de la plateforme infonuagique selon les exigences des projets;
+assurer le suivi et le respect des orientations tout au long de la livraison des dossiers.
+Environnement :	Microsoft Azure, SQL server, Salesforce SAP CRM,
+Ministère de l'Immigration, de la Diversité et de l'Inclusion (MIDI)
+Transformation des services à la clientèle
+Architecte de solutions
+Septembre à octobre 2014 - 1 mois
+Dans le cadre de la transformation de ses services à la clientèle, le Ministère a mis en place un chantier pour concilier vision à long terme et architecture d'entreprise en alignant les services TI sur les besoins d'affaires et implanter son nouveau système pour les clients. L'objectif de ce mandat était de vérifier le système en cours de réalisation pour s'assurer qu'il respectait bien l'architecture préconisée en plus de veiller à la qualité et à la viabilité des documents d'architecture. À titre d'architecte de solutions, il s'est vu confier les tâches suivantes :
+tenir compte des documents d'architecture de solution et d'applications, y compris les exigences non fonctionnelles du Ministère; 
+organiser et mener les entrevues auprès des experts et architectes de domaines;
+effectuer une analyse sur les écarts entre l'architecture et la solution développée;
+    effectuer une revue du code selon les volets suivants : structure du code et logique, sécurité (OWASP : A1-2-4-5-8-10), robustesse, flux de données et maintenabilité;
+poduire un rapport détaillé sur le constat de l'écart et la revue du code;
+présenter les résultats et les recommandations (grandes lignes directrices);
+vérifier les documents de normes et standards de développement;
+faire des recommandations pour une bonne structuration et mise en place des documents d'architecture et souligner les sections manquantes;
+offrir une orientation, une structure et des conseils concernant la mise en place de documents de normes et de standards;
+définir ce qui doit être considéré comme des éléments des bonnes pratiques;
+vérifier les éléments d'interfaces utilisateurs (HTML, respect des séparations, niveau d'accessibilité).
+Environnement :	SharePoint 2010, Microsoft Dynamics CRM, Visual studio 2013, JavaScript, TFS, WCF, Web Services, SOAP, WIF
+Société Générale (Montréal)
+MERLIN Reporting
+Architecte de solutions et BI
+Mai à août 2014 - 3 mois
+La Société Générale est une des principales banques françaises et une des plus anciennes. Elle fait partie des trois piliers de l'industrie bancaire française non mutualiste avec LCL et BNP Paribas. La Société Générale souhaitait moderniser une de ses applications de gestion des fonds spéculatifs, une gestion de rapports en temps réel, afin de faciliter la prise de décision dans la gestion des portefeuilles. Dans ce contexte, il a réalisé les activités suivantes :
+modéliser l'entrepôt de données en temps réel;
+définir l'architecture cible en utilisant le serveur de rapports Microsoft SSRS;
+centraliser l'ensemble des règles d'affaires associées au calcul des fonds spéculatifs;
+mener la réalisation d'une validation de concept de cette architecture;
+participer au retrait des rapports dans la solution;
+mettre en place les bonnes pratiques de développement et définir les normes de codage pour le développement.
+Environnement :	SQL Server 2008, Visual Studio 2010, Microsoft SSRS, services Web, SSIS, C#, Toad Datamodeler, Enity Framework, T4 template, LINQ
+Centre d'expertise Microsoft
+Recrutement de profils .NET
+Recruteur Microsoft
+Janvier à mai 2014 - 4 mois
+Le centre d'expertise Microsoft offre une expertise de pointe sur l'ensemble des solutions et technologies Microsoft : .NET, CRM, xRM, SharePoint ainsi que Dynamics CRM. Le centre regroupe la plus importante équipe de professionnels Microsoft au Québec. L'objectif de ces mandats était d'identifier les profils répondant aux demandes de nos clients. Dans ce contexte, il a réalisé les activités suivantes :
+assurer le recrutement de profils techniques Microsoft suivants : .NET, SSIS, SSRS, BizTalk, Silverlight, ASP.NET MVC;
+réaliser les entrevues aussi bien techniques que de gestion.
+Environnement :	.NET, SSIS, SSRS, BizTalk, Silverlight, ASP.NET MVC
+Bureau de coopération interuniversitaire (BCI)
+SYSPER
+Architecte de solutions et d'infrastructure
+Février 2014 - 1 mois
+Le Bureau de coopération interuniversitaire (BCI), anciennement connu sous le nom de CREPUQ, est un organisme privé qui regroupe, sur une base volontaire, tous les établissements universitaires québécois. Dans le cadre de ce mandat, il a réalisé les activités suivantes :
+faire un audit et des recommandations. Le mandat consistait à analyser le contexte du projet SYSPER afin de faire des recommandations, et de définir les bonnes pratiques pour l'utilisation de TFS, SQL Server et l'analyse de l'infrastructure;
+fournir une orientation d'infrastructure afin de réduire les coûts. Une infrastructure dans le nuage Azure a été proposée et expliquée, avec la mise en place de la migration des développements vers le nuage Azure.
+Environnement :	Business Intelligence, TFS, SQL Server, serveurs Windows, SSRS, Active Directory, Cloud Azure
+Financière Manuvie
+Sites Web mobiles pour l'assurance de groupe
+Analyste et développeur ASP.NET MVC
+Janvier 2014 - 1 mois
+La Financière Manuvie, groupe canadien et chef de file des services financiers, offre des produits et services dans l'assurance vie individuelle, l'assurance vie et maladie collectives, l'assurance soins de longue durée, les régimes de retraite, les rentes, les fonds communs de placement et les produits bancaires. Le projet consistait à développer deux sites Web mobiles permettant aux clients de Manuvie de voir (site PM) et soumettre (site OCS) ses réclamations d'assurance à partir de leur ordinateur personnel, de leur tablette électronique ou de leur téléphone intelligent. Le développeur ASP.NET MVC devait comprendre rapidement les spécifications, tout en ayant l'expertise en développement ASP.NET MVC, HTM5 et Responsive Design.
+Environnement :	Visual Studio 2012, Microsoft.NET, technologies mobiles (iOS, Android, Windows, BlackBerry), Back-end Web Service, ASP .NET MVC Framework 4, .NET Framework 4.5, HTML5, Responsive Design, IoC Uniy, AutoMapper, services Web
+Ministère de l'Immigration et des Communautés culturelles
+Projet Transformation
+Architecte d'entreprise
+Septembre 2013 à janvier 2014 - 4 mois
+Mise en place d'une gouvernance TI
+L'objectif était de qualifier, en termes organisationnels, les processus et les responsabilités des éléments constituant la mise en place d'un nouveau bureau de la gouvernance TI, en liaison avec le bureau de gestion de portefeuilles. Dans ce contexte, il s'est vu confier les fonctions suivantes :
+faire des recommandations pour la mise en place de ce nouveau bureau dans le processus de transformation du MICC;
+définir et coordonner les processus et responsabilités de ce nouveau bureau;
+piloter les réunions pour en venir à prendre des décisions, tout en gardant un oeil critique afin de faire cohabiter les processus déjà en place par rapport au bureau de projet;
+assurer la rédaction et la présentation de ce nouveau bureau, en relation avec le bureau du portefeuille de projets et la gestion de changement.
+Encadrement de l'architecte d'entreprise
+Il devait assurer le coaching de l'architecte d'entreprise du MICC afin de l'aider à mieux maîtriser sa nouvelle fonction. L'objectif était de lui permettre d'anticiper ces prises de décisions et leurs répercussions. Dans ce contexte, il a réalisé les activités suivantes :
+travailler sur les dossiers en cours de traitement et offrir du soutien pour recadrer, voire d'anticiper les risques des décisions dans ce projet de transformation;
+aider l'architecte d'entreprise à développer son leadership, tout en améliorant certaines compétences et lui permettre de prendre du recul par rapport aux décisions à prendre (accroître son potentiel pour le préparer à assumer des responsabilités de plus grande envergure);
+proposer des échanges, des réflexions de même que des exercices d'auto-observation et de pratique;
+aligner la stratégie d'affaires avec les processus TI.
+Encadrement de la future responsable des TI
+Il devait encadrer la future responsable des TI afin de l'aider à qualifier la supervision des travaux en cours, à mieux organiser son travail et à concrétiser ses idées. Plus précisément, il a réalisé les activités suivantes :
+aider la ressource à améliorer certaines de ses compétences (confiance en soi, habiletés politiques et interpersonnelles, communication, gestion des priorités, vision stratégique par exemple) et son style de gestion;
+gérer la communication avec les partenaires du MICC (formations, etc.);
+aider la ressource à améliorer sa façon de communiquer lors des réunions et d'anticiper les risques;
+gérer un tableau de décision et une matrice de criticité.
+Environnement :	TOGAF, méthode Agile, Scrum, CRM, SharePoint, TFS, Visual Studio
+Consortium DUC
+Analyse pour la migration d'une solution VB en .NET
+Architecte de solutions
+Juillet à août 2013 - 1 mois
+Le Consortium DUC procède d'une association entre TELUS Québec, Hydro-Québec, Bell et Télébec. Ce mandat porte sur une solution développée pour l'assistance à la conception de réseaux aériens de services publics. Il fallait analyser les efforts nécessaires pour l'évolution de cette solution vers le monde .NET. Dans ce contexte, il a réalisé les activités suivantes :
+faire l'inventaire des besoins;
+analyser la solution et le code source de l'application existante;
+faire des suggestions d'évolution;
+rédiger l'analyse;
+estimer les efforts et analyser les risques.
+Environnement :	VB, VBA, WindowsForms, Excel, Access
+Transcontinental TC
+Analyse du système local
+Architecte de solutions
+Juin 2013 - 1 mois
+Transcontinental TC est un groupe québécois spécialisé dans l'impression, la distribution, l'édition et les solutions de communications marketing en Amérique du Nord. Pour ce mandat TC, souhaitait une analyse de son système local afin d'améliorer son processus de vente et d'étudier la possibilité de mettre en oeuvre un outil de gestion des relations avec les clients (CRM). Dans ce contexte, il a réalisé les activités suivantes :
+analyser et estimer les efforts nécessaires pour la mise en oeuvre d'un prototype d'un outil mobile de gestion de la relation client (CRM);
+gérer la relation avec Microsoft concernant l'exploration des possibilités mobiles d'outils CRM (pour des périphériques iPad, Surface PRO);
+faire une revue des architectures. Suggérer et mettre en contexte les différentes solutions possibles pour le client;
+superviser les experts sur les technologies CRM et Microsoft Dynamics CRM;
+faire le suivi et tenir des scrums;
+conduire des réunions de travail afin de mieux comprendre les processus et le système d'information du client;
+rédiger les documents d'architecture technique et les choix technologiques concernant la mobilité, le réseau 3G, les iPad et Surface PRO;
+faire une estimation globale de la solution et des différentes solutions proposées.
+Environnement :	Microsoft Dynamics CRM 2011, Surface PRO, Outlook CRM, RESCO.NET, CWR Mobility
+Sun Media
+Analyse d'un outil CRM
+Architecte de solutions
+Mai 2013 - 1 mois
+Sun Media Corporation est le propriétaire de plusieurs quotidiens canadiens. Pour ce mandat, Sun Media souhaitait une intervention sur deux axes : estimer les efforts d'analyses pour son outil de gestion des relations avec la clientèle fondé sur Microsoft Dynamics CRM et étudier une mise à niveau en prévoyant des enrichissements fonctionnels. Dans ce contexte, il a réalisé les activités suivantes :
+gérer la relation avec le client et faire l'inventaire des besoins du client;
+estimer les efforts d'analyse du système de gestion des relations avec la clientèle existant;
+estimer les efforts nécessaires pour les corrections système de gestion des relations avec la clientèle;
+estimer les efforts nécessaires pour la refonte du système de gestion des relations avec la clientèle, avec une évolution vers une version plus récente de Microsoft Dynamics CRM et l'ajout de nouvelles fonctionnalités.
+Environnement :	Microsoft Dynamics CRM
+Ministère des Transports du Québec
+Solutions Microsoft .NET
+Architecte de solutions .NET
+Mai 2012 à mars 2013 - 10 mois
+Le ministère des Transports du Québec (MTQ) a la responsabilité des politiques relatives aux transports et à la voirie. Dans le cadre de ce mandat, il a réalisé les activités suivantes :
+faire des audits de performance d'applications Web;
+estimer les efforts, gérer les horaires et les équipes, faire la planification des ressources;
+rédiger les normes, les bonnes pratiques et les documents d'architecture;
+agir comme architecte de solutions MOSS, Web, Web SOA et Web distribuées;
+développer des applications Web, gérer les coordonnées spatiales, mettre en place de bonnes pratiques pour le développement avec Entity Framework et CodeFirst;
+assurer un leadership technique pour le projet et mettre en place les bonnes pratiques de développement;
+mettre en place des séminaires technologiques (Entity Framework);
+gérer les taches à réaliser, gérer l'équipe. Gérer les livraisons et les relations avec les clients, gérer les entretiens de recrutement pour le projet, gérer les conflits et réaliser les estimations;
+documenter les différents processus du MTQ : présentation, définition et gestion des groupes de travail, rencontre des différents acteurs, rédaction des processus, et les soumettre pour validation, proposition d'améliorations, réunion des acteurs autour d'une table pour en discuter, rédaction des processus de gestion documentaire associé à un projet et rédaction des processus de travail avec MTQ Québec;
+rédiger des dossiers d'architectures : analyse, définition et rédaction de l'architecture des applications Web, rédaction des bonnes pratiques pour le développement d'applications Web, HTML, JavaScript et AJAX, rédaction des normes C# et SQL, définition et rédaction de la charte graphique pour les applications Web, mise en place d'un outil pour gérer les divers composants, analyse, définition et rédaction de l'architecture des applications Web Services, rédaction des bonnes pratiques pour les applications Web Services, définition et rédaction de l'architecture des applications Windows Services, analyse, définition et rédaction de l'architecture des applications WinForms et rédaction des bonnes pratiques pour les applications WinForms;
+mettre en place un wiki pour la gestion de la connaissance : définition de la structure, présenter les travaux pour obtenir la validation, création du wiki et définition des listes, utilisation de JavaScript pour appeler les services Web de SharePoint et utiliser le contenu des listes dans la présentation des pages, création d'un convertisseur de documents Word (en utilisant OpenXML) vers XHTML en respectant les styles utilisés dans le document, écriture d'un fichier de CSS pour un parallèle des styles Word, conversion des documents et transfert des connaissances.
+Environnement :	applications Web, WebForms, Visual Studio 2010, Entity Framework 4.5, Windows Server, SQL Server 2008 R2, SharePoint, .NET 4.0, architecture axée sur les services, DevExpress WebForms, Vault, WCF
+RAYONNANCE TECHNOLOGIES
+Euro Disney, Danone, Tanganne, Rayonnance
+Divers projets
+Directeur technique adjoint
+Novembre 2010 à avril 2012 - 17 mois
+Le Groupe Rayonnance est un des principaux intégrateurs français, spécialisé depuis plus de 10 ans dans la mise en place d'applications mobilité et traçabilité en entreprise. Un des principaux experts français dans la mise en place d'applications métier sur téléphones intelligents, PDA industriels et tablettes, et ce, depuis l'avènement des technologies de données mobiles en 2000 (GPRS, Wi-Fi, Windows Mobile).
+Gestion de la qualité et mise œuvre de méthodologies
+Il était le garant des aspects de la qualité interne et pour des biens livrables des clients. Dans ce contexte, il a réalisé les activités suivantes :
+écrire les normes de codage, la nomenclature et les bonnes pratiques .NET (C#) et SQL (SQL Server, Oracle, MySQL);
+définir le cadre de l'application de la méthodologie Kanban de gestion des processus internes et des projets;
+rédiger les principes d'applications dans certains cas du processus d'applications de la méthode Agile;
+gérer et mettre en place les processus de qualité, mettre en place un serveur d'intégration (Hudson ou Jenkins). Gérer et mettre en place des outils de gestion du cycle de vie logiciel Microsoft (TFS), avec pilotage des versions, de l'intégration, couverture du code et tests unitaires.
+Gestion des partenariats Microsoft et Motorola
+Dans le cadre de la gestion des offres partenaires, il a réalisé les activités suivantes :
+choisir et lancer les campagnes de certification Microsoft;
+gérer les partenariats Windows Embedded et Microsoft Gold Partner;
+faire l'inventaire des informations commerciales;
+faire le suivi des différents contrats.
+Gestion de la connaissance de l'entreprise
+Il devait recueillir, numériser, documenter, centraliser l'historique des connaissances de la société et offrir un canevas pour les connaissances à venir. Il a réalisé les activités suivantes :
+élaborer, créer et mettre en place un portail Windows SharePoint Services;
+tenir des réunions avec les différentes entités afin de collecter et documenter l'existant;
+mettre en place des séminaires techniques;
+mettre en place des services Web afin de rendre publiques certaines informations directement sur le portail;
+mettre en place un outil de gestion documentaire avec gestion des versions;
+définir et mettre en application la gestion de source pour les applications;
+faire la mise en entrepôt des livraisons (gestion de la configuration), avec les documents d'installation.
+Gestion du pôle recherches et développements
+Il était responsable de la gestion du pôle R et D et des prototypes. Il a réalisé les activités suivantes :
+préparer des prototypes démontrant la faisabilité de ce qui est entrepris;
+mettre en place un cadre applicatif de gestion de la sécurité modulaire;
+rechercher des solutions pour la mise en place d'applications mobiles en HTML5;
+faire les tests de PhoneGap;
+faire une étude interne avec Motorola pour leur prochain système d'exploitation sur les mobiles (RhoElements, système proche du concept de WebOs).
+Développements de briques ou de cadres applicatifs
+Il devait analyser, modéliser et réaliser des développements communs à l'ensemble de la société. Il a réalisé les activités suivantes :
+gérer les projets Entity Framework;
+développer une application de gestion des flux de tâches en utilisant WF;
+mettre en place un serveur d'intégration Hudson;
+mettre en place un serveur Nuget afin de centraliser les différentes bibliothèques ou composants de la société;
+mettre en place et réaliser des architectures intégrant des fonctionnalités de mobilité d'applications connectées et déconnectées (HTML5, PhoneGap, Windows Mobile).
+Gestion des formations
+Il devait rédiger des formations et des programmes de formation. Il a réalisé les activités suivantes :
+rédiger des formations ASP.NET MVC 2 et 3;
+préparer un plan de formation pour Euro Disney;
+recruter les prestataires et encadrer les ressources en MVC et Entity Framework;
+mettre en place des séminaires techniques internes (modèles de conception, algorithmique, HTML5).
+Expert technique de projet
+Il devait définir l'architecture technique, amorcer le projet, modéliser la base de données, mettre en place l'ossature des applications lors de projets pour Danone France et Euro Disney.
+Environnement :	Windows Server, Windows 2008, ASP.NET, ASP.NET MVC, JavaScript, jQuery, Windows Workflow, WF4, Visual Studio 2005, VS.NET 2008, VS.NET 2010, VS.NET 11, Unity, Entity Framework, SQL Server, Management Studio, r2, Silverlight, WPF, XAML, WebForms, Telerik, EXTJS, Backbone.js, PhoneGap, WCF, méthodologies Extreme Programming, Kanban, Scrum, XMLSpy, TOAD Modeler, CoffeeScript, FxCop
+TANGANE
+Hachette, CRMCompany, RedFabrik
+Plusieurs projets
+Responsable du pôle technique Microsoft
+Mars à novembre 2010 - 8 mois
+Tangane est une société de services du domaine des technologies de l'information. Son équipe de professionnels expérimentés allie des compétences techniques et ergonomiques de haut niveau avec l'expertise stratégique et marketing de pionniers de l'Internet. Cette double compétence permet de répondre efficacement aux besoins des équipes marketing tout en respectant les contraintes imposées par l'IT.
+Développement d'applications
+Il a réalisé les activités suivantes :
+développer diverses applications Internet;
+développer le site Internet www.BMWetVous.fr;
+mettre en place un projet WebDav et Cloud (Amazon);
+développer un projet Web de gestion documentaire;
+développer une application Windows forms (client lourd) afin de gérer la transformation des documents papier en documents électroniques. Gérer les pilotes de différents numériseurs.
+Audits d'application
+Il a réalisé des audits d'applications pour Hachette et l'audit de la plateforme d'apprentissage électronique d'Uni-Learning (Paris, Bruxelles et Amsterdam).
+Formateur
+Il a mis en place des programmes de formation et donné les formations aux clients et à l'interne. Il a réalisé les activités suivantes :
+pour la société RedFabrik (Alger, Algérie), donner des formations sur les technologies C#, ADO.NET, ASP.NET MVC 2, HTML, AJAX et jQuery;
+pour la société CRMCompany, donner des formations sur les technologies C#, ADO.NET, ASP.NET MVC 2, HTML, AJAX et jQuery;
+donner une formation à l'interne sur Silverlight.
+Gestion du serveur d'intégration
+Dans le cadre de la mise en place et de la supervision du serveur d'intégration (Hudson), il a réalisé les activités suivantes :
+mettre en place le serveur d'Intégration Hudson;
+former les utilisateurs;
+former les ingénieurs aux notions de TDD et à l'écriture de tests unitaires;
+gérer les différents projets sur le serveur d'intégration.
+Gestion de la qualité
+Il était le garant de la qualité des développements. Il a écrit des normes de développement C#, SQL et d'architecture des applications.
+Environnement :	.NET, C#, ASP.NET MVC, WinForms, ExtJs, CSS, HTML, HTML5, AJAX, SVN, FxCop, Entity Framework, WebDav, e-Learning, MSBuild, jQuery, Cloud, WCF, méthodologies Extreme programming, Kanban, Scrum, XMLSpy, TOAD Modeler
+Sodis
+Portail métiers Sodis
+Architecte de solutions
+Septembre 2009 à mars 2010 - 6 mois
+Sodis est une entité des Éditions Gallimard. Sodis s'occupe de la gestion des partenaires pour les ventes et gère la distribution des livres pour les partenaires. Ce mandat portait sur la mise en place d'un portail Web pour les partenaires. Ce mandat est la poursuite d'un mandat déjà entamée par un autre architecte de Tangane. Dans ce contexte, il a réalisé les activités suivantes :
+mettre en place un portail métiers MOSS 2007 de 300 sous-sites;
+mettre une << usine logicielle >> en place en se basant sur Team Foundation Server;
+mettre en place un module SSO sur l'ensemble du portail;
+donner la formation et faire l'accompagnement pour d'applications ASP.NET;
+gérer les réunions et les équipes;
+intégrer le site de commerce en ligne d'un des partenaires de la Sodis.
+Environnement :	.NET, MOSS 2007, C#, VS.NET 2008, LDAP, Oracle 8i, FxCop, Html5, JavaScript, ASP.NET MVC, jQuery
+NEOXIA
+THALES
+Fusion de systèmes d'information ERP Minx vers Oracle
+Responsable du pôle technique Microsoft
+Janvier à septembre 2009 - 9 mois
+Neoxia est un cabinet de conseil en systèmes d'information fondés en 2000 qui accompagne les entreprises et grandes organisations dans l'optimisation des performances et de la valeur de leur système d'information. Elle permet aux entreprises de bénéficier des meilleures technologies et pratiques du système d'information Internet. Les solutions de Neoxia se déclinent et s'appliquent sous plusieurs formes : conseil, expertise, réalisation et formation.
+Dans le cadre de ce mandat, il devait gérer la migration du système d'information ERP MINX vers l'ERP Oracle. Il a réalisé les activités suivantes :
+migrer 50 personnes vers une structure de plus de 1 000 personnes;
+gérer la conduite du changement;
+gérer les risques et la planification;
+prêter assistance à la maîtrise d'ouvrage;
+conduire des réunions métiers.
+Environnement :	MS Project, PowerPoint, ERP, Oracle applications, Minx, méthodologies Extreme programming, Kanban, Scrum, CMMI, Lean Software, Power AMC Designer
+Pôle technique Microsoft
+Responsable du pôle technique
+Janvier à mars 2009 - 2 mois
+Gestion du partenariat
+Il a réalisé les activités suivantes :
+gérer les certifications, certifier les collaborateurs et les produits;
+obtenir la certification Microsoft Gold Partner;
+gérer les relations avec Microsoft.
+Développements
+Il a fait des tests et il a mis en place un prototype avec la version bêta de Microsoft Azure. Il a planifié des séminaires.
+Environnement :	C#, ASP.NET MVC, Microsoft Azure
+DIGITAS FRANCE
+CIO, BIC France, GE, Chevrolet, Groupe BEL, ADP, Lancôme
+Applications Microsoft .NET
+Architecte d'application
+Janvier 2006 à avril 2008 - 27 mois
+Digitas France, du groupe VivaKi/Publicis, est une société de services dans le domaine des technologies de l'information. Digitas France est leader sur le marché du marketing interactif, la seule agence à réunir sous un même toit les différents savoir-faire indispensables pour accompagner les plus grandes marques mondiales dans la gestion de la relation avec leurs différents publics.
+Gestion du partenariat Microsoft
+Il devait assurer les relations de partenariat avec Microsoft, afin de garantir le niveau Gold et de maintenir une relation de confiance pour les clients. Il a réalisé les activités suivantes :
+gérer la certification des collaborateurs et des briques logicielles à certifier;
+obtenir et garder à jour la certification Microsoft Gold Partner;
+gérer et négocier les formations et licences des produits Microsoft;
+gérer le compte et les relations avec Microsoft.
+Architecture et conseil
+Il a réalisé diverses activités :
+faire des audits de solutions Web;
+mettre en place des formations à .NET 2 et .NET 3. Définir les directives et les meilleures pratiques. Concevoir l'architecture applicative des projets et assurer la veille technologique;
+encadrer les ingénieurs de développement et accompagner les chefs de projet. Enrichir et optimiser le cadre applicatif de manière à optimiser les temps de développement;
+agir comme directeur technique sur le projet BIC France (Bic Online), mettre en place un projet à architecture SOA, avec un déploiement ClickOnce v2;
+recruter des collaborateurs (ingénieurs, chefs de projet technique) avec les ressources humaines et les cabinets de recrutement;
+mener les entretiens de recrutement et faire le suivi des collaborateurs;
+agir comme architecte de solution .NET avant-vente et sur les projets;
+développer des sites MOSS/SharePoint et donner des formations MOSS/SharePoint pour les nouveaux développeurs.
+Gestionnaire de la qualité
+Il devait assurer la qualité des développements sans trop affecter la production. Il a réalisé les activités suivantes :
+gérer la qualité, gérer les réunions et faire la supervision;
+écrire les normes;
+mettre en place un référentiel de normes et un gestionnaire de documents.
+Responsable de la formation et formateur
+Il était responsable de formation pour les clients et les collaborateurs. Il a réalisé les activités suivantes :
+donner des formations .NET, C#, XML, JavaScript et AJAX;
+préparer des supports de formations;
+écrire des programmes de formation et de gestion commerciale.
+Responsable R et D
+Il devait assurer la veille technologique, le développement de prototypes et la gestion des bibliothèques internes. Il a réalisé les activités suivantes :
+gérer une équipe de 5 à 6 ingénieurs pour les différents projets planifiés en début d'année (BI, composants, tests, briques logicielles, etc.);
+développer le cadre applicatif interne visant à accélérer le processus de mise en oeuvre des projets;
+développer le cadre applicatif de gestion de contenu (Content Management Server);
+développer le cadre applicatif de commerce électronique;
+définir et superviser le cadre applicatif d'intelligence d'affaires (Business Intelligence, cube OLAP, etc.).
+Environnement :	C#, HTML, AJAX, ASP.NET, Visual Studio 2005 et 2008, services Web, architecture REST, commerce électronique, MOSS, SharePoint, CMS, Content Management Server, XML, XSLT, CSS, Silverlight, WCF, méthodologies Extreme programming, Scrum, XMLSpy, TOAD Modeler, Power AMC Designer
+CAPGEMINI -SKILL CENTER .NET
+Fortis Investments Belgique
+Architecture SOA
+Architecte de solution
+Mars 2005 à janvier 2006 - 10 mois
+Capgemini est la deuxième SSII dans le secteur des services informatiques en France derrière IBM Global Services2 et parmi les cinq premiers mondiaux en externalisation.
+Architecte de solutions .NET
+Il devait élaborer le design technique pour un cadre applicatif en architecture SOA. Il a réalisé les activités suivantes :
+présenter un prototype avec la version bêta de Visual Studio 2008, en collaboration avec les architectes Microsoft;
+rédiger le design technique;
+mettre en place une architecture axée sur les services.
+Environnement :	C#, HTML, AJAX, ASP.NET, Visual Studio 2005 et 2008, services Web, architecture REST, commerce électronique, MOSS, SharePoint, CMS, Content Management Server, XML, XSLT, CSS, Silverlight, WCF, méthodologies Extreme programming, Scrum, CMMI, XMLSpy, TOAD Modeler, Power AMC Designer
+Réseaux ferrés de France (RFF)
+Conseils
+Architecte de solutions
+Mars 2005 - 3 semaines
+Il devait réaliser des audits d'applications Web et suggérer des évolutions. Il a réalisé les activités suivantes :
+faire un audit de performance et de qualité d'applications Web;
+suggérer des évolutions;
+suggérer des composants.
+Groupe Generali
+Offre de services
+Architecte technique
+Février 2005 - 1 mois
+Il a participé à une réponse à l'appel d'offres en définissant l'architecture cible, tout en tentant compte du fait qu'une partie du SI de Generali est à base de services Java J2EE.
+Environnement :	C#, HTML, AJAX, ASP.NET, Visual Studio 2005 et 2008, services Web, architecture REST, commerce électronique, MOSS, SharePoint, CMS, Content Management Server, XML, XSLT, CSS, Silverlight, WCF, méthodologies Extreme programming, Scrum, CMMI
+Vedior BIS
+Audit
+Conseiller principal, architecte .NET
+Janvier 2005 - 1 semaine
+Il a réalisé les activités suivantes :
+auditer l'application réalisée afin de trouver les problèmes de perte de mémoire et de performance;
+auditer des applications AS.NET WebForms, avec des Services Web réalisés en .NET 1.1, et des connecteurs de bases de données AdoOleDb, des Objets COM et COM+.
+Architecte .NET, DNA et J2EE
+Il a participé à la réponse à un appel d'offres.
+Environnement :	.NET 1.1, COM, COM+, Ado-OleDb, ASP.NET WebForms
+BUSINESS INTERACTIF - FRA
+ADP, SPIR, Capgemini, CGB, Citroën, Accor, CIO, Sodexo
+Plusieurs projets
+Expert technique et responsable de la formation
+Juillet 2001 à janvier 2005 - 42 mois
+Business Interactif est une société de services informatiques spécialisée dans le développement de solutions Internet. Les activités du groupe s'articulent essentiellement autour de trois familles de produits et services : les applications de gestion de contenus et d'images destinées aux portails, aux sites intranet et extranet, à l'Internet mobile et au commerce électronique, les applications de gestion de la relation client et les outils de suivi et d'analyse des performances.
+Responsable du recrutement
+Dans le cadre du recrutement de collaborateurs, il réalisait les activités suivantes :
+participer à des séminaires dans les écoles d'ingénieurs;
+faire la sélection des CV, préparer des questionnaires techniques;
+faire passer les entretiens aux candidats;
+former les candidats retenus et, par la suite, les coacher en développement.
+Responsable de la formation
+Il devait assurer la gestion des activités de la cellule de formation pour les clients et les collaborateurs. Cela comprenait les activités suivantes :
+assurer les relations avec le client, planifier les formations, rédiger des contenus et programmes de formation;
+assurer le soutien à la suite de la formation et le coaching.
+Responsable de la qualité
+Il était le garant de la qualité de la production et il devait assurer une meilleure productivité. Il a réalisé les activités suivantes :
+rédiger les normes C# et SQL, gérer la configuration;
+planifier et animer les réunions sur les points de qualité;
+définir et mettre en place des points de contrôle pour la qualité des projets;
+définir les postes des utilisateurs et les serveurs (mutualisés, d'intégration, de développement, de recettes et de production).
+Expertise de projets
+Il devait effectuer des missions d'expertise de projets dans les phases avant-vente et pendant le projet afin de définir les technologies, l'architecture et de garantir les projets tout en assurant la qualité. Ces missions ont été réalisées pour des clients comme Saint-Gobain, Sodexo, Accor, Surcouf, CIO et Citroën Sport. Il a réalisé les activités suivantes :
+développer des applications Windows Forms, Services Web, Biztalk, Commerce Server 2000, Microsoft Content Management Server, ASP.NET et Windows Mobile .NET;
+faire des analyses pour le développement et l'entretien;
+mettre en place et réaliser des architectures intégrant des fonctionnalités de mobilité d'applications connectées et déconnectées (Windows Mobile, WAP, c-HTML, i-mode).
+Gestion du partenariat Microsoft
+Il devait assurer les relations de partenariat avec Microsoft, afin de maintenir le niveau Gold et de garder une relation de confiance avec les clients. Il a réalisé les activités suivantes :
+gérer les certifications des collaborateurs et les briques logicielles à certifier;
+obtenir et garder à jour la certification Microsoft Gold Partner;
+gérer le compte et la relation avec Microsoft;
+gérer et négocier les formations et licences des produits Microsoft.
+Gestionnaire de la qualité
+Il devait assurer la qualité pour l'ensemble des pôles d'activités de la société (Microsoft, graphistes, LAMP, Java, etc.). Il a réalisé les activités suivantes :
+planifier et gérer les réunions qualité;
+rédiger les normes;
+valider les documents;
+mettre en place un référentiel pour la gestion des cycles de vie projet (Team Foundation Server).
+Environnement :	Delphi, .NET, Visual Studio, XML, XSL, COM, COM+, DCOM, XSLT, SOA, Services Web, C#, méthodologies Extreme programming, Scrum, XMLSpy, TOAD Modeler, Power AMC Designer
+FULL RESOURCE ASSOCIATE - FRA
+ADP, trade-match.COM, OOShop, Histoire d'or, Groupe Bel
+Plusieurs projets
+Chef de projet
+Décembre 1999 à juillet 2001 - 19 mois
+Conseiller et chef de projet - Analyse en développement
+Il devait gérer des projets Internet et les relations avec les clients. Il a réalisé les activités suivantes :
+gérer le projet trade-match.com, plateforme B2B pour la gestion d'appels d'offres en ligne;
+gérer le projet Histoire d'Or (grand groupe de bijouterie);
+réaliser des mandats d'expertise pour des clients de commerce électronique (Carrefour/OOShop);
+agir comme formateur et définir des architectures DNA (multiniveau);
+faire des analyses pour le développement.
+Formateur
+Il devait rédiger des contenus pour des formations sur Delphi, ASP 3.0, HTML, XML, XSL, C#, COM+ et Microsoft Content Manager Server 2002 (CMS2002). Il devait également agir comme formateur.
+Environnement :	IIS, HTML, CSS, JavaScript, ASP 3.0, COM, COM+, DCOM, XML, XSL, XSLT, OleDb, ADO/OLeDB, VBScript, C#, ASP.NET, méthodologies Extreme programming, Scrum, XMLSpy, TOAD Modeler, Power AMC Designer
+FI SYSTEM / PROBASE
+Banque de France, Commission des opérations en bourse
+Divers projets
+Formateur et conseiller Expert Delphi
+Janvier 1998 à 2000 - 24 mois
+Conférencier Delphi
+Il devait préparer et donner des conférences sur des sujets techniques pour des centaines d'ingénieurs de développement. Il a notamment participé aux Conférences développeur d'Inprise (services Web, SOAP, UDDI, programmation orientée objet, développement sur Linux, etc.).
+Responsable du soutien des langages
+À titre de responsable du soutien des langages de niveau 2, il a réalisé les activités suivantes :
+assurer le soutien technique du langage Delphi;
+accompagner les ingénieurs;
+gérer la remontée des bogues du compilateur a Borland/Inprise;
+gérer le partenariat ProBase/Borland.
+Responsable de base documentaire
+Il devait créer des contenus et alimenter des contenus pour la gestion documentaire. Il a réalisé les activités suivantes :
+rédiger des contenus pour la formation;
+rédiger des contenus pour la qualité;
+rédiger des contenus pour améliorer la productivité;
+rédiger des contenus sur des sujets de R et D.
+Formateur et responsable de la formation
+Il a géré des formations données aux clients et donné lui-même des formations sur Delphi, API Win16, Win32, COM, DCOM et le multitâche. Il a réalisé les activités suivantes :
+créer des programmes de formation technique;
+gérer la relation avec le client;
+créer des contenus et des exercices pour les formations;
+planifier avec le client et donner les formations.
+Conseiller principal
+Il a assumé un rôle de conseiller principal en réalisant divers mandats auprès des clients :
+conseiller Delphi dans le cadre de divers mandats;
+conseiller en système d'exploitation Windows : Api Win16, Api Win32;
+développer des applications Internet;
+donner des conseils sur la modélisation, l'optimisation et la formulation de requêtes SQL.
+Conseiller pour la Banque de France
+Il devait analyser et développer des applications pour la Banque de France. Il a réalisé les activités suivantes :
+conduire des réunions, rédiger les cahiers des charges pour la réalisation de diverses applications au sein de la Banque de France;
+assurer la réalisation de la migration des applications pour la prise en compte de gestion de l'euro en vue du basculement du franc vers l'euro;
+gérer les flux en provenance de la BCE.
+Spécialiste des applications d'architecture distribuées
+Il a défini et réalisé des applications distribuées (multiniveaux) basées sur les des technologies Microsoft et Borland (COM, DCOM, MIDAS). Il a réalisé les activités suivantes :
+définir les architectures;
+réaliser et déployer;
+analyser et corriger des bogues;
+prendre en compte la réalisation d'une application pour la Bourse de Paris.
+Développement d'applications
+Il a géré des projets et réalisé des développements : applications client-serveur, applications multiniveaux, bases de données (Access, Interbase, Informix, DB2, Oracle), applications Internet, applications clientes autour de MS Office (Excel, WinWord, MsProject, Access, etc.).
+Environnement :	Delphi, C++ Builder, Assembleur et bases de données, base de données Oracle, Paradox, dBase, CGI, Win-CGI, Dll ISAPI & NSAPI, COM, DCOM, ActiveX, générateur d'états ReportSmith et QuickReport, Lotus Notes, applications en API Win16 et Win32, HTML, SQL, Interbase, Oracle, Informix, Access, Excel, WinWord, BDE, Borland DataBase Engine, ODBC, Turbo Pascal, MIDAS, IIS, UML, Novell Netware (3.12 et 4), COM+, CORBA, LDAP, méthodologies Extreme programming, Power AMC Designer
+HELPLINE / BORLAND / INPRISE
+BORLAND & Clients
+Soutien technique de logiciels experts  -  Niveau 2
+Ingénieur du soutien technique
+Janvier 1996 à 1998 - 24 mois
+Responsable équipe
+Il devait encadrer et gérer une équipe de sept ingénieurs de soutien de 1er niveau.
+Développement d'applications
+Il devait assurer le développement d'applications sur les technologies suivantes : CGI, Win-CGI, Dll ISAPI et NSAPI, COM, DCOM, ActiveX. Il a réalisé les activités suivantes :
+assurer le développement d'applications sur les technologies suivantes : CGI, Win-CGI, Dll ISAPI et NSAPI, COM, DCOM, ActiveX;
+gérer les évolutions pour une application Lotus Notes;
+développer des bases documentaires avec Lotus Notes comme référentiel;
+applications en API Win16 et Win32.
+Missions d'expertise
+Il a réalisé diverses missions auprès de ses clients :
+faire des audits;
+apporter son expertise Delphi, Win API ou sur les bases de données;
+agir comme spécialiste en technologies COM, DCOM, MTS, ActiveX.
+Soutien technique de niveau 2
+À titre de spécialiste de langages, il a réalisé les activités de soutien technique suivantes :
+travailler avec Borland sur les bogues du compilateur ou du moteur de base de données;
+escalader les problèmes au centre de Borland, aux États-Unis, en reproduisant et donnant le cadre exact de la reproduction du bogue;
+assurer le soutien des bases de données et des outils générateurs d'états : ReportSmith et QuickReport.
+Environnement :	Delphi, C++ Builder, assembleur et bases de données, base de données Oracle, Paradox, dBASE, CGI, Win-CGI, Dll ISAPI & NSAPI, COM, DCOM, ActiveX, générateur d'états ReportSmith et QuickReport, Lotus Notes, applications en API Win16 et Win32, HTML, SQL, Interbase, Oracle, Informix, Access, Excel, WinWord, BDE, Borland DataBase Engine, ODBC
+ALPI (APPLICATIONS LOGICIELLES POUR L'INGÉNIERIE)
+ABB, Unelec, Merlin Gerin, Ge, Bibliothèque de France
+ALPI
+Analyste en développement et responsable R et D
+Janvier 1991 à 1996 - 60 mois
+Développement de projet informatique
+Il a fait les développements suivants :
+développer des interfaces graphiques DOS, souris et menus fondés sur les spécifications SAA d'IBM;
+utiliser des logiciels de calculs électriques;
+développer applications CAO et DAO (2D);
+développer des logiciels de devis, calculs d'armoires (ABB, UNELEC, General Electric);
+utiliser la bibliothèque d'importation et d'exportation DXF (AutoCAD).
+Gestion et supervision :
+installer et administrer le réseau Netware 3.12 (5 postes);
+être responsable d'une équipe de sept développeurs.
+Environnement :	Turbo Pascal, Delphi, DOS, Win 3.1, Apple, AutoCAD, DXF, Postscript, Metafile, EMF, NetWare, Assembleur, C
+ASR (ARCHITECTURE ET SYSTÈMES RÉSEAU)
+Martini
+Développement et mise en place d'applications
+Chef de projet, analyste en développement
+Janvier 1990 à 1991 - 12 mois
+Responsable de l'équipe projet
+Il était responsable d'une équipe de cinq ingénieurs de développement pour la mise en place d'applications mobiles et la gestion de la connexion à un AS/400.
+Développement logiciel
+Il a développé une application de transfert de données en utilisant le protocole YModem et ZModem et une application de compression et décompression des données en utilisant l'algorithme LZW en Assembleur 8086.
+Environnement :	Pascal et Assembleur 8086, AS/400, protocoles de communication
+BORLAND FRANCE
+Soutien de logiciels et de langages
+Technicien de soutien
+Janvier 1989 à 1990 - 12 mois
+Soutien technique des langages
+Il a assuré le soutien technique des langages Turbo Pascal, Turbo Basic, Turbo C et Assembleur.
+Vulgarisation autour du langage Pascal
+Il a animé des séminaires et des salons informatiques sur Pascal Objet :
+séminaires sur les nouveautés du langage;
+séminaires pour expliquer les apports d'un langage objet tel que Pascal Objet.
+Responsable d'équipe
+Il a été responsable par intérim du directeur technique afin de superviser le bon déroulement du soutien au client.
+Environnement :	Turbo Pascal, Turbo Basic, Turbo C, Assembleur
+CLUB INFORMATIQUE TURBO PASCAL
+Jeunes travailleurs et étudiants du 2[e] cycle universitaire
+Club informatique Turbo Pascal
+Formateur langage Turbo Pascal
+Septembre 1985 à juillet 1987 - 22 mois
+Formateur informatique - Formation débutant
+Il a donné un cours d'introduction à l'informatique à l'intention de l'ensemble des jeunes travailleurs de Creusot-Loire. Il a réalisé les activités suivantes :
+rédaction d'un cours pour apprendre aux jeunes travailleurs le << B.A. BA >> de l'informatique;
+comment taper sur un clavier, que peut faire pour nous l'ordinateur;
+introduction au traitement de texte.
+Formateur informatique - Formation expert
+Il a donné des formations à des étudiants de second cycle scientifique. Il a réalisé les activités suivantes :
+cours sur les algorithmes (Disjkra, tri, etc.);
+cours le langage Pascal;
+cours sur les opérations en Assembleur.
+Environnement :	Amstrad CPC64, et CPC128, Turbo Pascal, Assembleur
+
+

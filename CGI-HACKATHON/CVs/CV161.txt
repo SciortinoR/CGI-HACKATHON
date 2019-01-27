@@ -1,0 +1,508 @@
+CURRICULUM VITÆ
+Conseiller
+PROFIL DE CARRIÈRE
+Il est un analyste-développeur Web avec plus de 9 ans d’expérience dans la plateforme .NET
+(ASP.NET, ASP.NET MVC, AJAX / SQL Server), surtout back end, mais aussi front end (HTML /
+JavaScript / CSS, Silverlight). Il a également développé pendant 6 ans des applications desktop
+(C++ Qt et .NET WPF avec le patron de conception MVVM), Windows Phone and Windows RT,
+Utilisant strictement les principes SOLID, DRY, KISS and YAGNI, il est intransigeant sur la
+qualité de son code, et est proche du client.
+Il a récemment travaillé dans le département du risque de la CDPQ. Il aura entre autre élaboré
+une application, utilisant les technologies et pratiques les plus récentes, permettant la
+synchronisation entre plusieurs systèmes internes. Il a également propagé la connaissance de
+librairies et pratiques architecturales, afin d’améliorer les développements.
+Il a eu l’opportunité de travailler pour des studios de développement mobile, à la pointe des
+technologies Microsoft, et de la plateforme Windows. Pour le compte de Smartuse, il aura
+réalisé un logiciel de visualisation et d’annotation de plans de construction, sur tablette et grand
+écran tactile, pour plusieurs grands clients dans le secteur du bâtiment. Chez nVentive et
+Runatserver, deux compagnies aux racines proches, il aura produit des applications mobiles
+.NET, utilisant des pratiques recommandées par de brillants architectes, et ayant une grande
+rigueur dans leur processus de développement.
+Il a également travaillé pour des agences de solutions web. Il a eu l’opportunité de participer à
+l’analyse et au développement complet d’un ensemble d’outils de génération de rapports, avec
+l’outil SQL Server Reporting Services, synthétisant un grand sondage effectué au Québec. Cet
+outil est toujours utilisé aujourd’hui.
+La qualité de son travail a toujours été appréciée et reconnue. De plus, son dynamisme, sa
+polyvalence, son ouverture, et son autodidactisme lui ont toujours permis de contribuer à la
+pleine réalisation de ses mandats.
+
+-1-
+
+Error! No text of specified style in document.
+Conseiller
+
+TYPES D’INTERVENTIONS
+Compétences spécialisées :
+
+Développement d'applications, Intégration
+d'applications, Soutien d'applications, Test
+d'applications
+
+Méthodologies :
+
+.NET Design Patterns, Agile, Design Patterns,
+MVC (Model View Controller), Orienté objet,
+Scrum, Architecture axée sur les services (SOA)
+
+Compétences non techniques :
+
+Esprit innovateur, Souci d'exactitude, Analytique,
+Vision d'ensemble, Souci du détail, Souci
+d'efficacité, Résolution de problèmes,
+Apprentissage rapide, Motivé
+
+COMPÉTENCES
+Langages de programmation :
+
+AngularJs, ASP (Active Server Pages), ASP .NET,
+ASP .NET 4, ASP .Net MVC, Assembleur, C#, C+
++, CSS, CSS 3, HTML, HTML5, JSON - JavaScript
+Object Notation, LINQ (Language Integrated
+Query)., Microsoft .NET Framework, Microsoft
+.NET Framework 2.0, Microsoft .NET Framework
+3.5, Microsoft .NET Framework 4.0, Microsoft .NET
+Framework 4.5, Microsoft Windows
+Communication Foundation, Microsoft Windows
+Presentation Foundation, PHP, Qt, SQL, UML,
+Visual C#, Visual C++, XML, TypeScript
+
+Systèmes d'exploitation :
+
+Android, DOS, Linux, Mac OS X, Microsoft
+Windows 2000, NT, Microsoft Windows 3.x, WFW,
+95, 98, ME, Microsoft Windows Server, MS-DOS,
+Ubuntu, Windows 2000, Windows 2003, Windows
+2008 Server, Windows 7, Windows 8, Windows 95,
+Windows 98, Windows Server 2003, Windows
+Server 2008 R2, Windows XP
+
+Bases de données :
+
+Connaissances générales de SQL Server 2000,
+Database Optimization, Microsoft SQL Server,
+Microsoft SQL Server 2000, mongoDB, Procédure
+d'archivage SQL, SQL Reporting Services, SQL
+Server 2005, SQL Server 2008, SQL Server 2008
+R2, Sql Server 2012, SQL Server Reporting
+Services (SSRS)
+
+Ordinateurs :
+
+Apple, Dell, Ordinateurs de bureau, Serveurs Web
+
+Matériel :
+
+SQL Server, Serveurs Web
+
+Outils/Technologies :
+
+NPM, Bower, Node.js, Ionic, Cordova, Jenkins,
+Angular.js, Git, Yeoman, Gulp, Typescript,
+Mongoose
+
+Environnement intégré de développement :
+
+JavaScript, Microsoft Visual Studio, Visual Studio
+2010, Visual Studio 2012 premium, Visual Studio
+2013, WebStorm 2016, DataGrid 1
+
+cgi.com
+
+-2-
+
+Error! No text of specified style in document.
+Conseiller
+
+Systèmes :
+
+WEB
+
+Réseau :
+
+Protocole d'Accès Réseau
+
+FORMATION
+2004
+
+Baccalauréat en informatique
+
+Lycée Léonce Vieljeux, La Rochelle, France
+
+2002
+
+Diplôme d'études secondaires en
+électrotechnique
+
+Lycée Léonce Vieljeux, La Rochelle, France
+
+CONNAISSANCES LINGUISTIQUES
+Français et Anglais.
+
+cgi.com
+
+-3-
+
+Error! No text of specified style in document.
+Conseiller
+
+EXPÉRIENCE PROFESSIONNELLE
+CGI
+CGI
+Mandat interne - Corporatif
+
+Développeur .NET
+Février 2016 à Avril 2016
+
+Améliorer un projet de sondage en ligne réalisé avec Microsoft .NET (Profil pour planification
+stratégique), son site web ainsi que ses rapports.
+Environnements: Windows 7, Internet Explorer 11/Chrome
+Technologies: C# 3.5, .NET 3.5, LINQ, IIS 7, ASP.NET 3.5 Web forms, SQL Server 2012, Javascript,
+Knockout, SSRS 2010
+Caisse de dépôt et placements du Québec
+
+Développeur .NET
+Octobre 2014 à Janvier 2016
+
+Développement de nouveaux outils / formations, ainsi que la maintenance des applications existantes. :
+
+
+Concevoir et développer un outil de synchronisation de données internes inter-systèmes. Il a eu
+en charge la conception de l'application, ainsi que son développement, selon les conventions
+de la caisse.
+
+
+
+Assurer le support utilisateur, maintenir, et améliorer certaines applications web intranet pour
+lesquelles il était en charge
+
+
+
+Amélioration d’un lourd service de centralisation/exportation de données interne, en
+collaboration avec l’équipe.
+
+
+
+Donner des conseils aux équipes de développement sur les pratiques web, les paradigmes tel
+que SOLID, comment écrire un meilleur code Javascript ou C# code
+
+Environnements : Windows 7, Internet Explorer 11/Chrome
+Technologies: C# 5, .NET 4.5, Task Parallel Library (TPL), LINQ, Controles Infragistics, IIS 7, ASP.NET
+4 Web forms, ASP.NET MVC 5, SQL Server 2012, Javascript, Bootstrap, Unity
+
+SMARTUSE (RUNATSERVER)
+SmartUse
+
+Développeur XAML/C#.NET
+Septembre 2013 à Juillet 2014 - 10 mois
+
+Développeur XAML/C#.NET
+Smartuse est une solution pour architectes du bâtiment, pour gérer les projets de construction;
+visualiser et annoter les plans de construction; gérer les projets, les permissions utilisateurs. Ce logiciel
+est basé sur le cloud (Azure). Avec une équipe de développeurs C#.NET expérimentée, et un processus
+de développement rigoureux:
+
+cgi.com
+
+-4-
+
+Error! No text of specified style in document.
+Conseiller
+
+
+Analyser les tâches à effectuer pour chacune des fonctionnalités demandées, en PBI et Tasks,
+selon la méthodologie Agile Scrum.
+
+
+
+Développement desdites fonctionnalités, en utilisant les patrons de conception de logiciel. Ces
+mêmes patrons sont mis en avant dans le framework interne de l’entreprise.
+
+
+
+Tenir compte des enjeux importants de performances, requérir les images composants un plan
+étant couteux en bande passante, surtout pour la mobilité (sur le terrain).
+
+
+
+Création des pages, User Controls et Custom Controls.
+
+
+
+Développer et modifier les View Models existants.
+
+
+
+Développer les règles d’affaire et les différents services.
+
+
+
+Consommer et modifier les endpoints exposés.
+
+
+
+Adapter l’application Windows 8 Métro aux exigences du Windows Store.
+
+Environnements : Windows 8.1, C# 5, .NET 4.5, Task Parallel Library (TPL), Reactive Extentions (Rx),
+LINQ, Silverlight 5, REST, Web Services
+
+NVENTIVE (RUNATSERVER)
+nVentive
+
+Développeur XAML/C#.NET
+Septembre 2013 à Juillet 2014 - 10 mois
+
+Développeur XAML/C#.NET
+nVentive est un studio qui produit des applications mobiles sous les plateformes Windows (Windows
+8/8.1) et iOS. Avec une équipe de développeurs C#.NET expérimentée, et un processus de
+développement rigoureux, il a eu l’opportunité:
+
+
+Maintenir et poursuivre le développement des outils internes. L’un pour mapper les heures
+estimées dans TFS avec celles enregistrées dans Freshbooks (un logiciel en ligne de gestion
+de temps/ comptabilité), pour générer des rapports sur le rendement du personnel. Un autre est
+une application WPF qui présente dans l’office tous les projets en cours, avec tout le personnel
+travaillant dessus. Cela améliore la communication interne
+
+
+
+Maintenir les applications Windows Surface/Windows phone précédemment déployées
+
+
+
+Continuer à superviser l’application Silverlight précédemment développée par Runatserver, qui
+gère les membres du syndicat du textile, avant l’acquisition de Runatserver par nVentive
+
+Environnement : Windows 8/8.1, Internet Explorer 11, C# 5, .NET 4.5, Task Parallel Library (TPL),
+Reactive Extentions (Rx), LINQ, Silverlight 5, contrôles Telerik pour Silverlight, IIS 7,
+ASP.NET 4 Web forms, SQL Server 2012, nHibernate 3.2, REST, Web Services
+
+RUNATSERVER
+RUNATSERVER
+
+cgi.com
+
+Développeur Silverlight
+Octobre 2012 à Septembre 2013 - 11 mois
+
+-5-
+
+Error! No text of specified style in document.
+Conseiller
+
+Développeur Silverlight
+Runatserver est une entreprise de solutions sous Windows mobile. Avec une équipe de développeurs
+Silverlight / Web expérimentée, il a eu l’opportunité d’analyser architecturalement, concevoir, et réaliser
+des solutions Microsoft .NET. Entre autre mission: Stabiliser, maintenir, et améliorer une large Solution
+Silverlight orientée objet, qui gère les membres du syndicat du textile, calcule leur contributions de
+pension dans leurs remises
+
+
+Il a dû rapidement comprendre un grand nombre de règles d’affaires régissant les calculs des
+montants des versements et de droits, car certains durent être corrigés. L’application n’était pas
+stable quand il y a été affecté.
+
+
+
+Maintenir et poursuivre les tests unitaires existants.
+
+
+
+Il a été responsable du déploiement, ainsi que du support direct avec le directeur du syndicat,
+pour régler les problèmes ou ajouter des fonctionnalités (gestion du projet).
+
+
+
+Conseiller le client pour des améliorations dans les pratiques d’exportation de documents,
+d’interface, d’optimisation de lourds calculs (calculs par lot, la nuit).
+
+
+
+Des enjeux importants de performance et de sécurité, étant donné que ce système contient des
+données sensibles sur les membres (tel que leur NAS). L’outil doit afficher rapidement, des
+tableaux pouvant synthétiser le paiement de milliers de membres, pour un établissement.
+
+
+
+Méthodologie agile Scrum, en préparant mes PBIs, Tasks, et en publiant régulièrement les
+sprints.
+
+
+
+À l’aide des patrons de conception de logiciel, ajouter de nouvelles fonctionnalités tout en
+respectant l’architecture logicielle établie et en rendant les modules facilement extensibles.
+
+
+
+Mettre à jour la documentation des spécifications, le guide utilisateur, ainsi que les documents
+d’architecture du système (Application / Système / Services).
+
+Développeur Silverlight
+Maintenir et améliorer une large application Silverlight d’un grand groupe de sécurité, permettant aux
+utilisateurs accrédités de visualiser en temps réel, programmer des règles d’ouverture de porte
+Développeur Silverlight
+Utiliser le moteur de rapport de ComponentOne pour générer des rapports de sécurité (passage de
+portes, niveaux d’accès, utilisation de carte d’accès). Les défis sont de :
+
+
+Créer un rapport dans une base de données contenant 1 million ou plus d’enregistrements
+d’accès pour de grandes entreprises.
+
+
+
+Résoudre certaines limitations liées à cet outil, qui est en grande majorité une boite noire. (ex.
+Peupler les champs depuis une base). Nous sommes en étroite collaboration avec l’éditeur du
+produit.
+
+Environnement : Windows 8.1, Windows Server 2008 R2, TFS 2012, Visual Studio 2012/2013, C# 5,
+.NET 4.5, Task Parallel Library (TPL), Reactive Extentions (Rx), LINQ, Silverlight 5,
+WPF, contrôles Telerik pour Silverlight, IIS 7.5, ASP.NET 4 Web forms, SQL Server
+2012, nHibernate 3.2, ComponentOne Active Reports, Unity, REST, Web Services
+
+LES CARRIÈRES JOBWINGS
+
+cgi.com
+
+-6-
+
+Error! No text of specified style in document.
+Conseiller
+
+JOBWINGS sites d'emploi
+
+.NET Web Developer
+Avril 2010 à Octobre 2012 - 30 mois
+
+Développeur Web .NET
+JobWings est une entreprise possédant un ensemble de portails de recherche d’emplois spécialisés. En
+tant que membre de l’équipe de développement, Il a eu en charge la réécriture des 18 sites de
+recherche d’emploi, maintenir les anciens, et de créer les outils d’administration. Entre autre missions :
+
+
+Refondre la plateforme de recherche d’emploi, en utilisant le CMS Kentico. Le défi principal est
+de servir de 10 000 à 40 000 pages par jour, tous les sites web fonctionnant sur une seule
+instance.
+
+
+
+La bande passante dut être optimisée, les candidats pouvant naviguer depuis une connexion
+56k ou un appareil mobile.
+
+
+
+Réutiliser l’ensemble des algorithmes déjà existants sur les anciens sites (eg. Ceux utilisés pour
+éviter les robots spammeurs de faux CV)
+
+
+
+Réécrire notre outil interne d’administration en Silverlight, pour générer et gérer des milliers de
+phrases affichées sur les 18 sites. Cet outil doit être simple d’utilisation
+
+
+
+CSS Front end, Interaction avec JQuery and AJAX.
+
+
+
+Installation et configuration du contrôle de code source TFS.
+
+Environnement : Windows 7, Windows Server 2003/2008 R2, Internet Explorer 8 à 10, Visual Source
+Safe, TFS 2010, Visual Studio 2005 à 2012, C#, .NET 3.5/4, LINQ, Silverlight 5, IIS 6/7,
+ASP, ASP.NET 4 Web forms, ASP.NET MVC 4, Razor, Kentico CMS 5.5 à 7, SQL Server
+2003/2008, HTML 5, Javascript, CSS 2, jQuery 1.7, AJAX, XML, TFS 2010, Entity
+Framework 5, ASP.Net Web API, REST, Web Services, Services Windows
+
+CAP PRODUCTIONS
+CAP PRODUCTIONS
+
+Développeur Web .NET
+Mars 2007 à Avril 2010 - 37 mois
+
+Développeur Web .NET
+En tant que membre de l’équipe de développement, Il a eu en charge le développement des
+applications et outils basés sur le web, des sites web, et la maintenance de nos sites existants. Il a
+analysé, conçu, réalisé des solutions Microsoft.Net. Entre autre missions, il a eu le privilège d’analyser,
+concevoir, et réaliser un ensemble d’outils web de planification d’hebdos, une solution orientée objet,
+dont le but est de générer des rapports basés sur un sondage de lectorat/consommation
+
+cgi.com
+
+-7-
+
+Error! No text of specified style in document.
+Conseiller
+
+
+Cet outil est articulé autour de la technologie SSIS SQL Reporting Services 2005.
+
+
+
+Élaborer l’architecture logicielle de l’outil. Il est composé en 3 sections distinctes, et l’une des
+contraintes, est que la sélection des hebdos pour générer le rapport doit pouvoir suivre lorsque
+l’on change de section (chacune outil est sur une instance différente)
+
+
+
+Écriture de la documentation en ligne de l’outil, en français. Cette documentation fut par la suite
+approuvée par le client et traduite en anglais. (en complément de la formation fournie par le
+client)
+
+
+
+Un enjeu important de performance et de sécurité : Les rapports générés sont basés sur des
+100ènes de milliers d’enregistrements, liés au sondage dont ces données viennent. Le système
+devait effectuer des requêtes sur mesure. Également, cet outil n’est pas public, ces données ne
+sont utilisables que pour les membres du consortium d’hebdos.
+
+Développeur Web .NET
+Production de sites web utilisant Kentico Content Management System, améliorés par des composants
+personnalisés. Ayant plus d’une douzaine de sites sur un serveur, il doit pouvoir servir 600 à 1000
+pages simultanément
+
+
+Pour l’un des sites web, il a eu l’opportunité de développer toutes les couches (fullstack). Il a
+ainsi analysé et créé toutes les pages en CMS du site, mais également de la partie front end,
+en Javascript et CSS.
+
+Développeur Web .NET
+Production d’une Application Internet Riche avec Silverlight, pour afficher des diaporamas sur de grands
+écrans, liés à une base de données.
+
+
+La contrainte principale est de supporter le chargement d’une centaine d’images
+simultanément, sur différents écrans, et de pouvoir les contrôler depuis un seul poste.
+
+Développeur Web .NET
+Campagnes de publipostage utilisant CakeMail, avec une librairie écrite par nous-mêmes, liant le
+service CakeMail avec le Content Management System, ce qui permet aux utilisateurs de générer leur
+infolettre depuis Kentico CMS et après les envoyer aux inscrits.
+Développeur Web .NET
+Sites web communautaires, utilisant la plateforme Community server.
+
+
+Analyse architecturale, conception et réalisation d’un contrôle ASP.NET, lié à Kentico CMS, pour
+afficher ou pas de la publicité commandée par le client, dépendamment des pages visitées par
+l’utilisateur.
+
+Développeur Web .NET
+Développement d'un outil basé sur la cartographie, utilisant Google Maps, avec les librairies JavaScript
+Développeur Web .NET
+Maintenance sur les sites Web, documentation, Intégration en CSS.
+
+cgi.com
+
+-8-
+
+Error! No text of specified style in document.
+Conseiller
+
+Environnement : Windows XP/7, Windows Server 2000 à 2008, Internet Explorer 6 à 10, Visual Source
+Safe, Visual Studio 2005/2008, C#, .NET 3.5/4, LINQ, Silverlight 3/4, IIS 6/7, ASP.NET
+3.5/4 Web forms, SQL Server 2000 à 2005, Kentico CMS 3 à 5, jQuery 1.7, HTML 4,
+AJAX, XML, Javascript, CSS 2, Google Maps API, CakeMail, SSIS – SQL Reporting
+Services, CodeSmith 3, Enterprise Library 4.0, Web Services
+
+cgi.com
+
+-9-
+
+

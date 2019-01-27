@@ -1,0 +1,194 @@
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRÉNOM78 NOM78
+courriel78@gmail.com [HYPERLINK: mailto:courriel78@gmail.com]							téléphone78
+--------------------------------------------------------------------------------
+COMPETENCES QUALITÉS ET APTITUDES
+Analyste trilingue, compte plus de 10 années d'expérience en Analyse, Conception, implantation des processus, en gestion de projet et des systèmes ERP, des solutions EPM et en application des bonnes pratiques d'affaires. Expertise technique en analyse (affaires, processus, fonctionnelle) et en charge de projet. Motivée par les défis et les occasions d'apprentissages. Compréhension des besoins clients et propositions des solutions fonctionnelles et efficaces contribuant au développement des organisations et institutions. Capacité d'adaptation à un contexte changeant. Bonnes aptitudes en travail d'équipe et de gestion des relations interpersonnelles. Capacité à anticiper et résoudre des problèmes 
+--------------------------------------------------------------------------------
+AU fil des mandats j'ai pu prouver ma capacité à identifier et à dépasser les besoins de l'entreprise et les objectifs ainsi que le développement de systèmes d'information et des mécanismes de performance conduisant une entreprise à la réussite.
+--------------------------------------------------------------------------------
+FORMATION ACADEMIQUE
+Master International Business and Finance)				Oct. 2003  -  sept 2004
+Université78
+Baccalauréat Génie Informatique (Computer Science Engineering)	Sept 1997- Juin 2003
+Analyse et conception des applications et des systèmes
+Université78
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+RÉALISATIONS
+ Leadership : Jouer le rôle de chef d'équipe de conception
+ Gestion de projet : Gestion des programmes complexes de déploiement d'Applications, afin de faciliter l'acquisition des besoins de l'entreprise; politiques et procédures établies ;
+ Équipe Collaboration: définir la stratégie d'évolution de l'équipe de développement, déploiement des meilleures pratiques ;
+ Conception d'application d'affaires : Application de la conception orientée objet / programmation pour concevoir une nouvelle application autonome; Élaboration des spécifications conceptuelles, rédaction des documents de spécifications fonctionnelles, des rapports d'analyse, optimisation des processus d'affaires pour améliorer le workflow ;
+ Formation technique: activement encadré, formé et supervisé l'équipe pendant plusieurs mois pour améliorer les compétences professionnelles générales.
+ Programmation : écriture des algorithmes et des codes développés pour le raisonnement logique, les tâches, processus de santé.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+EXPÉRIENCE GESTION DE PROJETS
+
+Consultant Applicatif				Déc 2016- Avril 2017
+ENTREPRISE78-1
+
+Responsabilités
+
+ Rédiger les analyses fonctionnelles détaillées des livrables SOA (Contrats de Services, Mappage de données, Signatures de Service) définies par l'architecture du système 
+ Rédiger les documents fonctionnels
+ Participer à l'élaboration des Cas d'utilisation et la rédaction des BPM et BRE
+ Rédiger en UML grâce à l'outil Visual Paradigm et analyser les diagrammes de séquence, les interfaces externes
+ Analyser et rédiger les fonctionnalités des services d'entité, des services de fonction
+ Analyser les divers gestionnaires (requête, page, CU) et les utilitaires de Journalisation, de persistance et d'anomalies
+ Réaliser des dossiers d'analyse des différentes composantes de l'architecture sur la base des découpages détaillés des services
+ Définir les intrants et extrants des différentes composantes de l'architecture
+ Accompagner dans la mise en œuvre des analyses auprès des développeurs, rédiger des cas tests, les analyser et exécuter 
+ Rencontrer et discuter avec l'analyste d'affaire et l'architecte pour préciser les besoins 
+ Modéliser et valider les structures de données en XML (SchemaDocument XSD)
+ Définir les tests requis pour l'assurance qualité des livrables,
+ Faire des recommandations tout en respectant les décisions prises dans le projet
+ Transférer les dossiers fonctionnels et réaliser les essais fonctionnels 
+ Rédiger et mettre à jour les biens livrables 
+Outils: UML, Visio, VP (Visual Paradigm), JBoss, BPM, BRE, outils du Process Map
+
+Analyste d'affaires						Mars 2013- 2016
+Entreprise78-2
+
+Responsabilités
+ Collecter les besoins métier et analyser l'impact sur l'existant : SWOT (Strengths, Weaknesses, Opportunities and Threats)
+ Conduire l'identification, la définition, l'analyse et la documentation des besoins des clients - convertir les besoins métiers en objectifs pour les projets ou les demandes d'évolutions.
+ Cadrer, collecter, organiser et prioriser les besoins techniques et métiers pour le choix d'une solution logicielle  -  brainstorming avec les acteurs clés identifiés 
+ Gérer au sein de l'équipe les projets fonctionnels et d'affaires à partir de zéro.
+ Responsable de la création et de la livraison des documents d'analyses d'affaires de haut niveau (BRD), de la conception fonctionnelle et non fonctionnelle (FRD), et de cartes de processus, au besoin.
+ Animer ateliers de clarification des besoins métier IT  -  Métier avec priorisation : BPMN;
+ Gestion du processus de conception et d'implantation des modules du système tutoriel
+ Collecte d'information 
+ Analyse et définition des besoins
+ Conception du Design de l'architecture du système 
+   Documenter les processus d'affaires existants (contrôles, rôles) 
+   Rédiger les besoins et exigences d'affaires dans des documents structurés
+   Assistance à l'élaboration des documents projet : cahier des charges, dossiers de spécification fonctionnelle et technique basé sur les techniques d'EPM
+   Planifier et allouer les ressources de développement et Gestion des demandes 
+   Reporting bi-hebdomadaire 
+   Détecter et faire le suivi des arrimages avec les autres projets
+   Analyser et Planifier des étapes du développement du STI (Système Tutoriel Intelligent).
+   Rédiger les dossiers de spécification fonctionnelle et technique 
+ Documentation fonctionnelle des règles de modélisation
+   Appliquer la méthodologie de conception Agile pour l'implémentation des modules du STI
+   Implantation des modules du système
+   Lead projet, animation des rencontres et formation des utilisateurs 
+Outils: ArgoUML, Eclipse, Jess (Rule Engine for the JavaTM Platform), protégé, Java, Microsoft office, Netbeans, Agile, User-Story, Scrum, BPM
+
+Gestionnaire de projet d'élaboration 	des programmes 		Sept 2010- Fév 2013
+pédagogiques et académiques		
+ENTREPRISE78-3(2012-2013), Entreprise78-4 (2010-2013)
+
+Responsabilités
+   Planifier, développer et administrer des programmes de Master. 
+   Encadrer et soutenir les institutions publiques et privées au développement des partenariats académiques avec les Universités nationales et internationales. 
+   Manager les rapports d'activités des différents partenaires d'affaires.
+   Accompagnement professionnel à l'entrée dans le métier. 
+     Aider au développement de la pratique professionnelle d'ingénieur génie. 
+   Adapter la séquence pédagogique au développement des capacités de l'étudiant à devenir autonome dans un environnement tutoré, et sur les SI liés à ses futures activités.
+   Soutenir au développement de la pratique professionnelle d'ingénieur génie. 
+Outils : Suite Office, Visio 
+
+Analyste							Jan 2006- Août 2010
+Entreprise78-5
+Responsabilités
+   Coacher et soutenir les institutions publiques et privées au développement des partenariats académiques avec les Universités nationales et internationales. 
+   Supporter les entreprises dans le processus d'identification des défis, d'établir les stratégies d'implémentation de partenariats avec la structure universitaire tout en renforçant les bonnes pratiques 
+   Agir en tant que principal interlocuteur entre IT, Opération et Finance Business Partners.
+     Encadrer les apprenants dans l'utilisation des outils informatiques évolués (logiciels de calcul formel, calcul numérique, de modélisation, de simulation, etc.) en vue de permettre l'approfondissement des disciplines scientifiques. 
+   Aider les utilisateurs à définir et à prioriser les demandes pour répondre à leurs besoins
+   Accompagnement dans le processus d'implantation des systèmes ERP, des Systèmes d'information et Système d'aide à la décision (SIAD).
+   Identifier et hiérarchiser les besoins en SI correspondants aux différents métiers couverts,
+   Evaluer l'adéquation globale des solutions par rapport aux besoins mis en évidence précédemment. 
+   Identifier les problèmes et les faiblesses de l'utilisateur et faire des recommandations
+   Identifier, documenter et analyser les exigences et les besoins de l'entreprise.
+   Gérer la mise en place des livrables intermédiaires. 
+   Analyser les demandes de changements dans les systèmes 
+Outils : ERP, Suite Office, Visio, SI,
+Analyste - Système et Processus (SAP)			Sept 2003- Déc 2006
+Entreprise78-6
+  
+Responsabilités
+   Gérer la division finance et stratégie à partir de zéro dans un projet de démarrage.
+   Responsable de la délimitation du périmètre du projet, du Blueprint, de la conception et de la documentation du flux des processus, de la conception des spécifications d'interface, de la configuration, des tests ;
+   Définir les règles comptables et du processus Comptabilité générale dans le système SAP.
+   Participer aux activités de contrôle qualité - tests fonctionnels SAP et fournir un soutien proactif aux utilisateurs pour le processus de gestion du changement.
+   Développer des dossiers d'affaires, des documents d'exigences, des modèles de cartographie et d'objectifs.
+   Responsable de la conception de la structure d'entreprise, du Blueprint et de la conception des processus d'affaires (GL, AP, AR).
+   Analyser les problèmes complexes de gestion SAP et le développement de solutions au sein de SAP en utilisant les outils et les technologies disponibles.
+   Configurer les données de base de SAP : Organisation structurelle du GL account, 
+   Définir les règles de calcul des Centres de Coûts et des Profits, 
+   Rédiger les spécifications fonctionnelles pour les interfaces, les rapports, les tests et des conversions liées au GL.
+   Intégrer les services partagés des activités du GL, AP, AR, utiles en fin de mois; 
+   Préparer et dispenser la formation aux principaux utilisateurs; Effectuer avec les utilisateurs tous les tests d'intégration et de validation des migrations.
+   Soutenir les équipes, les gestionnaires de processus d'affaires et les utilisateurs finaux dans tous les domaines liés à SAP.
+    Organiser des sessions de formation des utilisateurs clés. 
+    Diriger et gérer les livrables et la documentation du projet dans le cadre de la gestion de projets, de l'élaboration de stratégies, de la planification de la mise en œuvre et du développement de business case.
+   Créer et mettre à jour des rapports et s'assurer qu'ils soient accessibles à tous les stakeholders
+   Rédiger les dossiers de spécifications fonctionnelles et techniques :
+    du progiciel de suivi et de la formation des utilisateurs
+    de la documentation fonctionnelle des règles de modélisation sous le progiciel. 
+Outils : ERP, UML, SAP-FICO (GL, AR, AP), Scrum, Suite Office, Visio, SQL request, BPMN, BRM
+Analyste système et processus						Jan 2002- Déc 2003
+Entreprise78-7 Toulouse France 
+Responsabilités
+   Gérer les projets d'implantation et de développement de système informatique et de gestion ERP en fonction des besoins et des objectifs clients en matière de gestion de projets 
+ Définir le projet, évaluer les besoins, estimer les délais de réalisation en élaborant des scrums projet 
+ Analyse des besoins des clients ou d'un projet et identifier les solutions technologiques appropriées en tenant compte des engagements budgétaires et les délais de livraison.
+ Soutenir les équipes, les gestionnaires de processus d'affaires et les utilisateurs finaux.
+Outils : Scrum, Suite Office, Visio, SQL request, BPM, BRM
+Analyste fonctionnelle et processus					Jan 2000- Août 2000
+Entreprise78-8 
+Responsabilités
+   Analyser, concevoir et Implémenter des services applicatifs au sein des processus d'affaires des entreprises automobiles et de Télécommunications
+ Planifier et mettre en œuvre des plans d'évolution des processus d'affaires dans le SI ; Étude, évaluation et choix de la solution ; Élaboration des procédures fonctionnelles en UML ; Conception technique et réalisation du prototype. 
+ Analyser les demandes de changements dans les systèmes, et modélisation métier ; Élaborer les scénarios de test
+   Analyser et modéliser des données dans de nombreux domaines d'affaires du service marketing, tels l'identification des individus, l'administration des programmes de prestations, les états financiers corporatifs, la production de communications et la gestion de contenus ; Extraire les données en utilisant des requêtes SQL
+Outils : Suite Office, Visio, SQL request, Access Database, 
+--------------------------------------------------------------------------------
+CONNAISSANCES EN INFORMATIQUE
+
+Outils Bureautique	
+                   Visio, MS Project, Photoshop, Suite office, Project
+                   Manager MS, Connaissances des Tableaux et des
+                   Tableaux croisés dynamique
+Domaines de compétences		
+                   ERP
+                 Élaboration des spécifications techniques et fonctionnelles ; Mise en place du ERP
+                   Enterprise Project Management (EPM)
+                   Knowledge on Enterprise Architect
+Programmation Environnement de Dev		
+                   JavaScript, Prolog, Lisp, C++ , HTML, VBA,
+Outils et Méthodologies de développement	
+                   Eclipse, UML, Merise, Agile (SCRUM), 
+                   Cycle V, MVC, Design Pattern
+Base de données, 
+                   Oracle
+                   Access
+                   SQL
+Serveur web et plateformes
+                   Tomcat, Apache
+                   Linux, Windows,
+
+
+
+--------------------------------------------------------------------------------
+CONNAISSANCES LINGUISTIQUES
+Français Anglais, Allemand, 
+--------------------------------------------------------------------------------
+CERTIFICATIONS
+ Formation aux méthodes agiles de développement logiciel Université Jean Moulin, 2004
+ Certificat en pédagogie d'Université de Montréal, Montréal, Québec
+  Certification SAP FICO.
+ PMP in Progress
+--------------------------------------------------------------------------------
+DÉVELOPPEMENT PROFESSIONNEL
+2015/2017 Certificat de compétences Anglais pour la communication Université McGill
+Été 2012, Séminaire Pédagogie Enseignement Supérieur : La Gestion des Grands Groupes
+Été 2011, Université des Montagnes, Séminaire : Éthique (40H).
+1996-1997 Certificat de compétences en Allemand

@@ -1,0 +1,246 @@
+CURRICULUM VITÆ
+Prénom75 Nom75, M. Sc., PMP, ITIL
+Directeur-conseil Gestion de projets / Sécurité & Conformité
+PROFIL DE CARRIÈRE
+Cumule près de 20 ans d'expérience en TI dont 8 ans en sécurité TI, plus de 8 ans en gestion de projet, sécurité et conformité des TI, 6 ans au domaine bancaire et financier et 5 ans en gestion de personnel directe et matricielle. Détient une maîtrise en génie logiciel avec un cheminement en Technologie de l'Information et la certification de gestionnaire de projet PMP et d'ITIL. 
+
+Mobilise et oriente les gens par son attitude constructive, son habileté à vulgariser et démystifier les enjeux vers les objectifs d'entreprises attendus avec une gestion du changement stratégique. Possède d'excellents réflexes de gestion et de supervision de personnel. Habile en négociation et motivé à encadrer et prodiguer avec soin le << Coaching >> ainsi qu'à mobiliser les équipes multidisciplinaires de vers les objectifs d'entreprises attendus.
+
+Possède de très bonnes connaissances de divers environnements infrastructures et réseaux TI incluant la virtualisation. Excellentes expériences et connaissances des Bonnes Pratiques TI des référentielles (CobIT, ISO 27002, CISSP, ITIL, PCI-DSS, Bâle). Il a une vision claire sur les solutions de gouvernance, sécurité et conformité TI nécessaires afin de répondre aux besoins d'évolution contextuelle et de protection des TI en entreprise grâce à toutes ses expériences et compétence de gestion ainsi que ses expériences passées comme administrateur système senior en sécurité. De plus, il est extrêmement habile avec les produits Ms Office et autres.
+
+Reconnu pour la livraison de services / livrables, la satisfaction client, l'amélioration continue et l'optimisation des processus en place. Expert dans la résolution de problèmes technologiques complexes, les suivis de livraison et la production de statuts d'avancement via les tableaux de bord de projet pour le management. 
+
+
+
+COMPÉTENCES
+Compétences spécialisées :
+Sécurité des technologies de l'information, Bancaire, Services Financiers, Entreprise75-4, Gestion des comptes, Négociation de contrat, Services d'impartition (autres), Gestion de la relation client, Gestion des clients, Gestion du personnel
+Types d'interventions :
+Analyse de conformité, Respect et gouvernance de systèmes d'information, Pratique COBIT, Audits de sécurité, Information, Virtualisation, Security Administrator, Gestion de projets, Gestion du changement, Assurance qualité (AQ), Contrôle de la qualité, Négociation, Gestion des Indicateurs de Performances (KPI), Gestion des contrats, Services-conseils, Gestion d'équipe, Gestion de la relation client, Gestion de déploiement, Administration de réseaux, Déploiement de micro-ordinateurs, Contrôle d'accès, Évaluation des tâches, Conseil au service à la clientèle, Décommission d'application, Budgétisation, Leadership de la gestion du changement, Coordination, Communications client, Estimation, Gestion des finances et des coûts, Prestation globale de services, Analyse d'impact, Infrastructure, Vérification interne, Gestion des TI, Transfert des connaissances, Sécurité Microsoft, Gestion de réseaux, Coordination de projets, Sécurité de systèmes, Formation, Gestion Documentaire Web
+Méthodologies :
+ISO 27000, Information Security Standard (ISO/IEC) 27002, Payment Card Industry Data Security Standard (PCI), Information Technology Infrastructure Library (ITIL), Guide du référentiel des connaissances en gestion de projet (PMBOK), Agile
+Sécurité des TI :
+Connaissance globale de la sécurité d'infrastructure, Processus de gestion de la sécurité, Gestion des accès, Systèmes et méthodologie de contrôle d'accès, Logiciels de sécurité, Internet Protocol (IP), Chiffrage, Infrastructure à clé publique, Cryptographie, Réseaux privés virtuels (VPN)
+Compétences non techniques :
+Autonome, Mobilisateur, Analytique, Résolution de problèmes, Aptitude à l'écoute, Gestion des conflits, Négociation, Capacité d'abstraction, Vision d'ensemble, Attitude constructive, Apprentissage rapide, Souci du détail, Esprit innovateur
+
+
+FORMATION
+2014
+Maîtrise en génie logiciel
+Université75-1
+2008
+DESS, Diplôme d'Études Supérieures Spécialisées de 2[e] cycle en Technologie de l'Information
+Université75-1
+CERTIFICATIONS ET PERFECTIONNEMENT
+2016
+CISM (Canditat)  -  Certified Information Security Manager 
+2016
+ITIL v3 Foundation  -  2011  -  Information Technology Infrastructure Library
+2015
+PMP  -  Project Management Professional
+2005
+MCP  -  Windows Professional, Servers & Network Infrastructure 2003
+
+
+2016
+Formation CobIT 5 à venir en septembre 2016
+2015
+Formation Ms Project 2013
+2015
+Formations continues en Gestion de personnel (2009 à 2015)
+2010
+Formation Ms Project 2007
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+PUBLICATIONS
+Depuis 2014
+Blogue
+Articles portant sur la gestion de projet, le leadership, la gouvernance TI ainsi que la sécurité et la conformité
+LeCIOvirtuel.com
+
+ASSOCIATIONS PROFESSIONNELLES ET BÉNÉVOLAT
+Depuis 2013
+Membre au Conseil d'Administration du CFER, Mgr-A.-M.-Parent
+2009-2010
+Président au Conseil d'Administration et membre du Club Informatique Longueuil
+                          EXPÉRIENCE PROFESSIONNELLE
+ENTREPRISE75-1
+ENTREPRISE75-2  -  Ministère de la Justice - DRC	Chargé de projet sécurité
+Mandat - Conformité PCI-DSS	2016  -  Actuel
+
+Permettre le passage de l'attestation de conformité PCI-DSS 2.0 à 3.1 pour les serveurs offrant les services de paiement par carte de crédit pour certains services publics, dont le RDPRM et autres, pour le département de la Direction des registres et de la certification. Garantir le passage vers les nouveaux contrôles demandés et minimiser les impacts d'entreprise.
+   Prendre connaissance, analysé et comprendre l'environnement technologique du client. 
+   Identifié et structuré les conditions de conformité à être validées pour le rehaussement de conformité.
+   Organisé et animé les ateliers nécessaires avec les départements impliqués pour valider les conditions à combler.
+   Audité et documenté l'état des nouvelles conditions à respecter.
+   Soulevé les non-conformités et suggéré un plan d'action afin de corriger les situations par des demandes de changements et des modifications aux procédures.
+   Planifié l'activité de << Scan >> avec l'entreprise accréditée et les intervenants impliqués à l'interne.
+   Complété le formulaire << Selt Assessment Qestionnaire >> pour l'obtention de l'attestation de conformité.
+ENTREPRISE75-2  -  Ministère de la Justice - DRC	Chargé de projet sécurité
+Mandat - Gestion des profils, gestion des identités et des accès	2016  -  Actuel
+
+Offrir un diagnostic de la situation quant à la gestion des profils utilisateurs, les accès accordés et à la gestion des profils d'accès, offrir les recommandations nécessaires ainsi que de structurer un plan de redressement afin de permettre à la Direction des registres et de la certification (DRC), d'améliorer le contexte présent. 
+   Produis un diagnostic de l'état de la situation sur la gestion des profils affaires et TI en rapport aux demandes d'accès des usagers.
+   Évalué la qualité des processus de la gestion des profils et de la gestion des accès aux utilisateurs.
+   Gagné l'intérêt de réviser à la baisse le nombre de profils utilisateur.
+   Révisé et précisé et renforcé les principes, les orientations, les contrôles et les lignes directrices que doit comporter la gestion des identités et des accès via ces profils utilisateurs.
+   Expliqué et vulgarisé les principes directeurs.
+   Évalué la qualité des formulaires des demandes d'accès.
+   Apporté des recommandations pour l'amélioration de la gestion des profils, des accès, des formulaires des demandes.
+   Apporté un arrimage entre les demandes d'accès produites par la << Business >> et l'octroi des accès par le groupe TI.
+   Apporté davantage de contrôle sur la gestion et l'octroi des accès aux actifs informationnels.
+   Apporté des contrôles par des procédures portant sur les principes directeurs en sécurité pour la gestion des identifiants.
+   Introduis des notions de valeur ajoutée avec les procédures d'octroi des accès envers les nouveaux utilisateurs par la diffusion d'information pertinente quant aux accès obtenus.
+   Offert un plan d'action et de redressement de certaine situation pour l'atteinte des objectifs des recommandations émises.
+   Présenté aux exécutifs et gestionnaires l'analyse, les recommandations et le plan d'action
+ENTREPRISE75-1 - Multiples Clients (15)	Directeur de comptes
+Gestion du support aux services techniques clients	2013  -  2015
+
+Géré la prestation de services TI, les priorités, les contrats, le budget et le développement des affaires jusqu'au-delà de +24 % dans certains cas, sans perdre de clients / contrats, tout en améliorant les relations clients existantes.
+Envergure : $ 5 M, 2 ans, 14 clients, 25 vice-présidents, directeurs et gestionnaires d'équipe
+   Mis en place des suivis hebdomadaires sur les appels de service et regagné confiance et satisfaction du client
+   Solutionné des problèmes compliqués dans des environnements très complexes incluant Mainframe, Serveur AIX / Linux / Intel, SAN Switch, Virtualisation, SAP Hana, VMware et télécom par des interventions bien dirigées
+   Produit des statuts et suivi sur une base quotidienne avec la direction pour les crises majeures en clientèle
+   Évalué et balancer la charge de travail afin d'éviter des retards de livraison de service aux clients
+   Géré l'aspect humain, financier et matériel et minimiser les crises employées et clients
+   Géré les multiples crises et besoins clients, de l'usager aux exécutifs, par des plans de gestion de crise, rencontres, conférences téléphoniques, suivis et statuts et ainsi obtenu une amélioration de la satisfaction et appréciation des clients ainsi qu'une augmentation de la valeur des contrats
+   Analysé et orienté rapidement les crises technologiques vers les solutions techniques appropriées
+   Motivé et instauré la confiance  et avoir le << Buy-In >> des techniciens et coordonnateurs face aux changements afin de combler les besoins des clients
+   Créé un plan de bonnes pratiques de gestion des TI et minimisé les crises en clientèle et grandi la confiance
+   Élaboré des suggestions techniques pour répondre aux difficultés rencontrées des clients
+   Coordonné les interactions avec près de 10 départements internes pour la bonne gestion des services clients
+   Géré les prévisions budgétaires à venir en fonction des revenus et dépenses et augmenté les affaires par de nouveaux contrats en clientèle
+   Analysé les requêtes client et demander des appels d'offres de service adaptés, ODS
+   Vulgarisé et adapté des clauses de nouveau contrat client et conclure les ententes
+   Obtenu la signature des contrats en coordonné les activités des unités d'affaires internes dans les délais
+   Coordonné les activités de plusieurs départements et obtenus la création de contrats à la satisfaction des clients
+   Prodigué du << Coaching >> aux employés, développé leur intérêt / potentiel et augmenté leur productivité
+   Évalué avec objectivité la performance et effectué les rétroactions en conséquence
+Entreprise75-3	Chargé de projet
+Livraison des infrastructures TI	2012  -  2013
+Envergure : $ 3 M, 4 PM, 15 gestionnaires d'équipe, architectes et administrateurs système. 
+Livré +-1500 serveurs AIX/UNIX aux configurations personnalisés 
+Techno : AIX, Virtualisation, Lpar, Thin & Thick Provisioning, SQL, Oracle, HA, Cluster, SSH, Middle Ware, WebSphere...
+Négocié les priorités de livraison avec le client et établi des schémas de priorité
+Organisé, planifié et tenu les meetings afin de réduire les risques technologiques et les délais de livrables
+Planifié et coordonné les activités et installations locales et externes des serveurs destinés aux clients permettant une meilleure efficacité de production entre Montréal et l'Inde et minimiser les délais de livraison
+Tenu des meetings avec tous les intervenants nécessaires (client, gestionnaires, administrateur système et autre)
+Coordonné les activités des multiples départements impliqués pour la livraison des serveurs au client
+Analysé les impacts possibles avec les intervenants et l'équipe de gestion des changements (CAB) (ITIL)
+Produire et assuré les inscriptions des serveurs à la CMDB. (fichier centraux des configurations) (ITIL)
+Produire les demandes de changements nécessaires aux implantations des systèmes devant être livrés (ITIL)
+Motivé et instauré la confiance des chefs d'équipe et administrateurs face aux changements afin de compléter et livrer les installations serveur dans les délais en ayant obtenu leur << Buy-In >>
+Créé et mis en place des suivis de livraison des installations serveurs aux clients ayant permis d'obtenir un contrôle de toutes activités à réaliser de la part des administrateurs de système
+Produit des tableaux de bord pour présenter les statuts hebdomadaires d'avancement à la direction 
+Géré, négocié et équilibré la charge de travail des équipes de livraison de différent département permettant d'assurer la livraison dans les délais prévus
+Assuré la satisfaction des services à 100 % des livraisons serveurs par des suivis très serrés
+Documenté les processus d'activités et obtenu un guide performant aux administrateurs systèmes
+Mis en place une communication fluide entre le client et les équipes de livraison des instances serveurs et obtenu une accélération de la cadence de livraison
+Prodigué du << Coaching >> aux employés, développé leur intérêt / potentiel et augmenté leur productivité
+Entreprise75-4	Chargé de projet 
+Validation de la Sécurité et de la Conformité sur la prestation des services TI	2011  -  2012
+Envergure:	$ 3 M, 1 an, 5 conseillers en sécurité, 50 gestionnaires et administrateurs système
+Livrer la conformité interne des serveurs de la transition des infrastructures TI de ENTREPRISE75-2 à ENTREPRISE75-1 et livré +-420 points de contrôles de sécurité et de gouvernance TI portant sur la prestation de service TI.
+Identifié tous les intervenants, planifié et organisé leur charge de travail et pour livrer dans les délais
+Rencontré tous les gestionnaires de départements impliqués et gagné leur implication << Buy-In >>
+Tenu des meetings avec tous les intervenants nécessaires (client, gestionnaires, conseillers sécurité et autre)
+Négocié les priorités de livraison des éléments de conformité avec les multiples départements impliqués
+Défini les tâches, rôles et responsabilités des intervenants des multiples équipes de livraison pour la production des évidences de contrôle de conformité à remettre et augmenter la rapidité du travail à effectuer
+Vulgarisé et validé les objectifs de contrôle de gouvernance et de sécurité TI (CobIT, ITIL, ISO 27002, PCI-DSS, Bâle) et obtenu une bonne compréhension de la part des intervenants pouvant livrer les évidences
+Autorisé et revalidé les accès systèmes des employés sous ma gouverne
+Évalué et balancer la charge de travail afin d'accélérer la livraison des éléments de conformité 
+Motivé et instauré la confiance des conseillers en sécurité face à la charge de travail et aux nombreuses requêtes à compléter dans les délais prévus
+Obtenu rapidement les procédures et copies des processus d'affaire de la gestion des identités GIA, des logs de sécurité, des architectures, etc... afin d'être conforme aux processus de gouvernance, de sécurité et de conformité CobIT, ITIL, ISO 27002, PCI-DSS et Bâle 
+Mis en place des tableaux de bord pour les suivis et avancements des évidences de conformité
+Communiqué le suivi sur l'avancement de la part des équipes de livraison à la satisfaction du client
+Produit les suivis, tendances et KPI aux gestionnaires exécutifs
+Géré l'assurance qualité (QA) sur la production d'évidences et obtenu l'approbation par l'officier de sécurité du client sur toutes les fiches de conformité en adéquation aux principes de sécurité attendus
+Géré et coordonné les activités de contrôle de conformité TI du parc de +-500 serveurs lors de la transition d'impartition de ENTREPRISE75-2 à ENTREPRISE75-1 et obtenu la conformité interne de l'état << as-is >> lors des activités de transition des infrastructures TI du parc de serveurs incluant Mainframe et HP NonStop.
+Entreprise75-3	Directeur du service de conformité TI
+Implantation du processus de Conformité des infrastructures TI client	2009  -  2011
+ Restructuré l'implantation (échoué antérieurement) du nouveau service de conformité interne pour les installations et les retraits des instances serveur des 75 PM et des équipes de livraison multidisciplinaires. 
+Envergure :	Redressement de projet.
+     $ 5 M, 2 ans, 46 projets, 75 PM, 150 gestionnaires et admin système.
+Amélioration de 100 % de la qualité des livrables de conformité et adoption par + de 95 % du processus de conformité portant sur la gouvernance et la sécurité TI (CobIT, ITIL, ISO 27002, PCI-DSS, Bâle, etc)
+Redéfini et communiqué les tâches, rôles et responsabilités des intervenants (+-150 PM, Architectes, Techn.) leur permettant d'effectuer le travail à accomplir
+Tenu des meetings avec les gestionnaires de programmes, gestionnaires de projet et autres
+Prodigué les lignes directrices à suivre afin de capturer les éléments attendus des bonnes pratiques reconnues de la gouvernance et de la sécurité TI (CobIT, ITIL, ISO 27002, PCI-DSS, Bâle)
+Défini, clarifié et vulgarisé le processus de conformité aux gestionnaires de projet et leurs équipes 
+Publié et prodigué une gestion du changement afin de mobiliser, former et encadrer stratégiquement +-150 personnes et obtenu leur implication à l'exécution du processus de conformité
+Géré les communications des activités de conformité de 46 projets d'infrastructure TI en créant des outils logiciels de communication beaucoup plus performants
+Supporté, motivé et instauré la confiance des gestionnaires de projets face aux demandes du processus de conformité et à la charge de travail à compléter dans les délais prévus pour leurs projets
+Assuré la livraison de la conformité des installations des serveurs TI par la mise en place de suivis quotidiens
+Mis en place et fait connaitre le processus d'assurance qualité (QA) accepté et respecté de tous
+Produit et présenté au management les indices de performance clés (KPI) reliés aux activités de conformité
+Apporté une amélioration continue dans le service de conformité par des innovations et une meilleure qualité
+Externalisé le service de conformité et réduit les coûts d'opération de plus de 50 %
+Géré et supervisé quotidiennement et avec succès la mise en place d'une équipe de travail de 6 personnes délocalisées en Inde et assuré le maintien du service de conformité
+Prodigué l'encadrement nécessaire et le << Coaching >>, développé l'intérêt / potentiel des intervenants et amélioré leur rendement
+Entreprise75-5	Conseiller sénior  sécurité TI
+Gestion & Impartition du parc de serveurs Windows	2008  -  2009 
+Envergure :	$ 200K, 1 an, 4 chefs d'équipes et administrateurs système
+Récupéré la gestion des opérations de +50 serveurs Windows et Procédé à l'externalisation du service en Inde
+Capturé, documenté, renforcé les processus ITIL et sécurité TI et le savoir-faire de la gestion des opérations serveurs rendant la gestion des activités d'entreprise plus stable et plus performante
+Documenté le savoir-faire du déploiement des serveurs virtualités et de leurs configurations
+Orienté et formé le personnel délocalisé et obtenu une bonne gestion des opérations dans un temps record
+Entreprise75-9	 Conseiller sénior sécurité TI
+Administrateur de systèmes sécurité en mode projet	2007  -  2008
+ À 80% en mode projet, voir à sécuriser les environnements des serveurs Windows et à 20% en mode opération, voir à solutionner tous problèmes de sécurité des administrateurs systèmes. De plus, organiser et structurer les opérations et projet à venir 
+ 
+Premier projet : Sécurisé une ferme de 34 serveurs VMware Windows Citrix pour les applications de Géolocalisation SIG
+Garanti les opérations de sécurité nécessaires afin d'être conforme aux normes de sécurité provenant des règles de Gouvernance TI et des bonnes pratiques ITIL
+Participé à la réorganisation et validation de la gestion des 23K comptes usager (Gouvernance Gestion des identités et des accès GIA/ IAM et leur évolution) et documenté les procédures.
+Conseillé, conçu et structuré la mise en place de modèles de sécurité ISO 27002 pour des environnements Windows (serveurs et applications) via les référentiels
+Estimé les coûts et efforts de mise en place de projets et d'exploitation annuelle et augmenté la documentation
+Organisé, planifié et coordonné des travaux d'implantation avec plusieurs équipes de travail avec succès
+Implanté et automatisé des processus d'utilisation ou de connexions, transferts cryptés (certificats, clés asymétriques et autre) sur les serveurs Web, entre plateformes Windows et UNIX
+Développé les outils nécessaires à l'exploitation de la sécurité (GPO, VBScript, PowerShell et JavaScript).
+Hors projet, répondre aux demandes quotidiennes (gestion des accès, soutien, etc.) dans les environnements Win2000, Win2003, UNIX, Citrix, VMware, SQL Server, Active Directory, GPO.
+Entreprise75-6 
+Entreprise75-6	 Administrateur de systèmes sécurité sénior
+Administrateur de systèmes sécurité sénior	2006  -  2007
+Administré les systèmes et octroyé le support technique de 3e niv. pour un environnement de 170 serveurs, 350 routeurs Cisco et 1200 utilisateurs
+   Administré les systèmes et octroyé le support technique de 3[e] niv. (170 serveurs et 1200 utilisateurs)
+   Administrer la sécurité informatique aux normes PCI-DSS : Mot de passe, logs, antivirus, pare-feu, << access-list >> de router Cisco et autres...
+   Déploiement des images sur router Cisco des stations-service et optimisation des scripts
+   Migré et mis en production d'un serveur d'antivirus pour 1500 postes de travail et serveurs
+   Géré, créé et archivé les boites de courriel Microsoft Exchange et les comptes usagés avec Active Directory ADS, VPN et Cisco Network Access Manager
+   Créé les entrée DHCP; zone DNS; utilisateurs spéciaux; groupes; application des droits NTFS; audit des logs d'<< Active Directory >> ADS; gestion des liens Internet ADSL
+   Documenter les procédures et le savoir-faire pour des fonctions critiques.
+  Entreprise75-7
+ENTREPRISE75-7	 Gestionnaire de projets
+Gestion des requêtes TI et assainissement de son budget	2006  -  2007
+ Géré, autorisé et coordonné les demandes informatiques IMAC (Install, Move, Add and Change) et la pérennité des 900 usagés et de leurs équipements d'une unité d'affaire complète.
+Géré, autorisé et coordonné les demandes informatiques IMAC - Pérennité des 900 équipements et usagés
+Défini des profils d'usagés en fonctions de leurs besoins avec les gestionnaires de département
+Audité la qualité des services TI rendus et recommandé des améliorations en rapport aux besoins exprimés
+Augmenté l'efficacité des tâches à accomplir par les utilisateurs et contrôlé les coûts départementaux
+Contrôlé et réduit les coûts par une saine gestion de la demande et de meilleures décisions d'affaires
+Trouvé des alternatives moins coûteuses ou plus efficientes face aux besoins des utilisateurs
+Revu la réingénierie des processus de gestion IMAC - Amélioration Continue.
+ENTREPRISE75-8
+Filiale Entreprise75-9	Administrateur de systèmes
+Responsable TI de l'Usine	2002  -  2004
+Défini et mis en place et exploité la stratégie de déploiement des postes de travail avec Remote Installation Service (RIS) ainsi d'une standardisation des applications et amélioré la qualité des installations et le temps de livraison de 400 %
+Défini et mis en place le processus d'accueil informatique des nouveaux employés de l'usine
+Établi et implanté une convention de nom d'utilisateurs, d'ordinateurs, d'imprimantes ainsi que créé et maintenu une base de données pour la gestion du parc informatique.
+Géré les services TI de toutes demandes informatiques des 250 usagers de l'usine 
+Défini et mis en place le processus d'accueil informatique des nouveaux employés de l'usine
+Géré les serveurs CISCO, Windows, RIS et WSUS pour les mises à jour des postes de travail 
+Collaboré à l'implantation des installations sans fil (point d'accès, téléphone VOIP) avec Bell
+Réorganisé les utilisateurs, ordinateurs, groupes et politiques GPO dans Active Directory Service (ADS) et optimisé les << login script >> des diverses plateformes.
+Administré le serveur antivirus et resserrer la sécurité du service VPN et les << Policies >> de ADS.
+Amélioré les services DHCP et DNS et optimisé le trafic réseau pour le protocole TCP/IP.
+Administré et maintenu les systèmes Switch Cisco
+Administré les boîtes de courriel sur Microsoft Exchange 2000
+Entreprise75-5 Aéronautique
+Entreprise75-5	Technicien & Administrateur de system
+Support Technique et Déploiement des postes de travail	2000  -  2002
+   Participé au déploiement des postes de travail Windows 2000 avec l'outil de Computer Associate (CA)
+   Supervisé des équipes de techniciens et garanti la cadence de migration des +-3000 postes de travail
+   Assurer une configuration de plus de 100 usagers sur un lien << WAN >>, (Montréal -vs- Kansas).
+   Administré le déploiement à distance de logiciels pour 2000-3000 postes clients.
+   Produit les procédures d'installation de logiciel et optimiser certains processus.
+   Géré les accès usagers dans les systèmes réseaux (Windows  -  Novell).
+   Donné le soutien aux utilisateurs.

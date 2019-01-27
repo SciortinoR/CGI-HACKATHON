@@ -1,0 +1,102 @@
+CURRICULUM VITÆ
+Prénom76 Nom76
+
+COMPÉTENCES
+Systèmes :
+Windows, Linux DEBIAN, SUN Solaris
+Langages :
+Java, J2EE, JSP, SERVLET, PHP, ASP.NET, XHTML, HTML, XML, XSLT, CSS, Javascript, Jquery, Flash, C, C++, Visual Basic, Androïd, J2ME, powerPC
+Base de données :
+Oracle, MySQL, SQL Server, PostgreSql
+ETL :
+Talend
+Logiciels :
+JIRA, Mantis, Control-M, Business Object, Toad, MS Project, Eclipse, Visual Studio, Dreamweaver
+Méthodes :
+UML
+FORMATION
+2010
+Master 2 ISE, Informatique des Systèmes Embarqués
+Université76-1
+2009
+Master 1 IMA, Informatique des Métiers et des Applications 
+Université76-1
+2008
+Licence informatique et Mathématique
+Université76-1
+PERFECTIONNEMENT
+2011
+Hibernate (3 jours)
+Business Intelligence (1 jour)
+Formation Introduction au Java J2EE Avancée (3 mois) : Cobol , Struts, Spring, Hibernate, EJB, Webservice
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+
+
+                          EXPÉRIENCE PROFESSIONNELLE
+Entreprise76-1
+Direction Générale des Finances Publiques, 	Ingénieur d'études et de développements
+Noisiel, France	Février 2014 à février 2015
+Projet : DGFiP (RIALTO) en régie
+Mission : Prestation d'assistance à maitrise d'œuvre, conception et développement autour du système de déclaration des impôts RIALTO
+Faire l'analyse;
+Maintenance corrective;
+Maintenance évolutive et chiffrage (<20 J);
+Participer au développement;
+Revue de codes;
+Préparer les mises en production;
+Résolution des incidents de production.
+Environnement :	java 1.6, Oracle 11g, xslt, javascript, xml, Unix, SVN 
+Entreprise76-2 	Ingénieur d'études et de développements
+Professionnelle des Adultes, Montreuil, France	Novembre 2013 à janvier 2014
+Projet : TMA Entreprise76-2
+Mission : Prestation d'assistance à maitrise d'œuvre, conception et développement autour du système d'échange de l'Entreprise76-2
+Rédaction des documentations techniques et de guides d'utilisateurs; 
+Faire l'analyse;
+Écrire dossiers fonctionnels / clarifier exigences et spécification logicielles;
+Création et maintenance évolutive de jobs Talend;
+Participer au développement;
+Revue de codes;
+Préparer les mises en production.
+Environnement :	Talend, PostgreSql, MySql, Unix, Mantis
+ENTREPRISE76-3 PARIBAS CARDIF, Nanterre, France 	Ingénieur d'études et de développements
+	Avril 2011 à octobre 2013
+Projet : TMA Comptabilité
+Mission : Maintenance corrective et évolutive sur des applications du périmètre Comptabilité  
+Faire l'analyse;
+Maintenance corrective;
+Maintenance évolutive et chiffrage (<20 J);
+Participer au développement;
+Revue de codes;
+Supporter les utilisateurs;
+Activité de suivi de production; 
+Gestion des plans de production;
+Résolution des incidents de production complexes;
+Gestion des situations de crise (Coordination des acteurs production et études dans le cadre des incidents de production);
+Participation aux astreintes mensuelles, annuelles et opérations exceptionnelles;
+Passage de connaissances pour le plan d'externalisation à Madrid.
+Environnement :	java, Oracle, Pl/Sql, Unix, Control-M, Jira, J2EE, Websphere, Tomcat, portlets, Spring, JDBC + JDO, Eclipse, RAD7, Maven, Citrix, TOAD, SQL Developper, Hibernate, Struts, Lotus
+Entreprise76-4 (éditeur de logiciel médical)
+Gretz-Armainvilliers, France	Ingénieur d'étude 
+	Mars à septembre 2010 (stage)
+Responsable de la conception et du développement d'un outil de traçabilité et de demande d'acte radiologique dans le domaine médical :
+rédaction des livrables;
+conception;
+optimisation du modèle de données;
+recette et validation;
+intervention lors du déploiement.
+Environnement :	Java, JSP, SWING, servlet, MySQL
+Entreprise76-5
+Antony, France	 Ingénieur d'étude migration de données 
+	Mars à août 2009 (stage)
+Responsable de la refonte du tableau de bord financier de la direction pour les migrer de VB/SQL Serveur vers ASP.NET, SQL serveur 2005, XML/XSL;
+Validation étape par étape de la satisfaction des utilisateurs (Directeur, comptable, secrétaire, collaborateurs);
+Accompagnement aux changements.
+Environnement :	SQL Serveur 2005, Asp.net, XML/XSL, VB
+Entreprise76-6
+Rueil-Malmaison, France 	Développeur WEB 
+	Avril à août 2008 (stage)
+Participation à la création de sites E-commerce;
+Service web;
+Intégration de code, développement de modules en PHP, base de données MySQL.
+Environnement :	HTML, Css/Xml, PHP, MySQL

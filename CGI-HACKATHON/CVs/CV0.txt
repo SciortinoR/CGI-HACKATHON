@@ -1,0 +1,97 @@
+﻿
+ROBERTO SCIORTINO
+LinkedIn: https://www.linkedin.com/in/roberto-sciortino/
+ GitHub: https://github.com/SciortinoR
+
+SUMMARY OF SKILLS AND QUALIFICATIONS
+Operating Systems ? Windows 10  iOS Android 
+Applications ? Eclipse  Visual Studio  Maple 17  AxIDE  PSpice MS Word  Excel  PowerPoint Access
+Programming?	 C++ MC68K ASM  PYTHON MATLAB  JAVA HTML 
+Languages ? English – Spoke & Written  French – Spoken & Written  Italian - Spoken
+Licenses & Certifications? Valid Driving Permit  Workplace Hazardous Materials Information System (W.H.M.I.S.)
+
+EDUCATION
+Bachelor of Engineering – Computer Engineering Co-op	  2017-2021 (Expected)
+Concordia University, Montreal QC	
+* Member of the Institute for Co-operative Education
+* GPA : 3.75/4.30
+* Relevant Courses: Data Structures & Algorithms, Computer Organization	, Programming Methodology	
+
+Bachelor of Science – Microbiology & Immunology 	2013 – 2016 
+McGill University, Montreal QC 
+* GPA : 3.63/4.00
+
+D.E.C. in Health Science	2011 – 2013 
+Marianopolis College, Montreal QC
+* Dean’s List & Honorable Mention	
+
+WORK EXPERIENCE 
+Environmental Analyst I								Apr. 2017 – Aug. 2017
+Maxxam Analytics, Montreal QC
+* Performed analyses on soil, water and air samples.
+* Prepared complex samples for legal analysis.
+* Ensured quality control for all reported data.
+
+Valet Attendant	                                                      	Jul. 2015 – Apr. 2017
+Le Saint Martin Hotel Particulier, Montreal QC
+* Registered guest vehicles and managed parking arrangement.
+* Parked and retrieved guest vehicles when needed.
+* Provided luggage service, restaurant recommendations/reservations and 
+directions of the Montreal downtown area.
+
+Bellman/Concierge	                                                    	Jun. 2013 – Sep. 2014
+Hilton Garden Inn Hotel, Montreal QC
+* Provided luggage service, restaurant recommendations/reservations and general
+Information, directions and attractions of the Montreal Downtown area.
+* Registered guest vehicles and managed parking arrangements.
+
+
+Security/Secretary	                                           	       May. 2012 – Aug. 2012  
+Hilton Garden Inn Residential Complex, Montreal QC
+* Collected and stored rent from tenants of the Hilton apartments.
+* Organized and managed tenant parking arrangements.	
+	
+PROJECTS 
+Arduino Teensy Mini-Car (Personal)	May 2018 - Present
+Concordia University, Montreal, QC
+* Constructing/Developing a mini-car where it will be tasked with solving
+a maze using the shortest path possible.
+* Group with four other colleagues, personally tasked with coding the
+algorithms used to solve the maze and access sensor data.
+
+CGI Hackathon                                                                                                                                                          May 2018
+CGI Group Inc., Montreal QC
+* Placed second in award ceremony
+* Personally tasked with coding/developing a python algorithm for a resume/CV parser. 
+* Collection of 200 resumes parsed according to hardskill and softskill keywords, 
+providing user customization to add weight to certain keywords for selection.
+
+AWARDS & DISTINCTIONS
+Golden Glove Award	Apr. 2009 – Oct. 2009
+Ligue de Soccer Élite du Québec
+* Awarded the Best Goalkeeper (soccer) award for the U-16M AAA Season.	
+
+PROFESSIONAL ASSOCIATIONS
+Member of SCS Concordia		Feb. 2018 – Present
+Software Engineering & Computer Science Society, Montreal QC
+* Organized and took part in various programming challenges and events.
+
+VOLUNTEER WORK
+Volunteer Patient Attendant/Liaison	Jul. 2011 – Aug. 2012
+Montreal General Hospital, Montreal QC
+* Distributed food and water to patients.
+* Organized small activities and provided patients with moral support. 	
+
+INTERESTS
+Machine/Deep Learning
+* Learning/Reading various methods on how to program Neural Networks.	
+
+Soccer	
+* Won the Gold Medal at the Canadian Championships in Saskatchewan, CA 
+with the Quebec Provincial Soccer Team.
+* Won the Coupe du Québec U-17/18M AAAA and went to Nationals in Newfoundland CA.	
+* Won the Silver Medal at the Jeux du Québec in Amos, QC.
+
+
+
+

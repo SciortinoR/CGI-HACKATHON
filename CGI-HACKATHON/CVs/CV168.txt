@@ -1,0 +1,484 @@
+CURRICULUM VITÆ
+Architecte d'entreprise
+PROFIL DE CARRIÈRE
+Il est un architecte d'entreprise d'expérience bilingue possédant une grande expérience en architecture d'entreprise et en accompagnement stratégique (niveau exécutif), notamment en sélection de PGI (ERP), en transformation digitale, en commerce électronique (Omni-channel) et en mise en place de Centre d'expertise en processus/systèmes financiers/comptables. 
+Tout au long de sa carrière, il a assumé le rôle d'architecte d'entreprise, où il a été appelé à définir des feuilles de route (<< roadmap >>), des stratégies, des modèles de processus et des méthodologies dans plusieurs secteurs (bancaire, manufacturier, commerce du détail, pharmaceutique, distribution, marketing). Dans la réalisation de ses projets stratégiques, il a su accompagner les dirigeants d'entreprise dans l'identification, la planification et la présentation d'architectures et de plans stratégiques par l'utilisation des meilleures pratiques au niveau d'architecture (ex. : << TOGAF >> et << COBA >>). 
+Lors de ses mandats de définition de feuille de route et sélection de progiciel (principalement les modules financiers et comptables) pour Uniprix, la Ville de Sherbrooke, Biena et Musée Pointe à Calière, il a capturé les besoins d'affaires et évalué des fournisseurs, en plus de présenter les plans stratégiques aux différents comités directeurs et/ou exécutifs. Pour Desjardins, il a défini et mis en place la stratégie et l'architecture d'entreprise des fondations SOA et Oracle EBS (modules financiers) en utilisant une approche en centres d'excellence. 
+Pour l'Université de Sherbrooke, il a défini l'architecture d'entreprise et défini une approche stratégique pour la conception d'un PGI (ERP) personnalisé pour l'institution, avec comme éléments centraux les modules financiers. À la Banque Laurentienne, il a piloté la définition, l'architecture et mise en place du plus important programme TI de la banque. Un programme de conformité financière regroupant onze projets (FATCA, Bâle II). 
+
+Il est spécialisé en conception et optimisation de processus d'affaires, certifié << BB-LLS / Black Belt  -  Lean Six Sigma >>, en gestion de projet, certifié << PMP  -  Project Management Professional >>, en développement de système certifié, << CSM  -  Certified Scrum Master >>. Il a également d'excellentes connaissances de la conception en infonuagique, et est détenteur d'une certification << CloudU Certificate >>.
+Il se distingue par sa vision globale et son excellente compréhension des enjeux d'affaires. Il sait établir des communications étroites avec les parties prenantes et assurer un suivi pertinent auprès des gestionnaires de tous les niveaux. Doté d'excellentes capacités d'analyse et d'un grand sens des responsabilités, il met un point d'honneur à garantir la qualité de ses interventions. Enfin, il est bilingue et fait preuve d'excellentes qualités rédactionnelles dans les deux langues officielles.
+
+DOMAINES DE SPÉCIALISATION
+Architecture d'entreprise;
+Définition de feuille de route (<< roadmap >>), stratégie TI et sélection de fournisseurs;
+Développement de solution d'affaire utilisant les technologies d'intelligence d'affaires, d'intégration et de sites Web/Mobile transactionnels; 
+Gestion de projet, conception de portefeuille de projets, méthodologie de développement (agile et en cascade), mise en œuvre de centres d'excellences, gestion de la performance et gouvernance des TIC.
+CONNAISSANCES TECHNIQUES
+Matériel :
+IBM 3090, UNIX, Windows
+Logiciels :
+Ariba, Apache Link, Business Object, Cognos, Eclipse, ER/Studio, Oracle, IMS/DC, Informix, Ingres, J2EE, Jasper, JD Edwards, JIRA, MVS, Nodejs, PeopleSoft, Progress, PowerDesigner, REST, SAP, Sencha, Siebel, SOAP, SNA, Unix, Visual Paradigm, Windows
+Bases de données :
+DB2, Oracle
+Modélisation de données :
+Bachman, Chen, Classes UML, Data Vault, Inmon, Kimball, Merise, ORM modeling
+Méthodologies :
+Agile (SCRUM et DSDM), Activity Based Costing, Business Intelligence, Express (Deloitte), Fastrack (Deloitte), Lean Six Sigma, Productivité PlusMC - P+ (DMR), RUP, TransformMC (SHL Systemhouse), Balanced ScoreCard, UML, ValueSAP
+Langages :
+ASP, C, C++, C#, Cobol, CSS, HTML, Java, JQuery, JavaScript, Perl, Python, Shell, SQL, Visual Basic, XML
+AUTRES COMPÉTENCES
+  Conception et optimisation de processus d'affaires, détenteur d'une certification << BB-LLS / Black Belt  -  Lean Six Sigma >>;
+  Gestion de projet, détenteur d'une certification << PMP  -  Project Management Professional >>;
+  Développement agile, détenteur d'une certification << CSM  -  Certified Scrum Master >>;
+  Conception en infonuagique, détenteur d'une certification << CloudU Certificate >>.
+Dans la réalisation de ses projets de conseil stratégique, il a su accompagner les dirigeants d'entreprise dans l'identification et la planification de projets par l'utilisation des meilleures pratiques tant au niveau des processus d'affaires (<< CBM  -  Component Business Model >>), que de l'architecture de solution (comme << TOGAF  -  The Open Group Architecture Framework >>, << Zackman  >> et << SOA Reference Architecture >>) ou de l'exploitation des technologies (telles que << ITIL - Information Technology Infrastructure Library >> et << ASL  -  Application Services Library >>).
+FORMATION
+1977
+Baccalauréat en physique et mathématiques
+Collège Militaire Royal, St-Jean
+PERFECTIONNEMENT
+Real Time Programming
+General Automation
+The UNIX Operating System
+Pyramid
+Productivité Plus
+DMR
+Analyse Orientée-Objet
+DMR
+Middleware & Message Broker
+Viewlocity
+Architecture et UML
+Mynsoft
+Total Customer Satisfaction
+Standard Life
+Lean Six Sigma
+SkillSoft
+Project Management Professional  -  PMP
+ProTrain
+CloudU
+Rackspace
+System Approach to Structured Analysis
+Control Data
+Westmount/CASE UML
+Westmount
+SGBDR Ingres
+Matherna Task Force
+SGBDR Oracle
+Computertime
+PICK, the Relational Data Base
+KTS System
+Analysis Pattern
+Mynsoft
+Economic Literacy
+Université de Sherbrooke
+Balanced Scorecard
+CGI
+Scrum Master
+Pyxis
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+                          EXPÉRIENCE PROFESSIONNELLE
+Principaux employeurs :
+Alithya (Directeur service conseil), Banque Laurentienne (Architecte d'entreprise), Hydro-Québec (Architecte d'entreprise), CGI (Conseiller de direction), Standard Life (Directeur de l'architecture), Deloitte (Directeur service conseil), EDS (Conseiller de direction), SHL Systemhouse (Conseiller principal), DMR (Conseiller), Ingres (Conseiller), Mouvement Desjardins (Chargé de projet).
+Principaux clients, en tant que consultant : 
+Services financiers
+Assurance Vie Desjardins
+Banque Laurentienne
+Banque Nationale du Canada
+Caisse de dépôt du Québec
+Investissement PSP
+John Deere Financial Services
+Mouvement Desjardins
+Standard Life
+Gouvernement
+École de recrue de St-Jean  -  Forces armées canadiennes
+Garnison St-Hubert  -  Forces armées canadiennes
+Garnison Valcartier  -  Forces armées canadiennes
+Ministère de la Justice
+Ville de Montréal 
+Ville de Sherbrooke
+Commerce de détail
+Ames Department Stores
+Future Electronics
+STS
+Uniprix
+Services
+Canadien National
+CGI
+Chambre des notaires du Québec
+Fidelisoft
+Frist-Starber
+Kaiser Permate
+Régie du logement
+SOQUIJ
+Services publics
+Agence de Santé et des Services Sociaux de Montréal
+Hôpital Santa Cabrini
+Hydro-Québec 
+SigmaSanté
+STCUM 
+Sureté du Québec
+Universités
+Université de Montréal
+Université de Sherbrooke
+Manufacturier
+Abitibi Consolidate
+Aliment Ultima (Yoplait)
+Bombardier
+Ciment Lafarge
+Domtar
+Groupe Labrie
+GSK Pharmaceutical
+Iron Ore du Canada
+ISPAT
+Pfitzer
+Ratiopharm
+Sanofi
+Stone Consolidate
+Communication
+Bell Canada
+Global-Mail
+Maskatel
+Telsus
+TVA
+Videotron
+Alithya-Info-Agile
+Architecte d`entreprise
+Depuis juin 2015
+Uniprix, Stratégie CRM (6 mois)
+Piloter la définition d'une stratégie << omni-canal >> basé sur l'utilisation d'un gestionnaire de la relation client (<< CRM - Customer Relationship Management >>).
+Définir une approche d'intégration et une architecture préliminaire pour la sélection et l'intégration d'un système financier (ERP).
+Arrimer la nouvelle stratégie du canal de (omnichannel) commerce électronique et définir l'approche stratégique en vue de l'intégration avec les différents systèmes financiers de l'organisation. 
+Recensé les besoins et les bénéfices d'affaires pour diverses fonctions d'affaires de l'entreprise.
+Développer une feuille de route (3 ans) du déploiement des fonctions CRM.
+Élaborer la stratégie d'acquisition et les critères de sélection.
+Environnement :	Mike 2.0 et CORA
+Bell Canada, Gestion de projet Web/Mobile
+Piloter un projet de développement d'une application Web/Mobile de gestion de sécurité.
+Réaliser la gestion quotidienne du projet à l'aide d'une approche << Agile/Scrum >>;
+Estimer les efforts de développement et définir la stratégie d'implantation (2 ans).
+Collaborer à l'élaborer l'architecture de l'infrastructure de sécurité et de la gestion des identifiants et des accès.
+Environnement :	Agile/Scrum, Checkpoint, OpenStack, Oracle NSO, HP UCA, Oracle Sieble, .Net presentation.
+Alithya
+Architecte d`entreprise
+Février 2013 à juin 2015
+Agir à titre de spécialiste en architecture au sein d'une petite équipe spécialisé en conseil stratégique auprès de la haute direction de grandes entreprises;
+Capturer les besoins d'affaires, documenter les situations actuelles, élaborer des feuilles de route (<< roadmap >>), identifier les stratégies et définir le portefeuille de projets;
+Définir les processus d'affaires;  
+Concevoir les principes directeurs, identifier les rôles et responsabilités et le modèle de performance.
+Ville de Sherbrooke, Sélection d'un PGI - Finance
+Guider la Ville de Sherbrooke dans la sélection d'un progiciel de gestion intégré (PGI) (<< ERP  -  Enterprise Resource Planning >>).
+Définition de l'approche stratégique pour l'intégration des modules de base (Grand Livre, Comptes Payables, Comptes à recevoir, Inventaire, etc.).
+Recenser les besoins d'affaires et techniques. 
+Définir le modèle de données conceptuel de la solution.
+Élaborer la stratégie d'acquisition et les critères de sélection.
+Environnement :	Mike 2.0, CORA et Chen(ERD)
+Chambre des Notaires, Optimisation de la stratégie CRM
+Diriger la revue et l'optimisation de la performance du modèle de gestion projets.
+Rédiger un plan d'amélioration des processus de gestion de projet.
+Défini le modèle de gouvernance des projets de livraison.
+Identifier des indicateurs de performance.
+Environnement :	PMI et COBIT
+Biena, Sélection d'un PGI - Finance
+Accompagner la direction de l'entreprise dans la réalisation d'une analyse préliminaire visant à identifier la meilleure solution en tant que complément à leur suite financière, notamment remplacer complètement la partie comptable (Grand Livre, Comptes Payables, Comptes à recevoir, Inventaire, etc.).
+Identifier les alternatives et recommander une feuille de route (3 ans).
+Recommander une stratégie d'acquisition et une liste de fournisseurs.
+Évaluer les fournisseurs.
+Environnement :	Mike 2.0 et CORA
+SOQUIJ, Performance du PMO
+Piloter une analyse de la performance du bureau de projets et la livraison de solutions d'affaires.
+Développer un plan d'action (2 ans) pour améliorer cette performance.
+Déterminer les modifications au modèle de gouvernance du bureau de projet ainsi que de la méthodologie de livraison de solution.
+Élaborer les politiques, rédiger les normes et standards.
+Développer la mission, les rôles et responsabilités du comité de gouvernance.
+Mis en place des indicateurs de performance.
+Environnement :	PMI et COBIT
+Desjardins, Mise œuvre d'un centre d'excellence SOA
+Livrer le cadre de gestion de la fondation SOA en utilisant une approche en centres d'excellence en livraison de solutions applicatives, en méthodologie de développement et en gouvernance, dans le but de supporter le développement de la nouvelle génération d'application (Web/Mobile). 
+Élaborer le cadre de gestion du nouveau centre qui inclut les principes directeurs, la définition des processus, les rôles et responsabilités, la structure d'évaluation de la performance.
+Développer un programme de formation SOA dans le contexte technologique de Desjardins. Les livrables du mandat portent sur l'élaboration de la stratégie de formation, l'architecture du programme et la conception du contenu.
+Environnement :	Mike 2.0, ASL et ITIL, Tibco, Oracle, Java, Centrale
+Investissements PSP	Programme d'intégration et accueil
+Élaborer un programme d'accueil et d'intégration pour ses nouveaux consultants et employés en technologie de l'information.
+Élaborer les politiques, rédiger les normes et standards.
+Environnement :	Microsoft, Biztalk, SQL Server, C#
+Musée Pointe à Calière, Dossier d'affaires
+Accompagner la direction du Musée d'archéologie et d'histoire de Montréal dans la définition d'un dossier d'affaires pour la mise en œuvre d'un catalogue numérique.
+Organiser et coordonner des ateliers de travail.
+Développer un modèle conceptuel du catalogue numérique du musée.
+Proposer une structure organisationnelle de gouvernance.
+Environnement :	PMI et COBIT
+Chambre des communes  -  Ottawa, Stratégie de développement mobile
+Déterminer la stratégie de développement, l'approche d'intégration, la stratégie de gestion des données de test et le modèle de coordination du projet permettant de mettre en ligne l'ensemble des données ouvertes (Open Data) de la chambre des communes pour les appareils mobiles.
+Environnement :	Mike 2.0 et CORA
+Ville de Sherbrooke, Architecture d'entreprise
+Développer l'architecture d'entreprise, l'objectif était de clarifier la mission et le rôle du portefeuille applicatif qui tient compte des opportunités de l'infonuagique.
+Proposer une structure organisationnelle de gouvernance.
+Élaborer la feuille de route (3-5 ans) de l'architecture cible centré sur la mise en service d'une plateforme de collaboration pour cette importante municipalité.
+Environnement :	TOGAF et CORA
+Université de Sherbrooke, Architecte d'entreprise - PGI
+Diriger les phases d'architecture conceptuelle, d'architecture détaillée d'un système de gestion de Dossier étudiant supportant les appareils mobiles ainsi que le Web.
+Définir l'architecture d'entreprise et les fonctions d'affaires pour le développement complètement d'un PGI (ERP) global, notamment l'ensemble des modules financiers habituels (Grand Livre, Comptes Payables, Comptes à recevoir, Inventaire, etc.).
+Définir l'architecture cible.
+Présenter l'architecture d'entreprise au comité de direction.
+Sélectionner les outils de développement et de tests, définitr a méthodologie de développement. 
+Superviser la qualité, l'alignement et l'intégrité des livrables de deux équipes de développement, l'équipe TI de l'université et l'équipe d'un fournisseur externe en mode forfaitaire.
+Environnement :	Agile et ORM, Sencha, Nodejs, Appache Link, JPA, Java, mySQL, JIRA, Confluence
+Desjardins  -  Architecte d'entreprise - Centre d'expertise Oracle/ERP, Mise œuvre d'un centre d'expertise Oracle/ERP
+Raffiner le plan de mise en œuvre et produire le modèle opérationnel détaillé du nouveau centre d'expertise.
+Définir l'architecture d'entreprise des différentes lignes d'affaires et secteurs d'affaires.
+Définir l'architecture cible et concrétiser la mise en œuvre du Centre d'expertise.
+Présenter les statuts d'avancement. 
+Exécuter un plan de mise en œuvre d'un centre d'expertise ERP (Oracle eBusiness Suite).
+Guider la gestion du changement par la définition d'un plan de transformation composé d'une analyse du contexte, la conception de la situation cible, l'analyse des écarts, l'organisation de la mise en œuvre.
+Environnement :	Mike 2.0, ASL et ITIL, Oracle eBusiness Suite
+Desjardins  -  Architecte d'entreprise - Centre d'expertise Oracle/ERP, Stratégie et gouvernance Oracle/ERP
+Définir l'approche stratégique pour la création du Centre d'Expertise.
+Présenter la stratégie et l'architecture à haut niveau aux comités de direction.
+Piloter l'élaboration d'un plan de mise en œuvre d'un centre d'expertise ERP (Oracle eBusiness Suite).
+Élaborer la feuille de route (3-5 ans) d'évolution de la solution ERP, conception conception de portefeuille de projets, méthodologie de développement mise en œuvre de centres d'excellences en TIC.
+Déterminer la cible du cadre de gestion du nouveau centre d'expertise à partir d'une évaluation de la situation actuelle, un balisage des meilleures pratiques, une analyse des impacts et la définition d'un plan de mise en œuvre
+Environnement :	Mike 2.0, ASL et ITIL, Oracle eBusiness Suite
+Agence de Santé et des Services Sociaux de Montréal, Gouvernance TI
+Déterminer un modèle de gouvernance TI dans un contexte politique complexe ou le modèle d'imputabilité et la structure organisationnelle est en redéfinition.
+Réviser les processus de gouvernance TI de l'agence.
+Élaborer les principes directeurs, la définition des rôles et responsabilités, les modalités de gestion, le modèle de performance et un plan de mise en œuvre du nouveau modèle.
+Environnement :	PMI et COBIT
+Desjardins  -  Centre d'expertise SOA/BPMS, Stratégie et processus SOA
+Élaborer la feuille de route (2-3 ans) d'un centre d'expertise SOA (Service Oriented Architecture) dans le but de supporter le développement de la nouvelle génération d'application (Web/Mobile).
+Déterminer le cadre de gestion du nouveau centre qui inclut les principes directeurs, la définition des processus, les rôles et responsabilités, la structure d'évaluation de la performance.
+Environnement :	Mike 2.0, ASL et ITIL, Tibco, Oracle, Java, Centrale
+Sûreté du Québec  -  Architecte d'entreprise - Sélection d'un module d'un PGI - Finance
+Définir l'architecture cible pour toute la partie finance.
+Revoir la stratégie d'harmonisation des solutions.
+Revoir la stratégie d'affaires et par la suite, TI.
+Participer à la sélection d'un module budget pour compléter l'offre de la solution de base SAGIR.
+Réaliser une analyse préliminaire visant à identifier la meilleure solution en tant que complément du module budget du logiciel d'entreprise Oracle eBusiness Suite.
+Recenser les besoins techniques de l'entreprise, pour les fonctions de la planification budgétaire et de la saisie des budgets.
+Défini le modèle de données et les interfaces entre les systèmes.
+Développer un appel d'offres dans le but de sélectionner une firme qui pourra fournir ce module et soutenir la Sûreté du Québec dans la mise en œuvre.
+Environnement :	Mike 2.0, CORA et Chen(ERD), Oracle eBusiness Suite
+Uniprix - Architecte d'entreprise
+Superviser, via une approche de transformation alliant du coaching personnalisé et des ateliers de travail, la mise en place d'une pratique d'architecture d'entreprise.
+Élaborer les principes directeurs d'architecture et la définition d'une feuille de route (2-3 ans) et le portefeuille de projets. 
+Réorganiser la structure applicative pour faciliter le remplacement de systèmes désuets.
+Environnement :	TOGAF, CORA et Chen(ERD), Progress, Microsoft, Biztalk, SQL Server, C#
+Banque Laurentienne
+Architecte d`entreprise
+Avril 2011 à janvier 2013
+Architecte d'entreprise 
+Agir à titre de spécialiste en architecture d'application au sein d'un groupe d'architectes d'entreprise.
+Récolter les informations provenant des lignes d'affaires, documenter les situations actuelles, élaborer des cibles d'architecture, identifier les stratégies de déploiement et définir le portefeuille de projets.
+Piloter la sélection de l'intégrateur responsable de la mise en œuvre de ce portefeuille de projets 
+Définir les processus de gouvernance, 
+Concevoir les principes directeurs, identifier les rôles et responsabilités et le modèle de performance.
+Environnement :	TOGAF
+Démarrage d'un très important programme de conformité financière
+Mettre en place le plus important programme TI de l'histoire de la banque. Le programme regroupe onze projets, dont deux projets d'optimisation de processus et neuf projets de conformité règlementaire (FATCA, Bâle II).
+Environnement :	FATCA, Bâle II, MQSeries, Oracle, Java, Centrale
+Portefeuille de projets Cloud
+Encadrer le processus de sélection d'un portefeuille de solutions << Cloud >> : MS Exchange in the Cloud, VDI  -  Virtual Desktop Infrastructure, Site Web bancaire (Central 1), ServiceNow (outils ITIL), WebFiling (préparation d'état financier), MS Enterprise Portfolio Management.
+Environnement :	ITIL, MS Exchange, Virtual Desktop Infrastructure, Central 1, ServiceNow, WebFiling, MS Enterprise Portfolio Management
+Processus d'affaires (BPM)
+Coordonner la définition de l'architecture cible d'une solution d'origination (<< Client on-boarding >>) et d'adhésion à la carte de crédit.
+Environnement :	Lean  -  BPMS, Pega System, IBM WebSphere
+MDM-CDI opérationnel
+Diriger la réalisation du plan d'évolution du FIC  -  Fichier Information Client (<< CIF  -  Customer Information File >>) de la banque.
+Environnement :	DB2, IBM WebSphere, Java, Centrale, SAP  -  Data Quality Manager
+Revitalisation du site Web/Mobile transactionnel
+Piloter un projet de refonte du site Web et Mobile transactionnel de la banque.
+Réaliser à l'aide d'une approche d'architecture en mode << Agile/Lean >> la revue de l'architecture technologique.
+Identifier les standards de développement et définir la stratégie d'implantation.
+Élaborer l'architecture de l'infrastructure de sécurité et de la gestion des identifiants et des accès.
+Environnement :	Agile, Websphere Portal, Websphere Application Server, Websphere Enterprise Server Bus, MQ-Series, Tivoli Access Manager, SiteMider, Big-IP F5 Network, Tivoli Identity Manager (TIM/TAM)
+Hydro Québec
+
+Janvier 2010 à avril 2011
+Architecte d'entreprise 
+Guider la direction de l'entreprise dans l'élaboration d'objectifs stratégiques et la définition d'une feuille de route dans le but de résoudre des problématiques complexes en intelligence d'affaires.
+Environnement :	TOGAF, multiple, SAP, Microsoft DotNet, Java, Web Service, SOA 
+Plan directeur et portefeuille de projets 
+Préparer la mise à jour annuelle du plan directeur de la Direction Principale des Technologies de l'Information (DPTI) d'Hydro-Québec. Le plan directeur incluait la définition du portefeuille de projets 2010-2015 (vision de 5 ans).
+Environnement :	TOGAF et PMI
+Stratégie d'intelligence d'affaires
+Produire une étude coûts-bénéfices qui avait pour objectif la justification d'un programme en intelligence d'affaires pour l'ensemble des divisions et groupes d'Hydro-Québec.
+Environnement :	Kinball
+Préparation d'appel de propositions BI
+Développer un appel d'offres dans le but de sélectionner une firme qui pourra soutenir Hydro-Québec dans la mise en œuvre de son programme d'intelligence d'affaires.
+Environnement :	TOGAF et Mike 2.0
+CGI
+	
+Conseil stratégique	Janvier 2010 à avril 2011
+Conseiller de direction
+Élaborer et déployer des solutions et des systèmes d'information pour des clients stratégiques;
+Réaliser des études coûts-bénéfices et diriger des projets de conception et de développement de solutions informatiques agiles et financièrement viables visant à simplifier les opérations de ses clients.
+CN, Protoype en intelligence d'affaires
+Développer un prototype d'une solution d'intelligence d'affaires en temps réel.
+Diriger le développement des extractions de données (ETL).
+Environnement :	Agile, Kimball, Netezza  -  Spacial Entension, Business Object  -  Excelcius, Autodesk  -  MapGuide, Websphere, MQ-Series
+Vidéotron, Gouvernance de projet en intelligence d'affaires
+Réviser les processus d'architecture et de gouvernance des projets.
+Développer un plan de transformation adapté.
+Accompagner l'équipe dans la mise en œuvre de cette approche.
+Environnement :	Agile, Kinball
+Groupe CGI, Plan directeur SOA
+Diriger la réalisation du plan directeur pour cette entreprise de services en informatique. L'architecture cible a été définie par service (SOA  -  Service Oriented Architecture).
+Environnement :	TOGAF et PMI, Peoplesoft, Oracle, Cisco, AIX, HP-UX
+Ratiopharm, Plan directeur SAP - Finance
+Piloter, dans le cadre d'un exercice de planification stratégique, une équipe virtuelle qui a revu la définition de l'architecture d'entreprise.
+Déterminer le portefeuille de projets et identifier des économies de 3 M $ en deux ans. 
+Introduit l'organisation à l'utilisation des BVI (Business Value Indicator).
+Environnement :	TOGAF et PMI, SAP, BW, SQL Server, SharePoint
+Aliments Ultima (Yoplait), Plan directeur SAP - Finance
+Diriger la réalisation d'un plan directeur TI et la conception d'un portefeuille de projets pour cette importante entreprise du secteur agroalimentaire.
+Utiliser une approche favorisant le parallélisme qui a permis d'accélérer la production des biens livrables.
+Environnement :	TOGAF et PMI, SAP, BW, SQL Server
+Groupe TVA, Plan directeur SAP - Finance
+Développer un plan directeur pour tous les secteurs d'activité du Groupe TVA, le plus important télédiffuseur au Québec.
+Environnement :	TOGAF et PMI, SAP, HP-UX, SharePoint
+Banque Nationale du Canada, Analyse coûts-bénéfices SAP - RH
+Piloter une analyse coûts-bénéfices visant à justifier la mise en place d'une solution pour la fonction ressources humaines de la banque.
+Recensé les bénéfices d'affaires des diverses fonctions d'affaires de l'entreprise. 
+Évaluer les solutions retenues.
+Environnement :	TOGAF et PMI, DLGL, SAP et Peoplesoft
+Sanofi Aventis, Portefeuille de projets
+Produire un portefeuille de projets en intelligence d'affaires.
+Environnement :	TOGAF et PMI
+DRC, Plan de continuité des affaires
+Définir un plan de continuité des affaires.
+Groupe Labrie, Plan directeur
+Réaliser un plan stratégique pour la gestion du contenu.
+Pfizer, Centre d'expertise BI
+Mettre en œuvre un centre de compétences en intelligence d'affaires. 
+Environnement :	Agile, Inmon
+	
+Groupe d'impartition	Mars 2004 à janvier 2010
+Directeur de solution
+Diriger des équipes d'impartition internes.
+Valider les besoins des clients.
+Superviser les groupes d'experts (<<Subject Matter Expert>>) responsables de la conception de solutions.
+Réaliser des études préliminaires (<< business case >>).
+Présenter et justifier les dossiers d'impartition auprès de la haute direction de CGI. 
+La liste des projets et clients est confidentielle.
+Standard Life
+Directeur de l'architecture
+Août 2001 à février 2004
+Gérer un groupe de quinze (15) architectes responsables de toutes les décisions technologiques pour les projets informatiques de la compagnie d'assurances Standard Life au Canada.
+Environnement :	TOGAF 
+Plan directeur et portefeuille de projets
+Diriger l'équipe de projet responsable de produire un plan stratégique des TI pour les quatre (4) lignes d'affaires de la Standard Life (assurance collective, assurance individuelle, investissement collectif, investissement individuel).
+Environnement :	TOGAF et PMI 
+Entrepôt de données	
+Gérer le groupe responsable de l'implantation d'un entrepôt de donnée. Ce groupe a aussi démontré l'importance de mettre en place un centre de compétences en intelligence d'affaires. 
+Environnement :	Inmon, Data Junction, Crystal Report, Business Object, DB2
+Intégration d'applications d'entreprise (EAI)
+Diriger l'équipe d'architectes qui avait la responsabilité de définir l'infrastructure d'intégration d'applications d'entreprise (EAI).
+Environnement :	Agile/Lean, MQSeries, MQ SI, Java
+Autres projets :
+Revoir un système d'imagerie et de << workflow >> (IBM-AIX 4.3, Tower 18, Staffware 8.1, Oracle 8.1).
+Implanter un nouveau processus de développement d'applications (Lean Software Development).
+Implanter une infrastructure de sécurité LDAP (Novell eDirectory 8.7, DirXML 1.1).
+Convertir à MS-Exchange (Windows 2000, Active Directory, Exchange 2000). 
+Deloitte Counsulting
+Directeur
+Janvier 2000 à août 2001
+John Deer, Entrepôt de données
+Diriger l'équipe d'architecture technologique pour un projet d'entrepôt de données. 
+Superviser la conception du modèle de données physique, les analyses de capacités ainsi que la configuration des serveurs pour le complexe des entrepôts de données.
+Environnement :	Inmon, Oracle, Business Object
+Assurance-vie Desjardins-Laurentienne, Analyse de tendances
+Diriger une analyse des << Tendances et direction en informatique >>. 
+Globe and Mail, Sélection d'un intégrateur
+Rédiger un appel d'offres pour des services d'impartition.
+Kaiser Permanente, Architecture entrepôt de données SCM
+Réaliser un diagnostic TI de l'infrastructure d'un entrepôt de données d'approvisionnement. 
+Environnement :	Oracle, Business Object
+CN, Implantation d'un SCM
+Mettre en œuvre un système de gestion des approvisionnements (SCM). 
+Environnement :	Oracle, I2
+STS, Implantation d'un CRM
+Coordonner la mise en œuvre d'un système de gestion de la relation client (CRM).
+Environnement :	Siebel
+Ames Department Store, Optimisation entrepôt de données
+Optimiser un entrepôt de données (Oracle 7.1, Micro Strategy 4, Retek). 
+Environnement :	Inmon, Oracle 7.1, Micro Strategy 4, Retek
+SHL Systemhouse/EDS
+Conseiller principal  -  Conseiller de direction
+Août 1995 à janvier 2000
+Future Electronics, Architecture eCommerce
+Développer pour ce distributeur de composantes électroniques une architecture de commerce électronique couvrant tous les secteurs d'affaires. 
+Sûreté du Québec, Plan directeur
+Produire un plan directeur pour la fonction TI ainsi qu'un plan de gestion du portefeuille des projets TI. 
+Abitibi-Consolidated, Analyse préliminaire
+Piloter une analyse préliminaire visant à identifier la meilleure solution en tant que complément du module de ressources humaines du logiciel d'entreprise J.D. Edwards.
+Environnement :	J.D. Edwards
+Montréal International, Plan directeur
+Diriger la préparation du plan stratégique des TI pour Montréal International. 
+Organisation de l'Aviation Civile Internationale (OACI), Sélection d'un PGI - Finance
+Réaliser une sélection d'un logiciel ERP. 
+Abitibi-Consolidated, Plan directeur - Finance
+Produire l'architecture d'entreprise dans le cadre de la réalisation d'un plan directeur des TI au sein du domaine forestier et bois d'œuvre.
+Environnement :	J.D. Edwards
+ISPAT, Architecture SAP - Finance
+Définir l'architecture technologique pour un projet d'implantation d'un système de gestion d'entreprise SAP.
+Environnement :	SAP
+Régie du Logement, Plan directeur
+Définir l'architecture cible dans le cadre de la réalisation d'un plan directeur TI.
+Ciba-Geigy, Sélection d'un module PGI
+Réaliser la sélection d'un système de gestion manufacturière (Manufacturing Management System) incluant le gestionnaire de saisie de temps et le gestionnaire de performance. 
+Environnement :	JDA Systems
+Iron Ore du Canada, Plan directeur
+Produire un plan directeur TI incluant un réseau LAN/WAN, un entrepôt de données, 26 serveurs et le choix des divers outils de développement.
+Environnement :	Oracle
+Abitibi-Consolidated, Solution de logiciel d'intégration
+Mettre en œuvre une solution d'intégration d'application (EAI). 
+Environnement :	Viewlocity
+AXA Canada, Architecture technologique
+Revoir l'infrastructure bureautique. 
+Environnement :	Compaq, Windows, Microsoft Office
+FTQ, Sélection de logiciel
+Sélectionner un gestionnaire de base de données. 
+Environnement :	Sybase
+Hydro-Québec, Architecture de solution
+Revoir l'architecture d'un projet de Centrale d'alarme. 
+Environnement :	Windows, Solaris, Oracle
+Service de Protection des Incendies de Montréal, Analyse préliminaire
+Réaliser une étude préliminaire d'un projet de conversion OS/2 à Windows. 
+Environnement :	OS/2, Windows
+STCUM, Architecture SAP
+Optimiser l'architecture pour un projet SAP.
+Environnement :	Windows NT, SAP FI/CO
+Stone-Consolidated, Planification d'un PGI
+Développer un plan d'implantation du logiciel JD Edwards.
+Environnement :	JD Edwards, IBM/AIX, Oracle
+CGI
+Conseiller principal
+Avril 1994 à août 1995
+Hydro-Québec, Développement
+Définir, développer et déployer le Centre d'Appels Provincial (CAP).
+Environnement :	Central, Windows, C
+Ingres
+Conseiller principal 
+Janvier 1993 à mai 1994
+Aventure Électronique, Développement
+Démontrer la productivité de l'environnement de développement Ingres en réalisant un prototype fonctionnel).
+Environnement :	Ingres, Windows, ABF
+DMR
+Conseiller principal
+Janvier 1990 à janvier 1993
+Université de Montréal, Développement
+Sélectionner l'environnement de développement, définir et rédiger les standards de programmation. 
+Environnement :	Ingres, Windows, WindowsGL
+SIDOCI, Développement
+Gérer, pour le projet SIDOCIMC toutes les phases de sélection et de mise en place des serveurs de bases de données.
+Environnement :	Ingres, Windows, Unix, C
+Mouvement Desjardins
+Chargé de projet 
+Août 1987 à janvier 1990
+Diriger les phases d'analyse, de conception, de réalisation et d'implantation d'un système client-serveur pour la saisie de transactions monétaires chez les commerçants.
+Gérer plusieurs projets de télécommunication pour intégrer divers aspects du système de traitement de cartes de crédit du Mouvement Desjardins.
+General Automation/Genemation
+Responsable de livraison
+Août 1983 à avril 1987
+Superviser l'analyse des besoins, la définition d'architectures cibles et l'élaboration de plans de mise en service pour plusieurs projets d'automatisation en usine (Factory Information System).

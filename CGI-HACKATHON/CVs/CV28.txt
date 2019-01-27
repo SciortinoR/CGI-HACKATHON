@@ -1,0 +1,163 @@
+CURRICULUM VITÆ
+Conseiller
+PROFIL DE CARRIÈRE
+Il est un conseiller qui compte plus de dix-huit années d'expérience comme analyste et administrateur système et de réseaux. Au cours des postes qu'il a occupés pour des clients d'envergure, il a su faire preuve de ses compétences techniques, de sa grande polyvalence, de son esprit d'équipe, de son bon jugement et de sa capacité à établir les priorités. Il excelle dans les environnements technologiques hétérogènes et complexes.
+Il a une expérience des environnements financier, de la santé, minier et de l'alimentation. De plus, il a une expérience pertinente des environnements virtuels à haute disponibilité. Il se spécialise en gestion et mise en place de solutions d'infrastructure Microsoft et VMware ainsi qu'en consolidation de systèmes complexes.
+
+
+
+TYPES D'INTERVENTIONS
+Compétences spécialisées :
+Administration de NT, alimentation, analytique, électronique, exploration minière, gestion de produits informatiques, gouvernement, impartition, métallurgie, organismes à but non lucratif, santé et hospitalier, santé publique, services financiers
+Types d'interventions :
+Administrateur de systèmes, analyse de système, analyse technique, architecture client-serveur, architecture d'entreprise, architecture de réseaux, architecture de systèmes, architecture technique, connaissances générales d'Exchange 2003 (Titanium), conseiller technique principal, intégrateur de solution, intégration de systèmes, migration de serveurs, migration de systèmes d'envergure, migration et intégration de systèmes, SAN, systèmes experts
+Compétences non techniques :
+Autonome, capacité de bien travailler sous pression, esprit de synthèse, résolution de problèmes, analytique
+COMPÉTENCES
+Outils :
+VMware Server, Ghost Image, Group Policy Objects (GPO), Hyper-V, Lotus Notes, Tivoli Storage Manager, Active Directory Migration Tools (ADMT), E-Mail, Ethernet, LAN Manager, LAN Server, LAN/WAN, Microsoft Exchange, Microsoft Virtual PC, Microsoft Virtual Server 2005, Middleware, VMware PowerCLI, VMware Site Recovery Manager, VMware ThinApp 4, VMware View 4, VMware View 4.5, VMware View 5, VMware Workstation, vSphere 4, VSphere 5
+Systèmes d'exploitation :
+VMware ESX, Active Directory, DOS, Microsoft Windows 2000, NT, Microsoft Windows 3.x, WFW, 95, 98, ME, Microsoft Windows Server, Windows (toutes versions), Windows 2000, Windows 2003, Windows 2008 Server, Windows 7, Windows 95, Windows 98, Windows NT, Windows Server 2003, Windows Server 2008 R2, Windows Server 2008 R2 Core, Windows Vista, Windows XP, Windows Server 2012
+Ordinateurs :
+Compaq, compatibles PC, IBM iSeries, PS2, Serveurs Blades d'IBM, serveurs IBM, serveurs montés sur bâti, serveurs NT, serveurs Windows
+Matériel :
+Concentrateurs, IBM pSeries, passerelles, ponts, SAN Switch, serveurs IBM xSeries, Stockage Fiber Channel
+COMPÉTENCES (suite)
+Logiciels :
+DHCP, Microsoft Office 2000, Microsoft Office 2003, Microsoft Office 2007, Symantec Ghost, Symantec pcAnywhere, Veritas NetBackup 5.1MP3
+Technologies :
+VMware, Ethernet, RAID, serveur d'impression, TCP/IP, AD Group Policy Objects, architecture client-serveur, DNS, Ethernet commuté, Kerberos, Linux, Microsoft Active Directory, Microsoft Cluster, Microsoft Terminal Services, mise en grappe, protocole FTP, réseaux locaux virtuels (VLAN), réseau sans fil (802.X), Sockets TCP/IP, système de fichiers distribués (DFS), Telnet, VNC Viewer, vSphere 4
+FORMATION
+1997
+DEC en technologie de systèmes ordinés
+CEGEP
+1993
+DEC en technique de l'informatique
+CEGEP
+PERFECTIONNEMENT
+2015
+Microsoft Windows 2012 Server
+Microsoft Press
+2013
+VMWare Horizon View
+Global Knowledge
+2012
+Windows Server 2008 Enterprise Administrator
+Microsoft
+2011
+Configuring Windows Server 2008 Active Directory
+Microsoft
+2010
+Configuring Windows Server 2008 Network Infrastructure
+Microsoft
+2010
+Configuring Windows 7
+Microsoft
+2010
+Configuring Windows Server 2008 Applications Infrastructure
+Microsoft
+2005
+Cours de perfectionnement en anglais (conversation)
+Van Houtte
+2001
+Cours de base de Outlook 2000
+Multihexa - Laval
+2000
+Linux
+Université du Québec en Abitibi-Témiscamingue
+1999
+Introduction à Java
+Université du Québec en Abitibi-Témiscamingue
+1998
+Certification A+
+Comptia
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+CERTIFICATIONS
+A+ Hardware
+A+ Software
+MCTS : Configuration d'une infrastructure d'applications pour Windows Server 2008
+MCTS : Windows 7  -  Configuration
+                          EXPÉRIENCE PROFESSIONNELLE
+CGI
+Banque Laurentienne
+
+Administrateur système Windows et VMware ESX
+Août 2011 à septembre 2015 - 48 mois
+Il devait soutenir l'infrastructure serveur Windows (2003R2, 2008R2 et 2012R2), VMware VSphere et Horizon View (VDI) ainsi que les services qui s'y rattachent. Il s'est vu confier les responsabilités suivantes :
+    administrer la ferme de serveurs 2003, 2008R2 et 2012R2;
+    mettre à jour de l'infrastructure VMware ESXi 4.1 à 5.5;
+    migrer les serveurs virtuels de l'ancien SAN VNX 5700 au VNX 5800;
+    participer au projet de la mise en place de la solution VDI (VMware Horizon View 5.2);
+    Participer à la mise en place de serveur Windows 2012 R2 pour différents projets;
+    gérer l'infrastructure de postes virtualisés de la Banque Laurentienne avec VMware Horizon View 5.2;
+    gérer les différents services Windows Server 2008 R2 et 2012R2;
+    participer au projet de la mise en place de la solution de virtualisation VMware VSphere 4.1;
+    participer à la migration de l'Active Directory 2003 à 2008R2;
+    migrer le service de sécurité de messagerie (Symantec Messaging Gateway) de la version 9.0 à 10.5. Migration du serveur Symantec Messaging Gateway d'un serveur physique à virtuel;
+    contribuer à mettre en place un environnement de test pour le projet Convergence Voix qui a été utilisé par Telus. Préparation d'un infra d'accès à distance, avec VMware Horizon View 5.2, selon les standards de la production utilisé par la Banque afin que Telus puisse procéder aux tests;
+    dans le cadre du projet de mise à jour de serveur Windows 2003 à 2008, procéder à la prise en charge de la conversion de serveur physique à virtuel avec VMware Converter afin de fournir une copie des serveurs de l'infrastructure de production à un environnement de laboratoire pour reproduire pour le mieux l'environnement de production qui servira à la migration de ces derniers;
+    concevoir et mettre en place une solution Terminal server avec la fonctionnalité Remote Apps;
+    concevoir et mettre en place une solution d'accès distance avec VMware Horizon View pour permettre aux ressources en Inde (Cap Gemini) de se connecter à l'infrastructure de la Banque pour qu'ils puissent mettre en place une nouvelle application;
+    gérer le service Active Directory de Windows 2008 R2 et Windows 2012R2;
+    gérer les Groupe Policy Object(GPO) Windows 2008 R2 et Windows 2012R2;
+    gérer le service DFS Windows 2008;
+    gérer le service de Courriel Exchange 2003;
+    administrer la ferme de serveur VMware VSphere 5.5 et VMware Horizon View 5.2;
+    assurer le soutien continu (24/7) sur téléavertisseur;
+    effectuer le soutien de niveau 3.
+Environnement :	Windows Server 2003, 2008 R2, 2012R2, Active Directory, Groupe Policy Object(GPO), DFS, VMware ESXi (toutes les versions), Exchange 2003
+SYSCOR
+Agence de la santé de Montréal
+
+Administrateur de système Windows
+Août 2008 à mars 2011 - 31 mois
+En tant qu'administrateur de système Windows, Il devait installer, réparer et entretenir différents serveurs Windows 2003 et 2008. Il s'est vu confier les responsabilités suivantes :
+installer des serveurs VMware ESX 3.5;
+faire la gestion des serveurs VMware ESX 3.5;
+créer et configurer des serveurs 2003 et 2008 physiques et virtualisés avec VMware;
+faire la gestion des comptes d'utilisateur, de groupes et d'unités organisationnelles dans Active Directory;
+effectuer la migration de différents services d'un serveur 2003 à 2008 tels que DNS, DHCP, service de licence Terminal Server;
+mettre en place un système de déploiement Windows (WDS) et un serveur de licences KMS;
+participer à la gestion des copies de sécurité de l'entreprise avec TSM;
+effectuer la configuration de serveur Blade d'IBM;
+effectuer le soutien de niveau 3.
+Environnement :	Windows Server 2003, Windows Server 2008, VMware ESX 3.5, Active Directory, Groupe Policy Object (GPO), DHCP et DFS
+VAN HOUTTE
+
+Technicien Windows
+Septembre 2002 à avril 2008 - 67 mois
+Dans son rôle de technicien réseau Windows, il s'est vu confier les responsabilités suivantes :
+procéder à l'implantation des équipements de communication Cisco dans 26 succursales américaines afin de les relier en VPN à la maison mère de Montréal;
+effectuer la migration du serveur Netbackup 5 à la nouvelle version 6;
+effectuer la migration des serveurs Windows 2000 Standard, Advanced à Windows Server 2003 Standard et Entreprise Edition en prenant compte Active Directory;
+aider à la mise en place de la structure réseautique et des équipements Cisco PIX : routeurs de la série 8000 et commutateurs;
+installer des serveurs dans les cabinets ainsi que différents outils de communication;
+implanter les sites informatiques selon les standards de Van Houtte; 52 sites au Canada et 26 aux États-Unis;
+effectuer divers ajustements aux équipements de télécommunication pour une meilleure performance;
+installer différents équipements de communication réseau (routeurs et commutateurs Cisco);
+configurer le serveur de courriels WorldClient de l'entreprise et ajouter des comptes de courriel pour de nouveaux utilisateurs;
+installer différents serveurs Windows 2000 et 2003 (en centres de traitement ou autonomes);
+installer et réparer les différents équipements réseau et téléphoniques de l'entreprise;
+gérer des copies de sécurité de l'entreprise;
+créer les images Ghost pour l'installation des différents postes de bases utilisés. Ces images ont grandement aidé à donner une meilleure stabilité au parc informatique de Van Houtte;
+créer une documentation de la description de l'image Ghost qui reflète bien le poste type;
+améliorer le système d'impression centralisé sur le serveur d'impression pouvant être étendu à tous les utilisateurs et prévenant du même coup l'installation sur place par l'utilisateur de chaque imprimante;
+procéder à la rédaction de la documentation des imprimantes de l'entreprise qui se trouvent dans le parc informatique et les maintenir à jour;
+mettre à jour le système d'information des imprimantes (WebPrintAdmin de Hewlett Packard).
+Environnement :	Windows 2000 Professional, Windows XP, Windows Server 2000 et 2003, Symantec Ghost, imprimante HP, Active Directory, commutateurs Cisco série 8000, serveur de courrier WorldClient de MDaemon
+NORANDA INC.
+Soutien aux utilisateurs
+Technicien informatique
+Mars 2000 à avril 2002 - 25 mois
+En tant que technicien réseau Windows, il soutenait tous les utilisateurs du parc informatique de Noranda CCR. Il s'est vu confier les responsabilités suivantes :
+installer, réparer et entretenir différents équipements monopostes et réseautiques;
+brancher les nouveaux utilisateurs au réseau;
+installer les nouveaux ordinateurs à l'aide d'une image Ghost;
+maintenir une bonne gestion des rubans des copies de sécurité;
+réduire le délai de traitement des appels de service (de 2 jours à une demi-journée);
+créer une image (Ghost) de base pour améliorer le temps d'installation des nouveaux ordinateurs (3 heures à 1 heure);
+améliorer le système de classement de la banque d'information des copies de sécurité;
+mettre en marche sur le serveur d'impression Windows NT 4.0 de nouveaux pilotes d'imprimantes qui étaient problématiques.
+Environnement :	Windows 95 et 98, Windows NT 4.0, imprimante HP
+

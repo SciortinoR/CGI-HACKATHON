@@ -1,0 +1,93 @@
+RÉSUMÉ
+Prénom71 Nom71
+Web Developer
+CAREER PROFILE
+Web developer with experience working in all aspects of the software development lifecycle. Experience in every step from initial concept to deployment. I've worked on many successful projects involving teams of various sizes, using a variety of technologies and tools. I'm versatile, but specialise in UI and front-end development, with a strong eye for design, and a track record for delivery.
+
+
+FUNCTIONAL EXPERTISE
+Expertise:
+SPA Front-end Development
+Back-end Development
+Drafting Spec and Scope Docs
+Technical and API Documentation
+Server Configuration and Deployment
+Quality Assurance and Testing
+User Interface Design
+Graphic Design
+System and Network Administration
+Training and Support
+Virtualization Infrastructure
+Mockups and Interactive Prototyping
+VoIP and Telephony Infrastructure
+Print Design
+Audio and Video Editing
+SKILLS
+Technology Summary:
+JavaScript (ES5), Javascript (ES6), HTML 5, CSS3, Angular.js, Node.js, jQuery, Require.js, Bootstrap, Meteor.js, MongoDB, PHP, MySQL, IIS, Apache, Nginx, Java, Visual Basic, C#, SilverLight XAML, AWS EC2, AWS Elastic Beanstalk, AWS DynamoDB, AWS S3
+Development Software:
+Atlassian JIRA, FogCreek Fogbugz, GIT, CSV, SVN, JetBrains WebStorm, MS Visual Studio 2015, MS Expression Blend, Gulp, Bower, VMWare ESXi 4 to 5.5, VMWare Workstation, VMWare vSphere, VMWare Server, Android SDK, PhoneGap SDK, Tide SDK
+Operating Systems:
+Windows Server 2003, 2008, 2012, Windows XP, 7, 8, 10, OSX, Linux Ubuntu Server, Linux Ubuntu Desktop, Linux CentOS
+Design Software:
+Adobe Photoshop, Adobe Lightroom, Adobe Audition, Adobe Flash, Adobe Illustrator, Trimble Sketchup, Autodesk Fusion 360
+EDUCATION
+In progress
+CompSc. Computer Applications. (Incomplete: Ongoing part-time)
+Université71-1
+LANGUAGES
+English 
+                                WORK EXPERIENCE
+entreprise71-1
+Software company offering hotel and	Web Developer 
+guest management SaaS	Since June 2015
+In my time with Entreprise71-1, I've had the chance to work in a few different codebases using a variety of technologies. I'm always working closely with the product, design, and the back-end teams to deliver an experience which matches their vision.
+Guest application
+An application which allows guests to customize their experience when staying at a hotel. I'm currently the lead dev and release manager for this project. The codebase is written in Node.js, Angular.js, and is targeted first at mobile devices. My first task entering this codebase was a clean-up and simplification where possible. When I arrived there were two separate codebases handling different aspects of this application, which I've since merged into a single repository. The application is multi-tenant for about 100 hotels, pulling branding information from DynamoDB, and rendering a different experience for each customer based on what's available to them. I've touched every element of the code, and have implemented various features such as support for multiple modules to load at once based on the hotel's configuration, functionality allowing direct up-selling customers while within their stay using a simple cart system, complete i18n support, authentication, in-app messaging, and general polish of the interaction, look, and feel. I'm also handling dev ops for this application using AWS Elastic beanstalk, DynamoDB, S3, and Route53.
+Hotel application
+An application for hotels to manage their inventory and guests. I'm working as the lead front-end dev on this project, and using Require.js, jQuery, Bootstrap, and many other libraries and components to build the front-end. This application has a few ancestors, and so did not have a very consistent feel. I've converted the existing cshtml templates to be fully responsive using bootstrap, and have done a complete overhaul so as to make everything feel more like a single application. I've also implemented a completely new analytics dashboard, with several new UI elements to display data from the internal API.
+Entreprise71-2
+Software Company specialising in graphic	Web aDeveloper 
+layout tools	2006 to June 2015
+I had the chance to work on a variety of projects with Entreprise71-2, where I was responsible for designing polished front-ends and developing critical back-end services. In my work there I was involved in every element of the development process -- from conception to coding, through prototyping, testing, deployment, training and support.
+HTML5 Graphic Layout tool
+My last project with Entreprise71-2 was the conversion of their installed software into an online version, with backwards compatibility for the legacy project format. I was using the newest features offered by CSS3, HTML5 and SVG within Meteor.JS to accomplish this in a short timeframe. This project presented many interesting challenges, including: On the fly swapping of image resources to use the best alternate resolution based on relative size of image to canvas. Manually positioning hundreds of frames with the same result as the installed tool, within a coordinate space based on inches. Custom alpha mattes, with real drop shadows. Basic blending modes for images. A custom text-layout engine using absolute positioning of words in SVG. Additionally, I implemented many custom UI elements to match those found in the installed tool.
+Image Upload Service
+Generic service accepting upload of user images, and generation of several alternate resolutions with automatic cancellation based on MD5 for files which are already stored. Provides interface for checking information about previously uploaded files. Implements clean urls for in-line retrieval of any resolution, from thumb-res to original. If a requested resolution isn't available, the closest available is automatically selected and returned. Uses 301 redirects to files stored in s3 in order to bring server load to a minimum.
+Online Image Gallery
+Entirely custom online file management tool for collaborative management of massive collections of photos. Features include trickle down parent-child user access, full operating system style file management (Folders, Drag, Drop, Delete, Rename) with zero lag interactions thanks to heavy preprocessing, caching, and hash-based pings to check before pulling a directory by AJAX. Allows generation on the fly of encrypted short-codes and qr-codes for permission-restricted online sharing of individual folders for login-free file uploading. Written using jQuery, jQuery UI, Javascript, and PHP. Using Image Upload service for storage of image data.
+Book Management
+Online tool for design and layout of books. Extensive feature set spanning 2 years of development. Features include collaborative editing, assignment of users to sections, status tracking, and in browser layout editing. Created a file-system-like front-end mapped to a custom RESTful file storage system, and provided a polished user interface for the entire project. In addition to front-end work, I created an extensive set of well abstracted web services and internal client-side libraries allowing easy use within other projects, and to facilitate communication between them. Worked with multiple teams to ensure compatibility with existing services.
+Online Album Viewer
+Highly polished hardware accelerated HTML5 layout viewer, with back-end built on Amazon EC2, S3, MySQL and PHP. The service allowed easy distribution of rendered media on a variety of devices, without having to install any additional apps. Animations use latest CSS3 for fluid complex 3D transformations and transitions on all devices. Service was built for scalability and performance, by pre-rendering and caching static versions of all data in S3.
+Short-code and QR services
+Custom short-code service for programmatic generation of short-codes and QR-Codes. Supported frame wrapping, redirection, or basic data key storage. Currently tracking over 350,000 shortcodes. Written in PHP, MySQL.
+Virtualization Strategy
+Researched and Implemented multiple servers using ESXi virtualization, currently in charge of more than 20 server instances used for all aspects of the company infrastructure from testing to builds.
+Backup systems
+Drafted company backup policies, implemented backup storage server and software for various environments.
+Telephony Systems
+Implemented in-house phone system using Asterisk, complete with multi-agent calling queues and automated attendants.
+Graphic Design
+Responsible for entire graphical face of the company, including logo design, interface styling, skinning, and a large majority of media required for marketing.
+Entreprise71-3 
+Software company specialising in hosted e-commerce solutions	Silverlight UI Designer 
+	2010 to 2013 (Part-time)
+Lead UI designer for online customization and layout tool integrated into a custom ecommerce solution. Working primarily in XAML using Microsoft Expression Blend and Visual Studio.
+Online Customization Tool
+Designed complete look of layout environment using XAML to program UI interactions and behaviors. Developed several novel interface elements allowing access to a deep set of tools within a limited amount of space.
+Highly custom client capability detection routine
+Implemented a scriptable browser detection routine, allowing extremely precise custom messages and instructions to be displayed for various browsers, localizations, versions, configurations, and versions of SilverLight. Worked with back-end development team in India for integration into the existing ecommerce solution.
+Entreprise71-4
+Web design and development services	Freelance Web Designer and Developer 
+	2000-2006
+I made my living for several years by way of freelance design and development contracts under the company name Entreprise71-4.
+Design and Development
+The design services I offered included Flash animation, Logo Design, Graphic Design, Print Design, Website Design, and custom Web Development using PHP, MySQL, HTML, and JavaScript. I also created a simple content management system, which I used to quickly deploy new customer websites.
+Business Management
+During this time, just as I was learning a great deal about web development, I learned how to manage every aspect of a small design and development shop. This included time tracking, invoicing, providing accurate estimates, design reviews and maintaining client relationships. During this time, I also maintained hosting services for many of my clients.
+Entreprise71-5
+Web design and hosting services	Web Designer and Server Administrator 
+	2000-2002
+Website Design
+Primary role was in website design using Photoshop, and conversion of those designs into functional websites using HTML. The majority were designed for small businesses, with some basic client-side and server-side scripting for additional functionality. I was also tasked with maintaining the server hosting these sites.

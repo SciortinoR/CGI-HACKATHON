@@ -1,0 +1,113 @@
+Tel: téléphone77
+
+Prénom77 Nom77
+address77
+Email: Nom77_Prénom778@hotmail.com
+
+Summary of Qualifications:
+A highly self-motivated experienced level 3 technical support specialist with expertise and
+accomplishments in the following areas:
+
+
+
+
+
+
+
+
+
+System upgrade and customization in large data production environment
+Trouble shooting and diagnostics in various software and hardware systems
+Excellent knowledge in database and SQL queries (i.e. SQL Server, PostgreSQL)
+Excellent Java, Visual C++, Visual Basic language knowledge
+Strong technical ability to work seamlessly with developer to debug and fix problem
+Extremely strong problem resolving skills and excellent responsibility to customers
+Proactive and positive communication and working attitude
+Team player with independent Entreprise77-10 and great passion in work
+
+Education and Training
+Training in Java SE 7 Programming Ed 2
+Bachelor Degree in Computer Science (Information Systems) in Université77-1, Montreal,
+Quebec (June 2003)
+
+Working Experience:
+Mar. 2014 – Present
+Entreprise77-8
+
+Level 3 Specialist in
+
+Provided level 3 support to the Europe, US and Singapore teams for tier 1 customers, such
+as Entreprise77-1, Entreprise77-2, Entreprise77-3, Entreprise77-4, Entreprise77-5,
+Entreprise77-6 and ENTREPRISE77-7 on a range of online payment, 3D secure and fraud
+& risk management services; Monitored and maintained stability and availability of all the
+services in multiple production data centers; Performed seamless failovers between Live
+and DR systems on production environments; Helped achieving higher transaction
+acceptance rate by analysing historical data trend; Deployed and managed development
+packages and versions on payment and risk services; Established and maintained a close
+liaison with customer (i.e. Entreprise77-2) and partner (i.e. China Union Pay) with
+technical and language (Mandarin) skills; Developed internal tools to resolve technical
+recurring problems (e.g. SSIS package creation, SQL optimization scripts).
+Working environment: SQL Server 2008, IIS Server Management, Windows, Mac.
+Feb. 2012 – Mar. 2014
+Entreprise77-9
+
+Application / Implementation Specialist in
+
+Implemented new customers in Leave Management System (LMS) and managed the
+migration of customers from competitor systems to LMS; Tested and supported
+deployments and installations; Assisted with training; Worked very closely with database
+administrator using SQL queries to accomplish our customers’ requests; Undertook process
+development and improvements to support such implementations on an ongoing basis;
+Identified opportunities for continuous improvement according to customer feedback.
+1
+
+Working environment: Linux, Windows, Java, PostgreSQL.
+
+Dec.2007 – Oct.2011
+
+Technical Lead (Analyst previously)
+in ENTREPRISE77-10 (Entreprise77-11)
+
+Provided technical guidance to software deployment team to ensure the highest level of
+support to the customers; Deployed all kinds of software packages to customer working
+environment; Developed database application for various devices upgrade projects;
+Supported the software and hardware installations, upgrades, troubleshooting and
+maintenance via remote control desktop or phone.
+Working environment: SCCM, Citrix, WBSD, Tandem/PrimeCode, AS400, Visual Basic,
+SQL Server 2008, HP Service Desk on varieties of servers such as Windows, Unix/Linux.
+March 2007 – July 2007
+
+Return Merchandise Authority
+in ENTREPRISE77-12 (Vancouver)
+
+Tested and troubleshoot computer hardware by using various diagnostics tools; Dealt with
+customers returning products and handling return replacement repair of some hardware of
+defectives.
+March 2004 – April 2006
+
+Project Manager Assistant/Co-ordinator
+Entreprise77-13 (China)
+
+Worked on many new building projects in China. In particular, two Handymax Bulk
+carriers at NACKS / China, one capesize Bulk Carrier at SWS / China, two Super
+Handymax Bulk carriers (Diamond 53) at NCS / China and one Panamax Bulk Carrier in
+Jiangnan / China. Participated the China Marintec Exhibition 2005 in Shanghai, helping the
+Purchasing Director to find proper supplier sources.
+Oct.2003 – Mar.2004
+
+IT Consultant
+Entreprise77-14
+
+Developed and maintained the web sites www.quebecchinese.com, www.CJX International
+INC.com and company LAN systems. Developed the online assessment tools to facilitate
+the candidates’ self-evaluation.
+
+Language
+English, Chinese, French
+
+Personal Interest
+Sports (basketball, snooker, ski, etc.), Cooking and Travelling
+
+2
+
+

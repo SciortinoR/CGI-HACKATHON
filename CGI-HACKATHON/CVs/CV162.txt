@@ -1,0 +1,219 @@
+
+
+CURRICULUM VITÆConseiller
+PROFIL DE CARRIÈRE
+Il est un développeur chevronné qui compte plus de 25 années d'expérience dans le domaine du développement logiciel. Il a participé à toutes les étapes du cycle logiciel : l'architecture, la conception, le développement, l'intégration, les essais et les corrections d'anomalies.
+Au cours de toutes ces années, il a acquis de solides compétences sur les plateformes UNIX, Windows, Android et dans le développement Web. Les différents emplois qu'il a exercés lui ont permis de mener à terme de nombreux projets dans les secteurs de l'ingénierie, des services informatiques, du domaine médical ainsi que du commerce de détail.
+Il a toujours été reconnu et apprécié pour la qualité de son travail. Son autonomie, son professionnalisme, sa créativité et sa persévérance lui ont permis de relever plusieurs défis et de toujours mener à terme les projets auxquels il a été assigné.
+
+
+
+TYPES D'INTERVENTIONS
+Méthodologies :
+Agile, Design Patterns, MVC (Model View Controller), Orienté objet, Test-Driven Development, UML
+COMPÉTENCES
+Outils de développement :
+Borland Delphi, Microsoft Visual C++ (Visual Studio), Microsoft Visual SourceSafe, Microsoft Visual Studio, Microsoft Visual Studio .NET, Microsoft Visual Studio 6, MVC, Rational ClearCase, Subversion (SVN), Visual Studio 2005 Team Foundation Server, Visual Studio 2010, GIT, Microsoft SQL Server Management Studio, Microsoft Team Foundation Server (TFS), Node.JS, Visual Studio .NET 2005 (.NET Framework  2.0)
+Langages de programmation :
+ASP .NET, ASP .Net MVC, SQL, UML, Visual Basic .NET, Visual C#, Visual C++, XML
+Systèmes d'exploitation :
+Android, DOS, Windows NT, Windows VISTA, Windows XP
+Ordinateurs :
+Serveurs Windows
+Bases de données :
+Modélisation de données, Microsoft SQL Server, MySQL, Oracle, SQL Server 2005, Sql Server 2012, Procédures stockées SQL, Microsoft Access
+Technologies :
+Architecture logicielle, Threads, Unity (Injection de dépendances), VMware, WCF Windows communication foundation, Web Service, WPF Windows Presentation Foundation .NET
+Environnement intégré de développement :
+HTML, JavaScript, Visual Studio 2013, Visual Studio 2015
+FORMATION
+1987
+Baccalauréat en technologie électrique
+École de technologie supérieure, Montréal, Québec, Canada
+1984
+DEC en électronique
+Cégep du Vieux Montréal, Montréal, Québec, Canada
+CONNAISSANCES LINGUISTIQUES
+Français et Anglais.
+
+                          EXPÉRIENCE PROFESSIONNELLE
+CGI
+Ministère de l'Immigration et de la Diversité
+Développement d'une solution de paiement
+Développeur logiciel
+Octobre 2017 à Février 2018 - 4 mois
+Ce mandat consiste à intégrer une solution de paiement existante dans un nouvel environnement. Dans ce contexte, Il doit réaliser les activités suivantes:
+*    porter une solution d'un environnement .NET 4.5 à un environnement Azure PAAS .NET Core 2.0;
+*    modifier les interfaces existantes et/ou développer de nouvelles interfaces pour répondre aux nouveaux besoins d'affaires;
+*    corriger des anomalies.
+Environnement : C#, Visual Studio 2017, Azure PAAS, .Net Core 2.0, WCF, SOAP, XML, JavaScript, Angular, Agile
+Service des TI de la Ville de Montréal
+Développement des interfaces de gestion du PTI
+Développeur logiciel
+Janvier 2017 à Septembre 2017 - 8 mois
+Ce mandat consistait à développer de nouvelles interfaces pour le PTI (Programme triennal d'immobilisations). Dans ce contexte, Il a réalisé les activités suivantes :
+assurer le développement de microservices REST;
+assurer le développement d'interfaces Web;
+modéliser les données.
+participer à l'évaluation de la suite d'outils Atlassian.
+Environnement : Node.js, JavaScript, Angular, mongoDB, suite d'outils Atlassian
+Service de sécurité incendie de Montréal
+Développement  de l'interface GDES
+Développeur logiciel
+Septembre 2016 à Novembre 2016 - 2 mois
+Ce mandat consistait à développer de nouvelles interfaces pour le GDES (Gestion des événements spéciaux) du Service de sécurité incendie de Montréal. Dans ce contexte, il a réalisé les activités suivantes :
+assurer le développement de nouvelles interfaces Web;
+mettre à niveau les interfaces existantes;
+corriger des anomalies.
+Environnement : ASP.NET, C#, JavaScript, SQL, Visual Studio 2013, SQL Server 2014
+FRANCHISE CORA
+Employés et franchisés de Cora
+Développement et maintenance des applications
+Développeur logiciel
+Avril 2013 à Juin 2016 - 38 mois
+À titre de seul et unique développeur de l'endroit, il a participé au développement de nouvelles interfaces et de nouveaux programmes. Ses tâches comprenaient la définition des spécifications, la modélisation des données, le codage, les tests, la mise en exploitation et le soutien aux utilisateurs. Il a réalisé les activités suivantes :
+développer et maintenir des applications Web;
+développer et maintenir des applications Windows;
+développer et maintenir des applications Android;
+soutenir les utilisateurs.
+Environnement : C#, ASP.NET, MVC, Web Services/REST, NHibernate, Entity Framework, SQL, Android, Xamarin, JavaScript
+AXXIUM VISION
+Cabinets dentaires
+Développement logiciel
+Développeur logiciel
+Septembre 2012 à Mars 2013 - 6 mois
+Pour ce projet, il devait participer au développement de services visant la suppression des supports papier pour les cabinets médicaux. Il a réalisé les activités suivantes :
+participer à la définition de nouveaux services pour le domaine médical;
+participer à la définition de l'architecture des nouveaux services;
+soutenir l'équipe de développement dans l'analyse et la réalisation de correctifs.
+Environnement : C#, WCF/WPF, ASP.NET, MVC, Web Services, REST, Entity Framework, JSON, SQL, SharePoint, développement Agile
+ALSTOM TRANSPORT
+Service de transport de Montréal
+Développement de la nouvelle centrale de commande du métro de Montréal
+Développeur logiciel
+Mars 2006 à Mai 2012 - 74 mois
+Il a participé à la réalisation de la nouvelle commande centralisée du métro de Montréal. Dans le cadre de ce projet d'envergure, il a réalisé les tâches suivantes :
+concevoir, réaliser et soutenir le déploiement de la nouvelle commande centralisée du métro de Montréal;
+participer à la définition de l'architecture du sous-système Gestion des opérations et des incidents (GOI);
+participer à la définition des interfaces entre les sous-systèmes GOI, SCADA et ATS;
+réaliser l'analyse le développement et la documentation des sous-systèmes GOI et ATS;
+participer à la correction des anomalies;
+soutenir les équipes de validation et d'installation.
+Environnement : Windows Server 2008, Windows XP, SQL Server, VMware, C#, C++, TFS, WCF/WPF, VB, SQL, XML, OPC, modèles de conception, RequisitePro, NUnit, Jenkins
+LUQS INTERNATIONAL
+Bureau d'architecte et de génie civil
+Logiciel d'estimation
+Développeur logiciel
+Juin 2005 à Mars 2006 - 9 mois
+Ce projet consistait à développer un logiciel d'estimation et de gestion pour le secteur de l'ingénierie civile. Dans ce contexte, il a réalisé les activités suivantes :
+participer à la réalisation d'un système à trois niveaux d'estimation et de gestion de projets;
+participer à la définition de l'architecture du système;
+réaliser l'analyse fonctionnelle, la modélisation de données et la refactorisation de code;
+réaliser l'analyse, le développement et la documentation de composants logiciels.
+Environnement : Windows Server 2003 et 2000, Windows XP, 2000 et 9X, SQL Server, BizTalk Server, C#, C++, VB/VB.NET, SQL, ASP.NET, ADO.NET, services Web, Remoting, UML, XML, Win32, COM, MFC, ATL, Office, TCP/IP, Boost, modèles de conception
+DEVNET SOLUTION
+Développement logiciel
+Divers mandats
+Développeur logiciel
+Avril 2003 à Mai 2005 - 25 mois
+Il a réalisé plusieurs mandats pour divers secteurs d'activités :
+réaliser l'analyse, l'estimation, le développement et le soutien d'applications informatiques spécialisées;
+définir et mettre en place des architectures reposant sur l'utilisation judicieuse de clients intelligents;
+réaliser des développements axés sur la réutilisation et l'intégration de technologies existantes;
+réaliser des analyses fonctionnelles;
+modéliser les données.
+Environnement : Windows Server 2003 et 2000, Windows XP, 2000 et 9X, SQL Server, BizTalk Server, C#, C++, VB/VB.NET, SQL, ASP.NET, ADO.NET, services Web, Remoting, UML, XML, Win32, COM, MFC, ATL, Office, TCP/IP, Boost, modèles de conception
+BOMBARDIER TRANSPORT
+Logiciel embarqué pour trains
+Développeur logiciel
+Mars 2002 à Mars 2003 - 12 mois
+Ce mandat consistait à réaliser un logiciel embarqué à bord des trains destinés à la ville de New York. Dans ce contexte, il a réalisé les activités suivantes :
+participer au développement d'un système d'acquisition et de surveillance pour le secteur ferroviaire;
+participer à la définition et à la réalisation d'un cadre de développement .NET;
+réaliser la modélisation UML, les cas d'utilisation, les diagrammes de classes et de séquences et la génération de code;
+réaliser l'analyse, le développement et la documentation de composants logiciels;
+réaliser des revues de code.
+Environnement : Windows Server 2000, Win 2000, Oracle, outils Rational, C++, C#, SQL, UML, .NET, MFC, Win32, COM, ADO, TCP/IP
+NORTEL NETWORKS
+Système de déploiement
+Développeur logiciel
+Juillet 2000 à Juillet 2001 - 12 mois
+Ce mandat consistait à développer un système de gestion et de déploiement pour automatiser les tests sur les équipements optiques produits par Nortel. Dans ce contexte, il a réalisé les activités suivantes :
+participer au développement d'un système de déploiement de logiciels pour environnement multiposte;
+réaliser l'analyse, la programmation et la documentation de modules logiciels;
+réaliser les essais, le débogage et la mise en fonction de versions opérationnelles;
+réaliser des développements multitâches;
+réaliser le développement d'un intranet.
+Environnement : Windows Server NT, Windows 2000/NT, MySQL, outils Rational, C++, Java, SQL, STL, UML, IDL, CORBA, J2EE, Win32, Ilog, Perl, TCP/IP, XML, HTML
+ATRION INTERNATIONAL
+Gestion de l'environnement
+Développeur logiciel
+Mai 1999 à Juillet 2000 - 14 mois
+Dans le cadre du développement du logiciel principal de l'entreprise, il a réalisé les activités suivantes :
+participer au développement d'un logiciel de gestion de l'environnement;
+participer à la définition de la nouvelle architecture du produit;
+réaliser des composants logiciels selon la technique des cas d'utilisation;
+réaliser la programmation, les tests et la documentation de composants logiciels.
+Environnement : Windows Server NT, Windows NT/9X, SQL Server, C++, C, VB, Java, SQL, MFC, UML, Win32, COM/DCOM, ATL, ActiveX, XML, HTML, JavaScript, SourceSafe, modèles de conception
+GEMPLUS CANADA
+Émission de cartes à puces
+Développeur logiciel
+Novembre 1998 à Avril 1999 - 5 mois
+Ce mandat consistait à définir et à réaliser un système assurant l'émission et la gestion de carte à puces. Dans ce contexte, il a réalisé les activités suivantes :
+participer au développement d'un système distribué d'émission de cartes à puce;
+réaliser l'analyse, la programmation et la documentation de modules logiciels;
+assurer l'intégration des modules et la réalisation d'une version opérationnelle.
+Environnement : Windows Server NT, Windows NT et 9X, SQL Server, C++, C, VB, SQL, ATL, MFC, UML, IDL, COM/DCOM, Win32, ActiveX
+HYDRO-QUÉBEC
+Certification de la conformité des logiciels à l'an 2000
+Gestionnaire de projet
+Mars 1998 à Octobre 1998 - 7 mois
+Il faisait partie d'une équipe qui s'assurait de la conformité des applications utilisées par Hydro-Québec. Dans ce contexte, il a réalisé les activités suivantes :
+assurer la gestion et le suivi de projets de conversion informatique;
+réaliser l'analyse et proposer des solutions aux problèmes identifiés;
+assurer le soutien technologique des divers intervenants du milieu.
+Environnement : Windows NT, 9X et 3X, OS2, UNIX, C++, C, VB, Excel, MS Project
+ELECTROMED INTERNATIONAL
+Imagerie médicale
+Ingénieur logiciel
+Juillet 1995 à Janvier 1998 - 30 mois
+Ce mandat visait à concevoir, développer et réaliser des systèmes d'imagerie et d'angioplastie 2D pour le domaine médical. Dans ce contexte, il a réalisé les activités suivantes :
+participer au développement de systèmes d'imagerie médicale;
+participer au développement de serveurs d'imagerie réseau;
+réaliser l'analyse, la programmation et la documentation de composants logiciels;
+développer des applications en temps réel et multitâches;
+réaliser le choix et les tests des composants matériels des systèmes développés.
+Environnement : Windows Server NT, Windows NT/9X, UNIX, SQL Server, C++, C, VB, SQL, Win32, MFC, COM, ActiveX, TCP/IP, DICOM, DirectX, OpenGL, Codec JPEG
+TRLOG
+Plusieurs projets
+Développeur logiciel
+Juin 1992 à Mai 1995 - 35 mois
+Il a participé à plusieurs projets principalement liés à des intervenants du secteur industriel. Dans ce contexte, il a réalisé les activités suivantes :
+participer au développement d'applications informatiques spécialisées;
+réaliser l'analyse, la programmation, la maintenance et la documentation des logiciels développés;
+développer des logiciels en temps réel;
+développer des applications client-serveur;
+développer des interfaces utilisateurs.
+Environnement : Win3X, DOS, MS Access, UNIX, microcontrôleurs, C++, C, Assembleur, MFC, OWL, GUI, TCP/IP, RS-232, 68302, 68HC11
+MICROTROL
+Système de riveteuse d'aile pour avions
+Intégrateur de systèmes
+Septembre 1989 à Mai 1992 - 32 mois
+Dans le cadre d'un projet de conception et de développement d'une riveteuse d'aile pour les avions CRJ de Bombardier, il a réalisé les activités suivantes :
+participer à l'intégration de systèmes automatisés spécialisés;
+assurer l'analyse et la programmation des logiciels afférents;
+superviser l'installation et la mise en marche des équipements électriques;
+participer au développement de systèmes de contrôle embarqués.
+Environnement : Win3X, DOS, Qnx, microcontrôleurs, PLC, C, C++, Assembleur, Grafcet, Ladder, 68HC11, PLC Allen-Bradley
+RDRR
+Automatisation industrielle
+Intégrateur de systèmes
+Avril 1987 à Juillet 1989 - 27 mois
+RDRR était un intégrateur de services offrant des services clé en main dans le domaine de l'automatisation industrielle. Dans ce contexte, il a réalisé les activités suivantes :
+participer à la réalisation et à l'implantation d'applications clé en main pour divers secteurs de l'industrie;
+analyser et programmer des logiciels de contrôle et utilitaires;
+développer des interfaces spécialisées;
+assurer le suivi de projets depuis la conception jusqu'à la mise en route.
+Environnement : DOS, microcontrôleurs, PLC, C, Assembleur, Grafcet, ladder, 6809, PLC
+
+

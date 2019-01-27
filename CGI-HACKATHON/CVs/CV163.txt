@@ -1,0 +1,410 @@
+CURRICULUM VITÆ
+Analyste de test et Assurance qualité logiciel
+Analyste de données SAS BI  -  Analyste fonctionnel
+PROFIL DE CARRIÈRE
+Professionnel dans le domaine de l'informatique avec +12 ans d'expérience, il a travaillé dans de systèmes et de projets de grande envergure à l'intérieur de grandes organisations tels que : Axon-ID (MJQ), Fujitsu Canada (Urgences Santé, RAMQ), Sogema, Code6-BNC, Ville de Montréal-SPVM, Alcero Solutions, Nurun (SAQ, IQ), CGI (PJQ, BNC), LGS-IBM (RAMQ), InfoKit dans laquelle il a su développer une solide expérience pratique en matière de :
+Assurance de qualité et tests logiciel / données : Manuel et Automatisée;
+Analyse de données : SQL Server, Oracle, Access, Excel, SAS, XML, Sybase, xBase, MySQL; 
+Analyse fonctionnel : C-S, Web, SharePoint, ERP, Comptabilité, UML, Macroscope, Agile-Scrum;
+Programmation : VB.net, VB6, VBA, VBScript, C#, PowerBuilder, Clipper, FoxPro, Basic, C++.
+
+
+TYPES D'INTERVENTIONS
+Assurance de qualité et tests : 
+Réaliser et exécuter de tests manuel, automatisé, Intégration, Système, Unitaire, Acceptation, Fonctionnel, Non régression, Performance : Charge et Stress, Accessibilité, Interfaces utilisateurs graphiques et non graphiques (front-end, back-end, base de données, services, fichiers).
+Produire Stratégie de test, Plan de test, Scénarios, Cas de test, rapport d'anomalies, rapport de certification, protocoles, normes.
+Test Management : Visual Studio TFS, MS Test Manager, HP Quality Center-ALM, TestDirector, QA-Center, TestLink.
+Automation Testing : Selenium IDE-WebDriver, QTP-UFT, TestPartner, Rational Robot, Askida.
+Performance Testing : JMeter, BrowserStack, NVDA.
+Mobile Testing : Tablette et téléphone intelligent : IOS-Safari, Android-Chrome, Windows-IE mobile.
+Defect Tools : JIRA, FogBugz, GLPI, Clearquest, Unicenter Service Desk.
+Programming Test : VBScript, VBAScript, SQABasic, C#, Java, Eclipse.
+Enterprise Testing : SQL Server, Oracle.
+Testing environnent : Web, Internet Explorer, Mozilla FireFox, Google Chrome, MAC, PC, réseaux, Tablettes, Téléphones intelligent, graphiques et non graphiques, front-end, back-end, base de données, Services, fichiers. Agile Testing.
+Coordination des activités de la qualité du logiciel :
+Organiser les activités de la qualité du logiciel.
+Contrôler l'avancement des activités de la qualité du logiciel.
+Rédiger le résultat des activités de la qualité du logiciel.
+Procéder à la revue technique des biens livrables.
+Stratégies de tests automatisés :
+Data Driven (Test dirigé par les données), Keyword Driven (Test dirigé par mots -clés), Hybride (Data Driven + Keyword Driven) 
+COMPÉTENCES
+Analyse de données SAS :
+SAS Base 9.3 for Windows, SAS Enterprise Guide 4.3
+Gestion données d'essais :
+SAS Enterprise Miner 7.1, SAS Programming, SAS SQL language, SAS Macro programs
+Base de données : 
+SQL Server, T-SQL, SSRS, Oracle, PL/SQL Developer, Toad, Access, Excel, Sybase, XML, ADO/OLEDB/ODBC, MySQL, xBASE DBFs
+Modélisation de données :
+UML Rational Rose Entreprise, Erwin 4.0, Power Designer, MS Visio Professional, IBM InfoSphere QualityStage
+Méthodologies développement du logiciel :
+Agile-SCRUM, UML, Concert-CGI, P+, Macroscope, Vert-RAMQ, Système qualité LGS, Rational unified process (RUP 2.0), eXtrême Programming (XP), Entité relation, Structuré
+Langages de programmation :
+MS Visual Studio 2010 (VB.NET, C#, ADO.NET, ASP.NET, XML, IIS), Visual Basic 6.0, Visual Interdev 6.0 (ASP, HTML), VBA Access, Visual C++, C, Java, Power Builder, PHP, Crystal Report, Clipper, FiveWin, FoxPro, Basic Four, BBx, GW Basic, Cobol, RPG II, Fortran, Pascal
+Plateformes et Langages Web :
+SHAREPOINT 2010, SHAREPOINT Designer 2010, HTML, ASP, Vbscript, Javascript, DHTML, MS FrontPage, WCAG
+1Outils de gestion :
+Microsoft Office : Word, Excel, Power Point, Access, ERP/CRM, MS-Team Foundation Server, MS Project 2003, Outils Rational, Adobe; Acrobat
+Domaines d'affaires :
+Santé, Investissement, Bancaire, Public-parapublic, Privé, Ministère, Éducation, Agriculture et autres
+Systèmes comptables  -  ERP :
+Acomba v9.68  -  Modules : Comptabilité, Rapports, Clients, Fournisseurs, Facturation, Inventaire, Commandes, Paie, Sage 50 Comptabilité 2013 (Simple Comptable) Modules : Générale, Clients, Fournisseurs, Paie, Rapports, ERP - ASSYST-PRO, Modules : Comptabilité, Rapports, Clients, Fournisseurs, Grand Livre, Journal Général, Bilan, DBACont Modules : Comptabilité, Rapports, Clients, Fournisseurs, Facturation, Inventaire, Commandes, Paie
+Systèmes d'exploitation : 
+MS Windows XP, 2003, 2000, NT, 9x. Novell 4.0. MSDOS 6.22. Réseautique, MS SQL Server 2008, Unix
+COMPÉTENCES (SUITE)
+Architectures :
+.NET, 3 tiers, Client/serveur, serveur Web. Développement d'applications Web. Programmation orientée objet, SOA
+Protocoles de réseaux :
+VMware, Hyper-V, TCP/IP, Terminal Server et CITRIX
+FORMATION
+2011
+AEC Développeur / Intégrateur SharePoint
+Collège Édouard Montpetit, Longueuil, Québec
+2006
+AEC en Techniques en qualité du logiciel
+Analyste de tests et assurance qualité logiciel
+Membre de l'Association des praticiens de la qualité logicielle  -  APQL
+Collège de Bois-de-Boulogne, Montréal, Québec
+2003
+Baccalauréat en Informatique de gestion
+Diplôme en ingénierie de systèmes 
+Reconnu par le Ministère de l'Immigration, de la Diversité et de l'Inclusion - MIDI
+Université San Marcos, Lima, Pérou
+1994
+Baccalauréat en Informatique (B.Sc.A)
+Diplôme en sciences de l'informatique
+Reconnu par le Ministère de l'Immigration, de la Diversité et de l'Inclusion - MIDI
+Université San Marcos, Lima, Pérou
+PERFECTIONNEMENT
+2015
+Analyses de données SAS
+SAS Training Montréal
+2015
+Software Testing with Visual Studio 2013 et Microsoft Test Manager 2013 (SkillSoft)
+CRIM Centre de recherche informatique de Montréal
+2014
+SEM101 - Norme ISO/IEC 29110 pour produire des logiciels de meilleure qualité et à meilleur coût
+
+2014
+TST502 - Comment automatiser les tests efficacement
+
+2014
+Acomba et Sage 50 (Simple Comptable)
+Cegep Marie-Victorin
+PERFECTIONNEMENT (SUITE)
+2013
+MS SQL Server Reporting Services (SSRS)
+Cegep Maisonneuve
+2010
+TST338 - Exécuter les tests logiciels (étape par étape)
+
+2009
+TST337 - Démystifier les tests logiciels  -  Base
+
+2008
+ANA101 - Analyses des besoins et gestion des exigences logicielles
+
+2005
+NET Developer Specialist
+Université Nationale d'ingénierie
+2004
+Visual Basic Expert
+Institut Cybertec
+CONNAISSANCES LINGUISTIQUES
+Français, anglais et espagnol
+                          EXPÉRIENCE PROFESSIONNELLE
+AXON Intégration et Développement
+Project 16	
+Ministère de la Justice du Québec	Analyste-Spécialiste en assurance de qualité
+Registre de ventes RVMJQ	Depuis septembre 2015
+Le Ministère de la justice du Québec a confié chez AXON les travaux de conception, réalisation, tests et implantation de la solution web Registre des ventes et espace de travail.
+Responsabilités :
+conception et exécution des plans et scénarios de tests; 
+exécution de tests manuels, intégration, fonctionnels, système, performance, accessibilité, base de données, services et automatisés);
+estimation des efforts de tests;
+assurer le suivi des anomalies rencontrées;
+coordonner et travailler avec multiples équipes (analystes fonctionnels, de données, d'affaires, développeurs, tests); 
+training, assistance et collaboration directe avec le client.
+Environnement :	MS Visual Studio TFS, MS Office, SQL Server, Oracle, Tablette et téléphone intelligent : IOS-Safari, Android-Chrome, Windows-IE mobile, Web, Internet Explorer, Mozilla FireFox, Google Chrome, MAC, PC, réseaux, Tablettes, Téléphones intelligent, graphiques et non graphiques, front-end, back-end, base de données, Services, fichiers, Selenium IDE-WebDriver, JMeter, BrowserStack, NVDA, C#, Java. XML
+Méthodologie :	Agile-Scrum, WCAG
+FUJTISU CANADA
+Project 15
+Urgences Santé Québec	Analyste QA et fonctionnel applicatives 
+Système RAO  -  Répartition assistée par	Oracle  -  SQL Server
+Ordinateur MCAD Mobile	Avril 2013 à mars 2015 - 2 ans
+Urgences-Santé a confié à Fujitsu les travaux de conception, réalisation et implantation de la solution RAO qui comprend l'adaptation, l'intégration, support, l'évolution de la solution, la formation et l'installation de la solution logicielle (incluant l'application véhiculaire, l'installation et la configuration des équipements et matériel requis, Système d'information géographique (SIG)), la transition opérationnelle du système actuel au nouveau système proposé. 
+Responsabilités :
+analyser, documenter, schématiser les besoins d'affaires et développer ou adapter les systèmes en conformité de ces besoins en collaboration avec les conseillers en systèmes de gestion et les programmeurs/analystes de la section;
+rédiger la documentation destinée aux utilisateurs; 
+archivage, épuration et validation de base de données SQL Server et Oracle, Validation BD Geobase;
+planifier, organiser, coordonner et exécuter les tests de système et d'acceptation;
+former et supporter les utilisateurs; 
+collaborer avec le client afin d'assumer une communication ouverte et transparente;
+coordonner avec tous les intervenants du projet des activités de la qualité du logiciel : le contrôle d'avancement, la rédaction des résultats ainsi que des biens livrables de test.
+Environnement :	Visual Studio Team System 2008(TFS), MS Windows XP SP3 pour le développement, MS Windows Server 2003, Enterprise Edition SP2 pour le serveur Oracle/SQL, Oracle et SQL Server 2008, Acces. Langages : VB 4-6, .Net 3.5, VMware, Migration Bell911 sur IP, Migration Windows 7, Téléphonie IP, Centre d'appels, FogBugz Bug Tracking, GLPI Gestion Libre de Parc Informatique, Radmin Viewer Remote control software, Remote Desktop Connection Manager, Oracle SQL Developer, MS Office 2010, MS Projet 2003, MS SharePoint Services, Français, Anglais
+Méthodologie :	Macroscope, Agile-Scrum
+Project 14
+RAMQ  -  DSQ  -  MSSS 	Analyste QA et fonctionnel applicatives 
+Portail Libre-Service CAIS-SIIR	Oracle  -  SQL Server
+	Avril 2013 à décembre 2014
+Le Portail libre-service CAIS (PLS-CAIS) permet aux responsables des technologies de l'information des points de service, des services de registres et des services de domaines d'accéder d'une part, à de l'information pour l'utilisation adéquate de l'info structure du DSQ et d'autre part, à des fonctions de paramétrage pour la définition de services d'affaires, d'abonnement à des sujets de publication, etc. 
+Responsabilités :
+analyser, documenter, schématiser les besoins d'affaires et développer ou adapter les systèmes en conformité de ces besoins en collaboration avec les conseillers en systèmes de gestion et les programmeurs/analystes de la section;
+rédiger la documentation destinée aux utilisateurs;
+validation service d'extraction BD SQL Server, Oracle et matrice acces, 
+planifier, organiser, coordonner et exécuter les tests de système et d'acceptation;
+former et supporter les utilisateurs; 
+collaborer avec le client afin d'assumer une communication ouverte et transparente.
+Environnement :	Visual Studio Team System 2008 (Team Foundation System), Microsoft Windows 7, IE 9, MS Office 2013, Microsoft Windows Server 2003, Enterprise Edition SP2 pour le serveur SQL, MS SQL Server 2008, Oracle, Acces. Langages : ASP.NET, C#, Installation-configuration poste client Windows 7 / XP (Jeton USB - carte à puce), Français, Anglais
+Méthodologie :	Macroscope, Agile-Scrum
+Project 13
+SOGEMA Technologies Inc. 	Analyste assurance qualité applicatives Oracle 
+SIGTAS, SIGBUD	Janvier à avril 2013 - 4 mois
+Depuis 1996, CRC Sogema a procédé à l'implantation de SIGTAS dans 20 pays d'Afrique, des Caraïbes, du Proche-Orient, d'Europe de l'Est et d'Asie. SIGTAS Système intégré de gestion des taxes - est une suite de modules intégrés qui permet aux gouvernements d'informatiser l'administration des taxes, impôts et brevets grâce à un système d'information unique et complet. 
+Responsabilités :
+concevoir des scripts d'essais fonctionnels (en anglais) reflétant les nouvelles fonctionnalités développées dans le cadre d'un projet de mise en œuvre du logiciel, en se conformant aux standards établis. Inscrire les nouveaux scripts au répertoire des scripts fonctionnels existants;
+identifier les écarts entre le logiciel et la documentation, et les documenter en tant qu'enjeux dans l'outil de gestion des enjeux de l'entreprise. Prioriser ces enjeux selon leur importance et la problématique technique qu'ils reflètent ou l'accroc dans la procédure d'affaire qu'ils amènent;
+participer aux réunions de coordination et rapporter au coordonnateur de l'assurance qualité l'avancement des travaux relatifs aux essais d'assurance qualité sur le progiciel;
+livrer des formations aux nouvelles ressources de l'entreprise ou de ses clients sur les progiciels de l'entreprise et sur l'utilisation adéquate de JIRA, l'outil de gestion des enjeux; 
+intervenir dans le cadre des projets de mise en œuvre de progiciels à titre de coordonnateur des essais d'acceptation;
+tenir actualisée le document décrivant la stratégie d'assurance qualité de la Direction de l'informatique de gestion, en matière d'assurance qualité;
+conseiller le Directeur, Informatique de gestion quant aux normes et d'outils courants en matière d'assurance qualité. 
+Environnement :	Windows, Linux, Web, Réseaux, Base de données, ETL, Oracle Fusion Middleware Oracle 11G, SQL PL/SQL, Reports, Forms, Designer 10G, JIRA Bug Tracker, Microsoft Windows Vista, Microsoft Office 2010, Visio 2010, MS-Project 2010, SQL Server, Français, Anglais
+Méthodologie :	Agile-Scrum
+Project 12
+Banque Nationale du Canada (Code6-Contractuel)	Analyste en tests intégration ETL-B
+FID  -  SADC	Mai à août 2012 - 4mois
+Le projet FID - SADC est un processus ETL d'extraction et de transfert de données inter-système de domaine bancaire (comptes clients, opérations bancaires, etc.) avec divers protocole de données pour laquelle une institution membre devait faire faillite, la Société d'assurance-dépôts du Canada (SADC) serait tenue de rembourser ses déposants sans tarder, conformément aux règles touchant l'assurance-dépôts. 
+Responsabilités :
+accompagner d'analystes fonctionnels et analystes de données Intelligence d'affaires sur la phase de tests d'intégration de composantes et qualité de la couverture; 
+assurer de la bonne couverture des tests envers les requis fonctionnels  -  traçabilité;
+assurer d'utiliser les meilleures techniques de tests pour la nature des tests requis  -  optimisation des types et techniques de tests;
+aider et guider les analystes fonctionnels et de données pour optimiser les scénarios de tests pour couverture maximale; 
+utilisation et support sur l'outil HP Quality Center pour l'inscription des requis, du << test plan >>, des cas et scripts de tests, Test Lab et Bug Defect;
+importation automatique des requis, cas de tests et anomalies de MS Excel vers HP Quality Center; 
+coordonner et travailler avec multiples équipes de tests (analystes de données, fonctionnels, d'affaires, développeurs, Bureau de Qualité);
+participer au plan de tests systèmes et inter-systèmes;
+élaborer stratégie de tests, plan de tests, rapport de tests;
+participer à la préparation et exécution des tests sur le transfert de données inter-système avec divers protocole (SOA, XML, MQ), tests intégration systèmes avec ETL (intelligence affaires);
+coaching en test sur les types et techniques de tests;
+activités de contrôle qualité (selon les bonnes pratiques) : audit, revue technique, échantillonnage, Quality gate;
+participer à des rencontres régulières.
+Environnement :	Architecture : Windows, Web, Base de données, BI, ETL, SOA, XML, MQ, HP Quality Center, module Requirements, Test Plan, Test lab et Bug Defect, Visual Studio 2008, Framework.NET 3.0, Oracle 10G, Toad, XML/XSL/XSLT, Microsoft Windows, Microsoft Office 2007, Visio 2007, MS-Project 2007Méthodologie Agile-Scrum, Data Management et/ou le système CDI, Français, Anglais
+Méthodologie :	Agile-Scrum
+VILLE DE MONTRÉAL 
+Project 11
+Service de police de la Ville de Montréal (SPVM) 	Analyste en informatique et 
+IDP2, M-IRIS, PTV-mobile patrouiller	QA applicatives SQL Server Oracle
+	Juillet 2009 à mai 2012 - 3ans
+Le projet IDP2-MIRIS-PTV est un système de gestion intégrée policière déployé à l'interne pour le support des opérations policières et à l'externe pour les échanges électroniques des données policières avec les autres instances policières à l'échelle provinciale et nationale. 
+Responsabilités :
+analyser, documenter, schématiser les besoins d'affaires, fonctionnels et développer ou adapter les systèmes en conformité de ces besoins en collaboration avec les conseillers en systèmes de gestion et les programmeurs/analystes de la section;
+discuter avec les policières pour bien comprendre les exigences opérationnelles et agir comme point de contact pour leurs requêtes (suivi des requêtes, communication, challenge des demandes, aide à l'identification de solutions);
+effectuer l'analyse des données à convertir et élaborer les spécifications de conversion BD SQL Server et Oracle ainsi que le contrôle des doublons des enregistrements;
+effectuer la modélisation de données et traitements;
+élaborer les dossiers de livraison et d'implantation;
+rédiger la documentation destinée aux utilisateurs;
+coordonner et superviser le travail des programmeurs;
+participer à la mise en production et au support post-implantation;
+élaborer les dossiers (stratégie et plan de tests) et les scénarios de tests;
+participer à la préparation et à l'exécution des tests intégrés (fonctionnel, performance, volume, sécurité, santé);
+participer au support des tests d'acceptation et effectuer le suivi des incidents;
+réaliser la gestion des incidents, anomalies et demandes de changement.
+Environnement :	Windows, Web, SOA, Visual Studio 2008, Framework.NET 3.0, Power Builder v11.0, Microsoft SQL Server 2007, Oracle 10G, Toad, XML/XSL/XSLT, C#, Microsoft Windows, Microsoft Office 2007, Visio 2007, MS-Project 2007, IBM-Infosphere QualityStage, Unicenter Service Plus  -  Service Desk  -  Centre de services, Unix 
+Méthodologie :	Macroscope, WCAG
+Project 10
+ALCERO SOLUTIONS SHAREPOINT IN-A-BOX	Analyste tests Intégrateur applicatives 
+Alexya(TM) Workflow in-a-box Module et Alexya(TM)	SharePoint 2010 SQL Server
+Metadata Manager 1.0 in-a-box Module	Octobre à novembre 2011
+Alcero est une entreprise spécialisée dans le développement et l'implantation de solutions basées sur Alexya sa plateforme de gestion de contenu d'entreprise (ECM) pour SharePoint.
+Mon stage à la Division de produits - Qualité et support a consisté essentiellement en travailler avec la solution développé par Alcero nommé Alexya pour la Gestion de contenu d'entreprise pour SharePoint 2010, plus exactement avec les modules : Workflow Designer et Réplication de métadonnées. 
+Responsabilités :
+analyse, intégration, administration et révision des fonctionnalités WORKFLOW ACTIONS en utilisant la solution développée en SharePoint 2010 : Alexya(TM) Workflow in-a-box Module;
+développer de Workflows à partir de la liste d'ACTIONS de la solution développée en SharePoint 2010 : Alexya(TM) Workflow in-a-box Module; 
+rédiger/Exécuter les cas de tests des actions Workflow, incluant les étapes de test en utilisant Test Manager 2010 de Visual Studio 2010 (plan de test, rapports);
+analyse, intégration, administration et révision des fonctionnalités MÉTADONNÉÉS en utilisant la solution développée en SharePoint 2010 : Alexya(TM) Metadata Manager 1.0 in-a-box Module;
+développer de métadonnées à partir de la solution développée en SharePoint 2010 : Alexya(TM) Metadata Manager 1.0 in-a-box Module; 
+rédiger/Exécuter les cas de tests des MÉTADONNÉÉS (library, accounts, cases, documents), incluant les étapes de test en utilisant Test Manager 2010 de Visual Studio 2010 (plan de test, rapports).
+Environnement :	Technologie .NET Web, SOA, SharePoint 2010, SQL Server 2008 R2, MS Visual Studio 2010, C#, VB.NET, ASP.NET, InfoPath 2010, Test Manager 2010, TFS 2010, Windows 7 PSR - Problem Steps Record, MS Visio 2010, VMware, Hyper-V, TCP/IP, Français, Anglais
+Méthodologie :	Agile  -  SCRUM
+NURUN INC. 
+Project 9
+Société des alcools du Québec  -  SAQ 	Analyste de tests applicatives 
+Refonte de l'intranet	SharePoint  -  SQL Server
+	Février à juin 2009 - 5mois
+La refonte de l'intranet est un outil de travail, de collaboration et de communications performantes pour favoriser l'intégration, entre autres, d'un gestionnaire de contenus (indexation, révision, approbation, publication, autorisation d'accès ségrégation, archivage), d'un engin de recherche efficace, de plateformes de collaboration et de mécanismes de personnalisation qui lui permettront de devenir un outil de travail, de communication et de collaboration réellement performant. 
+Responsabilités :
+élaborer la mise en place et à la réalisation des stratégies d'essais;
+réaliser les devis et effectuer les essais intégrés, les essais d'acceptation et les essais de performance;
+exécuter le plan de tests et le calendrier; 
+compiler des données pour la documentation des essais et rédige les rapports d'analyse;
+participer à l'assurance qualité des pages du site Web;
+réaliser l'analyse, intégration, administration de tous les composants requis dans la solution;
+coordonner et réaliser le suivi avec l'équipe de développement de conception de systèmes lors de correctifs d'anomalies;
+réaliser la formation de l'exécution des tests aux testeurs des essais d'acceptation (15 utilisateurs); 
+recommander le déploiement en essais d'acceptation des fonctionnalités testées;
+agir comme support à l'équipe de pilotage lors des essais d'acceptation;
+rédiger les manuels d'utilisation et participe à la formation des utilisateurs;
+accompagner d'analystes fonctionnels sur la phase de tests d'intégration de composantes et qualité de la couverture;
+aider et guider les analystes fonctionnels pour optimiser les scénarios de tests à fin d'assurer de la bonne couverture des tests envers les requis fonctionnels  -  traçabilité
+Environnement :	WEB, SOA, MS Sharepoint 2007, Rational ClearQuest web 10.0, Visual Studio 2008, DB2, Framework.NET 3.0, MS Exchange, MS SQL Server 2007, XML/XSL/XSLT, C#, MS Windows, InfoPath (formulaires), MS Office 2007, Visio 2007, MS-Project 2007, VMware, Hyper-V, TCP/IP, MS Active Directory, Français, Anglais
+Méthodologie :	Macroscope, Agile-SCRUM, WCAG
+Project 8
+Investissement Québec 	Analyste de tests applicatives 
+Intranet IQ	SharePoint  -  SQL Server 
+	20-29 avril 2009
+Investissement Québec a engagé chez Nurun pour l'élaboration d'une solution intranet en utilisant la technologie SharePoint. 
+Responsabilités :
+effectuer le contrôle de qualité de l'application Web développé;
+élaborer les jeux d'essais (scénarios et cas de test); 
+exécuter le plan de tests et le calendrier;
+exécuter les essais intégrés-fonctionnels;
+réaliser la gestion des anomalies avec MS-Office 2007 et MS-OneNote;
+réaliser l'analyse, intégration, administration de tous les composants requis dans la solution;
+compiler des données pour la documentation des essais et rédige les rapports d'analyse;
+coordonner et réaliser le suivi avec l'équipe de développement de conception de systèmes lors de correctifs d'anomalies;
+accompagner d'analystes fonctionnels sur la phase de tests d'intégration de composantes et qualité de la couverture;
+aider et guider les analystes fonctionnels pour optimiser les scénarios de tests à fin d'assurer de la bonne couverture des tests envers les requis fonctionnels  -  traçabilité.
+Environnement :	WEB, SOA, MS SharePoint 2007, Visual Studio 2008, DB2, Framework.NET 3.0, MS Exchange, MS SQL Server 2007, XML/XSL/XSLT, C#, MS Windows, InfoPath (formulaires), MS Office 2007, Visio 2007, MS-Project 2007, VMware, Hyper-V, TCP/IP, MS Active Directory
+Méthodologie :	Macroscope, WCAG
+GROUPE CGI INC.
+Project 7
+Trust Banque Nationale du Canada 	Analyste de tests applicatives SQL Server Oracle DB2
+Fusion Altamira GB-Fonds	Juin 2008 à janvier 2009 -7mois
+Suite à la décision de fusionner la famille de fonds Altamira à la famille PBN, le Trust Banque Nationale (TBN) fait appel à CGI pour estimer et analyser les impacts au niveau de l'application GB-Fonds. La fusion des familles Altamira et PBN demande d'intégrer les fonds émis par Altamira aux fonds PBN. Dans le cadre des projets du Trust Banque Nationale ainsi que Assurance Banque Nationale.
+Responsabilités :
+définir les stratégies de tests; 
+élaborer les conditions et les scripts de tests; 
+coordonner et exécuter le plan de tests et le calendrier; 
+exécuter de tests d'intégration et d'acceptation : Écran vert pour inclure famille Altamira, Modification à Web AAO, Promoteur du REEE, Conversion des numéros de fonds Altamira, Conversion des numéros de comptes client Altamira, Conversion des modèles; 
+vérifier les résultats obtenus lors des tests d'intégration et d'acceptation afin de s'assurer de la conformité; 
+réaliser les rapports d'anomalies ou d'incohérences décelées;
+mettre à jour la documentation après chaque projet; 
+analyser les dossiers fonctionnels de différentes applications développées pour le Trust Banque Nationale;
+optimiser les scénarios de tests à fin d'assurer de la bonne couverture des tests envers les requis fonctionnels  -  traçabilité;
+assurer un soutien de qualité à la satisfaction du client;
+participer à l'amélioration de la méthode de travail;
+approfondir mes connaissances des différentes applications du Trust Banque Nationale.
+Environnement :	WEB, Client serveur, Windows et Mainframe, SOA, Power Builder 10.0, Mercury Quality Center 9.0, AS/400, DB2, SQL Server, Oracle, ASP.NET, HTML, Visual Basic 6.0 et .NET, Windows 2000, Lotus Notes, Unix, MS-Office 2007
+Méthodologie :	Concert, UML, système de qualité de CGI, WCAG
+Project 6
+Ministère de la justice de Québec 	Analyste de tests applicatives SQL Server Oracle
+Modernisation IA-IC  -  RDPRM	Décembre 2007 à juin 2008 - 7mois
+Le registre des droits personnels et réels mobiliers (RDPRM) est un outil en ligne de publicité des droits dans le cadre du projet de Modernisation IA-IC.
+Responsabilités :
+finaliser l'analyse organique des cas d'essais (découpage) et préparer l'exécution des essais avec l'outil QA-Center;
+développer les scripts d'essais avec l'outil TestPartner de la firme Compuware;
+exécuter les essais manuels et automatisés; (fonctionnels, intégration, système, acceptation, sécurité, performance, santé);
+coordonner et superviser les projets, les structures de répertoires, etc.;
+S'assurer que les normes, nomenclatures et meilleurs pratiques sont respectées;
+veiller à ce que le principe de la réutilisation de fonctions communes soit respecté dans les différents projets;
+décider des rôles et droits d'accès à assigner aux principaux intervenants;
+réaliser des rapports d'anomalies et des rapports de statistiques de tests;
+attribuer une signification aux différents risques de QAPortal;
+effectuer le contrôle qualité de la structure des requis dans QAPortal;
+analyser les dossiers fonctionnels de différentes applications développées pour le Ministère de la justice de Québec;
+optimiser les scénarios de tests à fin d'assurer de la bonne couverture des tests envers les requis fonctionnels  -  traçabilité.
+Environnement :	WEB, Client serveur, Développement N-Tiers, Compuware : QACenter-TestPartner- Reconcile, Visual Studio 2007, ASP.NET, C#.NET, VB6, Access, VBA, Oracle 10g, PL/SQL, HTML, JavaScript, XML .PAD, SQL Server 2000/2005,Visual source Safe 6.0, MS-Team Foundation Server, MS Office, MS Projet 2007, VMware Server Console, Français, Anglais
+Méthodologie :	Concert, UML, Agile, système de qualité de CGI, WCAG
+GROUPE LGS-IBM INC. 
+Project 5
+Régie assurance maladie Québec - RAMQ 	Analyste fonctionnel et d'essais 
+Prix maximum payable (PMP)	applicatives SQL Server Oracle
+	Août à novembre 2007 - 4mois
+Dans le cadre de la Politique du médicament, des négociations entre le Ministère de la santé et des Services sociaux (MSSS) et l'Association des fabricants de médicaments (AFM) ont porté sur une entente compensatoire en faveur d'un dégel du prix des médicaments. Dans ce contexte, le PMP est une mesure qui sert à garantir l'accessibilité aux médicaments. Avant l'introduction du PMP, le seul moyen à la disposition du ministre pour lutter contre les prix excessifs consistait à exclure le produit concerné de la liste. Dans le cadre de l'implantation Prix maximum payable (PMP).
+Responsabilités :
+analyser le besoin de l'usager RAMQ (Régie de l'assurance maladie du Québec);
+documenter le dossier fonctionnel et le dossier d'essais;
+obtenir l'approbation de l'usager sur les changements proposés;
+transférer le dossier fonctionnel au technicien pour la réalisation technique;
+préparer les jeux d'essais fonctionnels et les envoyer au client pour que ce dernier prenne connaissance des essais fonctionnels qui seront faits;
+développer la stratégie de test, scénarios, Cas de test et rapport d'anomalies;
+réaliser des tests : Fonctionnel, intégration et d'acceptation;
+effectuer les essais fonctionnels et effectuer les corrections nécessaires avec le technicien;
+demander l'approbation de l'usager en vue de la graduation des modifications;
+aviser le plus tôt possible le service traitement informatique (gestion des changements et intégration) de l'impact de la mise en production, via le chargé de projet. L'analyste discute avec le chargé de projet, qui se chargera de rencontrer les personnes concernées;
+réaliser des rapports d'anomalies et des rapports de statistiques de tests;
+effectuer les demandes de sécurité auprès de l'équipe Sécurité en passant par les ASS;
+effectuer les demandes de conservation de données à l'équipe des Espaces magnétiques;
+préparer les mises en production conjointement avec le technicien (demandes de mise en production, sécurité, start de packages, etc.);
+aider le technicien à comprendre et assimiler les problématiques et les solutions à apporter.
+Environnement :	WEB/Client serveur, Développement N-Tiers, SOA, Oracle 10G, PL/SQL Developer, SQL Server Access, Excel, ASP.NET, VB DotNet, VB6, HTML, Javascript, Windows 2000, XP, 9X, Unix
+Méthodologie :	P+, Macroscope, Système LGS ISO-9001 et Vert RAMQ, WCAG
+Project 4
+INFO-KIT Technologies	Analyste assurance qualité applicatives SQL Server 
+Système d'apprentissage en ligne Web 	Février et mars 2007
+et système ERP client-serveur	
+Depuis 1984, INFO-KIT utilise son savoir-faire technologique pour bâtir des solutions informatiques globales en gestion, en vente et en services spécialisés. Il adapte à ses clients une gamme complète de logiciels éprouvés et performants. Ses solutions clé en main sont conçues pour s'intégrer totalement à Internet. Tous ses partenaires internationaux sont des leaders dans leur domaine; ce sont eux qui fixent les standards de l'industrie. Microsoft, Intel, Cisco et Hewlett-Packard sont les partenaires les plus connus d'INFO-KIT Technologies. Dans le cadre de l'implantation des systèmes EduZone Web et du système client-serveur ERP nommé ASSYST-PRO.
+Responsabilités :
+planifier et concevoir les activités de la qualité du logiciel;
+développer Plan de test, Stratégie de test, Scénarios, Cas de test, rapport d'anomalies et rapport de certification;
+réaliser des tests : Fonctionnel, Non régression, Performance : Charge et Stress, ergonomie, acceptation;
+exécuter de test manuel et automatisée aux applications Web et C/S ERP/CRM;
+développer : test scripts à SQABasic, Datapools, Datatest personnalisées avec l'outil Rational Robot;
+contrôle de qualité des données;
+réaliser des rapports d'anomalies et des rapports de statistiques de tests;
+analyser les dossiers fonctionnels de différentes applications développées chez Info-Kit.
+Environnement :	MERCURY (TestDirector), IBM RATIONAL (Robot, Test Manager, Administrator, Manual Test), Windows 2000, XP, 9X, Access 2000, Excel 2000, SQL Server 2000, Internet Information Services (IIS) 6.0, SOA, ASP.NET, VB6, HTML, MS FrontPage
+Méthodologie :	Macroscope, WCAG
+Project 3
+Société péruvienne canadienne rive sud de Montréal	Analyste fonctionnel, d'essais et 
+Développement du système Web votation	programmeur  -  MS Acces
+	Octobre et novembre 2006 (bénévolat)
+Le Société Culturelle Péruvienne-Canadienne de la Rive Sud de Montréal << SCPCRSM >> est un organisme non gouvernemental sans but lucratif d'intégration des familles péruviennes fondé en 1990 à Brossard. Dans le cadre du développement du système Web.
+Responsabilités :
+analyser, concevoir et développer les fonctionnalités d'une application web pour le processus de votation; 
+administrer la base de données;
+planifier et coordonner les activités de la qualité du logiciel;
+réaliser des rapports d'anomalies et des rapports de statistiques de tests;
+élaborer le plan de test et réaliser des tests : Fonctionnel, unitaire.
+Environnement :	Windows XP, 9X, Access 2000, Excel 2000, Internet Information Services (IIS) 6.0, ASP.NET, VB6, HTML, MS FrontPage, Rational Robot, Rational Test Manager, Rational Manual Test
+Project 2
+Ministère de l'agriculture - PRONAMACHCS	Gestionnaire en Technologies de 
+Gestion et développement des technologies	l'information  -  SQL Server SyBase 
+de l'information	Janvier 2003 à décembre 2004 (2ans)
+PRONAMACHCS est une organisation du ministère de l'Agriculture du Pérou qui lutte contre la désertification, fait la promotion d'une utilisation soutenable des ressources naturelles, travaille à l'amélioration de la qualité de vie des populations rurales et à la préservation de l'environnement. 
+Responsabilités :
+gérer l'unité d'informatique et des projets en technologies de l'information;
+diriger et surveiller le personnel en informatique, en chargé de 30 personnes réparties au 24 provinces et au delà de 1000 utilisateurs;
+contrôler la sécurité des technologies de l'information et audits de systèmes;
+analyse, conception, documentation et développement du Site Web institutionnelle;
+développement de plans annuels (prévisions) : de plans informatiques, de plans opérationnels, de plans de systèmes stratégiques d'information, de plans de contingences ainsi que de gestion de ressources humaines;
+analyse, conception, documentation et développement d'un logiciel de gestion de projets, d'un logiciel intégré de gestion administrative financière (ERP/CRM) et de sites Web;
+administration de bases de données, de systèmes de réseaux et de communication, d'Internet, l'Intranet et de courrier électronique;
+participation des Appels d'offres publiques;
+présentations informatiques pour des organisations internationales (Banque Mondiale, Banque du Japon);
+planifier et coordonner les activités de la qualité du logiciel;
+développement du processus de certification de logiciels;
+élaborer et réaliser des tests (stratégie et plan de test) et réaliser métriques de la qualité du logiciel. (Fonctionnel, Performance, Ergonomie, Intégration, configuration, manuel et Test statique);
+réaliser des rapports d'anomalies et des rapports de statistiques de tests;
+appliquer techniques de communication en T.I. et rédaction technique.
+Environnement :	Réseau de données et communications : Horizontal, cascade, mixte de switch et hubs 200 points, enlace WAN, InterLan et Infoviacom, Firewall et Proxy implémenté, Serveurs Proliant Compac : Courriel électronique, site web, BD applications, antivirus, FTP, Backup, Systèmes d'exploitation : Windows NT 2000,2003, Windows 9X, XP, MS-DOS. Unix, Architecture : Client Serveur. Web, SOA, Base de données : MS SQL Server 2000, Access 2003, Sybase SQL Anywere; ADO/OLEDB/ODBC, MySQL, xBASE DBFs, MS SQL Server (Transact SQL), Langages programmation : Power Builder 7.0, VB6, .NET, UML, Crystal Report 8.0, FoxPro, Clipper, HTML; ASP; Vbscript; DHTML, MS FrontPage, WCAG, Anglais, Français, Espagnol
+Project 1
+Travailleur autonome divers entreprises	Analyste d'affaires fonctionnel, d'essais et 
+Commerciales, industrielles, maritimes,	programmeur ERP  -  SQL Server Oracle 
+de services, santé, bancaire, et autres	Sybase Acces xBase
+Développement systèmes de gestion ERP et AQL	Janvier 1990 à juin 2002 (12 ans)
+Clients :
+Lycée FRANCO-PÉRUVIEN (Consultant 12ans)
+J.N. Acier S.A. (Consultant 10 ans)
+ITS - Intertek Testing Services Pérou S.A. (Consultant 10 ans)
+Il a réalisé des mandats développement des technologies de l'information et contrôle de qualité du logiciel pour des entreprises de divers secteurs : du commerce, industriel, maritime, des services, de la santé, bancaire et autres. 
+Responsabilités :
+analyser, concevoir et développer de systèmes d'information de gestion comptable financière informatisée (ERP/CRM) en utilisant divers langages de programmation;
+comptabilité générale, de caisse et banque  -  trésorerie, de contrôle d'actifs fixes, d'ajustements financiers par l'inflation, de facturation et de statistiques, de contrôle de commandes, de comptes à recevoir des clients, de contrôle de stocks  -  inventaire, d'achats et de statistiques  -  logistique, de comptes à payer des fournisseurs, gestion des ressources humaines, de construction civile, de coûts de production, de contrôle de budgets;
+contrôle administratif et d'inscriptions à des centres éducatifs;
+système intégré administratif de services maritimes;
+contrôle d'unités de transports, de projets de santé sexuelle et reproductive;
+administrer diverses bases de données;
+développer des sites web;
+organiser et créer des départements informatiques;
+planifier et coordonner les activités de la qualité du logiciel;
+appliquer concepts et techniques d'évaluation et d'amélioration continue en qualité du logiciel et réaliser les métriques de la qualité du logiciel;
+appliquer le cycle de vie du logiciel et de méthodes de développement de logiciel;
+effectuer la gestion de projet de synthèse et la veille technologie;
+appliquer les techniques de communication en T.I. et rédaction technique;
+application de méthodes, modèles et normes d'assurance et contrôle de la qualité du logiciel : GQM, CMM, ISO, IEEE, UML, Plan d'assurance de qualité; 
+développement du processus de certification de logiciels : Stratégie, Plan de test, Scénarios. Cas de test, rapport d'anomalies et rapport de certification;
+réaliser des rapports d'anomalies et des rapports de statistiques de tests;
+élaborer et réaliser des tests : Fonctionnels, Performance, Ergonomie, Intégration, Non régression, configuration, manuel et Test statique.
+Environnement :	Systèmes d'exploitation : MS Windows XP, 2003, 2000, NT, 9x. Novell 4.0. MS-DOS 6.22, Unix, Architectures : .NET, 3 tiers, Client/serveur, serveur Web. Développement d'applications Web. Programmation orientée objet, WCAG, SOA, Base de données : MS SQL Server 2000, Access 2003, Sybase SQL Anywere, ADO/OLEDB/ODBC, MySQL, xBASE DBFs, MS SQL Server (Transact SQL), Langages programmation : MS Visual Studio .NET (VB .NET, C#, ADO.NET, ASP.NET, XML, IIS). Visual Basic 6.0. Visual Interdev 6.0 (ASP, HTML). Visual C++ 6.0, C, Java, Power Builder 6.0/7.0, PHP, Crystal Report, Clipper, FiveWin, FoxPro, Basic Four, BBx, GW Basic, Cobol, RPG II, Fortran, Pascal. HTML; ASP; Vbscript; Javascript; DHTML, MS FrontPage, Anglais, Français, Espagnol

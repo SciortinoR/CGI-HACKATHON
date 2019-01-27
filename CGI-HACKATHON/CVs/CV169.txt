@@ -1,0 +1,72 @@
+
+
+Combined Engineer in Computer Science and IT Master
+
+Phone: (416) 821 4858
+Address: 19, Dundonald Street, Apt 603, Toronto, M4Y 1K3 (Ontario)
+Work Experience
+Technical SYstEMS ANALYST Co-OP  -  Payment Services Hub Maintenance  -  Payments & Trade Technology  -  Royal Bank of Canada, Toronto, Ontario, Canada - Sept. 15  -  April 2016
+   Build a strong understanding of payments services technology, infrastructures and applications. 
+   Proactively conduct system research and technical system tasks and assist with process improvements in Payments and Trade Technology (P&TT) - Retail Applications
+   Coordinate with Application Architects, PMs, DBAs, BSAs, QAs, Production Control, Infrastructure Support, Enterprise SCCM utilizing communication and analytical skills for troubleshooting maintenance tasks as a part of Payments Services Hub (PSH) Maintenance team. Primary Test Lead for IST environment.
+   Implement System Change Requests (SCRs) as per business/client requirements (Change Management) with Job Control Language (JCL), COBOL, HP Service Manager (SM9), Operating Manual System (OMS), IBM WebSphere Message Broker, Zeke and DB2 Databases on the IBM z/OS Mainframe Systems
+   Develop test cases and carry out Post Implementation Verification (PIV) for DEV, QA, IST & PROD environments
+   Participated to a huge migration project by migrating data from the old application to the new one. Remodeled, reorganized, revitalized and upgraded the data. Coordinated the testing in collaboration with the QA Team
+   Implemented scripts, leaded and launched the purge and archive for the Operational Database for PSH services (CAMT, IPS, SPF)
+   Apply patches to Windows Server 2012 R2/2008 R2) as per project requirements and maintain with Security Monitoring and Compliance (SMaC) policies
+   Create central information repository for PSH which includes WTX maps, queue names, databases, EGs, Bar Files and other application components
+   Created new REORG jobs to include conditional REORG checks for all production databases (Operational, Custom, SQ Data and User). Delivered a successful cost and time saving solution for RBC. Acquired a strong understanding of data organization, functionality and performance of DB2 utilities (REORG and RUNSTATS) and implication of maintenance on online operations of application.
+   Conducted meetings throughout the months. Wrote high level and detailed technical specifications.
+Group Reporting Quality Assistant - Valeo Management Services Headquarters, Paris (17eme arrondissement), France  -  Sept. 13  -  Feb. 2014
+
+   Proactively coordinated an IT project of Renewal the internal reporting databases BDD for the company. Defined the business needs, drafted the specs, mock-ups and validation plan and collaborated with IT developers from IBM to facilitate the integration of the new application.
+   Successfully developed a program to import automatically data from Google spreadsheets to Excel using Google API and Protocole oAuth 2.0.
+   Accelerated and improved the reporting for all Valeo services by merging two reporting applications 
+   Delivered accurate reporting reports (daily, weekly & monthly). Maximized their efficiency and reporting standards by simplifying processes of calculation. Completed technical documentation and training material.
+IT CONFERENCES ORGANIZER- PTE association (Pole Technology and Entrepreneurship UTC)  -  March 13  -  Aug. 13
+   Coordinated the organization of 3 IT events to promote IT companies to under-graduated/ graduated students
+   Partnered with IT companies on behalf of the University
+
+Education
+Master's Degree in IT - University of Quebec in Chicoutimi (UQAC) - 2014  -  2016
+ENGINEER'S DEGREE IN COMPUTER SCIENCE - majoring in systems and networks - FIRME profile (International Training about Globalized Relations in Companies) - University of Technology of Compiegne (UTC), France  -  2012 -  2016
+University Projects
+University Research Project  -  University of Quebec in Chicoutimi (UQAC) - 2014 -2016
+  * IT Project management
+Research Work on the following subject "Particularities of an ERP Project". Risk Study, impacts, stakeholder engagement, concrete case. Report and defense.
+  * Computer Security
+Research Work on the following subject "Wireless Networking Security". Report and defense.
+  * Distributed Systems
+Continue research work of Professor Hamid Mcheick on "Modeling Context Aware Features for Pervasive Computing"
+  * Cryptography
+Research work on the subject of "Security of Mobile Networks"
+University Practical Project - University of Quebec in Chicoutimi (UQAC)  -  2015 - 2016
+  * IT Project Management
+Conception of a Business Case, integration and scope management using a concrete case
+  * Business Intelligence
+Dashboard conception & Dimensional modeling using SQL Server 2012 R2
+Skills
+TECHNICAL SKILLS: 
+  * PSH System Components: PSH Databases, Mainframe, ISPF JCL, SYSIN, COBOL, IBM OnDemand, Endevor, Zeke...
+  * DB2: Architecture, Utilities, Platinum, Spufi, Queries
+  * Conflicts/ issues resolution and escalation/ Configuration Management, SDLC
+  * Environment deployment knowledge : DEV (GCC), QA, IST, PROD (OCC)
+  * Change Management, HPSM (SM9) , Change Requests (Activity Records & Emergency Record  -  SCRs), OMS Knowledge, Zeke
+  * Java language for applications conception, C/C++ Languages, Qt and Visual studio for software conception
+  * Database/ Business Intelligence : SQL/ Oracle, PostgreSQL, Access, SQL Server 2012 R2
+  * Website creation and conception (PHP (MVC, POO), HTML, CSS, MySQL, JavaScript (jQuery, Ajax))
+  * Other languages : Python, VHDL, Assembly language
+  * UML Design : Design pattern, Class and sequence diagram/ Software development methodologies
+  * Exploitation Systems : Windows, Unix / System Development with Linux/ Windows Server
+  * Capable of using all tools in the Office Suite and conception of macros in Visual Basic language/ Visio Tool
+  * Algorithm knowledge (Dijkstra...) / statistics / Programming languages theory
+BUSINESS & IT MANAGEMENT SKILLs:	
+  * Product and IT Project Management, Effective time management, operations management, Risk Management, Stakeholder and Portfolio Management
+  * Financial knowledge and Financial Reporting, Digital Payments
+  * Business Intelligence : Data warehouse, Database design and management, Architecture-Modelling, ETL, Nexus Forces, Big Data, Reporting Dashboard, business strategies, Master Data Management
+  * Quality Management (Lean Management, 5S, PDCA), Technological Innovation and business financing knowledge,   Strategy Management (lectures of articles of Gartner and McKinsey), Software Management and Testing
+  * Project Management : Project Charter, ROI, WBS, Gantt Diagram, Quality Standards, Pareto Diagram, Risk Analysis, Communication Strategy, RACI Matrix, Stakeholder management, WBS Chart Pro, MS Project, SharePoint
+  * Computer Monitoring (Copernic, Netvibes and RSSOwl software)
+Association  -  Voluntary Work
+  * Volunteer for the Craft Sale for the Ride to Conquer Cancer RBC Team
+  * Active Member of the RBC P&TT Social Committee

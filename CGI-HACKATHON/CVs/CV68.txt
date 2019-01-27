@@ -1,0 +1,139 @@
+CURRICULUM VITÆ
+Prénom68 Nom68
+Gestionnaire de projets  -  Retail
+PROFIL DE CARRIÈRE
+ Bilingue, monsieur Prénom68 Nom68 est titulaire d'un baccalauréat en informatique de l'Université68-1 et cumule plus de 18 ans d'expérience en gestion de projets, notamment d'implantation de progiciels de gestion (ERP) et de solutions BI, exclusivement dans le secteur du commerce de détail.
+ 
+Au cours des dernières années, monsieur Nom68 a travaillé pour d'importantes entreprises du secteur du commerce de détail telles que le Entreprise68-1, Entreprise68-2 et Entreprise68-3 (firme spécialisée dans l'implantation de Retek). Au sein de ces organisations, il a été appelé à définir la portée des projets, déterminer les objectifs et les critères de succès, à présenter les progrès aux comités directeurs, à évaluer les efforts et paramètres financiers ainsi qu'à implanter et respecter les meilleures pratiques en gestion de projet, notamment dans le cadre d'implantations importantes de solutions BI ou ERP telles que Retek et Manhattan WM. De plus, il est important de mentionner sa maîtrise des outils MS Project et son habileté à gérer autant des projets avec les méthodologies Agile que Waterfall.
+
+Habile communicateur et reconnu pour son leadership naturel, monsieur Nom68 apprécie le travail d'équipe et excelle à rassembler les parties prenantes vers un objectif commun.
+
+
+FORMATION
+1982
+Baccalauréat en informatique
+Université68-1
+PERFECTIONNEMENT
+En cours
+Préparation intensive à la certification PMP
+
+Canadian Tire Corp. PMO
+Divers ateliers et formations sur Agile et Scrum Master
+CONNAISSANCES LINGUISTIQUES
+Français et anglais
+                          EXPÉRIENCE PROFESSIONNELLE
+entreprise68-1, Montréal, QC
+Chef de projets senior
+Depuis novembre 2014
+Devoirs et responsabilités :
+s'assurer que les engagements du client sont pris en charge et satisfaits en temps opportun;
+analyser et communiquer les besoins fonctionnels du client et relayer la portée et les objectifs du projet aux équipes internes;
+établir les échéanciers et les budgets des projets, et fournir régulièrement le statut d'avancement et l'état financier de chaque projet;
+établir et négocier des contenus livrables concis et clairs avec des délais de livraison réalistes et en respectant les contraintes budgétaires établies;
+élaborer et rédiger une documentation concise et claire sur les exigences fonctionnelles (FRS);
+créer et surveiller les énoncés de travail;
+gérer les demandes de modification d'ingénierie logicielle;
+élaborer et tenir à jour des prévisions de livraison de logiciels;
+valider l'infrastructure informatique du client, le logiciel et les configurations du système de la plate-forme cible;
+gérer le programme de production de la gamme de nouveaux produits (matériel et logiciel) de Fujitsu pour les systèmes de caisse libre-service (SCO).
+Clients principaux :
+Canadian Tire Corporation (Canada);
+Loblaws (Canada);
+HEB Groceries (USA);
+Regal Entertainment Group (USA);
+Groupe Auchan SA (France).
+entreprise68-2, Montréal, QC
+Chef de projets
+Janvier à juillet 2014
+Responsable des aspects suivants d'une initiative de $18 million pour migrer les plateformes de commerce électronique d'entreprise68-2 :
+mener les phases de l'Assurance de qualité et de Test d'acceptation usager (UAT), avec une équipe de plus de 20 Analystes d'affaires et Analystes de l'assurance de qualité;
+établir le Poste de commande centralisée pour coordonner la mise en production;
+définir les stratégies et les procédures pour la transition au régime permanent (steady state).
+entreprise68-3, Laval, QC
+Chef de projets 
+Août 2000 à janvier 2014
+Le plus important détaillant d'articles de sport au Canada, FGL Sports exploite plus que 300 magasins corporatifs et 250 magasins franchisés d'un océan à l'autre, et ce, sous une douzaine de bannières différentes.
+Responsabilités principales :
+mener la rencontre de lancement;
+gérer les relations avec fournisseurs et consultants;
+cueillir, clarifier et comprendre les exigences d'affaires;
+rédiger la Charte de projet et obtenir l'approbation officielle de la part des commanditaires et des intervenants;
+développer le budget et le raffiner (de classe C à classe B à classe A) à travers les phases de Commencement (Inception) et Conception (Design);
+collaborer avec les Directeurs fonctionnels et Directrices fonctionnelles afin d'affecter et céduler les ressources du projet (p. ex. Experts techniques, Analystes d'affaires, Analystes de l'assurance de qualité, Développeurs, Administrateurs de BD, Spécialistes de réseau, Spécialistes de Windows, etc.);
+développer, raffiner et maintenir le plan de projet (avec base de référence, jalons et chemins critiques) en utilisant WBS (Work Breakdown Structure) et MS Project;
+effectuer la cueillette d'exigences d'affaires de haut niveau;
+collaborer avec l'Architect de solutions sur la conception de haut niveau;
+guider les Analystes d'affaires, leur fournir des conseils et réviser leur travail (spécifications fonctionnelles détaillées dans le cas d'un projet Waterfall, ou "epics" et "user stories" dans le cas d'un projet Agile);
+collaborer avec le Principal de l'assurance de qualité sur la stratégie et le plan de test;
+gérer les attentes des commanditaires et intervenants;
+évaluer les requêtes de changement, et définir les impacts/risques sur le budget, les échéanciers et la qualité du projet;
+mener et animer les scrums quotidiens;
+guider, motiver et aider les membres de l'équipe à travers le cycle de vie du projet;
+gérer, évaluer et assurer le suivi des changements et des défauts, avec l'aide de Jira;
+fournir à base régulière le statut d'avancement du projet aux commanditaires et intervenants;
+préparer le statut d'avancement hebdomadaire (accomplissements, risques et mitigation, utilisation de ressources, taux de combustion, prochains jalons, problèmes potentiels, etc.) et présenter ceci aux réunions hebdomadaires du PMO;
+préparer le statut d'avancement bimensuel et présenter ceci aux réunions bimensuelles du Comité d'orientation (Steering Committee);
+effectuer le passage d'étapes (stage gate) à la fin de chacune des cinq phases du projet : Commencement (Inception), Conception (Design), Développement (Development), Assurance (Assurance) et Implantation (Implementation);
+superviser la transition au régime permanent (steady state);
+effectuer les tâches de fermeture du projet;
+collaborer avec le PCO (Project Control Officer) pour assurer la conformité de tous les aspects du projet aux normes et au règlement du PMO.
+Accomplissements :
+jouer un rôle principal et étendu dans le processus d'appel d'offres et de sélection pour le remplacement du système de point de vente de FGL Sports;
+mener des implantations Agile pour les suivants :
+l'intégration du nouveau système de point de vente avec les systèmes de gestion de marchandise (Merchandising), de vérification des ventes (Sales Audit), de gestion du centre de distribution (WMS) et d'entreposage de données (Data Warehousing);
+une application de dépréciation d'inventaire automatisée pour les franchisés de FGL Sports;
+un module complètement intégré de décompte cyclique pour les magasins franchises de FGL;
+les trois dernières versions majeures portail Web franchisé (FWP). Cette application en constante évolution permet aux franchisés de gérer les produits et commandes, d'effectuer des analyses statistiques, de consulter les documents en ligne, de participer à la formation en ligne et de gérer les relations clients, et ce avec un simple navigateur et un accès Internet haute vitesse;
+mener des implantations Waterfall pour les suivants :
+un portail Web pour les franchisés de FGL Sports (incluant les bannières telles que Sports Experts, Atmosphère, Intersport, Nevada Bob's Golf, etc.).  Cette application évolutive (une implantation initiale, plus 3-4 itérations majeures par année pour anticiper l'évolution des besoins d'affaire de l'entreprise) permet à nos franchisés de gérer et planifier les produits, les commandes et l'approvisionnement de leur marchandise, d'effectuer l'analyse statistique, de consulter les documents en ligne, de participer à l'apprentissage électronique et de gérer les relations clientèles, simplement avec un navigateur et un accès Internet sécurisé de haute vitesse.  L'application était développée en Java, avec une base de données MS SQL Server;
+une solution d'Intelligence d'affaire basée sur l'entreposage de données (en utilisant MS SQL Server comme technologie de base de données), ETL, les rapports sur le Web et la technologie d'OLAP / tables pivot.  Cette initiative pluriannuelle fournit des statistiques essentielles de rendement des ventes et de l'état de l'inventaire à la haute direction, aux divers départements de FGL, aux magasins et aux franchisés de façon opportune, précise et flexible.  Cela a donné lieu aux économies de coûts d'au moins 15% et à une augmentation de vente d'au moins 10%.  Ce projet a compris la phase initiale, ainsi que plusieurs itération ultérieures pour mettre à niveau la technologie sous-jacente et ajouter de nouvelles fonctionnalités;
+le système Manhattan WM (gestion du centre de distribution), ainsi que le système Put-to-Light (gestion de convoyeur et emballage automatisé).  Ce projet a impliqué la personnalisation des logiciels prêts à l'emploi pour répondre aux besoins spécifiques de FGL, et l'implantation de ceux-ci.  L'initiative permet à FGL de réduire le coût de main d'œuvre au centre de distribution par 30%, et d'améliorer la qualité de service (vitesse et précision de livraison de marchandise) aux magasins;
+intégration complète des divers systèmes et applications de FGL Sports afin de s'assurer un flux d'information précis, transparent et en temps utile.  Ceci permet la prise de décision rapide et bien informée à tous les niveaux de l'entreprise, ainsi que la standardisation globale de l'intégration des systèmes et de l'intégrité des données.  Un autre avantage est une baisse significative de l'effort de support requis, dû à la fiabilité et la robustesse des interfaces concernées;
+un portail Web pour Intersport North America (une division de FGL Sports), qui approvisionne la fabrication de la marchandise de marque privée aux manufacturiers d'outre-mer.  Cette application permet la planification des produits, la gestion de devise étrangère, le coûtant des produits, la gestion des commandes, le flux des travaux, le suivi des expéditions et l'établissement du programme de livraison. L'application était développée en Java, avec une base de données MS SQL Server;
+sites Web informationnels pour les bannières Sports Experts (www.sportsexperts.ca [HYPERLINK: http://www.sportsexperts.ca/]), Nevada Bob's Golf (www.nevadabobsgolf.ca [HYPERLINK: http://www.nevadabobsgolf.ca/]), Atmosphère (www.atmosphere.ca [HYPERLINK: http://www.atmospherepleinair.ca/]), Intersport (www.intersport.ca [HYPERLINK: http://www.intersport.ca/]) et Hockey Experts (www.hockeyexperts.ca [HYPERLINK: http://www.hockeyexperts.ca/]) de FGL Sports.  Tous ces sites ont été conçus, dessinés et développés par une équipe interne de FGL;
+contribuer d'une manière importante à l'établissement et à l'implantation des normes et des processus de gestion de projets;
+utiliser mon expérience approfondie dans l'industrie du détail et de la chaîne d'approvisionnement pour contribuer à l'établissement de vision d'affaires de FGL.
+entreprise68-4, Mississauga, ON
+Chef de projet  - Implantation RETEK (ERP)
+Janvier à août 2001
+Une firme de consultation et d'intégration de systèmes, spécialisée dans la livraison de solutions d'Oracle Retail (Retek) pour l'industrie du détail.
+Responsabilités :
+mettre en œuvre des projets d'implantation de RMS (Retek Merchandising System) pour des clients dans l'industrie du détail, incluant Eckerd Drugs (Tampa, FL) et Best Buy Corporation (Minneapolis, MN);
+aider les clients dans la réingénierie des processus d'affaire de détail et de marchandisage.
+entreprise68-5, Montréal, QC
+Directeur de développement d'application
+Mars à décembre 2000
+Un fournisseur principal de logiciel et une firme de consultation en affaires spécialisant dans les solutions clés en main de détail, de distribution et de fabrication pour l'industrie du tissu (<< soft goods >>).
+Responsabilités :
+gérer les projets de développement d'application en commerce électronique pour Fashionchain.com, un portail de commerce inter-entreprises (B2B) pour la chaîne d'approvisionnement de l'industrie du vêtement;
+formé et dirigé une équipe de concepteurs et de développeurs d'application Web;
+assuré que le portail Fashionchain.com, les applications Web et les alliances stratégiques répondent aux dernières tendances de l'industrie et aux exigences des clients.
+Directeur de projets 
+Février 1996 à mars 2000
+Responsabilités :
+exécuter des pilotes de salle de conférence (Conference Room Pilots) avec des moyens et grands clients dans l'industrie du détail pour déterminer et analyser les lacunes entre leurs processus d'affaires et ceux du << entreprise68-5 >>.  Recommandé soit la reconfiguration des processus actuels soit la modification du logiciel, selon les besoins du client;
+concevoir les spécifications de logiciel (incluant la gestion de bon de commande, le remplissage d'inventaire, la distribution en entrepôt et l'inventaire au détail, entre autres), ainsi que les spécifications pour les interfaces et pour l'échange de documents informatisés (EDI), afin de répondre aux exigences d'affaires spécifiques du client;
+mener les projets d'implantation pour de divers clients, incluant :
+Pic `N Pay Stores (Charlotte, NC);
+Endicott Johnson Corp. (Binghamton, NY);
+Baptist Book Stores (Nashville, TN);
+Navy Exchange Service Command (Virginia Beach, VA);
+HomePlace Inc. (Cleveland, OH);
+diriger des équipes de développeurs et d'analystes en informatique de gestion et passé en revue les spécifications fonctionnelles.  Assuré que les projets soient livrés dans les délais et selon le budget prévus, tout en gardant l'équipe motivée;
+responsable de la gestion de projets, la planification des ressources, la gestion des risques et des changements et de la satisfaction de la clientèle;
+concevoir les composantes d'échange de documents informatisés (EDI) du << entreprise68-5 >>.
+entreprise68-6, Montréal, QC
+Consultant
+Novembre 1994 à février 1996
+Responsabilités :
+maintenir et améliorer le logiciel des systèmes financiers et les procédures de commandes et de vérification de l'inventaire pour les clients.  Revu et ajusté les processus critiques ainsi que les outils informatiques pour les affaires quotidiennes des clients, permettant d'accroître la productivité et l'efficacité des opérations.
+entreprise68-7, Montréal, QC
+Directeur des services informatiques
+Septembre 1988 à octobre 1994
+entreprise68-8, Montréal, QC
+Gestionnaire de projet / Analyste de systèmes
+Septembre 1983 à septembre 1988
+entreprise68-9, Montréal, QC
+Programmeur-analyste
+Octobre 1982 à septembre 1983
+

@@ -1,0 +1,555 @@
+                      Cyber-Security Solutions Architect
+                                       
+  Curriculum Vitae 
+
+
+Career Summary
+
+He is an architect specializing in security solutions and integration services. With over fifteen years of experience in the field of security and networks covering a wide range of technologies combined with its adaptability, communication, and excellent analytical mind, he is able quickly identify customer needs and realize their projects. It is distinguished by its professionalism, strong technical skills and business acumen, as rigor in both professional services, or in the managed security services.
+
+Among the major customers that he has served include government organizations, companies in the financial and banking sector and important industries. In addition, he joined the network security engineer team for the Security Operations Center (SOC) of Airbus international company based in Toulouse (France). Currently serves as a security architect for projects of operational security team of CSST, it is mainly involved in the projects at innovation center Fujitsu Global, and contributes to the development of expertise and design of in cyber security services offering for Fujitsu North America.
+
+Note that he holds a bachelor's degree in IT networks management, it is also a graduate in electronics and has a strong background of experience in the security technology. He is notably specialized with the Endpoint Security in the virtualization, the Next-Generation firewall and IPS, Web filtering and has the certification Trend Micro Certified Security Expert, also the ITIL Foundation certification, CISCO CCNA, IT essentials A +, and Blue Coat Certified Proxy Administrator.
+
+Education
+
+2005-2007
+Technological bachelor's degree, Network Management
+Campus AFPA of Palays,
+Toulouse City (France)
+
+1996-1998
+BEP, Electronic
+High school Professional La Charme, 
+Clermont-Ferrand City (France)
+
+
+
+
+
+Skills
+	
+  # Security solutions and Services Integrator
+  # Sales support
+  # Managed Security Services
+  # Security Operational Centre (SOC) - Projects and CIRT
+  # Security Incident Response
+  # Advanced detection and prevention intrusion
+  # Breach Detection System
+  # File and system integrity monitoring
+  # Security Architecture
+  # Network filtering Management
+  # Advanced protection for physical, virtual, and cloud servers
+  # Internet Security (WEB, SMTP, IDS / IPS, DLP, AV)
+  # Endpoint Protection Platform (Trend Micro / McAfee / Kaspersky / Sophos)
+  # Encryption solutions
+  # Log and Event Management, traffic analysis, audits
+  # Forensic Analysis 
+  # Vulnerability Management
+  # International experience (Africa, Europe, America)
+  # Expert Checkpoint (IPSO, SPLAT and GAIA platform)
+  # Expert Bluecoat (SGOS)
+  # Expert Trend Micro
+  # Expert IronPort
+  # Expert McAfee (Web / Endpoint Protection)
+  # Expert VMware vCNS
+  # Procurement Processes (RFT RFQ RFP RFI)
+  # Rescue Worker - Certificate CSST  -  2014
+   
+Certifications
+
+ ITIL   -   Foundation - 2014
+ TCSE  -  Trend Micro Certified Security Expert - 2013
+ TCSP  -  Trend Micro Certified Security Professional  -  2013
+ TFC  -  Trend Micro Foundation Certification  -  2013
+ BCCPA  -  Bluecoat Certified Proxy Administrator - 2010
+ CCNA  -  Cisco Certified Network Associate  - 2009
+ IT ESSENTIALS  -  A+  -  CISCO  -  2007
+ CISSP  -  In progress
+ 
+Languages
+
+ French : Native
+ English : Professional working proficiency
+
+	
+Experience
+Fujitsu America	For about September 2014
+                            Within Fujitsu America
+Security Solutions Architect
+   
+  * Provide technical direction, frameworks and technology roadmaps to meet business strategic needs.
+  * Perform solution design, sales support, business development and transition of projects from presales to delivery.
+  * Participate or lead in scope of work determination, product pricing and RFP/RFI responses.
+  * Assist with the determination of outsourcing, product pricing and collaborate with the Client Partner to develop an implementation solution.
+  * Manage client proof of concept (POC) initiatives and setup and delivery of the POC.
+  * Train, coach and mentor the sales team, engineers, consultants and specialists.
+  * Apply technical project lead knowledge and experience to guide successful implementation of a system solution;
+  * Perform a variety of tasks that will directly impact opportunity pursuit and realization.
+
+keys accountabilities: 
+  * Cyber-Security service design at Fujitsu North America
+  * Integrated Security Solutions for Fujitsu Innovations Center - FIC
+  * Security Architecture design
+  * Provide a visibility in network and security solutions
+  * Advanced solutions and professional services to improve the security and performance of the data centres, networks and applications
+
+                                    Nº 14
+Security Solutions Architect
+                              For about 15 months
+
+(Security Architecture Consultant)
+                                                                        09-2014
+                                     CSST
+                                       
+                               Health Government
+He acted as a security solutions architect at the CSST (Commission on Health and Safety at Work) within the SSICO (Service Information Security and Business Continuity) to accompany the IT security infrastructure projects. The organization has over 5500 user workstations and 1,500 servers virtualized in the field of health.
+
+The main functions he occupied are:
+  * Head of Web filtering security policy of the Organization;
+  * Assisting customers in the application of security standards in the projects development;
+  * Support and develop security recommendations
+  * Design and document administrative or technological solutions in the field of information security;
+  * Collaborate closely with other team members;
+  * Identify and define business needs security information and propose concrete solutions to respond;
+  * Perform security architecture documentation, positioning, and security advisories;
+  * Develop a study of functional requirements for the protection of virtualized environments for the servers, endpoints for physical desktops, detection of advanced threats (Breach Detection System), antimalware protection, management of web and e-mail filtering, etc; 
+  * Validate security certification for change requests;
+  * Perform tracking of security audits;
+
+Environment :  Microsoft, Linux and mainframe, File Sure, McAfee, Cisco ASA, McAfee, Remedy, RSA Analytics
+EGYDE Conseils	July 2011 to July 2014
+                                    Nº 13
+Security Solutions Architect
+                                                                      0.5 month
+
+(Senior security consultant and information technology)
+                                                                    2014 - July
+                              Quebec City Airport
+                                 Jean-Lesage 
+                                       -
+                                  Government
+He acted as an expert in security solutions architecture to migrate the Business Antiviral Kaspersky Endpoint Security solution to Trend Micro security solution << Deep Security 9 >> in the infrastructure of the information system of Quebec City airport.
+
+The main functions he occupied are:
+
+  * Deployment of the Deep Security solution for Anti-Malware functions and Web Reputation
+  * Deployment of vCloud Network Security Manager 5.5 with vShield Endpoint features and vCenter 5.1
+  * Operational Support
+  * Documentation of deployment Guide, and operational
+  * Training of the solution for staff
+Environment :
+
+  * Microsoft Windows Server 2012 and SQL 2012, Trend Micro, VMware (ESXi 5.1, 5.5 vCNS)
+
+                                    Nº 12
+Security Solutions Architect
+                                                                       2 months
+
+(Senior security consultant and information technology)
+2014-03 to 2014-05
+                           Alomragroup International
+He acted as an expert in security and information technology to solve, improve and optimize the infrastructure of the information system.
+ 
+The main functions he occupied are:
+
+  * Coordinator of security operations
+  * Head of Web filtering security policy
+  * Scans for vulnerabilities and recommendations of the external infrastructure and internal
+  * Security of workstations and servers with the deployment of the Kaspersky Endpoint Security Solution
+  * Deployment and configuration of an ASA firewall
+  * Deploying a centralized management system for the identities of equipment
+  * Definition and deployment of a new backup strategy
+  * Encryption of mobile workstations
+  * Operational Support
+  * Training for staff
+ 
+ Environment :
+ 
+  * Microsoft Windows Server and Workstation
+  * Kaspersky Endpoint Security Business
+  * CISCO ASA 5505
+  * Hyper-V
+
+                                    Nº 11
+Security Solutions Architect
+                                                                       2 months
+
+(Senior security consultant and information technology)
+2014-01 to 2014-03
+                                    Study 
+                         Pierre Valin Partners Lawyers
+He acted as security specialist and information technology to solve, improve and optimize the infrastructure of the company's information system.
+
+The main functions he occupied are:
+
+  * Resolve several issues on the Organization server (NAS Platform)
+  * Security workstations Microsoft Windows 7 (Antivirus / Update, backup system)
+  * Setting / optimization, deployment legal government solutions, and a remote access solution
+  * Complete redesign of the service and the e-mail security
+  * Deploying a centralized management system for the company's credentials
+  * Setting and deployment of a new backup strategy
+  * Operational Support
+ 
+ Environment :
+ 
+  * Microsoft Windows, Qnap, ESET, CCH, Aliform, Juris Evolution, Mozypro, Funio, VPN Cisco
+
+                                    Nº 10
+Security Solutions Architect (Web Security Specialist)
+                                                                     0.5 months
+
+(Senior security consultant and information technology)
+2013 - 12
+                               American Biltrite
+He acted as expert security solution to implement the filtering solution Websense Web Cloud Security, to migrate the on premise solution to the Cloud.
+ 
+The main functions he occupied are:
+ 
+  * Implementation of the Websense Web Security Cloud Portal solution
+  * Configuring Websense Client Directory synchronization software
+  * Create and configure a new security policy for the new cloud Web solution
+  * Documentation and training for staff
+ 
+ Environment :
+ 
+  * Microsoft Windows Environment, Active Directory, VMware, Websense Proxy
+
+                                    Nº 09
+Network Security Engineer
+                                                                        1 month
+
+(Senior security consultant and information technology)
+2013-08 to 2013-09
+                                     CNPS
+                                       
+               National Social Insurance Fund of the Ivory Coast
+                                       -
+                                  Government
+He acted as an expert in security architecture and network to solve performance problems and security of IT infrastructure of the CNPS.
+
+The main functions he occupied are:
+   
+  * Audits and network analysis configurations equipment and security of the CNPS Organization
+  * Vulnerability analysis
+  * Create a report of findings with recommendations necessary security and network
+  * Developing a plan of improvement with several Quick Wins
+  * Hardening of Web Filtering
+  * Proposal for new solutions
+  * Network Segmentation plan
+  * Deployment of network analysis solution for the mandate
+ 
+ Environment :
+ 
+ Postfix, VMware, AS 400, Linux, Microsoft, Forefront EndPoint, et TMG, Solarwinds, nessus, 
+
+                                    Nº 08
+Security Analyst
+                                                                      20 months
+
+Senior security consultant and information technology
+                              2012-03 to 2013-11
+                                     CSPQ
+                                       
+                                     RENIR
+                                       -
+                                  Government
+He acted as a security analyst and expert in security solution within the Directorate General of Telecommunications Services (DGST) at RENIR CSPQ at whose is charged to ensure the telecommunications service for public safety services and government of Quebec.
+
+He had the role of manage the tools and security solutions for the internal and external perimeter of RENIR, and CSPQ. He has deploy the security service for the e-mail messaging of the RENIR, which includes market research, the choice of the solution, the complete integration of the solution, the creation and management of all security policy email filtering, secure messaging flows, centralization of all quarantines on a single centralized management console. Also, make all the documentation and train administrators in charge of operations.
+
+In addition, he was responsible for the management and operational maintenance of anti-malware of RENIR solution with Trend Micro products, he also established the Trend Micro Deep Security solution for advanced protection for virtual environments RENIR, and subsequently he established the Trend Micro Control Manager centralized management console to centralize all Trend Micro products from a single console. He also participated in the management / configuration Checkpoint firewalls, Cisco ASA, it has deployed a proof of concept for the management of mobile devices with AirWatch and a proof of concept to encrypt data portable. Note also his participation in the configuration items with Solarwinds and Splunk for monitoring and logging of security events that are generated by the security solutions.
+
+ Main Duties:
+
+   Deploy and manage complex and challenging specialized security solutions
+   Perform proof of concept and prototype system according to customer needs
+   Validate new technical solutions
+
+ Key Accountabilities:
+
+   Advanced protection for physical, virtual, and cloud servers
+   Anti-Malware Protection
+   Email Security
+   Cloud security
+   Encryption 
+   Mobile Device Management
+   Security Incident
+   Create, maintain and update security documentation
+
+ The main functions he occupied are:
+
+   Securing Microsoft SharePoint (+ Access Management Trend Micro Portal Protect)
+   Configuration and implementation of Trend Micro Deep Security solution, Office Scan server and several other Trend Micro solutions
+   Configure and implement VMware vCloud Networking and Security (vCNS)
+   Configuration and implementation of Cisco IronPort solution for email security
+   Microsoft Active Directory Configuration and Management
+   Configuration and firewall management Checkpoint / Juniper / Cisco
+   Logging security events with Solarwinds and Splunk
+   Securing and administration of the virtual environment VMware 5.x
+ 
+ Environment :
+ 
+   Bluecoat, Splunk, Solarwinds NPM, Cisco IronPort ESA, Checkpoint, RSA Secure ID, Trend Micro,
+   SharePoint, VMware, Airwatch, Trend Micro products, Microsoft Forefront, VMware ESXi 5.5 
+
+
+                                    Nº 07
+Security Information Analyst
+                                                                      08 months
+
+Information Security consultant
+                                                             2011-08 to 2012-03
+                              Industrial Alliance
+                                     (DOE)
+                                       -
+                              Canadian Insurance
+He acted as a security analyst in the Support Team, development and technology (DOE) Industrial Alliance. This function is to implement the security expertise of different solutions required for projects in need of support secure. He has also work directly with the Enterprise Architect for assisting several projects within the security roadmap.
+ 
+ The main functions he occupied are:
+
+   Assist to resolving issues configuration filtering solution WEB proxy (Bluecoat Proxy SG OS) and support for system update SGOS;
+   Advise and assist in the implementation of best practices in IT security & management of information security;
+   Perform security advisories, risk analyzes, security recommendations ;
+   Audit GPO for strengthening security workstations;
+   Define action plans and activities to achieve the mandates and areas of intervention;
+   Perform proof of concept and prototype system according to customer needs ;
+   Develop RFI / RFP for : IPS / Web Application Firewall / SIEM / Vulnerability scanning (All processes);
+   Develop a POC for security cloud infrastructure with all VMware vShield's features;
+   Contribute with architects looking for detailed solutions to address various operational situations;
+   Contribute to the quality assurance of deliverables within the security team;
+   Assist to the tracking of incidents to assist the integration team of the solution;
+   Security Guidance on different projects
+   Drawing up of deliverables based on the methodology Macroscope
+   
+ Environment :
+ 
+   Bluecoat Proxy SG OS, Web Application Firewall << NETSCALER>>, Active Directory, McAfee,
+   VMware ESXi 4.x, and vShield suite, SharePoint, BMC Proactive Net Performance Management Suite 
+
+Dimension Data Financial Services - Luxembourg	February 2010 to May 2011
+                                    Nº 06
+Security Engineer
+                                                                      14 months
+
+Information Security Engineer - Managed Security Services and consultancy
+2010-03 to 2011-05
+                                       
+                                     LBLUX
+                                       
+                                  BAYERNIVEST
+                                       
+                                     Bank
+He acted as security engineer of information for several European institutions, German banks LBLUX Luxembourg. This function was to manage all of the bank's security infrastructure, as part of the contract security managed services.
+
+The main functions he occupied are:
+
+   Implementation and Management of Web filtering solution (Bluecoat Proxy SG)
+   Implement, migrate and manage firewall solutions (Checkpoint, Cisco, Juniper and Fortinet)
+   Implementation and VPN management solution with strong authentication (SSL)
+   Implementation and Management of detection and intrusion prevention solution (CISCO)
+   Log management solutions
+   Audit network infrastructure
+   Operate, optimization, monitoring, and maintenance of the security infrastructure
+   Create and perform the update of the documentation of safety technology infrastructure
+   Implement and enforce the security policy organizations
+   Writing operating guides, and Architectures Documents
+   Support Security and Response (Management of tickets with the ITSM processes (Services Now)
+   
+ Environment :
+ 
+   Web Gateway: Bluecoat SG OS / Proxy AV Finjan M86 SWG 9.2 / Trend Micro IWSS
+   Reverse-Proxy: Bluecoat Proxy SG OS
+   Firewall: Checkpoint NGX-R61, R65, R71 (Nokia, SPLAT) / CISCO: (PIX & ASA) / FortiGate (FG-60 / FG80)
+   Network equipment: CISCO routers and switches and load-balancers
+   DNS / DHCP: Infoblox Grid Manager, VITAL QIP
+   VPN Contivity Nortel, Juniper SA Series, Cisco AnyConnect
+   VPN NOMADS: Checkpoint (Secure Client / Endpoint Security), Juniper (Network Connect)
+   SMTP Gateway: IronPort C Series / Clearswift MIMEsweeper for SMTP
+   Trend Micro Mobile Encryption
+   Strong authentication: RSA Secure ID, Cisco ACS
+   Monitoring: Solarwinds NPM / Nagios / CiscoWorks LMS 2010 / Kiwi Syslog Server
+   Logging: RSA Envision / Cisco March / Emc RepliStor
+   Auditing and network optimization: Tufin Secure Track
+   Web Application Firewall: Beeware I SENTRY
+                                    Within
+                       Dimension Data Financial Service
+Security Engineer (Internet Security Specialist)
+   
+MAIN DUTIES / KEY ACCOUNTABILITIES:
+
+   Deploying and maintaining complex and challenging security infrastructures
+   Participating in security support activities
+   Contributing in the management of customers' architectures under managed services contracts
+   Participating in technology survey activities
+   Analyzing customers' new business requests to provide recommendations and/or solutions
+   Validation of new technical solutions
+   Create, maintain and update security and network documentation
+ 
+MANAGED SECURITY SERVICES AND CONSULTING WITHIN FINANCIAL SERVICES AND BANKING:
+
+   Responsibility to design and implement a security architecture within customer's infrastructure (deploy, Maintain, optimize)
+   Participating to collaboration in pre-sales and to implement the new security solution architecture
+   Manage the support of the customer's security infrastructure, and cooperate in teamwork
+   Report of tracking the overall activities regarding incident management, Health checks, change request, migration, upgrade, RMA, etc...
+   
+TECHNICAL KNOWLEDGE:
+
+   Firewalls : Checkpoint (Nokia IP Series and SPLAT) / CISCO: ( PIX & ASA )
+   Network equipment : Enterasys / Cisco
+   DNS / DHCP: INFOBLOX
+   VPN : Juniper SA Series, Secure ID, Checkpoint secure client with Aladdin eToken client
+   PROXY : Bluecoat SGOS / SWG Finjan M86 Security / IWSS Trend Micro / Ironport WSA
+   Strong Authentication: TACACS+ / RADIUS
+   Monitoring : Solarwinds Network Performance Management / CiscoWorks LMS
+   ITSM: Service Now / Top Desk
+   SMTP: McAfee Ironmail / CISCO Ironport C Series / Mimesweeper for SMTP / IMSS Trend Micro
+   Logs Collection: RSA Envision / Cisco mars / EMC RepliStor
+   Web Application Firewall : Bee Ware / Imperva
+   
+
+                                    Nº 05
+Information Security Engineer
+                                                                      14 months
+
+Security consultant and information technology
+                                                             2010-03 to 2011-05
+                          European Court of Auditors
+                                       
+                       Financial government institution
+He acted as information security engineer. This function was to manage the entire security infrastructure of the Court of Auditors of the European Commission, as part of the consultancy contract.
+The main functions he occupied are:
+
+   Manage firewall solutions such as Checkpoint, Cisco and Fortinate
+   Implementation and VPN management solution with strong authentication (RSA SecurID)
+   Manage the solution Proxy / Web Filtering: Bluecoat SGOS Finjan and M96; Secure Web Gateway / Trend Micro and Websense
+   Ensure operation, optimization, monitoring, and maintenance of the security infrastructure
+   create and perform the update documentation of client security technologies;
+   Presales activities
+   Support, management of security incidents and response
+   
+ Environment :
+ 
+   Reverse Proxy : Bluecoat SGOS
+   WEB PROXY: Bluecoat SGOS / M86 Finjan Secure Web Gateway 9.2 /
+   Firewall: Checkpoint R75.20 (Nokia IP390, SPLAT) / CISCO ASA
+   CISCO network equipment (routers / switches and load Balancers)
+   DNS / DHCP: Infoblox Grid Manager
+   VPN: Juniper SA Series, Checkpoint (Secure Client / Endpoint Security)
+   SMTP PROXY: McAfee
+   Strong authentication: RSA CISCO
+   Monitoring: Solarwinds / Nagios / CiscoWorks LMS 2010 / Kiwi Syslog Server
+   Event Management: RSA Envision
+   Network Optimization Audit and Compliance: Tufin Secure Track
+   Antivirus: Sophos
+
+
+Dimension Data France	February 2008 to February 2010
+                                    Nº 04
+Telecommunications specialist and supervision
+                                                                        1 month
+
+Network security and information technology  -  Consultant
+                                                            2010-01- to 2010-02
+                             Orange Mobile Service
+                                       
+                                France Telecom
+                                     Group
+He acted as a consultant on the design of the new Monitoring Server is the centralized management console while all monitoring servers Orange Mobile Network Service of France Telecom.
+The main functions he occupied are:
+
+   Laboratory test from the server: Shell Script, analysis and flow monitoring and validation of operation
+   Coordinator
+   Piloting and meeting facilitation
+   Project management
+   Writing documentation, interfaces and related contracts
+   
+ Environment :
+ 
+   Supervision protocols : Web Services, Corba, SNMP, T3
+   Reverse proxy Apache (URL/IP)
+   WebSphere server
+   OS : HP-UX and SUN SOLARIS 10, AIX
+
+                                    Nº 03
+Network Security Engineer (SOC)
+                                                                      23 months
+
+Network security and information technology  -  Consultant
+                                                            2008-02 to  2010-01
+                                    AIRBUS
+He acted as a network security engineer in a team of 8 engineers in the operational security team at the Security Operations Centre (SOC) Site Airbus France in collaboration with international teams. He was in charge of the continued operation of the infrastructure Security Network Airbus site in France with more than 25,000 IT users and world class safety issues. He participated in the validation of network operations projects and integration of new security architectures in production. He has managed and supported tools and security solutions, he provided support Level 2 and 3 on network security incidents. He also directed the documents concerning the operational support.
+
+The main functions he occupied are:
+
+   Deploy, to update, manage and troubleshoot equipment: firewalls, Web proxies (25000 users), Nomad Architecture (5000 users), the Radius Servers, the encryption inter sites, Architecture WIFI, management detection and prevention intrusion solution (IPS / IDS)
+   Apply and validate Security Policy
+   Analysis, firewall rules, customer networks Migration, routings
+   Access Management: Managing Groups LDAP and access to networks
+   Manage strong authentication
+   Migration of VPN site to site with Airbus customers
+ 
+ Environment :
+ 
+   Web Gateway: Bluecoat Proxy SGOS, Netapp NetCache
+   Firewall: Checkpoint FP2, NGX-R55, R61 (Nokia) / CISCO: (PIX & ASA)
+   Equipment Networks: Cisco Routers / Switches and Cisco CSS Load Balancer
+   DNS / DHCP Solution Infoblox Grid Manager, Vital QIP
+   VPN: Juniper SA Series, Nortel Contivity
+   Mobile VPN: Odissey, Fiberlink
+
+AXION IT	January 2007 to February 2008 
+                                    Nº 02
+Network Security specialist
+                                                                      13 months
+
+Management of the Security and network IT
+                                                             2007-01 to 2008-02
+                                   AXION IT
+He acted as technical leader of this small business
+The main functions he occupied are:
+
+   Manage Microsoft and servers / Workstations 
+   Implementation and firewall management: Netasq / Arkoon / Zyxel / Fortinet
+   Operational Safety
+   Creation of network architecture
+   Animation and management teams
+   Advice and assistance from users
+   Development and monitoring of the budget
+   Operational management of the service
+   Implementation of projects in the technical sector
+   
+ Environment :
+ 
+   Active Directory, TSE, GPO, Windows 2000, 2003, 2008, Windows XP, 7
+   Antivirus : McAfee, Symantec, Kaspersky, ESET
+   Pare-feu : Netasq / Arkoon / Zyxel / Fortinet
+   Router: Cisco / Beewan / DLINK / Netopia
+   OS: NT4; 200 and 2003 server/ Win 98; XP and VISTA Workstation
+   Lotus Domino Server and Client
+   Data Recovery: Kiwi Backup / Iomega / Hp Arcserve / Backckup Exec / Netbackup
+   Switch: 3COM, Allied Telesys, Edgecore, Dlink, Cisco
+
+
+
+French Air Force	January 1998 to February 2007 
+
+                                    Nº 01
+Network specialist and information technology
+                                                                     192 months
+
+Military commitment
+                                                             1998-01 to 2007-01
+                            French National Defence
+                                       
+He acted as a telecommunications specialist in the army of the French air with the Sergeant rank
+
+The main functions he occupied are:
+
+   IT Infrastructure Protection
+   Management of telecommunications equipment
+   Monitoring for national defense, NATO and the UN
+   External operations
+   Team Coordinator
+   Leader
+

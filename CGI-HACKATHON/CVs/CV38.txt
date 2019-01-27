@@ -1,0 +1,160 @@
+T.  514 892-6334
+118, rue Berlioz		  adarbouze@hotmail.com
+Verdun (Québec)  H3E 1K5	 Langues : français et anglais
+
+
+                                    PROFIL
+
+Plus de 10 années d'expérience en gestion combinée à un parcours professionnel diversifié 
+dans les technologies de l'information. Capacité de proposer des recommandations et des 
+solutions novatrices. Grande implication dans tous les aspects reliés à l'informatique : recherche, planification, développement et implantation.
+
+COMPÉTENCES
+
+  # Gérer le personnel (formateurs, administrateurs réseau et techniciens)
+  # Assurer la formation des usagers et de l'équipe informatique
+  # Gérer les ententes et les contrats avec les différents fournisseurs
+  # Analyser les besoins à court et à long terme des usagers et de l'entreprise
+  # Organiser et faire un suivi sur la sauvegarde des données de l'entreprise
+  # Agir à titre de personne ressource en cas d'un besoin d'escalade
+  # Évaluer et positionner les effectifs internes et les consultants
+  # Gérer les achats et le budget annuel
+  # Préparer les réunions hebdomadaires pour le comité informatique
+  # Maintenir la documentation de l'entreprise à jour
+
+EXPÉRIENCE
+
+	COORDONNATEUR TI 	2013 - 2015
+	LAPOINTE ROSENSTEIN MARCHAND MELANÇON, S.E.N.C.R.L., MONTRÉAL
+  Mandat : Responsable du parc informatique, de l'infrastructure, du support aux usagers ainsi que de
+ la supervision de l'équipe des TI, composée de 4 techniciens, pour un cabinet d'avocats.
+
+  Réalisations :
+  # Optimiser les processus du centre de support
+  # Déployer un système WI-FI sur les deux étages du cabinet
+  # Coordonner la nouvelle infrastructure réseau sur VMware
+  # Acheter et implanter un nouveau système de sauvegarde
+  # Évaluer le personnel et restructurer le département TI
+  # Terminer la migration des ordinateurs vers Windows 7
+  # Coordonner l'installation d'une trentaine de nouveaux serveurs virtuels
+  # Documenter la nouvelle infrastructure réseautique
+  # Mettre en place de nouvelles procédures
+  # Concevoir et planifier un plan de désastre
+  # Informatiser et mettre à jour l'inventaire du parc informatique (200 ordinateurs), 
+incluant 100 téléphones intelligents et 200 terrestres 
+  # Mettre en place un système d'appel de services de soir et de fin de semaine 
+pour permettre aux utilisateurs d'avoir un service continu
+  # Instaurer un système de rotation interne du personnel TI afin d'assurer 
+le service de garde le soir et la fin de semaine
+   
+   
+   
+EXPÉRIENCE (suite)
+   
+	INTÉGRATEUR DE SYSTÈMES (MANDAT DE CONSULTATION CHEZ DESJARDINS)	2012 - 2013
+	GROUPE CONSEIL OSI, MONTRÉAL 	
+
+  # Fournir une expertise technique aux utilisateurs pour diverses plateformes internes et externes
+  # Travailler en étroite collaboration avec les différents groupes d'affaires internes et les fournisseurs technologiques
+
+	COMINAR (anciennement Canmarc / Homburg / Alexis Nihon)	2001 - 2012
+	GESTIONNAIRE INFORMATIQUE 	2004 - 2012
+	Mandat : Responsable du parc informatique, de l'infrastructure, du soutien aux usagers 
+ ainsi que la supervision de l'équipe des TI composée de 5 personnes.
+
+	Réalisations : 
+  # Gérer le parc informatique pour les bureaux à travers le Canada, ce qui inclut plus de 
+300 postes de travail, plus de 20 serveurs virtuels et une dizaine physiques
+  # Optimiser et centraliser les processus du centre de support
+  # Gérer plusieurs sites tels que celui de la Gare Centrale et Alexis Nihon à Montréal, 
+le Centre Laval et les centres à Shawinigan, Bathurst, Halifax, Calgary et Moncton
+  # Centraliser les demandes
+  # Administrer un parc de 90 BlackBerry
+  # Planifier les projets spéciaux (déménagements, installations majeures, réorganisation de sites)
+  # Implanter de nouvelles procédures et s'assurer que celles déjà existantes sont bien appliquées
+  # Coordonner l'installation d'un réseau WI-FI pour le hall d'entrée des tours 
+de bureaux et pour le centre commercial Alexis Nihon, le Centre Laval et Place Longueuil
+
+	ADMINISTRATEUR RÉSEAU 	2001 - 2004
+	Mandat : Responsable du support informatique pour plus de 200 usagers.
+	
+	Tâches : 
+  # Assurer la sécurité du réseau (antivirus, droits d'utilisation, sauvegarde des fichiers)
+  # Être responsable du service d'annuaire << Active Directory >>
+  # Supporter les liens de communication entre les trois édifices à travers le Canada
+  # Tester et installer les logiciels achetés ainsi que tout autre matériel et en assurer la maintenance
+  # Installer et configurer les postes et les brancher au réseau
+  # S'assurer du bon fonctionnement de tous les serveurs
+  # Donner des droits d'accès aux divers logiciels
+  # Être disponible afin de remédier aux différentes urgences
+
+	Réalisations : 
+  # Coordonner le changement de l'infrastructure réseau pour une nouvelle architecture VMware
+  # Faire une restructuration majeure du réseau WAN (suite à la vente de la compagnie)
+  # Centraliser les usagers au siège social, impliquant le déménagement de plus de 
+70 employés et la relocalisation d'une dizaine d'autres vers un autre édifice
+  # Effectuer plusieurs changements d'ordre administratif concernant le département informatique (mise en place et application de nouvelles procédures, politiques, gestion et administration 
+du comité informatique...)
+  # Effectuer la migration du système de courrier d'Exchange 5.5 à MS Exchange 2003
+  # Coordonner l'implantation de l'intranet dans l'entreprise
+
+
+
+
+
+EXPÉRIENCE (suite)
+
+	TECHNICIEN EN RÉSEAUTIQUE	1998 - 2001
+	CGI (ANCIENNEMENT COGNICASE POUR TRUST GÉNÉRAL), Montréal 	
+	Mandat : Responsable du support informatique pour plus de 400 usagers 
+ pour les régions de Montréal et de Québec.
+
+	Réalisations : 
+  # Participer à la migration de plus de 400 PC de Windows 3.11 à Windows 95
+  # Contribuer à la reconstitution du réseau NT
+
+	TECHNICIEN EN SUPPORT INFORMATIQUE	1997 - 1998
+	LE GROUPE ALDO, Montréal
+ 	Mandat : Responsable d'offrir le soutien informatique, incluant l'installation d'équipements 
+   pour plus de 150 usagers du siège social et de l'entrepôt.
+ 
+PERFECTIONNEMENT 
+
+	Formation ITIL, Technologia	2014
+	Formation PMP, PMI-Montréal 	2012
+	Formation Supervision opérationnelle200, Versalys	2012
+	Formation VMware Infrastructure 4.0	2010
+	Formation MCSE Windows server 2008, Technologia	2009
+	Formation MCSE GPO 2003, Technologia	2007
+	Formation MCSE Terminal Server 2003, 3Soft 	2005
+	Formation MCSE Microsoft Exchange 2003, 3Soft 	2005
+
+FORMATION
+
+	Diplôme d'études professionnelles (DEP) de technicien en informatique	1998
+	École Stella-Maris, Montréal 
+
+ENVIRONNEMENT INFORMATIQUE 
+
+	Systèmes de réseautiques et de communications :
+
+
+      #    Windows Server 200, 2003 et 2008
+      #    Exchange 5.5, 2003 et 2010
+      #    Terminal server et GPO
+      #    VMware 5.0 
+      #    Spiceworks
+      #    Evault, Veeam Backup
+      #    SQL Server
+      #    Maitre (système comptable)
+      #    Citrix XenApp 
+
+	
+	Systèmes d'exploitation : 	Windows XP, Windows 7, Windows 8 
+	Systèmes Internet et Intranet : 	Internet Explorer, Firefox, Google Chrome, Intranet Joomla
+	Systèmes de sécurité : 	Antivirus AVG, Websence et Iprism (filtres de site Web), Firewall Cisco ASA-5510, Firewall (Checkpoint), Antivirus Office Scan (Trend Micro), Scanmail (Trend Micro)
+	BlackBerry et IPhone : 	Serveur BlackBerry et appareils intelligent IPhone
+	Logiciel de gestion d'immeuble : 	Maximo 
+	Logiciel de gestion des portes d'accès :	Friscobay Secure Perfect 
+	Système comptable : 	MRI, Yardi
+

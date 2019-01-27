@@ -1,0 +1,314 @@
+CURRICULUM VITÆ
+Conseiller principal
+PROFIL DE CARRIÈRE
+Développeur Senior avec plus de 14 années d'expérience dans la résolution des problèmes
+d'affaires complexes avec des solutions d'entreprise innovantes alignant les besoins
+d’entreprise aux capacités informatiques . Architecte logiciel qualifié, très engagé, motivé et axé
+sur les résultats.
+Il a développé des applications, des portails Web, solution de commerce électronique en
+utilisant les technologies Java et JEE, Spring selon des méthodologies Agile, Scrum en
+particulier. Il a participé au cours de ses projets à la conception de l'application, et le
+développement, et maintenance de diffèrent clients, tels que : le site e-commerce 7Q!pour
+Sasktel, une application pour l’approbation des demandes de congés pour Kronos, un outil pour
+automatiser le suivi, la surveillance, et la gestion des problèmes et des défauts relatifs aux
+produits pour Bombardier Aéronautique.
+Highlight des qualifications:
+• Conception de solutions complexes
+• Solide expérience en conception et connaissances techniques
+• Excellente maitrise du cycle de vie du logiciel
+• Technique: Hadoop, JEE, Data mining, e-commerce
+Il a une maitrise en informatique de l’université
+informatique.
+
+-1-
+
+de Wichita state, et un
+
+bachelor en
+
+Mustapha Laoudi
+Conseiller principal
+
+TYPES D’INTERVENTIONS
+Types d'interventions :
+
+Architecture Applicative, Programmation orientée
+objet, Service-Oriented Architecture, Forage de
+données
+
+Méthodologies :
+
+Scrum, Test-Driven Development, Design Patterns
+
+COMPÉTENCES
+Outils de développement :
+
+ATG Commerce Suite
+
+Langages de programmation :
+
+JEE, Java SDK 1.7, Hadoop / Hive
+
+Bases de données :
+
+Hibernate, Hadoop, Oracle 12c, Microsoft SQL
+Server
+
+Technologies :
+
+Informatique Nuage, Spring Framework, Web
+Service, SOA, REST (Architecture Web Orientée
+ressource)
+
+FORMATION
+2000
+
+Master en science informatique
+
+Université d’État de Wichita, Wichita, Kansas,
+États-Unis
+
+1996
+
+Bachelor en informatique
+
+Universite de Bab Ezzouar, Algiers, Alger
+
+CONNAISSANCES LINGUISTIQUES
+Français et Anglais.
+
+cgi.com
+
+-2-
+
+Mustapha Laoudi
+Conseiller principal
+
+EXPÉRIENCE PROFESSIONNELLE
+CGI
+Gouvernement de la Saskatchewan
+SaskTel
+
+Développeur Logiciel Senior
+Novembre 2015 à Septembre 2016 - 10 mois
+
+Sasktel est un fournisseur leader de la technologie de l'information et des communications. Par site
+Sasktel, les clients peuvent acheter des offres spéciales sur les derniers téléphones comme l'iPhone 7,
+iPhone SE et Galaxy S7.
+Trouver des offres incroyables sur Wireless, TV, téléphone à la maison, et le service Internet.
+
+
+Conception et développement d’un site e- commerce utilisant ATG Web Commerce . Cette solution
+offre une expérience d'achat en ligne personnalisé pour les clients de Sasktel en présentant une
+liste de produits ( téléphone sans fil , Téléphone domicile , TV, Internet) , recherche personnalisée ,
+et des programmes de marketing personnalisés à travers différents canaux.
+
+Environnement : Oracle ATG Web Commerce, Oracle Endeca, JEE, REST, WebLogic
+Deutsche Bank
+Security Lending
+
+Développeur Logiciel Senior
+Avril 2014 à Novembre 2015 - 19 mois
+
+Deutsche Bank securities lending est un service de prêt qui offrent aux clients institutionnels un service
+complet et efficace pour générer un rendement supplémentaire sur leurs portefeuilles de revenu et des
+actions fixes.
+
+
+Migration de la fonctionnalité de retour de prêt d'une plateforme de Security Lending existante
+utilisant EJB et JMS vers une nouvelle plateforme Phoenix utilisant des technologies comme Oracle
+Coherence, Sybase ASE, Java, Spring, JMS (cette application permet à l'utilisateur de gérer le
+retour des titres avant ou après que le prêt est terminé);
+
+
+
+Conception et développement d’une application qui permet à la banque de gérer les opérations
+pour le prêt de titres (cette application utilise Loanet pour la gestion des transactions de prêt de
+titres);
+
+
+
+Conception et développement d’une application Web qui aide les entreprises à analyser et à gérer
+efficacement le bilan et les actifs à risques pondérés.
+
+Environnement : Oracle Coherence, Spring, JEE, EJB, WebLogic, IBM MQ, JMS, Sybase, Cassandra
+
+KRONOS
+Kronos Scheduler
+
+cgi.com
+
+Chef d'équipe
+Avril 2011 à Mars 2014 - 35 mois
+
+-3-
+
+Mustapha Laoudi
+Conseiller principal
+
+Conception et développement d'application pour Kronos Workforce Scheduler. Le Scheduler est une
+solution de planification du travail automatisé qui permet aux gestionnaires de créer avec précision les
+horaires, et permet aux employés de soumettre des demandes de changer leurs horaires actuels
+
+
+Conception et développement d’un flux de travail pour l’approbation des demandes de congés;
+
+
+
+Implantation de nouvelles fonctionnalités, et amélioration de la performance pour l’application qui
+gère les requêtes de congé des employés;
+
+
+
+Conversion de l’application qui gère les horaires des employés d’une application basée sur applet à
+une application utilisant HTML5.
+
+Environnement : JEE, OSGI, AngularJS, JavaScript, JSON, HTML, CSS, JAX-RS, Scrum
+methodologies, Test Driven Development, JBoss, Flex, Mockito, Microsoft SQL Server
+11.0
+
+CGI
+Bell, Desjardins, Pages Jaunes
+Multivu, Web EDI, AccèsD Affaires Desjardins
+
+Développeur Logiciel Senior
+Février 2010 à Novembre 2010 - 10 mois
+
+Auprès de plusieurs clients, il a participé aux activités suivantes :
+
+
+Conception et développement des services Web de la solution de gestion des clients de Bell;
+
+
+
+Conception d’une application qui permet aux utilisateurs de traiter les documents EDI en utilisant un
+navigateur Web.
+
+Environnement : Oracle 10i, Websphere Customer Center 7.0, Weblogic 9, UML, JAX-WS, EJB, Struts,
+DB2, Oracle Service Bus, SOA
+
+IBM
+Bombardier Aéronautique
+Bombardier.com et portail Regional Aircraft
+Customer Services (RACS)
+
+Développeur Logiciel Senior
+Août 2006 à Janvier 2010 - 41 mois
+
+Il s'est vu confier les tâches suivantes :
+
+
+Conception et développement du site bombardier.com;
+
+
+
+Développement d’une application portlet pour le portail de Bombardier Regional Aircraft Customer
+Services (RACS) et Customer Services Business Aircraft (CIC);
+
+
+
+Conception et développement d’une solution pour le suivi et la gestion des problèmes et des
+défauts de produits signalés par Bombardier Aéronautique à ses fournisseurs (l'application fournit
+un moyen pour automatiser le suivi, la surveillance et la gestion des questions relatives aux
+produits);
+
+
+
+Développement d’une application Web utilisée pour faciliter les ordres et le suivi de l'historique des
+commandes.
+
+cgi.com
+
+-4-
+
+Mustapha Laoudi
+Conseiller principal
+
+Environnement : Oracle 10i, Struts, Spring, Portlet JSR 168, JSF, Servlets, WebSphere Portal,
+WebSphere Application Server, SAP, Documentum, XML, XSL, Spring, AJAX
+
+PRO UNLIMITED (DANS LES LOCAUX DE LSI LOGIC)
+Contrôleur SAN
+
+Ingénieur logiciel
+Août 2003 à Août 2005 - 25 mois
+
+Il a réalisé les activités suivantes :
+
+
+Développement d’un outil de test en Java;
+
+
+
+Exécution des scénarios de test pour valider les fonctionnalités logicielles du contrôleur SAN.
+
+AETHER SYSTEMS INC.
+applications Aether Fusion et MCA
+
+Ingénieur logiciel
+Juin 2001 à Mai 2002 - 12 mois
+
+Aether Systems, Inc. est un fournisseur de produits et services de données sans fil et mobiles
+
+
+Conception et développement d'un composant EJB pour l’application Aether Fusion (une
+plateforme pour le développement de services sans fil personnalisés);
+
+
+
+Conception et implantation d’une application distribuée qui permet aux ingénieurs de terrain
+d’accéder à l’information de l’entreprise relativement aux demandes de service;
+
+
+
+Conception et implantation d’une application qui permet aux utilisateurs de synchroniser les
+données de leurs outils (Pocket PC, Palm) au serveur Exchange.
+
+GO.COM, WALT DISNEY INTERNET GROUP
+site GoShop
+
+Ingénieur logiciel
+Novembre 2000 à Avril 2001 - 6 mois
+
+Il a participé aux activités suivantes :
+
+
+Conversion du site GoShop d’une plateforme utilisant le langage C/C++ vers une plateforme
+utilisant J2EE;
+
+
+
+Développement des composants système pour le site du portail Go.com;
+
+
+
+Conception et développement d’une application qui génère un rapport sur les statuts des
+connexions des serveurs Go.com.
+
+THE ARNOLD GROUP (DANS LES LOCAUX DE LSI LOGIC)
+Contrôleur Firmware
+
+cgi.com
+
+Ingénieur logiciel
+Août 1999 à Août 2000 - 13 mois
+
+-5-
+
+Mustapha Laoudi
+Conseiller principal
+
+Il a participé aux activités suivantes :
+
+
+Implantation et exécution des scénarios de test pour le contrôleur RAID;
+
+
+
+Analyser les tests s'étant soldés par un échec.
+
+cgi.com
+
+-6-
+
+

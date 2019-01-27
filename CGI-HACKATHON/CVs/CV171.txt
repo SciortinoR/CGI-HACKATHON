@@ -1,0 +1,259 @@
+Michael Page
+
+Candidate Resume
+Technology Professional with vast experience mostly on Investment Banking and
+Accounting
+
+Education
+Institution
+McGill University
+
+Program/Major
+Accounting
+
+Degree
+
+Data obtained or
+expected
+
+GPA
+
+Graduate Diploma
+(D.E.S.S) in Accounting
+
+Fall 2016
+
+3.78/4.00
+
+Concordia University Software Engineering
+
+Master in Software
+Engineering
+
+June 2013
+
+3.67/4.30
+
+Simon Bolivar
+Computer Science – major in
+University – Caracas, databases and software
+Venezuela
+engineering
+
+Bachelor in Computer
+Science
+
+June 2009
+
+3.61 (B+)
+
+Work Experience
+Technical Associate
+Montreal,
+Quebec
+
+
+Morgan Stanley
+Aug 2012 - Present
+
+Started as an Analyst as part of the Technology Analyst Program in New York during summer 2013.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Member of the Interest Rate Derivative group
+Participated in the requirement elicitation, analyst, and implementation and testing of various
+features for the system that encapsulates the trade capture and life cycle processing of interest
+rate derivative transactions using Java on the backend and Agile as SDLC
+Provide training and real-time support of our trading platform to current users (traders and business users)
+
+Led technical team that support the Default Management Process (DMP) ran by the LCH Clearnet and the
+Chicago Mercantile Exchange clearing houses in which Morgan Stanley is a participant member.
+
+Currently working on backfilling/migrating all vanilla swaps to Morgan Stanley’s accounting
+system that keep financial statements up to day with firm’s current position. This is an ongoing
+process that has been made by books and currencies. The project is being developed on Scala
+and Java.
+Developed a web application using Ext Js and Javacript to help bankers sell structured products.
+Built strong relationship with different levels of management to provide status reports and set expectations
+Developed several scripts using Shell scripting, Perl and Python.
+
+Participated as Mentor for an intern in Summer 2014, participated in the Morgan Stanley
+mentorship program, member of the Concordia University on-campus recruiting and involved in
+multiple Give Back activities for the Montreal community
+Teacher Assistant
+`
+Concordia University - Faculty of
+
+Engineering
+Montreal, Quebec
+
+
+
+
+Sep 2011 – Apr 2013
+
+Explained introductory and intermediate object oriented programming courses in Java for first
+year and second year students, this included creating meaningful practical exercises that would
+prepare students for projects, midterms and final.
+Provided feedback to the students on weaknesses they needed to work on and provided
+feedback to the instructor on the student’s knowledge of the material so that the instructor could
+put emphasis during class hours.
+
+Summer Analyst
+Montreal, Quebec
+
+Morgan Stanley
+May 2012 – Aug 2012
+
+Le présent curriculum vitae vous est soumis de façon strictement confidentielle et est sujet à la Convention principale de services – Modalités et
+Conditions de Michael Page Canada. Il contient de l’information confidentielle qui doit être utilisée uniquement pour les fins auxquelles il est destiné
+(conformément à la Convention principale de services – Modalités et Conditions et les lois applicables). Si vous n’avez pas récemment reçu un
+exemplaire de la Convention principale de services – modalités et conditions, veuillez vous assurer de vous en procurer un avant de demander à nos
+consultants de programmer des entrevues de candidat(s). Ce curriculum vitae ne doit pas être communiqué à une personne non autorisée ou à un
+tiers et lorsque nos services seront complétés, le présent curriculum vitae devra être remis à Michael Page Canada ou détruit.
+.
+
+Michael Page
+
+Candidate
+Resume
+
+
+
+
+
+Member of Cash flows Analytics Securitized Product Group
+
+Participated in the implementation of various features for an application to calculate risk of Bonds
+implemented in C# and C++.
+Selected as one of the Top 5 summer analyst to present my project to the whole Firm.
+Participated in the mentoring and volunteering program
+
+Programmer Analyst
+Caracas,
+Venezuela
+
+
+
+
+
+
+
+
+Led the regional testing for a Point of Sale (POS) device used by mainly to perform mobile top-up.
+
+Maintained good relationships with the company (Alcatel-Lucine in France) in charge of designed and manufactured the
+POS.
+
+Trained final users in Colombia, Chile, Peru, Ecuador, Mexico, Argentina and Venezuela on how to perform
+operations with the POS
+Managed an online payment platform developed in Visual Basic for clients in Venezuela. This included presenting
+the product, building relationships with existing and potential clients and installing the product.
+Participated in the initial design and implementation of an e-wallet application used to provide goods and services
+among users
+Developed web application based on .NET MVC Framework
+
+Software Architect
+Caracas, Venezuela
+
+
+ENIAC C.A.
+Feb 2010 – Jul 2010
+
+Analyzed and implemented various features in C++ for an anti-laundry money system used for banks in south
+and Central America region.
+
+Intern
+Caracas, Venezuela
+
+
+Movilway
+Jul 2010 – Aug 2011
+
+Global Consulting Group
+Aug 2008 – Dec 2008
+
+Designed, Analyzed and Implemented using Java an activity-based cost system oriented to telephone companies as part of
+off-campus final work to obtain my bachelor’s degree.
+
+Transferable Skills
+
+
+
+
+
+
+Leadership: Team player that listens and communicates effectively while building strong relationship with
+teammates, clients and senior management. My current and all my past jobs, allowed for me to train other
+employees/students.
+Analytical/problem solver: can adapt to different clients, situations and projects’ demands by identifying problems, and
+proposing, discussing, recommending and executing solutions.
+Time management: working 40 hours per week while going to McGill and still having high academic standards
+
+Work under pressure: working in a fast paced environment (investment bank) and under time constraints has taught me how to
+manage work load and prioritize tasks.
+
+Interpersonal: teaching and working in teams at both work and school has allowed me to develop and improve on my
+communication and my social skills.
+
+Language Skills
+
+
+Spanish, English and French
+
+Computer and Programming Skills
+
+
+
+
+Programming skills: Java, Scala, SQL, C#, Javascript, Perl and Python
+Operating Systems: Unix and Windows
+Frameworks: Sprint, Ext Js, AndroMDA, ASP.Net MVC
+
+Le présent curriculum vitae vous est soumis de façon strictement confidentielle et est sujet à la Convention principale de services – Modalités et
+Conditions de Michael Page Canada. Il contient de l’information confidentielle qui doit être utilisée uniquement pour les fins auxquelles il est destiné
+(conformément à la Convention principale de services – Modalités et Conditions et les lois applicables). Si vous n’avez pas récemment reçu un
+exemplaire de la Convention principale de services – modalités et conditions, veuillez vous assurer de vous en procurer un avant de demander à nos
+consultants de programmer des entrevues de candidat(s). Ce curriculum vitae ne doit pas être communiqué à une personne non autorisée ou à un
+tiers et lorsque nos services seront complétés, le présent curriculum vitae devra être remis à Michael Page Canada ou détruit.
+.
+
+Michael Page
+
+Candidate
+Resume
+
+
+
+
+
+Web Programming: SOAP, RESTFul Services, BPEL, HTML, CSS, XML, JQuery, Ajax
+Databases: MySQL, Oracle, Sybase, MongoDB, Cassandra, SQL Server
+Supporting tools : Perforce, Putty, Eclipse, Git, Visual Studio
+Computer skills: Proficient in Word, Excel and PowerPoint
+
+Interests
+Travelling, Video games, Technology, Accounting and Tennis
+
+Le présent curriculum vitae vous est soumis de façon strictement confidentielle et est sujet à la Convention principale de services – Modalités et
+Conditions de Michael Page Canada. Il contient de l’information confidentielle qui doit être utilisée uniquement pour les fins auxquelles il est destiné
+(conformément à la Convention principale de services – Modalités et Conditions et les lois applicables). Si vous n’avez pas récemment reçu un
+exemplaire de la Convention principale de services – modalités et conditions, veuillez vous assurer de vous en procurer un avant de demander à nos
+consultants de programmer des entrevues de candidat(s). Ce curriculum vitae ne doit pas être communiqué à une personne non autorisée ou à un
+tiers et lorsque nos services seront complétés, le présent curriculum vitae devra être remis à Michael Page Canada ou détruit.
+.
+
+

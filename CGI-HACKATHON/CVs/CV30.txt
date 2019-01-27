@@ -1,0 +1,73 @@
+OBJECTIF PROFESSIONNEL
+
+ Un poste me permettant d'entretenir une relation étroite avec mes collaborateurs, pour lequel je mettrais à profit ma capacité d'orienter et unifier les différentes sphères de l'entreprise vers des pratiques communes de livraison de projets, dans le but de favoriser le succès des projets et la croissance de l'entreprise.
+
+ EXPÉRIENCE PROFESSIONNELLE
+
+BANQUE RETAIL BANKING 
+Services Bancaires
+[EN COURS DEPUIS JUILLET  2016]
+
+ Poste : Directeur de projets - Consultant
+
+ Relevant du Vice-Président TI de Gestion de Patrimoine, mandaté pour gérer le programme de Digitalisation des Opérations Investissements et tous ses projets reliés aux secteurs d'investissements.
+
+ Gérer, redresser et mener à terme avec succès le programme de 4M$ concernant la Digitalisation des Opérations Investissements.
+   Aligner tous les secteurs financiers de la gestion de patriimoine BNC vers des objectifs communs.
+   Gérer les projets du programme en mode agile et << waterfall >>, selon les besoins.
+RETAIL
+Détaillant de luxe en ligne
+[FÉVRIER 2015 À   JUILLET 2016]
+
+Poste : Directeur PMO (Bureau de projets)
+
+ Relevant du Chef des Opérations (COO), mandaté pour mettre en place le bureau de projets et les processus nécessaires pour soutenir la forte croissance de la compagnie et ses besoins d'expansion en ligne et internationale.
+
+   Gérer la mise en place du cadre de gestion de projet et l'intégration d'un outil centralisé de gestion de projets
+ Mettre en place les processus de gestion de projet IT en mode Agile via les outils JIRA et Confluence, réduisant le temps de livraison de 30%, par rapport à des méthodes traditionnelles.
+ Instaurer les règles de gouvernance de la gestion de projet afin de prioriser les projets selon leur alignement aux objectifs de l'entreprise.
+INVESTMENT BANKING
+Gestion de fonds institutionnels
+[OCTOBRE   2011 À FÉVRIER 2015]
+
+Poste : Directeur de projets TI
+
+ Relevant du Bureau de Projets, mandaté pour gérer et déployer à travers l'entreprise des solutions informatiques à travers les différents secteurs financiers de la CDPQ
+ Gérer deux projets infrastructure à travers la migration ou l'installation de nouvelle solutions logicielles.
+
+Gérer les projets du programme de transformation du Gardien de Valeurs
+ Gérer tous les chantiers majeurs TI reliés au renouvellement de l'entente contractuelle avec le Gardien de Valeurs
+   Gérer la réalisation des différents livrables du programme sur une durée de 1 an.
+   Gérer une enveloppe budgétaire totale de 4.0M$ et une équipe multisectorielle de plus de 25 personnes.
+
+Gérer le projet d'intégration OMS (Order Management System)
+ Gérer la mise à jour majeure du système actuel de gestion des ordres (OMS), provenant de la compagnie Fidessa, tout en introduisant une nouvelle infrastructure technologique.
+ Compléter en moins de 8 mois la migration logicielle et infrastructure complète du système de gestion des ordres, tout en déployant sans impact la nouvelle solution aux usagers à partir du jour 1.
+   Gérer une enveloppe budgétaire de 2.0M$
+
+Gérer l'intégration des plateformes SEF (Swap Execution Facility) dans Murex
+   Gérer un projet en moins de 4 mois avec une enveloppe budgétaire totale de 500k$
+
+Gérer le projet d'intégration d'un outil de gestion de données et de référence de marchés
+ Gérer le développement et l'intégration d'une nouvelle solution pour faire la gestion de données et de référence de marchés en utilisant les technologies CADIS EDM pour remplacer la solution Eagle existante.
+
+   Gérer une enveloppe budgétaire de 2.0M$
+Manufacturing
+Solutions Digitales et d'Imprimerie
+[AOÛT 2008 À OCTOBRE  2011]
+
+Poste : Gestionnaire de Projets des Solutions Clients TI, Canada et États-Unis
+
+ Relevant du Groupe de Développement des Technologies, mandaté pour développer et déployer des solutions technologiques multicanaux, tout en fournissant des stratégies corporatives et d'intégration afin de supporter les différents clients de la compagnie (Costco, Rona, Best Buy, ...), qui génèrent une grande partie de ses revenues. Aussi mandaté pour intégrer avec succès les solutions clients Worldcolor et QuadGraphics à travers un processus d'acquisition.
+
+Gérer les projets TI pour le développement de produits technologiques
+   Planifier et gérer les différents projets de développement technologique (application 2-tiers et 3-tiers)
+   Gérer une équipe de plus de 20 personnes
+TRANSPORTATION
+Aviation
+[JUIN 2008 À AOÛT  2008]
+
+Poste : Gestionnaire de Projets
+
+ Relevant du directeur du bureau de projets, mandaté pour gérer et réaliser l'intégration du projet Polaris visant à renouveler le système international de réservations de vols d'Transportation.
+

@@ -1,0 +1,115 @@
+                               CURRICULUM VITAE
+                                Prénom61 Nom61
+                                       
+                              PROFIL DE CARRIÈRE
+
+
+Mr Nom61 compte 6 années en ingénierie de production et dans le support applicatif. Il a une solide expérience dans le domaine des technologies de l'information (TI) principalement dans le secteur Banque et Assurances. Son profil technique lui a permis de s'intégrer dans différentes équipes et de résoudre des incidents touchant plusieurs technologies en environnements critiques.
+Son esprit d'analyse et de synthèse, sa curiosité et son goût prononcé pour le travail d'équipe sont de vrais atouts dans une équipe.
+TYPES D'INTERVENTIONS
+Types d'interventions :
+Support Applicatif, Support Infrastructure, Administration Unix et Microsoft, Administration ORA 10g, Administration WebSphere, Dollar Universe ($U), scripting shell, Tivoli TSM
+COMPÉTENCES
+Base de Données  :
+ORACLE, SQL Server
+Logiciels de production :
+TNG workload, Synchrony Automator et gateway, $U, CFT, Netbackup, TSM, Avamar, Nagios, Tibco Business work, Weblogic, Tomcat, Stream Ubix, Intellimatch, Fame Futures, Calypso, Jira, Confluence
+Operating System :
+AIX, RHEL, HPUX, Solaris, Windows Server 2003/2008
+FORMATION
+2010	
+Axway Synchrony Gateway : Administration/Utilisation avancée
+
+2010		
+Axway Synchrony Gateway : Administration/Utilisation avancée
+
+2008				
+
+
+2007	
+Computer Associate : Exploitation TNG/NSM (Agent technologie / Event Manager)
+Administration Unix et Microsoft, Administration ORA 10g, Administration WebSphère, Dollar Universe ($U), scripting shell Tivoli TSM
+
+Master Professionnel << Science et Ingénierie >>
+CONNAISSANCES LINGUISTIQUES
+Français (maternel) et Anglais (technique).
+
+
+                          EXPÉRIENCE PROFESSIONNELLE
+
+Client : Entreprise61-1
+Poste : Ingénieur de Production						avril 2014 à mai 2015
+
+Contexte du projet :
+Intégrer l'équipe applicative du Back Office Finance
+
+Réalisations :
+ En mode Support de niveau 1, 2 et 3 :
+ Gestion et suivi des incidents en mode On Call et shift de support
+ Rédaction de procédures de support et de procédures de changement
+ Gestion des changements
+ Mise en place de la supervision
+ Industrialisation, amélioration continue et design
+ Création de cédules, gestion de l'ordonnancement sous $U5
+ Travail en mode Follow The Sun avec les équipes de Mumbai, London et Montréal
+ Coordination entre les équipes du développement et les équipes d'infrastructure
+
+ En mode projet :
+       Migration des bases de données Oracle Solaris vers Linux
+       Migration des plateformes Nagios
+       Migration des serveurs Windows 2003 vers 2008/2012
+
+Environnement technique :
+RHEL, Solaris, Windows 2003/2008/2012, scripting shell, Weblogic, Tomcat, Tibco Business Work, Oracle, SQL Server, Ubix Stream, Intellimatch, Calypso, Jira, Confluence
+
+Recherche d'emploi								mai 2012 à avril 2014
+
+Client : Entreprise61-2
+Poste : Ingénieur de Production						mai 2009 à mai 2012
+
+Contexte du projet :
+Intégrer l'équipe d'exploitation pour maintenir, faire évoluer l'environnement batch des applications Entreprise61-2
+
+Réalisations :
+ En mode Support de niveau 2 et 3 :
+       Gestion et suivi des incidents 
+       Gestion des changements des applications Entreprise61-2
+       Mise en place, gestion des transferts sous Synchrony Gateway
+       Création, gestion de l'ordonnancement des batchs de Synchrony Automator
+       Gestion des données Kompass : suivi, traitements et intégrations des données franchisées pour le Front Office Kompass
+       Mise en place et gestion des sauvegardes sous Symantec Netbackup, EMC Avamar
+       Administration de la suite Axway
+       Maintenance et création de shell scripts applicatifs (normalisation, automatisation, reporting et surveillance)
+
+ En mode projet :
+       Migration Atlas (Risk Management Solution) Core Application de Entreprise61-2 (ordonnacement et transferts entre Entreprise61-2 et ses clients)
+       Migration Kompass (coordination, création de l'ordonnancement, paramétrage des transferts)
+       Reprise du métier d'affacturation de NATIXIS Factor 
+
+Environnement technique :
+RHEL, HP-UX (300 serveurs, 40 applications, shell scripting, Netbackup, Avamar
+Client : Entreprise61-3
+Poste : Ingénieur d'Exploitation						février 2008 à avril 2009
+
+Contexte du projet :
+Intégration et support des applications bancaires transverses
+
+Réalisations :
+ En mode Support de niveau 3 :
+       Gestion et suivi des incidents 
+       Gestion des changements du parc applicatif Back Office
+       Exploitation et supervision des applications bancaires
+       Interventions/créations sur scripts (Shell, kornshell, bash...)
+       Création et gestion des batchs (TNG2.4/NSM3.1)
+       Mise en place de la supervision TNG Agent Technology
+       Intégration et mise en production des applications
+       Création des environnements techniques, création et paramétrages des instances ORA, paramétrage et configuration des serveurs 
+       Mise en place des sauvegardes sur IBM Tivoli Storage Manager
+       Codage des flux CFT
+       Qualification technique et mise en production
+       Rédaction es procédures et dossiers de production pour support niveau 1
+
+Environnement technique :
+Administration Unix AIX et RHEL (3000 serveurs et 200 applications)
+Scripting shell, CFT, TNG et TSM
+

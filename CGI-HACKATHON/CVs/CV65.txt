@@ -1,0 +1,167 @@
+--------------------------------------------------------------------------------
+Prénom65 Nom65
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Mobile: +téléphonemobile65						Email: Prénom65.infy@gmail.com
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+https://in.linkedin.com/pub/nom65-prénom65/15/b84/162
+--------------------------------------------------------------------------------
+
+
+A highly confident, committed and Self Motivated Software Professional with 9+ experience in playing varied Application Support Roles. Possess a widespread capability of working in multi-geographic teams and multi-vendor environments. Highly competent with global experience and strong credentials in Technical Support, Project Implementations, Roll-Outs and Onsite/Offshore interfacing, working across different software platforms. Accustomed to working in high-profile, mission-critical environments, providing a highly accountable style of leadership and client account management coupled with effective communication.
+
+Experience Summary
+     
+    Robust understanding of Application Maintenance and Release Management workflows.
+    Abundant experience in supporting financial applications for leading Banking conglomerates.
+    Extensive Global Client facing capabilities.
+    Wide spread knowledge in ITIL process.
+    Exceptional Analyzing skills that include stringent attention towards minute details.
+    Excellent Communication (written and verbal) with the ability to create quality documentation including technical documents, training manuals and workshop presentation materials by using various Microsoft Office Tools.
+    Strong people management, project execution skills with an ability to define and manage deliverables in collaboration with the management, stakeholders and the onsite/ offshore teams. Ability to work in diversified teams and guide and motivate project team members.
+
+Technical Skills
+
+    Tools & Utilities  -  Teradata SQL assistant, Toad, Blade logic, Putty, Remedy, Autosys R11, SQLPlus, BizTalk Server 2006, Swift Alliance Access, Message Brokers.
+    Database  -  Oracle 10G, Sybase, SQLServer2005 & Teradata V13.
+    Operating System  -  UNIX[Solaris & Sunrise], Linux, Mainframe, Windows
+
+Work Authorization
+
+    Permanent Resident in Canada
+
+Education
+
+    Master of Information Technology (Msc.IT)  -  Université65-1, 2013                                                 
+    Bachelor of Science (Mathematics) - Université65-2, 2005
+    
+Certifications (Infosys)
+
+    ITIL Release and Configuration Management
+    ITIL Problem & Change Management
+    ITIL Service Desk & Incident Management
+    Monitoring and ticketing tools
+    Certified Apps Engineer
+    IQ Foundation
+
+Appreciations & Awards
+
+ Most Valuable Team Award [Service Desk]
+ Best performer award for APAC
+   
+Industry Experience
+
+ Banking, Finance
+   
+Employment Summary
+
+Role
+Environment Management & Production Support Analyst
+Software
+Teradata, Linux, Bladelogic,Autosys & Oracle
+Duration
+Jan 2013 to July 2015
+
+Responsibilities
+
+Environment Management 
+ Manage all non-prod build-outs for the lower environments in the development cycle. 
+ Data Management for test cycle to ensure appropriate datasets are available in time for each test cycle and validate the data, structure, configuration and code before handing over the environments to testing teams.
+ Perform Backup and Archive of data with proper validation process.
+ Based on the testing needs data will be copied from one environment to another environment & validations to ensure correctness of data will be performed.
+ After the change tickets are executed there are number of validations done to compare the database objects between source database and target database.
+ Space reports will be generated weekly to ensure that there will be no space issues.
+Production Support:
+
+ Deployments together with JVM restarts
+ Perform smoke tests together with monitoring for the production systems and respond to any system issues
+ Handle file processing errors and autosys job failures
+ Generate space and capacity management reports 
+ Maintain & achieve high impact communications with stakeholders.
+
+
+Role
+Implementation Manager
+Software
+Mainframe Systems
+Duration
+April 2012 to Dec 2012
+Responsibilities
+ Understand the scope of the Release
+ Identify & Allocate resources for Implementation
+ Plan and Agree required outages
+ Raise Change Management Record (mainframe) for the implementation 
+ Create Schedule of Events for the implementation 
+ Business Approvals and live proving
+ Testing and Implementation Plan Sign Off
+ Complete ownership of all the implementation activities.
+
+
+Role
+Team Lead
+Software
+Java, Introscope Willy, Unix,Weblogic
+Duration
+Sep 2009  -  Dec 2010
+Responsibilities
+ Deployments - Deploying code (jar, xml, sql, etc.) files in the form of a package from ClearCase to the environment. 
+ Bounces  -  After pushing the code we need to restart the component to reflect the changes.
+ Triages  -  E-ops plays a major role in triaging the issues faced by the testers and others who use the environments. Resource will be engaged in triage calls.
+ Performance Testing - To monitor the performance of the server components using Introscope Willy when testers load the systems to proactively detect and triage performance issues.
+Additional responsibilities as a team lead:
+ Delegate team tasks as and when required.
+ Facilitate ongoing self-evaluation of the team's effectiveness
+ Manage team conflicts so that problems are resolved constructively.
+ Prepare and manage the shift plan on monthly basis.
+
+
+
+Role
+Technical Support Analyst
+Software
+Informatica, Business Objects & Oracle
+Duration
+June 2009  -  Sep 2009
+Responsibilities
+ Troubleshoot Autosys job failures.
+ Troubleshoot failures running through Informatica version 6, 7 and 8.
+ Go through workflow/session logs in Workflow monitor.
+ Check sessions/mappings settings in Workflow Manager and designer whenever necessary.
+ Go through mapplets whenever necessary in Workflow Designer.
+ Analyze business logics behind Business object reports.
+ Create queries for data extraction as per business requirement.
+
+
+Role
+BHD [Business Help Desk]/ Level 2 Analyst
+Software
+UNIX, Oracle, Sybase, BizTalk Server 2006, Swift Alliance access
+Duration
+Feb 2006  -  May 2009
+Responsibilities
+Incident management
+ Maintain system stability take special precaution to ensure no support team invoked incidents occur in production environment.
+ Taking end-to-end responsibility during an incident.
+ Liaising with various team concerned
+ Managing business communication during incidents.
+
+Problem management
+ Liaise with the problem management stream, to follow the lifecycle of the problem.
+ Liaise with change the bank team to ensure the timely rollout of permanent fixes in production upon evaluation of the root cause.
+ Participate in problem management meeting to discuss open problems.
+
+Change & Release management
+ Perform monthly/quarterly system maintenance activities.
+ Perform quarterly Infrastructure maintenance
+ Supportability Testing of Releases
+ Representing changes to the CAB/EC.
+ Enhanced tools to be used by the service desk team for effective monitoring of the system.
+
+
+
+
+
+*************************************************END OF RESUME******************************************************
